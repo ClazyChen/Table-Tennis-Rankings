@@ -1,0 +1,10 @@
+# do not show all scripts
+*.py
+
+# database
+matches
+events
+data
+
+# vscode
+.vscode
