@@ -1,7 +1,8 @@
-# do not show all scripts
-*.py
+# hide the spider
+download_*.py
 
 # database
+# cannot be pushed to github because of the size
 matches
 events
 data
