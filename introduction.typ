@@ -49,7 +49,7 @@ This project analyzes the data publicly available on the ITTF website, uses the 
 #v(1em)
 #h(2em)
 The above-mentioned correction has been proven effective in experiments.
-My experiment included matches between January 1, 2018 and December 10, 2023. Only players who have played at least five matches in ITTF adult tournaments are included in the statistics. The statistics include 22,253 women's singles matches and 27,334 men's singles matches.
+My experiment included matches between January 1, 2018 and December 10, 2023. Only players who have played at least five matches in ITTF adult events are included in the statistics. The statistics include 22,253 women's singles matches and 27,334 men's singles matches.
 After the correction, the winning rate of high-ranked athletes against low-ranked athletes is about 74% (75.14% for women's singles and 73.42% for men's singles), which is significantly higher than the 66% of the ITTF Rankings.
 
 #v(1em)

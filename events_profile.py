@@ -1,4 +1,5 @@
 import json
+import os
 
 # analyze the json data
 # vw_tournaments___id_raw -> uid
@@ -136,8 +137,12 @@ def coefficient(type_, kind, name):
     else:
         return 0.01
 
+event_file_number = 16
+while os.path.exists('events/events_{}.json'.format(event_file_number)):
+    event_file_number += 1
+
 profile = []
-for i in range(0, 16):
+for i in range(0, event_file_number):
     json_file = 'events/events_{}.json'.format(i)
     with open(json_file, 'r') as f:
         data = json.load(f)
@@ -165,6 +170,9 @@ for i in range(0, 16):
                 'coefficient': coefficient(type_, kind, name)
             })
     print('analyzed {}'.format(json_file))
+
+# sort the profile by id (decreasing)
+profile = sorted(profile, key=lambda x: x['id'], reverse=True)
 
 # save the profile to a json file
 with open('events/events_profile.json', 'w') as f:

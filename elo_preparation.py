@@ -111,7 +111,8 @@ with open('data/matches_profile.json', 'r') as f:
         player_y_id = match['player_y_id']
         stage = match['stage']
         event = match['event']
-        weight = result2weight(match['result']) * events_coef[match['event_id']]
+        event_coef = events_coef[match['event_id']]
+        weight = result2weight(match['result']) * event_coef
         if 'U' in event:
             # 青年赛
             weight *= 0.01

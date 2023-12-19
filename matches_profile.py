@@ -1,4 +1,5 @@
 import json
+import os
 
 # analyze the json data
 # generate 2 tables
@@ -50,6 +51,9 @@ def update_player(id, name, event):
 mixed_double = []
 
 file_count = 7342
+while os.path.exists('matches/matches_{}.json'.format(file_count)):
+    file_count += 1
+
 for i in range(file_count):
     json_file = 'matches/matches_{}.json'.format(i)
     with open(json_file, 'r') as f:

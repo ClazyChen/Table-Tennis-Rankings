@@ -28,3 +28,12 @@ You are welcome to provide suggestions for improving the algorithm model or the 
 算法的详细说明和最新排名参见 introduction_CN.pdf。
 
 欢迎您对算法模型或者排名的展示形式提出改进意见。
+
+<h1>Update Steps</h1>
+
++ Download new events and matches data from ITTF official website.
++ run `events_profile.py` to generate the profile of events.
++ run `matches_profile.py` to generate the profile of matches.
++ run `elo_preparation.py` for preprocessing.
++ run `elo.py` (WS / MS / WD / MD / XD) to generate all-time rankings.
++ run `translate.py` to translate the rankings to Chinese.

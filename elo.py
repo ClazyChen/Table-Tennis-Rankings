@@ -40,6 +40,8 @@ with open('data/players.json', 'r') as f:
         players[player['id']] = player['name']
         players_nation[player['id']] = player['nation']
 
+elo_report = {}
+
 # convert date
 def convert_date(date):
     # date is the day number from 1970-01-01
@@ -59,6 +61,12 @@ cur_date = 0
 def check_player(id):
     if id not in players_ratings:
         players_ratings[id] = [default_rating, cur_date, 0, 0]
+        # first match
+        elo_report[id] = {
+            'name': players[id],
+            'nation': players_nation[id],
+            'rating': { cur_date : default_rating }
+        }
     elif cur_date != players_ratings[id][1]:
         players_ratings[id][2] = players_ratings[id][1]
         players_ratings[id][1] = cur_date
@@ -75,7 +83,7 @@ def check_result(id1, id2, weight):
         return
     if id1 not in players_ratings or id2 not in players_ratings:
         return
-    if players_ratings[id1][3] < 5 or players_ratings[id2][3] < 5:
+    if players_ratings[id1][3] < ranking_least_games or players_ratings[id2][3] < ranking_least_games:
         return
     total_matches += 1
     r1 = players_ratings[id1][0]
@@ -244,7 +252,6 @@ for match in matches:
             save_rankings()
             next_month()
             # print_rankings()
-
     # single games
     if 'S' in game_type:
         player_a_id = match['player_a_id']
@@ -255,6 +262,8 @@ for match in matches:
         r11, r21 = update_elo(player_a_id, player_x_id, weight)
         players_ratings[player_a_id][0] = r11
         players_ratings[player_x_id][0] = r21
+        elo_report[player_a_id]['rating'][cur_date] = r11
+        elo_report[player_x_id]['rating'][cur_date] = r21
         if abs(weight) >= 0.1:
             players_ratings[player_a_id][3] += 1
             players_ratings[player_x_id][3] += 1
@@ -274,6 +283,8 @@ for match in matches:
         r11, r21 = update_elo((player_a_id, player_b_id), (player_x_id, player_y_id), weight)
         players_ratings[(player_a_id, player_b_id)][0] = r11
         players_ratings[(player_x_id, player_y_id)][0] = r21
+        elo_report[(player_a_id, player_b_id)]['rating'][cur_date] = r11
+        elo_report[(player_x_id, player_y_id)]['rating'][cur_date] = r21
         if abs(weight) >= 0.1:
             players_ratings[(player_a_id, player_b_id)][3] += 1
             players_ratings[(player_x_id, player_y_id)][3] += 1
@@ -283,3 +294,21 @@ save_rankings('{}-latest.typ'.format(game_type))
 print('correct matches = {}'.format(correct_matches))
 print('total matches = {}'.format(total_matches))
 print('accuracy = {:.2f}%'.format(correct_matches / total_matches * 100))
+
+if 'S' in game_type:
+    # save the elo_report
+    elo_report_json = []
+    for id, report in elo_report.items():
+        if id in players_ratings:
+            if players_ratings[id][3] < ranking_least_games:
+                continue
+        elo_report_json.append({
+            'id': id,
+            'name': report['name'],
+            'nation': report['nation'],
+            'rating': [[date, rating] for date, rating in report['rating'].items()]
+        })
+
+    # save the elo_report to data/elo_report.json
+    with open('data/elo_report_{}.json'.format(game_type), 'w', encoding='utf-8') as f:
+        json.dump(elo_report_json, f)
