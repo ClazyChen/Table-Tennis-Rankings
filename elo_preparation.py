@@ -112,7 +112,8 @@ with open('data/matches_profile.json', 'r') as f:
         stage = match['stage']
         event = match['event']
         event_coef = events_coef[match['event_id']]
-        weight = result2weight(match['result']) * event_coef
+        result_weight = result2weight(match['result'])
+        weight = result_weight * event_coef
         if 'U' in event:
             # 青年赛
             weight *= 0.01
@@ -131,7 +132,8 @@ with open('data/matches_profile.json', 'r') as f:
                 'player_a_id': player_a_id,
                 'player_x_id': player_x_id,
                 'date': date,
-                'weight': weight
+                'weight': weight,
+                'result': result_weight
             }
             if players[player_a_id][1] == 'M':
                 matches['MS'].append(j)
@@ -151,7 +153,8 @@ with open('data/matches_profile.json', 'r') as f:
                 'player_x_id': player_x_id,
                 'player_y_id': player_y_id,
                 'date': date,
-                'weight': weight
+                'weight': weight,
+                'result': result_weight
             }
             if players[player_a_id][1] == 'M':
                 if players[player_b_id][1] == 'M':

@@ -44,13 +44,14 @@ This project analyzes the data publicly available on the ITTF website, uses the 
   #v(1em)
 + New face correction. Players who participate in international competitions for the first time always start from an initial score of 1500 and move up in ELO systems. For high-level players (e.g. FAN Zhendong), they will be in a state of having a lower score than their actual ranking for a longer period of time. Therefore, when a novice wins against an opponent with a high ELO score, they can approach the opponent's score proportionally, rather than just receiving the points provided by the ELO algorithm. As the number of matches played increases, this correction will decay exponentially. 
   #v(1em)
-+ Dominance correction. Top players (e.g. ZHANG Jike) often receive a high score, and losing some matches has a relatively low impact on them. In order to better measure the dominance of top players, when a high-score player loses to a low-score player, the deducted score will be higher. This correction will further increase when they do not participate in competitions for a long time.
++ Dominance correction. Top players (e.g. ZHANG Jike) often receive a high score, and losing some matches has a relatively low impact on them. In order to better measure the dominance of top players, when a high-score player loses to a low-score player, the deducted score will be higher. 
+// This correction will further increase when they do not participate in competitions for a long time.
 
 #v(1em)
 #h(2em)
 The above-mentioned correction has been proven effective in experiments.
 My experiment included matches between January 1, 2018 and December 10, 2023. Only players who have played at least five matches in ITTF adult events are included in the statistics. The statistics include 22,253 women's singles matches and 27,334 men's singles matches.
-After the correction, the winning rate of high-ranked athletes against low-ranked athletes is about 74% (75.14% for women's singles and 73.42% for men's singles), which is significantly higher than the 66% of the ITTF Rankings.
+After the correction, the winning rate of high-ranked athletes against low-ranked athletes is about 75% (76.28% for women's singles and 73.91% for men's singles), which is significantly higher than the 66% of the ITTF Rankings.
 
 #v(1em)
 The singles ranking is hidden after not participating in ITTF events for one year.
