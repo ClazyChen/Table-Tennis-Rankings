@@ -106,7 +106,7 @@
       [81], [SHIM Serom], [KOR], [2599],
       [82], [STRBIKOVA Renata], [CZE], [2595],
       [83], [GRUNDISCH Carole], [FRA], [2595],
-      [84], [WU Xue], [DOM], [2594],
+      [84], [WU Xue], [DOM], [2593],
       [85], [MISIKONYTE Lina], [LTU], [2590],
       [86], [RAMIREZ Sara], [ESP], [2589],
       [87], [HE Sirin], [TUR], [2588],

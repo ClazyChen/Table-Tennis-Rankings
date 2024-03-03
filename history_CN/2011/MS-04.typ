@@ -91,7 +91,7 @@
       [66], [CHO Eonrae], [KOR], [2789],
       [67], [GERELL Par], [SWE], [2784],
       [68], [DIDUKH Oleksandr], [UKR], [2779],
-      [69], [JANG Song Man], [PRK], [2776],
+      [69], [JANG Song Man], [PRK], [2777],
       [70], [丹羽孝希], [JPN], [2772],
       [71], [WANG Zengyi], [POL], [2772],
       [72], [ZHMUDENKO Yaroslav], [UKR], [2769],
@@ -118,7 +118,7 @@
       [93], [CHEUNG Yuk], [HKG], [2702],
       [94], [斯特凡 菲格尔], [AUT], [2701],
       [95], [GORAK Daniel], [POL], [2696],
-      [96], [FILUS Ruwen], [GER], [2690],
+      [96], [卢文 菲鲁斯], [GER], [2690],
     )
   )#pagebreak()
 
@@ -146,7 +146,7 @@
       [112], [CANTERO Jesus], [ESP], [2615],
       [113], [JEVTOVIC Marko], [SRB], [2613],
       [114], [BURGIS Matiss], [LAT], [2593],
-      [115], [JUZBASIC Ivan], [CRO], [2592],
+      [115], [JUZBASIC Ivan], [CRO], [2593],
       [116], [LEE Jinkwon], [KOR], [2591],
       [117], [VLASOV Grigory], [RUS], [2589],
       [118], [LIU Song], [ARG], [2583],

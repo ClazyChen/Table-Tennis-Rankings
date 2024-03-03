@@ -57,7 +57,7 @@ def is_youth(name):
     p3 = 'U21' in name or 'U-21' in name or 'YOG' in name
     return p1 or p2 or p3
 
-def coefficient(type_, kind, name):
+def coefficient(type_, name):
     if type_ == "Olympic Games":
         if is_youth(name):
             if 'Qualification' in name or 'Road' in name:
@@ -73,9 +73,9 @@ def coefficient(type_, kind, name):
     elif type_ == "WTT Finals":
         return 1.4
     elif type_ == 'World Tour / Pro Tour':
-        if 'Finals' in kind:
+        if 'Finals' in name:
             return 1.4
-        elif 'Platium' in kind or 'Super Series' in kind:
+        elif 'Platium' in name or 'Super Series' in name:
             return 1.1
         else:
             return 1.0
@@ -94,7 +94,7 @@ def coefficient(type_, kind, name):
         else:
             return 0.8
     elif type_ == 'WTT Contender Series':
-        if 'Star' in kind:
+        if 'Star' in name:
             return 1.1
         else:
             return 1.0
@@ -111,9 +111,9 @@ def coefficient(type_, kind, name):
     elif type_ == 'World Cadet Challenge':
         return 0.01
     elif type_ == 'World Junior Circuit':
-        if 'Finals' in kind:
+        if 'Finals' in name:
             return 0.01
-        elif 'Platinum' in kind or 'Golden' in kind:
+        elif 'Platinum' in name or 'Golden' in name:
             return 0.01
         else:
             return 0.01
@@ -130,8 +130,8 @@ def coefficient(type_, kind, name):
         else:
             return 0.5
     elif type_ == 'WTT Youth Contender Series':
-        if 'Star' in kind:
-            return 0.01
+        if 'Star' in name:
+            return 0.011
         else:
             return 0.01
     else:
@@ -153,7 +153,6 @@ for i in range(0, event_file_number):
             year = tournament['vw_tournaments___yr_raw']
             name = tournament['vw_tournaments___tournament_raw']
             type_ = tournament['vw_tournaments___type']
-            kind = tournament['vw_tournaments___kind']
             organizer = tournament['vw_tournaments___organizer']
             start = tournament['vw_tournaments___tour_start_raw']
             end = tournament['vw_tournaments___tour_end_raw']
@@ -163,11 +162,10 @@ for i in range(0, event_file_number):
                 'year': year,
                 'name': name,
                 'type': type_,
-                'kind': kind,
                 'organizer': organizer,
                 'start': start,
                 'end': end,
-                'coefficient': coefficient(type_, kind, name)
+                'coefficient': coefficient(type_, name)
             })
     print('analyzed {}'.format(json_file))
 

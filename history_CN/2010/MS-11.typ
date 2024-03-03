@@ -150,7 +150,7 @@
       [116], [MONTEIRO Thiago], [BRA], [2544],
       [117], [LIU Zhongze], [SGP], [2543],
       [118], [郑培峰], [CHN], [2540],
-      [119], [FILUS Ruwen], [GER], [2531],
+      [119], [卢文 菲鲁斯], [GER], [2531],
       [120], [MADRID Marcos], [MEX], [2531],
       [121], [TAKAKIWA Taku], [JPN], [2531],
       [122], [HAN Jimin], [KOR], [2530],

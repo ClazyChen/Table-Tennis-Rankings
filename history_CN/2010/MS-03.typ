@@ -111,7 +111,7 @@
       [86], [BOBOCICA Mihai], [ITA], [2526],
       [87], [MONRAD Martin], [DEN], [2522],
       [88], [LEUNG Chu Yan], [HKG], [2519],
-      [89], [FILUS Ruwen], [GER], [2519],
+      [89], [卢文 菲鲁斯], [GER], [2519],
       [90], [BLASZCZYK Lucjan], [POL], [2515],
       [91], [HE Zhiwen], [ESP], [2511],
       [92], [#text(gray, "孔令辉")], [CHN], [2507],

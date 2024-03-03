@@ -102,7 +102,7 @@
       [77], [WEN Jia], [CHN], [2601],
       [78], [RAMIREZ Sara], [ESP], [2595],
       [79], [HAN Hye Song], [PRK], [2595],
-      [80], [WU Xue], [DOM], [2594],
+      [80], [WU Xue], [DOM], [2593],
       [81], [LEE Eunhee], [KOR], [2592],
       [82], [MISIKONYTE Lina], [LTU], [2590],
       [83], [MIKHAILOVA Polina], [RUS], [2586],

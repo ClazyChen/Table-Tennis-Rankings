@@ -149,7 +149,7 @@
       [115], [LEUNG Chu Yan], [HKG], [2533],
       [116], [PISTEJ Lubomir], [SVK], [2531],
       [117], [HAN Jimin], [KOR], [2530],
-      [118], [FILUS Ruwen], [GER], [2523],
+      [118], [卢文 菲鲁斯], [GER], [2523],
       [119], [LASAN Sas], [SLO], [2522],
       [120], [RI Chol Guk], [PRK], [2515],
       [121], [LASHIN El-Sayed], [EGY], [2515],

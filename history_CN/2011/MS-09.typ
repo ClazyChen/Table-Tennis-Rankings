@@ -110,7 +110,7 @@
       [85], [KUZMIN Fedor], [RUS], [2750],
       [86], [KORBEL Petr], [CZE], [2748],
       [87], [MATSUDAIRA Kenji], [JPN], [2748],
-      [88], [FILUS Ruwen], [GER], [2747],
+      [88], [卢文 菲鲁斯], [GER], [2747],
       [89], [KASAHARA Hiromitsu], [JPN], [2742],
       [90], [SKACHKOV Kirill], [RUS], [2741],
       [91], [安德烈 加奇尼], [CRO], [2740],

@@ -65,7 +65,7 @@
       [49], [SKACHKOV Kirill], [RUS], [2974],
       [50], [JEONG Sangeun], [KOR], [2958],
       [51], [SCHLAGER Werner], [AUT], [2951],
-      [52], [ACHANTA Sharath Kamal], [IND], [2950],
+      [52], [ACHANTA Sharath Kamal], [IND], [2951],
       [53], [APOLONIA Tiago], [POR], [2947],
       [54], [TANG Peng], [HKG], [2943],
       [55], [#text(gray, "KO Lai Chak")], [HKG], [2940],

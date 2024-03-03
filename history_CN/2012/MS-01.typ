@@ -93,7 +93,7 @@
       [68], [CHEN Weixing], [AUT], [2832],
       [69], [让 米歇尔 赛弗], [BEL], [2830],
       [70], [SHIBAEV Alexander], [RUS], [2828],
-      [71], [FILUS Ruwen], [GER], [2828],
+      [71], [卢文 菲鲁斯], [GER], [2828],
       [72], [PROKOPCOV Dmitrij], [CZE], [2825],
       [73], [丁祥恩], [KOR], [2822],
       [74], [MATSUDAIRA Kenji], [JPN], [2822],
@@ -157,7 +157,7 @@
       [123], [GORAK Daniel], [POL], [2692],
       [124], [SIRUCEK Pavel], [CZE], [2689],
       [125], [KEINATH Thomas], [SVK], [2686],
-      [126], [AKHLAGHPASAND Mohammadreza], [IRI], [2686],
+      [126], [AKHLAGHPASAND Mohammadreza], [USA], [2686],
       [127], [奥马尔 阿萨尔], [EGY], [2683],
       [128], [BLASZCZYK Lucjan], [POL], [2681],
     )

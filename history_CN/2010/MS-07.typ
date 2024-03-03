@@ -131,7 +131,7 @@
       [97], [TAKAKIWA Taku], [JPN], [2527],
       [98], [ILLAS Erik], [SVK], [2523],
       [99], [MONRAD Martin], [DEN], [2522],
-      [100], [FILUS Ruwen], [GER], [2519],
+      [100], [卢文 菲鲁斯], [GER], [2519],
       [101], [VRABLIK Jiri], [CZE], [2519],
       [102], [HE Zhiwen], [ESP], [2519],
       [103], [RI Chol Guk], [PRK], [2515],

@@ -157,7 +157,7 @@
       [123], [MONTEIRO Thiago], [BRA], [2544],
       [124], [LIU Zhongze], [SGP], [2543],
       [125], [MADRID Marcos], [MEX], [2537],
-      [126], [FILUS Ruwen], [GER], [2537],
+      [126], [卢文 菲鲁斯], [GER], [2537],
       [127], [PAPAGEORGIOU Konstantinos], [GRE], [2535],
       [128], [DIDUKH Oleksandr], [UKR], [2534],
     )

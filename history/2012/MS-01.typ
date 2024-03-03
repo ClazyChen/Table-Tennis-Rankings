@@ -157,7 +157,7 @@
       [123], [GORAK Daniel], [POL], [2692],
       [124], [SIRUCEK Pavel], [CZE], [2689],
       [125], [KEINATH Thomas], [SVK], [2686],
-      [126], [AKHLAGHPASAND Mohammadreza], [IRI], [2686],
+      [126], [AKHLAGHPASAND Mohammadreza], [USA], [2686],
       [127], [ASSAR Omar], [EGY], [2683],
       [128], [BLASZCZYK Lucjan], [POL], [2681],
     )

@@ -65,7 +65,7 @@
       [49], [MATTENET Adrien], [FRA], [2959],
       [50], [CHTCHETININE Evgueni], [BLR], [2958],
       [51], [SCHLAGER Werner], [AUT], [2951],
-      [52], [ACHANTA Sharath Kamal], [IND], [2950],
+      [52], [ACHANTA Sharath Kamal], [IND], [2951],
       [53], [GACINA Andrej], [CRO], [2950],
       [54], [SUSS Christian], [GER], [2949],
       [55], [APOLONIA Tiago], [POR], [2947],

@@ -263,8 +263,8 @@ for match in matches:
         # print('date = {}'.format(convert_date(date)))
         cur_date = date
         if cur_date >= month_start():
-            # print('year = {}, month = {}'.format(year, month))
-            # save_rankings()
+            print('year = {}, month = {}'.format(year, month))
+            save_rankings()
             next_month()
             # print_rankings()
         

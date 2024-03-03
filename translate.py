@@ -22,7 +22,7 @@ def translate(src, dst):
     with open(dst, 'w', encoding='utf-8') as f:
         f.write(text)
 
-for year in range(2004, 2024):
+for year in range(2004, 2025):
     dir_name = 'history/{}'.format(year)
     cn_dir_name = 'history_CN/{}'.format(year)
     if not os.path.exists(cn_dir_name):

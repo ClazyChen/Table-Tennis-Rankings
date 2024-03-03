@@ -115,7 +115,7 @@
       [90], [BAI He], [SVK], [2843],
       [91], [黄镇廷], [HKG], [2838],
       [92], [UEDA Jin], [JPN], [2837],
-      [93], [FILUS Ruwen], [GER], [2835],
+      [93], [卢文 菲鲁斯], [GER], [2835],
       [94], [KUZMIN Fedor], [RUS], [2832],
       [95], [ELOI Damien], [FRA], [2832],
       [96], [HABESOHN Daniel], [AUT], [2825],

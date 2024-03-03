@@ -130,7 +130,7 @@
       [排名], [运动员], [国家/地区], [积分],
       [97], [ILLAS Erik], [SVK], [2523],
       [98], [MONRAD Martin], [DEN], [2522],
-      [99], [FILUS Ruwen], [GER], [2519],
+      [99], [卢文 菲鲁斯], [GER], [2519],
       [100], [VRABLIK Jiri], [CZE], [2519],
       [101], [HE Zhiwen], [ESP], [2519],
       [102], [RI Chol Guk], [PRK], [2515],

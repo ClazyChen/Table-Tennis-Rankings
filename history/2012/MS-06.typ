@@ -64,7 +64,7 @@
       [48], [FREITAS Marcos], [POR], [2962],
       [49], [MONTEIRO Joao], [POR], [2960],
       [50], [CHTCHETININE Evgueni], [BLR], [2958],
-      [51], [ACHANTA Sharath Kamal], [IND], [2950],
+      [51], [ACHANTA Sharath Kamal], [IND], [2951],
       [52], [SUSS Christian], [GER], [2949],
       [53], [YOON Jaeyoung], [KOR], [2941],
       [54], [#text(gray, "KO Lai Chak")], [HKG], [2940],

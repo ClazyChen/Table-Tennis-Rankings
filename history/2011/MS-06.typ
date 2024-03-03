@@ -75,7 +75,7 @@
       [59], [PRIMORAC Zoran], [CRO], [2803],
       [60], [LEGOUT Christophe], [FRA], [2802],
       [61], [HOU Yingchao], [CHN], [2800],
-      [62], [KIM Minseok], [KOR], [2800],
+      [62], [KIM Minseok], [KOR], [2799],
       [63], [HABESOHN Daniel], [AUT], [2797],
       [64], [KUZMIN Fedor], [RUS], [2795],
     )

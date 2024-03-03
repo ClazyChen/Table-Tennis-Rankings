@@ -107,7 +107,7 @@
       [82], [KORBEL Petr], [CZE], [2748],
       [83], [MATSUDAIRA Kenji], [JPN], [2748],
       [84], [LIVENTSOV Alexey], [RUS], [2748],
-      [85], [FILUS Ruwen], [GER], [2747],
+      [85], [卢文 菲鲁斯], [GER], [2747],
       [86], [LI Ching], [HKG], [2745],
       [87], [CHEUNG Yuk], [HKG], [2743],
       [88], [KASAHARA Hiromitsu], [JPN], [2742],

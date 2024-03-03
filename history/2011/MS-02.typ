@@ -141,7 +141,7 @@
       [107], [LIU Song], [ARG], [2607],
       [108], [JEVTOVIC Marko], [SRB], [2601],
       [109], [ASSAR Omar], [EGY], [2599],
-      [110], [JUZBASIC Ivan], [CRO], [2592],
+      [110], [JUZBASIC Ivan], [CRO], [2593],
       [111], [FERTIKOWSKI Pawel], [POL], [2589],
       [112], [VLASOV Grigory], [RUS], [2588],
       [113], [PETO Zsolt], [SRB], [2587],

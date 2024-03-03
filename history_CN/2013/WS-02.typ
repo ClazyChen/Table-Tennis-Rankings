@@ -74,8 +74,8 @@
       [58], [#text(gray, "GAO Jun")], [USA], [2854],
       [59], [#text(gray, "SUN Beibei")], [SGP], [2846],
       [60], [YOON Sunae], [KOR], [2844],
-      [61], [POTA Georgina], [HUN], [2842],
-      [62], [CHOI Moonyoung], [KOR], [2842],
+      [61], [CHOI Moonyoung], [KOR], [2842],
+      [62], [POTA Georgina], [HUN], [2842],
       [63], [LIN Ye], [SGP], [2836],
       [64], [RI Mi Gyong], [PRK], [2825],
     )

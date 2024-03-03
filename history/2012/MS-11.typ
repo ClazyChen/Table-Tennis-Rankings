@@ -70,7 +70,7 @@
       [54], [FEGERL Stefan], [AUT], [2965],
       [55], [GORAK Daniel], [POL], [2963],
       [56], [JEONG Sangeun], [KOR], [2958],
-      [57], [ACHANTA Sharath Kamal], [IND], [2950],
+      [57], [ACHANTA Sharath Kamal], [IND], [2951],
       [58], [TANG Peng], [HKG], [2943],
       [59], [#text(gray, "KO Lai Chak")], [HKG], [2940],
       [60], [SCHLAGER Werner], [AUT], [2940],

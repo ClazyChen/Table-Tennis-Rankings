@@ -149,7 +149,7 @@
       [115], [PISTEJ Lubomir], [SVK], [2724],
       [116], [YOON Jaeyoung], [KOR], [2719],
       [117], [DIDUKH Oleksandr], [UKR], [2718],
-      [118], [TANG Peng], [HKG], [2717],
+      [118], [TANG Peng], [HKG], [2718],
       [119], [LI Ching], [HKG], [2716],
       [120], [FEGERL Stefan], [AUT], [2714],
       [121], [FLORE Tristan], [FRA], [2712],

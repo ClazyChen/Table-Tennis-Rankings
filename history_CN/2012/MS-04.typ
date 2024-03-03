@@ -96,7 +96,7 @@
       [71], [JAKAB Janos], [HUN], [2854],
       [72], [SHIBAEV Alexander], [RUS], [2851],
       [73], [#text(gray, "SONG Hongyuan")], [CHN], [2846],
-      [74], [FILUS Ruwen], [GER], [2843],
+      [74], [卢文 菲鲁斯], [GER], [2843],
       [75], [约尔根 佩尔森], [SWE], [2834],
       [76], [吉村真晴], [JPN], [2832],
       [77], [LIN Ju], [DOM], [2821],

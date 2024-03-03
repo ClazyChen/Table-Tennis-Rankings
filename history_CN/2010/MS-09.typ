@@ -133,7 +133,7 @@
       [99], [KARAKASEVIC Aleksandar], [SRB], [2529],
       [100], [ILLAS Erik], [SVK], [2523],
       [101], [MONRAD Martin], [DEN], [2522],
-      [102], [FILUS Ruwen], [GER], [2519],
+      [102], [卢文 菲鲁斯], [GER], [2519],
       [103], [VRABLIK Jiri], [CZE], [2519],
       [104], [HE Zhiwen], [ESP], [2519],
       [105], [RI Chol Guk], [PRK], [2515],

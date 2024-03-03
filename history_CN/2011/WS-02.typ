@@ -109,7 +109,7 @@
       [84], [SHIM Serom], [KOR], [2599],
       [85], [STRBIKOVA Renata], [CZE], [2598],
       [86], [SKOV Mie], [DEN], [2595],
-      [87], [WU Xue], [DOM], [2594],
+      [87], [WU Xue], [DOM], [2593],
       [88], [MISIKONYTE Lina], [LTU], [2590],
       [89], [VACENOVSKA Iveta], [CZE], [2590],
       [90], [RAO Jingwen], [CHN], [2583],

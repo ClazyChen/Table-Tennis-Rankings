@@ -75,7 +75,7 @@
       [59], [PRIMORAC Zoran], [CRO], [2803],
       [60], [LEGOUT Christophe], [FRA], [2802],
       [61], [侯英超], [CHN], [2800],
-      [62], [金珉锡], [KOR], [2800],
+      [62], [金珉锡], [KOR], [2799],
       [63], [HABESOHN Daniel], [AUT], [2797],
       [64], [KUZMIN Fedor], [RUS], [2795],
     )
@@ -97,7 +97,7 @@
       [72], [KOSOWSKI Jakub], [POL], [2764],
       [73], [MONTEIRO Joao], [POR], [2763],
       [74], [HE Zhiwen], [ESP], [2761],
-      [75], [FILUS Ruwen], [GER], [2757],
+      [75], [卢文 菲鲁斯], [GER], [2757],
       [76], [LI Ching], [HKG], [2757],
       [77], [斯特凡 菲格尔], [AUT], [2757],
       [78], [GERELL Par], [SWE], [2753],

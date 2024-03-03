@@ -93,7 +93,7 @@
       [68], [CHEN Weixing], [AUT], [2832],
       [69], [让 米歇尔 赛弗], [BEL], [2830],
       [70], [SHIBAEV Alexander], [RUS], [2828],
-      [71], [FILUS Ruwen], [GER], [2828],
+      [71], [卢文 菲鲁斯], [GER], [2828],
       [72], [PROKOPCOV Dmitrij], [CZE], [2825],
       [73], [丁祥恩], [KOR], [2822],
       [74], [MATSUDAIRA Kenji], [JPN], [2822],

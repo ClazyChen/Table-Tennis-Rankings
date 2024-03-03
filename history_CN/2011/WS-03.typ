@@ -110,7 +110,7 @@
       [85], [SHIM Serom], [KOR], [2599],
       [86], [MAEDA Miyu], [JPN], [2597],
       [87], [SKOV Mie], [DEN], [2596],
-      [88], [WU Xue], [DOM], [2594],
+      [88], [WU Xue], [DOM], [2593],
       [89], [MISIKONYTE Lina], [LTU], [2590],
       [90], [RAMIREZ Sara], [ESP], [2590],
       [91], [LI Qiangbing], [AUT], [2584],

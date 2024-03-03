@@ -94,7 +94,7 @@
       [69], [#text(gray, "SONG Hongyuan")], [CHN], [2846],
       [70], [帕特里克 弗朗西斯卡], [GER], [2838],
       [71], [HUNG Tzu-Hsiang], [TPE], [2834],
-      [72], [FILUS Ruwen], [GER], [2833],
+      [72], [卢文 菲鲁斯], [GER], [2833],
       [73], [PRIMORAC Zoran], [CRO], [2832],
       [74], [SHIBAEV Alexander], [RUS], [2828],
       [75], [ACHANTA Sharath Kamal], [IND], [2824],

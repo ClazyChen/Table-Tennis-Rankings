@@ -72,7 +72,7 @@
       [56], [STRBIKOVA Renata], [CZE], [2605],
       [57], [文佳], [CHN], [2601],
       [58], [HAN Hye Song], [PRK], [2595],
-      [59], [WU Xue], [DOM], [2594],
+      [59], [WU Xue], [DOM], [2593],
       [60], [LEE Eunhee], [KOR], [2592],
       [61], [LANG Kristin], [GER], [2590],
       [62], [RAO Jingwen], [CHN], [2583],

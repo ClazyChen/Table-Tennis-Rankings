@@ -132,7 +132,7 @@
       [98], [ILLAS Erik], [SVK], [2523],
       [99], [LASHIN El-Sayed], [EGY], [2522],
       [100], [MONRAD Martin], [DEN], [2522],
-      [101], [FILUS Ruwen], [GER], [2519],
+      [101], [卢文 菲鲁斯], [GER], [2519],
       [102], [VRABLIK Jiri], [CZE], [2519],
       [103], [HE Zhiwen], [ESP], [2519],
       [104], [RI Chol Guk], [PRK], [2515],

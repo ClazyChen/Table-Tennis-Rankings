@@ -6,6 +6,7 @@ download_*.py
 matches
 events
 data
+update-*
 
 # vscode
 .vscode

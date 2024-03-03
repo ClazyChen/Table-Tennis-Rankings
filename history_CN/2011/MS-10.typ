@@ -71,7 +71,7 @@
       [55], [艾曼纽 莱贝松], [FRA], [2849],
       [56], [SVENSSON Robert], [SWE], [2845],
       [57], [TOKIC Bojan], [SLO], [2842],
-      [58], [FILUS Ruwen], [GER], [2837],
+      [58], [卢文 菲鲁斯], [GER], [2837],
       [59], [HUNG Tzu-Hsiang], [TPE], [2834],
       [60], [CHEN Weixing], [AUT], [2832],
       [61], [YANG Zi], [SGP], [2831],

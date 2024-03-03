@@ -116,7 +116,7 @@
       [91], [BOBOCICA Mihai], [ITA], [2527],
       [92], [TAKAKIWA Taku], [JPN], [2527],
       [93], [MONRAD Martin], [DEN], [2522],
-      [94], [FILUS Ruwen], [GER], [2519],
+      [94], [卢文 菲鲁斯], [GER], [2519],
       [95], [HE Zhiwen], [ESP], [2519],
       [96], [BLASZCZYK Lucjan], [POL], [2508],
     )

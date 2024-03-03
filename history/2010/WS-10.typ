@@ -94,7 +94,7 @@
       [69], [VACENOVSKA Iveta], [CZE], [2600],
       [70], [HAN Hye Song], [PRK], [2595],
       [71], [SCHALL Elke], [GER], [2594],
-      [72], [WU Xue], [DOM], [2594],
+      [72], [WU Xue], [DOM], [2593],
       [73], [LEE Eunhee], [KOR], [2592],
       [74], [MISIKONYTE Lina], [LTU], [2590],
       [75], [MIKHAILOVA Polina], [RUS], [2583],
