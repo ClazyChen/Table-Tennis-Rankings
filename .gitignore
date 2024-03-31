@@ -10,3 +10,6 @@ update-*
 
 # vscode
 .vscode
+
+# pycache
+__pycache__
