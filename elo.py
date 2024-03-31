@@ -26,9 +26,9 @@ default_rating = 1500
 ceil_rating = 3500
 ranking_least_games = 10
 game_type = 'MS' # MS, WS, MD, WD, XD
-bias = 40
-d = 640
-diameter_center = 800
+bias = 50
+d = 800
+diameter_center = 1200
 diameter_delta = 400
 
 # load the players data
@@ -198,7 +198,7 @@ def next_month():
         year += 1
 
 # analyze when the last match was played
-last_match_threshold = (datetime.datetime.strptime('2023-01-01', '%Y-%m-%d') - datetime.datetime.strptime('1970-01-01', '%Y-%m-%d')).days
+last_match_threshold = (datetime.datetime.strptime('2023-04-01', '%Y-%m-%d') - datetime.datetime.strptime('1970-01-01', '%Y-%m-%d')).days
 player_last_match = {}
 for match in matches:
     date = match['date']

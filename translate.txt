@@ -5,6 +5,7 @@ APOLONIA Tiago, 蒂亚戈 阿波罗尼亚
 ARUNA Quadri, 夸德里 阿鲁纳
 ASSAR Omar, 奥马尔 阿萨尔
 BAI Yang, 柏杨
+BATRA Manika, 玛妮卡 巴特拉
 BAUM Patrick, 帕特里克 鲍姆
 BOLL Timo, 蒂姆 波尔
 BOROS Tamara, 塔玛拉 鲍罗斯
@@ -89,6 +90,7 @@ JOO Cheonhui, 朱芊曦
 JOO Saehyuk, 朱世赫
 JORGIC Darko, 达科 约奇克
 KALLBERG Anton, 安东 卡尔伯格
+KALLBERG Christina, 克里斯蒂娜 卡尔伯格
 KARLSSON Kristian, 克里斯坦 卡尔松
 KATO Miyu, 加藤美优
 KIHARA Miyuu, 木原美悠
@@ -118,6 +120,7 @@ LI Ju, 李菊
 LI Qian, 李倩
 LI Xiaodan, 李晓丹
 LI Xiaoxia, 李晓霞
+LI Yake, 李雅可
 LIANG Jingkun, 梁靖崑
 LIANG Yanning, 梁俨苧
 LIM Jonghoon, 林钟勋
@@ -131,6 +134,7 @@ LIU Guozheng, 刘国正
 LIU Jia, 刘佳
 LIU Shiwen, 刘诗雯
 LIU Weishan, 刘炜珊
+LIU Yangzi, 刘杨子
 Li Ju, 李菊
 MA Lin, 马琳
 MA Long, 马龙
@@ -140,6 +144,7 @@ MATSUDAIRA Kenta, 松平健太
 MATSUSHIMA Sora, 松岛辉空
 MAZE Michael, 米凯尔 梅兹
 MENGEL Steffen, 斯蒂芬 门格尔
+MESHREF Dina, 蒂娜 梅谢芙
 MITTELHAM Nina, 妮娜 米特兰姆
 MIZUTANI Jun, 水谷隼
 MOREGARD Truls, 特鲁斯 莫雷加德
@@ -160,6 +165,7 @@ OSHIMA Yuya, 大岛祐哉
 OVTCHAROV Dimitrij, 迪米特里 奥恰洛夫
 PAK Sin Hyok, 朴申赫
 PARK Miyoung, 朴美英
+PAVADE Prithika, 普利西卡 帕瓦德
 PAVLOVICH Viktoria, 维多利亚 帕芙洛维奇
 PERSSON Jorgen, 约尔根 佩尔森
 PITCHFORD Liam, 利亚姆 皮切福德
@@ -220,6 +226,7 @@ WU Jiaduo, 吴佳多
 WU Yang, 武杨
 WU Yangchen, 吴洋晨
 XIANG Peng, 向鹏
+XIAO Maria, 玛利亚 肖
 XU Chenhao, 徐晨皓
 XU Haidong, 徐海东
 XU Xin, 许昕

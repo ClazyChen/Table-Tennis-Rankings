@@ -14,31 +14,31 @@ import os
 # other fields will be dropped
 
 # event type -> coefficient
-# 1. Olympic Games: 2.5 奥运会
-# 2. WTTC: 2 世乒赛
-# 3. World Cup: 1.6 世界杯
+# 1. Olympic Games: 3.0 奥运会
+# 2. WTTC: 2.5 世乒赛
+# 3. World Cup: 2.0 世界杯
+#    WTT Grand Smash: 1.6 大满贯赛
 # 4. WTT Finals: 1.4 世界杯总决赛
 #    World Tour / Pro Tour; Grand Finals | Finals 总决赛
-# 5. WTT Champions 冠军赛
-#    WTT Grand Smash 大满贯赛
-#    T2 Diamond 钻石赛
-#    Continental Games 大洲运动会
-#    Continental 大洲杯/大洲锦标赛
-#    Olympic (Youth) 青奥会
-#    WTT Contender Series (Star) 球星挑战赛
+# 5. WTT Champions: 1.2 冠军赛
+#    T2 Diamond: 1.2 钻石赛
+#    WTT Contender Series (Star): 1.1 球星挑战赛
 #    World Tour / Pro Tour; Platinum 白金赛
 #    World Tour / Pro Tour; Super Series 超级赛
+#    World Tour / Pro Tour; Major Series 大师赛
+# 6. Continental Games: 1.0 大洲运动会
+#    Continental 大洲杯/大洲锦标赛
+#    Olympic (Youth) 青奥会
 #    WJTTC 世青赛
 #    WTT Contender Series 挑战赛
 #    World Tour / Pro Tour 公开赛
-#    World Tour / Pro Tour; Major Series 大师赛
 #    World Tour / Pro Tour; Challenge Series 挑战赛
 #    Challenge 挑战赛
 #    Olympic Qualification 奥运资格赛
 #    World Youth Championships 青少年锦标赛
 #    World Cadet Challenge 青少年挑战赛
 #    World Junior Circuit; Finals 青年巡回赛（总决赛）
-#    WTT Feeder Series  支线赛
+# 7. WTT Feeder Series: 0.8  支线赛
 #    Multi sport events 区域运动会
 #    Other events 区域锦标赛
 #    WTT Youth Contender Series (Star) 青年球星挑战赛
@@ -82,12 +82,12 @@ def coefficient(type_, name):
     elif type_ == "WTT Champions":
         return 1.2
     elif type_ == "WTT Grand Smash":
-        return 1.2
+        return 1.6
     elif type_ == "Continental Games":
         if is_youth(name):
             return 0.01
         else:
-            return 0.8
+            return 1.0
     elif type_ == "Continental":
         if is_youth(name):
             return 0.01
@@ -99,7 +99,7 @@ def coefficient(type_, name):
         else:
             return 1.0
     elif type_ == 'T2 Diamond':
-        return 1.2
+        return 1.1
     elif type_ == 'WJTTC':
         return 0.01
     elif type_ == 'Challenge':
