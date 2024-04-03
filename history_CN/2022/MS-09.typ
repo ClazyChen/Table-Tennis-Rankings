@@ -77,7 +77,7 @@
       [61], [帕纳吉奥迪斯 吉奥尼斯], [GRE], [2948],
       [62], [安宰贤], [KOR], [2947],
       [63], [及川瑞基], [JPN], [2947],
-      [64], [LIAO Cheng-Ting], [TPE], [2946],
+      [64], [廖振珽], [TPE], [2946],
     )
   )#pagebreak()
 
@@ -89,7 +89,7 @@
       [排名], [运动员], [国家/地区], [积分],
       [65], [丹羽孝希], [JPN], [2943],
       [66], [GERALDO Joao], [POR], [2942],
-      [67], [KIZUKURI Yuto], [JPN], [2942],
+      [67], [木造勇人], [JPN], [2942],
       [68], [DRINKHALL Paul], [ENG], [2939],
       [69], [李尚洙], [KOR], [2938],
       [70], [GNANASEKARAN Sathiyan], [IND], [2935],
@@ -134,12 +134,12 @@
       [100], [#text(gray, "SIDORENKO Vladimir")], [RUS], [2822],
       [101], [LEVENKO Andreas], [AUT], [2818],
       [102], [HACHARD Antoine], [FRA], [2818],
-      [103], [NIU Guankai], [CHN], [2815],
+      [103], [牛冠凯], [CHN], [2815],
       [104], [CARVALHO Diogo], [POR], [2815],
       [105], [#text(gray, "ZHANG Yudong")], [CHN], [2815],
       [106], [BRODD Viktor], [SWE], [2813],
       [107], [艾曼纽 莱贝松], [FRA], [2813],
-      [108], [ALAMIAN Nima], [IRI], [2812],
+      [108], [尼马 阿拉米安], [IRI], [2812],
       [109], [PUCAR Tomislav], [CRO], [2803],
       [110], [HABESOHN Daniel], [AUT], [2799],
       [111], [SIPOS Rares], [ROU], [2794],

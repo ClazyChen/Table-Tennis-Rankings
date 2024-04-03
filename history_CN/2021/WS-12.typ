@@ -54,7 +54,7 @@
       [38], [梁夏银], [KOR], [2948],
       [39], [SAWETTABUT Suthasini], [THA], [2946],
       [40], [陈熠], [CHN], [2941],
-      [41], [KIM Hayeong], [KOR], [2937],
+      [41], [金河英], [KOR], [2937],
       [42], [刘佳], [AUT], [2934],
       [43], [#text(gray, "ODO Satsuki")], [JPN], [2928],
       [44], [陈思羽], [TPE], [2906],
@@ -77,7 +77,7 @@
       [61], [王晓彤], [CHN], [2821],
       [62], [王 艾米], [USA], [2811],
       [63], [崔孝珠], [KOR], [2809],
-      [64], [LEE Eunhye], [KOR], [2803],
+      [64], [李恩惠], [KOR], [2803],
     )
   )#pagebreak()
 
@@ -108,7 +108,7 @@
       [83], [蒂娜 梅谢芙], [EGY], [2725],
       [84], [#text(gray, "TAILAKOVA Mariia")], [RUS], [2718],
       [85], [LIN Ye], [SGP], [2713],
-      [86], [YANG Huijing], [CHN], [2710],
+      [86], [杨蕙菁], [CHN], [2710],
       [87], [PARANANG Orawan], [THA], [2698],
       [88], [MONTEIRO DODEAN Daniela], [ROU], [2695],
       [89], [HUANG Yi-Hua], [TPE], [2694],
@@ -117,7 +117,7 @@
       [92], [伊丽莎白 萨玛拉], [ROU], [2682],
       [93], [BALAZOVA Barbora], [SVK], [2679],
       [94], [张默], [CAN], [2678],
-      [95], [SASAO Asuka], [JPN], [2671],
+      [95], [笹尾明日香], [JPN], [2671],
       [96], [DIACONU Adina], [ROU], [2670],
     )
   )#pagebreak()
@@ -132,9 +132,9 @@
       [98], [DRAGOMAN Andreea], [ROU], [2656],
       [99], [TRIGOLOS Daria], [BLR], [2653],
       [100], [LAY Jian Fang], [AUS], [2652],
-      [101], [LI Yu-Jhun], [TPE], [2650],
+      [101], [李昱谆], [TPE], [2650],
       [102], [普利西卡 帕瓦德], [FRA], [2636],
-      [103], [AKULA Sreeja], [IND], [2629],
+      [103], [斯丽贾 阿库拉], [IND], [2629],
       [104], [SAWETTABUT Jinnipa], [THA], [2626],
       [105], [克里斯蒂娜 卡尔伯格], [SWE], [2620],
       [106], [VOROBEVA Olga], [RUS], [2620],
@@ -155,7 +155,7 @@
       [121], [PICCOLIN Giorgia], [ITA], [2560],
       [122], [LOEUILLETTE Stephanie], [FRA], [2558],
       [123], [STEFANOVA Nikoleta], [ITA], [2556],
-      [124], [MUKHERJEE Ayhika], [IND], [2555],
+      [124], [艾希卡 穆克吉], [IND], [2555],
       [125], [ZARIF Audrey], [FRA], [2552],
       [126], [ZHANG Wenjing], [HKG], [2551],
       [127], [#text(gray, "KOLISH Anastasia")], [RUS], [2547],

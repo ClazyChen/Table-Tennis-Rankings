@@ -106,7 +106,7 @@
       [81], [SOO Wai Yam Minnie], [HKG], [2814],
       [82], [WINTER Sabine], [GER], [2811],
       [83], [POTA Georgina], [HUN], [2811],
-      [84], [LEE Eunhye], [KOR], [2810],
+      [84], [李恩惠], [KOR], [2810],
       [85], [#text(gray, "MATSUZAWA Marina")], [JPN], [2802],
       [86], [森田美咲], [JPN], [2799],
       [87], [YOO Eunchong], [KOR], [2799],
@@ -118,7 +118,7 @@
       [93], [GRZYBOWSKA-FRANC Katarzyna], [POL], [2782],
       [94], [SOMA Yumeno], [JPN], [2780],
       [95], [SOLJA Amelie], [AUT], [2775],
-      [96], [KIM Hayeong], [KOR], [2775],
+      [96], [金河英], [KOR], [2775],
     )
   )#pagebreak()
 
@@ -148,7 +148,7 @@
       [114], [WU Yue], [USA], [2703],
       [115], [SO Eka], [JPN], [2698],
       [116], [KATO Kyoka], [JPN], [2696],
-      [117], [SASAO Asuka], [JPN], [2696],
+      [117], [笹尾明日香], [JPN], [2696],
       [118], [#text(gray, "CHOE Hyon Hwa")], [PRK], [2691],
       [119], [邵杰妮], [POR], [2690],
       [120], [#text(gray, "KIM Danbi")], [KOR], [2689],

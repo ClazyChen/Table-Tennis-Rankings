@@ -116,7 +116,7 @@
       [91], [陈建安], [TPE], [2878],
       [92], [BADOWSKI Marek], [POL], [2877],
       [93], [薛飞], [CHN], [2877],
-      [94], [KIZUKURI Yuto], [JPN], [2876],
+      [94], [木造勇人], [JPN], [2876],
       [95], [KIM Donghyun], [KOR], [2874],
       [96], [NUYTINCK Cedric], [BEL], [2871],
     )
@@ -133,7 +133,7 @@
       [99], [OLAH Benedek], [FIN], [2860],
       [100], [CHIANG Hung-Chieh], [TPE], [2860],
       [101], [蒂亚戈 阿波罗尼亚], [POR], [2859],
-      [102], [LIND Anders], [DEN], [2858],
+      [102], [安德斯 林德], [DEN], [2858],
       [103], [帕纳吉奥迪斯 吉奥尼斯], [GRE], [2854],
       [104], [HWANG Minha], [KOR], [2853],
       [105], [HIRANO Yuki], [JPN], [2851],

@@ -55,7 +55,7 @@
       [39], [梁夏银], [KOR], [2948],
       [40], [阿德里安娜 迪亚兹], [PUR], [2947],
       [41], [SAWETTABUT Suthasini], [THA], [2946],
-      [42], [KIM Hayeong], [KOR], [2937],
+      [42], [金河英], [KOR], [2937],
       [43], [刘佳], [AUT], [2934],
       [44], [#text(gray, "ODO Satsuki")], [JPN], [2928],
       [45], [陈思羽], [TPE], [2906],
@@ -77,7 +77,7 @@
       [61], [王晓彤], [CHN], [2821],
       [62], [王 艾米], [USA], [2811],
       [63], [崔孝珠], [KOR], [2809],
-      [64], [LEE Eunhye], [KOR], [2803],
+      [64], [李恩惠], [KOR], [2803],
     )
   )#pagebreak()
 
@@ -108,7 +108,7 @@
       [83], [EERLAND Britt], [NED], [2725],
       [84], [#text(gray, "TAILAKOVA Mariia")], [RUS], [2718],
       [85], [LIN Ye], [SGP], [2713],
-      [86], [YANG Huijing], [CHN], [2710],
+      [86], [杨蕙菁], [CHN], [2710],
       [87], [蒂娜 梅谢芙], [EGY], [2699],
       [88], [PARANANG Orawan], [THA], [2698],
       [89], [MONTEIRO DODEAN Daniela], [ROU], [2695],
@@ -118,7 +118,7 @@
       [93], [伊丽莎白 萨玛拉], [ROU], [2682],
       [94], [张默], [CAN], [2678],
       [95], [刘杨子], [AUS], [2677],
-      [96], [SASAO Asuka], [JPN], [2671],
+      [96], [笹尾明日香], [JPN], [2671],
     )
   )#pagebreak()
 
@@ -134,11 +134,11 @@
       [100], [ZHANG Sofia-Xuan], [ESP], [2660],
       [101], [DRAGOMAN Andreea], [ROU], [2656],
       [102], [LAY Jian Fang], [AUS], [2652],
-      [103], [LI Yu-Jhun], [TPE], [2650],
+      [103], [李昱谆], [TPE], [2650],
       [104], [克里斯蒂娜 卡尔伯格], [SWE], [2645],
       [105], [SOLJA Amelie], [AUT], [2638],
       [106], [普利西卡 帕瓦德], [FRA], [2636],
-      [107], [AKULA Sreeja], [IND], [2629],
+      [107], [斯丽贾 阿库拉], [IND], [2629],
       [108], [SAWETTABUT Jinnipa], [THA], [2626],
       [109], [VOROBEVA Olga], [RUS], [2620],
       [110], [玛利亚 肖], [ESP], [2616],
@@ -159,6 +159,6 @@
       [125], [LOEUILLETTE Stephanie], [FRA], [2558],
       [126], [SUNG Rachel], [USA], [2556],
       [127], [STEFANOVA Nikoleta], [ITA], [2556],
-      [128], [MUKHERJEE Ayhika], [IND], [2555],
+      [128], [艾希卡 穆克吉], [IND], [2555],
     )
   )

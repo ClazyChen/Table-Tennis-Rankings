@@ -1,3 +1,5 @@
+AKULA Sreeja, 斯丽贾 阿库拉
+ALAMIAN Nima, 尼马 阿拉米安
 ALAMIYAN Noshad, 诺沙迪 阿拉米扬
 AN Jaehyun, 安宰贤
 ANDO Minami, 安藤南
@@ -24,6 +26,7 @@ CHEN Xingtong, 陈幸同
 CHEN Yi, 陈熠
 CHENG I-Ching, 郑怡静
 CHIANG Peng-Lung, 蒋澎龙
+CHIEN Tung-Chuan, 陈沂芊
 CHO Daeseong, 赵大成
 CHO Seungmin, 赵胜敏
 CHOI Hyojoo, 崔孝珠
@@ -36,6 +39,7 @@ DOO Hoi Kem, 杜凯琹
 DUDA Benedikt, 贝内迪克特 杜达
 DYJAS Jakub, 雅克布 迪亚斯
 FALCK Mattias, 马蒂亚斯 法尔克
+FAN Shuhan, 范姝涵
 FAN Siqi, 范思琦
 FAN Ying, 范瑛
 FAN Zhendong, 樊振东
@@ -91,15 +95,19 @@ JOO Saehyuk, 朱世赫
 JORGIC Darko, 达科 约奇克
 KALLBERG Anton, 安东 卡尔伯格
 KALLBERG Christina, 克里斯蒂娜 卡尔伯格
+KAO Cheng-Jui, 高承睿
 KARLSSON Kristian, 克里斯坦 卡尔松
 KATO Miyu, 加藤美优
 KIHARA Miyuu, 木原美悠
+KIM Hayeong, 金河英
 KIM Hyon Hui, 金英姬
 KIM Kyungah, 金景娥
 KIM Kyungah, 金景娥
 KIM Minseok, 金珉锡
+KIM Nayeong, 金娜英
 KIM Song I, 金宋依
 KISHIKAWA Seiya, 岸川圣也
+KIZUKURI Yuto, 木造勇人
 KO Lai Chak, 高礼泽
 KONG Linghui, 孔令辉
 KREANGA Kalinikos, 卡林尼科斯 格林卡
@@ -107,10 +115,12 @@ KUAI Man, 蒯曼
 LEBESSON Emmanuel, 艾曼纽 莱贝松
 LEBRUN Alexis, 艾利克斯 勒布伦
 LEBRUN Felix, 菲利克斯 勒布伦
+LEE Eunhye, 李恩惠
 LEE Eunsil, 李恩实
 LEE Ho Ching, 李皓晴
 LEE Jungwoo, 李廷佑
 LEE Sang Su, 李尚洙
+LEE Zion, 李时温
 LI Fen, 李芬
 LI Jiao, 李佼
 LI Jiawei, 李佳薇
@@ -121,12 +131,15 @@ LI Qian, 李倩
 LI Xiaodan, 李晓丹
 LI Xiaoxia, 李晓霞
 LI Yake, 李雅可
+LI Yu-Jhun, 李昱谆
 LIANG Jingkun, 梁靖崑
 LIANG Yanning, 梁俨苧
+LIAO Cheng-Ting, 廖振珽
 LIM Jonghoon, 林钟勋
 LIN Gaoyuan, 林高远
 LIN Shidong, 林诗栋
 LIN Yun-Ju, 林昀儒
+LIND Anders, 安德斯 林德
 LIU Dingshuo, 刘丁硕
 LIU Fei, 刘斐
 LIU Gaoyang, 刘高阳
@@ -152,9 +165,13 @@ MORI Sakura, 森樱
 MORIZONO Masataka, 森园政崇
 MORIZONO Misaki, 森田美咲
 MU Zi, 木子
+MUKHERJEE Ayhika, 艾希卡 穆克吉
+MUKHERJEE Sutirtha, 苏蒂尔塔 穆克吉
 MURAMATSU Yuto, 村松雄斗
 NAGASAKI Miyu, 长崎美柚
+NG Wing Lam, 吴咏琳
 NI Xia Lian, 倪夏莲
+NIU Guankai, 牛冠凯
 NIU Jianfeng, 牛剑锋
 NIWA Koki, 丹羽孝希
 OH Junsung, 吴晙诚
@@ -171,6 +188,7 @@ PERSSON Jorgen, 约尔根 佩尔森
 PITCHFORD Liam, 利亚姆 皮切福德
 POLCANOVA Sofia, 索菲亚 波尔卡诺娃
 PYON Song Gyong, 边宋京
+QI Fei, 齐菲
 QIAN Tianyi, 钱天一
 QIN Yuxuan, 覃予萱
 QIN Zhijian, 秦志戬
@@ -181,11 +199,13 @@ RYU Seungmin, 柳承敏
 SAIVE Jean-Michel, 让 米歇尔 赛弗
 SAMARA Elizabeta, 伊丽莎白 萨玛拉
 SAMSONOV Vladimir, 弗拉基米尔 萨姆索诺夫
+SASAO Asuka, 笹尾明日香
 SATO Hitomi, 佐藤瞳
 SCHLAGER Werner, 维尔纳 施拉格
 SEOK Hajung, 石贺净
 SHAN Xiaona, 单晓娜
 SHANG Kun, 尚坤
+SHAO Jieni, 邵杰妮
 SHEN Yanfei, 沈燕飞
 SHI Xunyao, 石洵瑶
 SHIBATA Saki, 芝田沙季
@@ -211,6 +231,7 @@ UMEMURA Aya, 梅村礼
 WAKAMIYA Misako, 若宫三纱子
 WALDNER Jan-Ove, 简 诺瓦 瓦尔德内尔
 WANG Amy, 王 艾米
+WANG Chen Ce, 王晨策
 WANG Chuqin, 王楚钦
 WANG Hao, 王皓
 WANG Liqin, 王励勤
@@ -230,21 +251,26 @@ XIAO Maria, 玛利亚 肖
 XU Chenhao, 徐晨皓
 XU Haidong, 徐海东
 XU Xin, 许昕
+XU Yi, 徐奕
 XU Yingbin, 徐瑛彬
 XUE Fei, 薛飞
 YAN An, 闫安
 YANG Ha Eun, 梁夏银
+YANG Huijing, 杨蕙菁
 YANG Xiaoxin, 杨晓欣
+YANG Yiyun, 杨屹韵
 YOON Jaeyoung, 尹在荣
 YOSHIDA Kaii, 吉田海伟
 YOSHIDA Masaki, 吉田雅己
 YOSHIMURA Kazuhiro, 吉村和弘
 YOSHIMURA Maharu, 吉村真晴
+YOSHIYAMA Ryoichi, 吉山僚一
 YU Fu, 傅玉
 YU Mengyu, 于梦雨
 YU Ziyang, 于子洋
 YUAN Jia Nan, 袁嘉楠
 YUAN Licen, 袁励岑
+ZENG Beixun, 曾蓓勋
 ZENG Jian, 曾尖
 ZHANG Jike, 张继科
 ZHANG Lily, 张安
@@ -257,9 +283,8 @@ ZHENG Peifeng, 郑培峰
 ZHOU Kai, 周恺
 ZHOU Qihao, 周启豪
 ZHOU Yu, 周雨
-ZHU Linfeng, 朱霖峰
-ZHU Yuling, 朱雨玲
-LEE Zion, 李时温
 ZHU Chengzhu, 朱成竹
-KAO Cheng-Jui, 高承睿
-SHAO Jieni, 邵杰妮
+ZHU Linfeng, 朱霖峰
+ZHU Sibing, 朱思冰
+ZHU Yuling, 朱雨玲
+ZONG Geman, 纵歌曼

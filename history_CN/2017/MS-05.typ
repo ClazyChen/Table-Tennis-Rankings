@@ -102,7 +102,7 @@
       [77], [汪洋], [SVK], [2888],
       [78], [DRINKHALL Paul], [ENG], [2886],
       [79], [KONECNY Tomas], [CZE], [2886],
-      [80], [LIAO Cheng-Ting], [TPE], [2885],
+      [80], [廖振珽], [TPE], [2885],
       [81], [DESAI Harmeet], [IND], [2885],
       [82], [TAZOE Kenta], [JPN], [2883],
       [83], [张本智和], [JPN], [2881],

@@ -94,7 +94,7 @@
       [69], [刘佳], [AUT], [2868],
       [70], [WU Yue], [USA], [2867],
       [71], [李洁], [NED], [2867],
-      [72], [LEE Eunhye], [KOR], [2860],
+      [72], [李恩惠], [KOR], [2860],
       [73], [玛利亚 肖], [ESP], [2856],
       [74], [李皓晴], [HKG], [2856],
       [75], [李芬], [SWE], [2855],
@@ -117,7 +117,7 @@
       [92], [NG Wing Nam], [HKG], [2799],
       [93], [YOO Eunchong], [KOR], [2799],
       [94], [MAEDA Miyu], [JPN], [2793],
-      [95], [KIM Hayeong], [KOR], [2793],
+      [95], [金河英], [KOR], [2793],
       [96], [ODO Satsuki], [JPN], [2775],
     )
   )#pagebreak()
@@ -155,7 +155,7 @@
       [121], [DVORAK Galia], [ESP], [2697],
       [122], [PASKAUSKIENE Ruta], [LTU], [2697],
       [123], [KATO Kyoka], [JPN], [2696],
-      [124], [SASAO Asuka], [JPN], [2696],
+      [124], [笹尾明日香], [JPN], [2696],
       [125], [LIN Chia-Hui], [TPE], [2694],
       [126], [GUISNEL Oceane], [FRA], [2693],
       [127], [#text(gray, "CHOE Hyon Hwa")], [PRK], [2691],

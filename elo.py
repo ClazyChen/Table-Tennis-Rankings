@@ -17,6 +17,9 @@ from prettytable import PrettyTable
 #    and the player is inactive (no match for 64 days)
 #    r'' = r' + (the opponent's rating - r') * (1 - (1 - x / 365) ^ 2)
 
+# experimental strategy:
+# 1. one can hardly improve his rating by playing with a player with lower rating
+
 # update the world ranking list every event
 # only players has more than 10 matches will be ranked
 
@@ -25,11 +28,14 @@ inactive_test = True
 default_rating = 1500
 ceil_rating = 3500
 ranking_least_games = 10
-game_type = 'MS' # MS, WS, MD, WD, XD
+game_type = 'WS' # MS, WS, MD, WD, XD
 bias = 50
-d = 800
-diameter_center = 1200
-diameter_delta = 400
+d_up = 800
+d_down = 800
+diameter_center_up = 1200
+diameter_center_down = 1200
+diameter_delta_up = 400
+diameter_delta_down = 400
 
 # load the players data
 players = {}
@@ -97,8 +103,18 @@ def check_result(id1, id2, weight):
 def update_elo(id1, id2, weight, result):
     r1 = players_ratings[id1][0]
     r2 = players_ratings[id2][0]
-    e1 = 1 / (1 + 10 ** ((r1 - r2) / d))
-    e2 = 1 / (1 + 10 ** ((r2 - r1) / d))
+    # this strategy is experimental (it shows no effect)
+    if weight > 0: # player 1 wins
+        e1 = 1 / (1 + 10 ** ((r1 - r2) / d_up))
+        e2 = 1 / (1 + 10 ** ((r2 - r1) / d_down))
+    elif weight < 0: # player 2 wins
+        e1 = 1 / (1 + 10 ** ((r1 - r2) / d_down))
+        e2 = 1 / (1 + 10 ** ((r2 - r1) / d_up))
+    else:
+        e1 = 1 / (1 + 10 ** ((r1 - r2) / d_down))
+        e2 = 1 / (1 + 10 ** ((r2 - r1) / d_down))
+    # e1 = 1 / (1 + 10 ** ((r1 - r2) / d))
+    # e2 = 1 / (1 + 10 ** ((r2 - r1) / d))
     a1 = (1 if weight > 0 else 0)
     if weight == 0:
         a1 = 0.5
@@ -117,17 +133,17 @@ def update_elo(id1, id2, weight, result):
     delta_exp = 1
     if centered:
         if delta1 < 0:
-            center_coef1 *= (1 - 1 / (1 + 10 ** ((r1 - default_rating) / diameter_center))) ** center_exp * 2
-            center_coef1 *= (1 - 1 / (1 + 10 ** ((r1 - r2) / diameter_delta))) ** delta_exp * 2
+            center_coef1 *= (1 - 1 / (1 + 10 ** ((r1 - default_rating) / diameter_center_down))) ** center_exp * 2
+            center_coef1 *= (1 - 1 / (1 + 10 ** ((r1 - r2)/ diameter_delta_down))) ** delta_exp * 2
         else:
-            center_coef1 *= (1 - 1 / (1 + 10 ** ((ceil_rating - r1) / diameter_center))) ** center_exp * 2
-            center_coef1 *= (1 - 1 / (1 + 10 ** ((r2 - r1) / diameter_delta))) ** delta_exp * 2
+            center_coef1 *= (1 - 1 / (1 + 10 ** ((ceil_rating - r1) / diameter_center_up))) ** center_exp * 2
+            center_coef1 *= (1 - 1 / (1 + 10 ** ((r2 - r1)/ diameter_delta_up))) ** delta_exp * 2
         if delta2 < 0:
-            center_coef2 *= (1 - 1 / (1 + 10 ** ((r2 - default_rating) / diameter_center))) ** center_exp * 2
-            center_coef2 *= (1 - 1 / (1 + 10 ** ((r2 - r1) / diameter_delta))) ** delta_exp * 2
+            center_coef2 *= (1 - 1 / (1 + 10 ** ((r2 - default_rating) / diameter_center_down))) ** center_exp * 2
+            center_coef2 *= (1 - 1 / (1 + 10 ** ((r2 - r1)/ diameter_delta_down))) ** delta_exp * 2
         else:
-            center_coef2 *= (1 - 1 / (1 + 10 ** ((ceil_rating - r2) / diameter_center))) ** center_exp * 2
-            center_coef2 *= (1 - 1 / (1 + 10 ** ((r1 - r2) / diameter_delta))) ** delta_exp * 2
+            center_coef2 *= (1 - 1 / (1 + 10 ** ((ceil_rating - r2) / diameter_center_up))) ** center_exp * 2
+            center_coef2 *= (1 - 1 / (1 + 10 ** ((r1 - r2)/ diameter_delta_up))) ** delta_exp * 2
     else:
         center_coef1 = 4
         center_coef2 = 4

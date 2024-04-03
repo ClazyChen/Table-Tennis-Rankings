@@ -151,7 +151,7 @@
       [117], [#text(gray, "ZHENG Jiaqi")], [USA], [2691],
       [118], [LAY Jian Fang], [AUS], [2690],
       [119], [LIU Xin], [CHN], [2689],
-      [120], [LEE Eunhye], [KOR], [2688],
+      [120], [李恩惠], [KOR], [2688],
       [121], [SO Eka], [JPN], [2687],
       [122], [NOSKOVA Yana], [RUS], [2684],
       [123], [MIKHAILOVA Polina], [RUS], [2683],

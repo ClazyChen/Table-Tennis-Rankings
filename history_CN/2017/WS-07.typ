@@ -156,7 +156,7 @@
       [122], [PERGEL Szandra], [HUN], [2691],
       [123], [LIU Xin], [CHN], [2689],
       [124], [LIN Ye], [SGP], [2678],
-      [125], [LEE Eunhye], [KOR], [2675],
+      [125], [李恩惠], [KOR], [2675],
       [126], [PARK Joohyun], [KOR], [2674],
       [127], [STEFANSKA Kinga], [POL], [2670],
       [128], [CHA Hyo Sim], [PRK], [2668],

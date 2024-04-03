@@ -115,10 +115,10 @@
       [90], [POLANSKY Tomas], [CZE], [2853],
       [91], [WU Jiaji], [DOM], [2852],
       [92], [JARVIS Tom], [ENG], [2848],
-      [93], [LIND Anders], [DEN], [2844],
+      [93], [安德斯 林德], [DEN], [2844],
       [94], [TSUBOI Gustavo], [BRA], [2844],
       [95], [BOBOCICA Mihai], [ITA], [2842],
-      [96], [ALAMIAN Nima], [IRI], [2838],
+      [96], [尼马 阿拉米安], [IRI], [2838],
     )
   )#pagebreak()
 
@@ -128,9 +128,9 @@
     table(
       columns: 4,
       [排名], [运动员], [国家/地区], [积分],
-      [97], [NIU Guankai], [CHN], [2835],
+      [97], [牛冠凯], [CHN], [2835],
       [98], [斯蒂芬 门格尔], [GER], [2835],
-      [99], [KIZUKURI Yuto], [JPN], [2832],
+      [99], [木造勇人], [JPN], [2832],
       [100], [BADOWSKI Marek], [POL], [2831],
       [101], [ROBLES Alvaro], [ESP], [2831],
       [102], [SAI Linwei], [CHN], [2831],
@@ -140,7 +140,7 @@
       [106], [ANTHONY Amalraj], [IND], [2827],
       [107], [CARVALHO Diogo], [POR], [2827],
       [108], [特里斯坦 弗洛雷], [FRA], [2824],
-      [109], [LIAO Cheng-Ting], [TPE], [2816],
+      [109], [廖振珽], [TPE], [2816],
       [110], [BRODD Viktor], [SWE], [2813],
       [111], [乔纳森 格罗斯], [DEN], [2809],
       [112], [JANCARIK Lubomir], [CZE], [2805],

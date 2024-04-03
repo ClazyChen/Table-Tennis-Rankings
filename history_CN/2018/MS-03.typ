@@ -76,7 +76,7 @@
       [60], [薛飞], [CHN], [2951],
       [61], [#text(gray, "李廷佑")], [KOR], [2948],
       [62], [ZHAI Yujia], [DEN], [2943],
-      [63], [LIAO Cheng-Ting], [TPE], [2936],
+      [63], [廖振珽], [TPE], [2936],
       [64], [GNANASEKARAN Sathiyan], [IND], [2936],
     )
   )#pagebreak()
@@ -91,7 +91,7 @@
       [66], [ROBLES Alvaro], [ESP], [2922],
       [67], [贝内迪克特 杜达], [GER], [2920],
       [68], [WALTHER Ricardo], [GER], [2918],
-      [69], [KIZUKURI Yuto], [JPN], [2913],
+      [69], [木造勇人], [JPN], [2913],
       [70], [WANG Zengyi], [POL], [2913],
       [71], [OUAICHE Stephane], [ALG], [2911],
       [72], [HO Kwan Kit], [HKG], [2909],
@@ -159,6 +159,6 @@
       [125], [GHOSH Soumyajit], [IND], [2785],
       [126], [特鲁斯 莫雷加德], [SWE], [2782],
       [127], [PARK Jeongwoo], [KOR], [2780],
-      [128], [ALAMIAN Nima], [IRI], [2780],
+      [128], [尼马 阿拉米安], [IRI], [2780],
     )
   )

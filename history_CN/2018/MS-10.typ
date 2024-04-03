@@ -100,9 +100,9 @@
       [75], [BADOWSKI Marek], [POL], [2925],
       [76], [巴斯蒂安 斯蒂格], [GER], [2923],
       [77], [马特], [CHN], [2921],
-      [78], [KIZUKURI Yuto], [JPN], [2916],
+      [78], [木造勇人], [JPN], [2916],
       [79], [WANG Zengyi], [POL], [2913],
-      [80], [LIND Anders], [DEN], [2910],
+      [80], [安德斯 林德], [DEN], [2910],
       [81], [GERELL Par], [SWE], [2909],
       [82], [蒂亚戈 阿波罗尼亚], [POR], [2908],
       [83], [MAJOROS Bence], [HUN], [2902],
@@ -117,7 +117,7 @@
       [92], [CHIANG Hung-Chieh], [TPE], [2872],
       [93], [OLAH Benedek], [FIN], [2870],
       [94], [HIRANO Yuki], [JPN], [2869],
-      [95], [LIAO Cheng-Ting], [TPE], [2862],
+      [95], [廖振珽], [TPE], [2862],
       [96], [DESAI Harmeet], [IND], [2858],
     )
   )#pagebreak()

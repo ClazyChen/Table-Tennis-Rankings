@@ -68,7 +68,7 @@
       [52], [宇田幸矢], [JPN], [2980],
       [53], [庄智渊], [TPE], [2970],
       [54], [PARK Ganghyeon], [KOR], [2970],
-      [55], [KIZUKURI Yuto], [JPN], [2969],
+      [55], [木造勇人], [JPN], [2969],
       [56], [#text(gray, "TOKIC Bojan")], [SLO], [2968],
       [57], [WANG Eugene], [CAN], [2962],
       [58], [#text(gray, "SHIBAEV Alexander")], [RUS], [2960],
@@ -117,7 +117,7 @@
       [92], [PANG Yew En Koen], [SGP], [2846],
       [93], [PUCAR Tomislav], [CRO], [2841],
       [94], [ZELJKO Filip], [CRO], [2840],
-      [95], [NIU Guankai], [CHN], [2835],
+      [95], [牛冠凯], [CHN], [2835],
       [96], [篠塚大登], [JPN], [2835],
     )
   )#pagebreak()
@@ -147,7 +147,7 @@
       [113], [OUAICHE Stephane], [ALG], [2792],
       [114], [PARK Chan-Hyeok], [KOR], [2789],
       [115], [#text(gray, "巴斯蒂安 斯蒂格")], [GER], [2786],
-      [116], [LIND Anders], [DEN], [2785],
+      [116], [安德斯 林德], [DEN], [2785],
       [117], [MENG Fanbo], [GER], [2784],
       [118], [KIM Donghyun], [KOR], [2784],
       [119], [PENG Wang-Wei], [TPE], [2784],

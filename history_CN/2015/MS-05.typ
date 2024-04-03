@@ -155,7 +155,7 @@
       [121], [侯英超], [CHN], [2750],
       [122], [OUAICHE Stephane], [ALG], [2749],
       [123], [SMIRNOV Alexey], [RUS], [2747],
-      [124], [ALAMIAN Nima], [IRI], [2745],
+      [124], [尼马 阿拉米安], [IRI], [2745],
       [125], [PISTEJ Lubomir], [SVK], [2744],
       [126], [ARVIDSSON Simon], [SWE], [2739],
       [127], [MADRID Marcos], [MEX], [2738],

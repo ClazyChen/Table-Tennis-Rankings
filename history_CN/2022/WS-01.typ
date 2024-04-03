@@ -55,7 +55,7 @@
       [39], [梁夏银], [KOR], [2948],
       [40], [阿德里安娜 迪亚兹], [PUR], [2947],
       [41], [SAWETTABUT Suthasini], [THA], [2946],
-      [42], [KIM Hayeong], [KOR], [2937],
+      [42], [金河英], [KOR], [2937],
       [43], [刘佳], [AUT], [2934],
       [44], [#text(gray, "ODO Satsuki")], [JPN], [2928],
       [45], [陈思羽], [TPE], [2906],
@@ -77,7 +77,7 @@
       [61], [王晓彤], [CHN], [2821],
       [62], [王 艾米], [USA], [2811],
       [63], [崔孝珠], [KOR], [2809],
-      [64], [LEE Eunhye], [KOR], [2803],
+      [64], [李恩惠], [KOR], [2803],
     )
   )#pagebreak()
 
@@ -108,7 +108,7 @@
       [83], [蒂娜 梅谢芙], [EGY], [2725],
       [84], [#text(gray, "TAILAKOVA Mariia")], [RUS], [2718],
       [85], [LIN Ye], [SGP], [2713],
-      [86], [YANG Huijing], [CHN], [2710],
+      [86], [杨蕙菁], [CHN], [2710],
       [87], [PARANANG Orawan], [THA], [2698],
       [88], [MONTEIRO DODEAN Daniela], [ROU], [2695],
       [89], [HUANG Yi-Hua], [TPE], [2694],
@@ -117,7 +117,7 @@
       [92], [BALAZOVA Barbora], [SVK], [2679],
       [93], [张默], [CAN], [2678],
       [94], [刘杨子], [AUS], [2677],
-      [95], [SASAO Asuka], [JPN], [2671],
+      [95], [笹尾明日香], [JPN], [2671],
       [96], [DIACONU Adina], [ROU], [2670],
     )
   )#pagebreak()
@@ -132,9 +132,9 @@
       [98], [NOSKOVA Yana], [RUS], [2665],
       [99], [DRAGOMAN Andreea], [ROU], [2656],
       [100], [LAY Jian Fang], [AUS], [2652],
-      [101], [LI Yu-Jhun], [TPE], [2650],
+      [101], [李昱谆], [TPE], [2650],
       [102], [普利西卡 帕瓦德], [FRA], [2636],
-      [103], [AKULA Sreeja], [IND], [2629],
+      [103], [斯丽贾 阿库拉], [IND], [2629],
       [104], [TRIGOLOS Daria], [BLR], [2627],
       [105], [SAWETTABUT Jinnipa], [THA], [2626],
       [106], [克里斯蒂娜 卡尔伯格], [SWE], [2620],
@@ -158,7 +158,7 @@
       [124], [LOEUILLETTE Stephanie], [FRA], [2558],
       [125], [SUNG Rachel], [USA], [2556],
       [126], [STEFANOVA Nikoleta], [ITA], [2556],
-      [127], [MUKHERJEE Ayhika], [IND], [2555],
+      [127], [艾希卡 穆克吉], [IND], [2555],
       [128], [ZARIF Audrey], [FRA], [2552],
     )
   )

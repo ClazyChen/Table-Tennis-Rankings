@@ -54,7 +54,7 @@
       [38], [梁夏银], [KOR], [2948],
       [39], [阿德里安娜 迪亚兹], [PUR], [2947],
       [40], [SAWETTABUT Suthasini], [THA], [2946],
-      [41], [KIM Hayeong], [KOR], [2937],
+      [41], [金河英], [KOR], [2937],
       [42], [刘佳], [AUT], [2934],
       [43], [#text(gray, "ODO Satsuki")], [JPN], [2928],
       [44], [傅玉], [POR], [2928],
@@ -87,7 +87,7 @@
     table(
       columns: 4,
       [排名], [运动员], [国家/地区], [积分],
-      [65], [LEE Eunhye], [KOR], [2803],
+      [65], [李恩惠], [KOR], [2803],
       [66], [伊丽莎白 萨玛拉], [ROU], [2800],
       [67], [WINTER Sabine], [GER], [2791],
       [68], [KIM Byeolnim], [KOR], [2785],
@@ -110,7 +110,7 @@
       [85], [#text(gray, "TAILAKOVA Mariia")], [RUS], [2718],
       [86], [EERLAND Britt], [NED], [2718],
       [87], [LIN Ye], [SGP], [2713],
-      [88], [YANG Huijing], [CHN], [2710],
+      [88], [杨蕙菁], [CHN], [2710],
       [89], [蒂娜 梅谢芙], [EGY], [2699],
       [90], [PARANANG Orawan], [THA], [2698],
       [91], [MONTEIRO DODEAN Daniela], [ROU], [2695],
@@ -118,7 +118,7 @@
       [93], [MANTZ Chantal], [GER], [2694],
       [94], [张默], [CAN], [2678],
       [95], [刘杨子], [AUS], [2677],
-      [96], [SASAO Asuka], [JPN], [2671],
+      [96], [笹尾明日香], [JPN], [2671],
     )
   )#pagebreak()
 
@@ -134,12 +134,12 @@
       [100], [ZHANG Sofia-Xuan], [ESP], [2660],
       [101], [DRAGOMAN Andreea], [ROU], [2656],
       [102], [LAY Jian Fang], [AUS], [2652],
-      [103], [LI Yu-Jhun], [TPE], [2650],
+      [103], [李昱谆], [TPE], [2650],
       [104], [克里斯蒂娜 卡尔伯格], [SWE], [2645],
       [105], [#text(gray, "NOSKOVA Yana")], [RUS], [2644],
       [106], [SOLJA Amelie], [AUT], [2638],
       [107], [普利西卡 帕瓦德], [FRA], [2636],
-      [108], [AKULA Sreeja], [IND], [2629],
+      [108], [斯丽贾 阿库拉], [IND], [2629],
       [109], [SAWETTABUT Jinnipa], [THA], [2626],
       [110], [VOROBEVA Olga], [RUS], [2620],
       [111], [玛利亚 肖], [ESP], [2616],
@@ -158,7 +158,7 @@
       [124], [LOEUILLETTE Stephanie], [FRA], [2558],
       [125], [SUNG Rachel], [USA], [2556],
       [126], [STEFANOVA Nikoleta], [ITA], [2556],
-      [127], [MUKHERJEE Ayhika], [IND], [2555],
+      [127], [艾希卡 穆克吉], [IND], [2555],
       [128], [GUISNEL Oceane], [FRA], [2554],
     )
   )

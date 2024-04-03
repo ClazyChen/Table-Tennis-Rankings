@@ -159,6 +159,6 @@
       [125], [SEO Hyundeok], [KOR], [2779],
       [126], [IONESCU Ovidiu], [ROU], [2778],
       [127], [PERSSON Jon], [SWE], [2776],
-      [128], [ALAMIAN Nima], [IRI], [2775],
+      [128], [尼马 阿拉米安], [IRI], [2775],
     )
   )

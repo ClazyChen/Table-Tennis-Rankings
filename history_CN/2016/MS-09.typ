@@ -142,7 +142,7 @@
       [108], [CHOE Il], [PRK], [2820],
       [109], [TAZOE Kenta], [JPN], [2820],
       [110], [MACHI Asuka], [JPN], [2820],
-      [111], [KIZUKURI Yuto], [JPN], [2813],
+      [111], [木造勇人], [JPN], [2813],
       [112], [MATSUMOTO Cazuo], [BRA], [2813],
       [113], [GORAK Daniel], [POL], [2813],
       [114], [斯蒂芬 门格尔], [GER], [2812],

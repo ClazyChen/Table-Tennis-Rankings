@@ -151,7 +151,7 @@
       [117], [SAKAI Asuka], [JPN], [2765],
       [118], [WALTHER Ricardo], [GER], [2764],
       [119], [WANG Zengyi], [POL], [2764],
-      [120], [LIAO Cheng-Ting], [TPE], [2756],
+      [120], [廖振珽], [TPE], [2756],
       [121], [KOSOWSKI Jakub], [POL], [2755],
       [122], [LAMBIET Florent], [BEL], [2755],
       [123], [TAKAKIWA Taku], [JPN], [2754],

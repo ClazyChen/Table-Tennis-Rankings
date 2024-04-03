@@ -158,7 +158,7 @@
       [124], [SO Eka], [JPN], [2687],
       [125], [#text(gray, "PARK Youngsook")], [KOR], [2682],
       [126], [#text(gray, "LI Chunli")], [NZL], [2678],
-      [127], [LEE Eunhye], [KOR], [2675],
+      [127], [李恩惠], [KOR], [2675],
       [128], [STEFANSKA Kinga], [POL], [2670],
     )
   )

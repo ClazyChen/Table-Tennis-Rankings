@@ -115,7 +115,7 @@
       [90], [DRINKHALL Paul], [ENG], [2909],
       [91], [乔纳森 格罗斯], [DEN], [2908],
       [92], [#text(gray, "WANG Zengyi")], [POL], [2907],
-      [93], [LIND Anders], [DEN], [2904],
+      [93], [安德斯 林德], [DEN], [2904],
       [94], [村松雄斗], [JPN], [2899],
       [95], [赵大成], [KOR], [2895],
       [96], [田中佑汰], [JPN], [2892],
@@ -148,9 +148,9 @@
       [114], [ANTHONY Amalraj], [IND], [2844],
       [115], [TOKIC Bojan], [SLO], [2842],
       [116], [NUYTINCK Cedric], [BEL], [2836],
-      [117], [NIU Guankai], [CHN], [2835],
+      [117], [牛冠凯], [CHN], [2835],
       [118], [斯蒂芬 门格尔], [GER], [2835],
-      [119], [KIZUKURI Yuto], [JPN], [2832],
+      [119], [木造勇人], [JPN], [2832],
       [120], [SAI Linwei], [CHN], [2831],
       [121], [PISTEJ Lubomir], [SVK], [2830],
       [122], [ACHANTA Sharath Kamal], [IND], [2829],
@@ -159,6 +159,6 @@
       [125], [#text(gray, "SEO Hyundeok")], [KOR], [2825],
       [126], [特里斯坦 弗洛雷], [FRA], [2823],
       [127], [#text(gray, "MATSUDAIRA Kenji")], [JPN], [2823],
-      [128], [LIAO Cheng-Ting], [TPE], [2820],
+      [128], [廖振珽], [TPE], [2820],
     )
   )

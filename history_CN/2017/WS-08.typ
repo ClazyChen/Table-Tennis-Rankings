@@ -135,7 +135,7 @@
       [101], [BALAZOVA Barbora], [SVK], [2747],
       [102], [LIU Xi], [CHN], [2746],
       [103], [HAPONOVA Hanna], [UKR], [2744],
-      [104], [LEE Eunhye], [KOR], [2744],
+      [104], [李恩惠], [KOR], [2744],
       [105], [#text(gray, "LOVAS Petra")], [HUN], [2741],
       [106], [CHOE Hyon Hwa], [PRK], [2736],
       [107], [PESOTSKA Margaryta], [UKR], [2735],

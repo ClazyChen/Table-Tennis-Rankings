@@ -112,13 +112,13 @@
       [87], [ROBINOT Quentin], [FRA], [2884],
       [88], [PERSSON Jon], [SWE], [2884],
       [89], [周启豪], [CHN], [2878],
-      [90], [LIAO Cheng-Ting], [TPE], [2870],
+      [90], [廖振珽], [TPE], [2870],
       [91], [MATSUYAMA Yuki], [JPN], [2868],
       [92], [雅克布 迪亚斯], [POL], [2868],
       [93], [PISTEJ Lubomir], [SVK], [2866],
       [94], [达科 约奇克], [SLO], [2865],
       [95], [高宁], [SGP], [2864],
-      [96], [KIZUKURI Yuto], [JPN], [2863],
+      [96], [木造勇人], [JPN], [2863],
     )
   )#pagebreak()
 
@@ -140,7 +140,7 @@
       [106], [ELOI Damien], [FRA], [2838],
       [107], [KIM Donghyun], [KOR], [2834],
       [108], [RYUZAKI Tonin], [JPN], [2830],
-      [109], [ALAMIAN Nima], [IRI], [2830],
+      [109], [尼马 阿拉米安], [IRI], [2830],
       [110], [王楚钦], [CHN], [2830],
       [111], [NUYTINCK Cedric], [BEL], [2827],
       [112], [ZHMUDENKO Yaroslav], [UKR], [2826],

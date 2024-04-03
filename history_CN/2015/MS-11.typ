@@ -113,7 +113,7 @@
       [88], [GORAK Daniel], [POL], [2828],
       [89], [吉田雅己], [JPN], [2828],
       [90], [HACHARD Antoine], [FRA], [2827],
-      [91], [ALAMIAN Nima], [IRI], [2826],
+      [91], [尼马 阿拉米安], [IRI], [2826],
       [92], [PERSSON Jon], [SWE], [2826],
       [93], [#text(gray, "KIM Hyok Bong")], [PRK], [2821],
       [94], [金珉锡], [KOR], [2820],
@@ -128,7 +128,7 @@
     table(
       columns: 4,
       [排名], [运动员], [国家/地区], [积分],
-      [97], [LIAO Cheng-Ting], [TPE], [2814],
+      [97], [廖振珽], [TPE], [2814],
       [98], [OUAICHE Stephane], [ALG], [2814],
       [99], [HIELSCHER Lars], [GER], [2809],
       [100], [MATSUDAIRA Kenji], [JPN], [2809],

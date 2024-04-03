@@ -115,10 +115,10 @@
       [90], [#text(gray, "吉田雅己")], [JPN], [2860],
       [91], [POLANSKY Tomas], [CZE], [2853],
       [92], [JARVIS Tom], [ENG], [2848],
-      [93], [LIND Anders], [DEN], [2844],
+      [93], [安德斯 林德], [DEN], [2844],
       [94], [TSUBOI Gustavo], [BRA], [2844],
       [95], [BOBOCICA Mihai], [ITA], [2842],
-      [96], [NIU Guankai], [CHN], [2835],
+      [96], [牛冠凯], [CHN], [2835],
     )
   )#pagebreak()
 
@@ -129,7 +129,7 @@
       columns: 4,
       [排名], [运动员], [国家/地区], [积分],
       [97], [斯蒂芬 门格尔], [GER], [2835],
-      [98], [KIZUKURI Yuto], [JPN], [2832],
+      [98], [木造勇人], [JPN], [2832],
       [99], [BADOWSKI Marek], [POL], [2831],
       [100], [ROBLES Alvaro], [ESP], [2831],
       [101], [SAI Linwei], [CHN], [2831],
@@ -139,7 +139,7 @@
       [105], [ANTHONY Amalraj], [IND], [2827],
       [106], [CARVALHO Diogo], [POR], [2827],
       [107], [特里斯坦 弗洛雷], [FRA], [2824],
-      [108], [LIAO Cheng-Ting], [TPE], [2816],
+      [108], [廖振珽], [TPE], [2816],
       [109], [BRODD Viktor], [SWE], [2813],
       [110], [乔纳森 格罗斯], [DEN], [2809],
       [111], [JANCARIK Lubomir], [CZE], [2805],

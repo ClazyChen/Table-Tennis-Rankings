@@ -76,7 +76,7 @@
       [60], [WANG Eugene], [CAN], [2925],
       [61], [WANG Zengyi], [POL], [2923],
       [62], [UEDA Jin], [JPN], [2923],
-      [63], [LIAO Cheng-Ting], [TPE], [2922],
+      [63], [廖振珽], [TPE], [2922],
       [64], [阿德里安 克里桑], [ROU], [2921],
     )
   )#pagebreak()

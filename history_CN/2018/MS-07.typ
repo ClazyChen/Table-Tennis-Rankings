@@ -75,7 +75,7 @@
       [59], [SHIBAEV Alexander], [RUS], [2976],
       [60], [MAJOROS Bence], [HUN], [2976],
       [61], [TOKIC Bojan], [SLO], [2974],
-      [62], [LIAO Cheng-Ting], [TPE], [2971],
+      [62], [廖振珽], [TPE], [2971],
       [63], [薛飞], [CHN], [2966],
       [64], [诺沙迪 阿拉米扬], [IRI], [2959],
     )
@@ -140,7 +140,7 @@
       [106], [卡纳克 贾哈], [USA], [2836],
       [107], [PARK Ganghyeon], [KOR], [2834],
       [108], [金珉锡], [KOR], [2823],
-      [109], [KIZUKURI Yuto], [JPN], [2823],
+      [109], [木造勇人], [JPN], [2823],
       [110], [SIRUCEK Pavel], [CZE], [2821],
       [111], [ECSEKI Nandor], [HUN], [2819],
       [112], [ANGLES Enzo], [FRA], [2818],

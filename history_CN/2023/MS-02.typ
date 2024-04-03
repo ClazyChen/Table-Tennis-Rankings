@@ -76,7 +76,7 @@
       [60], [ZHMUDENKO Yaroslav], [UKR], [2947],
       [61], [AKKUZU Can], [FRA], [2946],
       [62], [夸德里 阿鲁纳], [NGR], [2942],
-      [63], [KIZUKURI Yuto], [JPN], [2942],
+      [63], [木造勇人], [JPN], [2942],
       [64], [蒂亚戈 阿波罗尼亚], [POR], [2925],
     )
   )#pagebreak()
@@ -140,7 +140,7 @@
       [106], [BRODD Viktor], [SWE], [2813],
       [107], [HACHARD Antoine], [FRA], [2812],
       [108], [URSU Vladislav], [MDA], [2812],
-      [109], [NIU Guankai], [CHN], [2806],
+      [109], [牛冠凯], [CHN], [2806],
       [110], [PARK Chan-Hyeok], [KOR], [2802],
       [111], [HABESOHN Daniel], [AUT], [2798],
       [112], [ORT Kilian], [GER], [2796],
@@ -157,7 +157,7 @@
       [123], [#text(gray, "KATSMAN Lev")], [RUS], [2766],
       [124], [ALLEGRO Martin], [BEL], [2765],
       [125], [KOZUL Deni], [SLO], [2765],
-      [126], [LIND Anders], [DEN], [2758],
+      [126], [安德斯 林德], [DEN], [2758],
       [127], [SONE Kakeru], [JPN], [2758],
       [128], [CIFUENTES Horacio], [ARG], [2756],
     )

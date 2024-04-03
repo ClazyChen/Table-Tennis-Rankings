@@ -76,7 +76,7 @@
       [60], [HO Kwan Kit], [HKG], [2946],
       [61], [马蒂亚斯 法尔克], [SWE], [2945],
       [62], [ZHAI Yujia], [DEN], [2943],
-      [63], [LIAO Cheng-Ting], [TPE], [2936],
+      [63], [廖振珽], [TPE], [2936],
       [64], [GNANASEKARAN Sathiyan], [IND], [2936],
     )
   )#pagebreak()
@@ -93,7 +93,7 @@
       [68], [ROBINOT Quentin], [FRA], [2921],
       [69], [WALTHER Ricardo], [GER], [2918],
       [70], [GERELL Par], [SWE], [2916],
-      [71], [KIZUKURI Yuto], [JPN], [2913],
+      [71], [木造勇人], [JPN], [2913],
       [72], [WANG Zengyi], [POL], [2913],
       [73], [OUAICHE Stephane], [ALG], [2911],
       [74], [艾曼纽 莱贝松], [FRA], [2910],
@@ -159,6 +159,6 @@
       [125], [GHOSH Soumyajit], [IND], [2785],
       [126], [特鲁斯 莫雷加德], [SWE], [2781],
       [127], [PARK Jeongwoo], [KOR], [2780],
-      [128], [ALAMIAN Nima], [IRI], [2780],
+      [128], [尼马 阿拉米安], [IRI], [2780],
     )
   )
