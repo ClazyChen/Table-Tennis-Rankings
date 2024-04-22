@@ -29,7 +29,7 @@
       [22], [ZHOU Kai], [CHN], [3104],
       [23], [XIANG Peng], [CHN], [3104],
       [24], [XU Yingbin], [CHN], [3093],
-      [25], [#text(gray, "JHA Kanak")], [USA], [3092],
+      [25], [JHA Kanak], [USA], [3092],
       [26], [YUAN Licen], [CHN], [3092],
       [27], [KALLBERG Anton], [SWE], [3081],
       [28], [YOSHIMURA Maharu], [JPN], [3078],

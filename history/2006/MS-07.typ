@@ -116,9 +116,9 @@
       [91], [MACHADO Carlos], [ESP], [2199],
       [92], [FEJER-KONNERTH Zoltan], [GER], [2198],
       [93], [ANDRIANOV Sergei], [RUS], [2198],
-      [94], [HAKANSSON Fredrik], [SWE], [2191],
+      [94], [HAKANSSON Fredrik], [SWE], [2192],
       [95], [PAVELKA Tomas], [CZE], [2190],
-      [96], [SUCH Bartosz], [POL], [2189],
+      [96], [SUCH Bartosz], [POL], [2190],
     )
   )#pagebreak()
 

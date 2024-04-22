@@ -32,7 +32,7 @@
       [25], [ZHOU Kai], [CHN], [3104],
       [26], [XIANG Peng], [CHN], [3104],
       [27], [XU Yingbin], [CHN], [3093],
-      [28], [#text(gray, "JHA Kanak")], [USA], [3092],
+      [28], [JHA Kanak], [USA], [3092],
       [29], [YUAN Licen], [CHN], [3092],
       [30], [CHO Daeseong], [KOR], [3073],
       [31], [ARUNA Quadri], [NGR], [3067],

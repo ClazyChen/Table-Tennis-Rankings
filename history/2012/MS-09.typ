@@ -16,7 +16,7 @@
       [9], [MA Lin], [CHN], [3233],
       [10], [MIZUTANI Jun], [JPN], [3162],
       [11], [CHEN Qi], [CHN], [3162],
-      [12], [RYU Seungmin], [KOR], [3126],
+      [12], [RYU Seungmin], [KOR], [3127],
       [13], [NIWA Koki], [JPN], [3122],
       [14], [CHUANG Chih-Yuan], [TPE], [3085],
       [15], [OH Sangeun], [KOR], [3082],

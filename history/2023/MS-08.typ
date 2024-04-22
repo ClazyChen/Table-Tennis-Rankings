@@ -31,7 +31,7 @@
       [24], [TOGAMI Shunsuke], [JPN], [3104],
       [25], [JORGIC Darko], [SLO], [3102],
       [26], [KALLBERG Anton], [SWE], [3101],
-      [27], [#text(gray, "JHA Kanak")], [USA], [3092],
+      [27], [JHA Kanak], [USA], [3092],
       [28], [YOSHIMURA Maharu], [JPN], [3084],
       [29], [FALCK Mattias], [SWE], [3084],
       [30], [YU Ziyang], [CHN], [3061],

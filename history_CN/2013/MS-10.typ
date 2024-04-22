@@ -117,8 +117,8 @@
       [92], [侯英超], [CHN], [2750],
       [93], [YANG Zi], [SGP], [2749],
       [94], [吉村真晴], [JPN], [2747],
-      [95], [KIM Junghoon], [KOR], [2746],
-      [96], [ELOI Damien], [FRA], [2746],
+      [95], [LIN Ju], [DOM], [2746],
+      [96], [KIM Junghoon], [KOR], [2746],
     )
   )#pagebreak()
 
@@ -128,7 +128,7 @@
     table(
       columns: 4,
       [排名], [运动员], [国家/地区], [积分],
-      [97], [LIN Ju], [DOM], [2746],
+      [97], [ELOI Damien], [FRA], [2746],
       [98], [克里斯坦 卡尔松], [SWE], [2739],
       [99], [VANG Bora], [TUR], [2738],
       [100], [UEDA Jin], [JPN], [2736],

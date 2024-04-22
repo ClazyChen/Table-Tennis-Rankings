@@ -131,7 +131,7 @@
       [97], [CIOTI Constantin], [ROU], [1958],
       [98], [唐鹏], [HKG], [1953],
       [99], [ZWICKL Daniel], [HUN], [1950],
-      [100], [TRUKSA Jaromir], [SVK], [1947],
+      [100], [TRUKSA Jaromir], [SVK], [1946],
       [101], [HUANG Johnny], [CAN], [1945],
       [102], [岸川圣也], [JPN], [1942],
       [103], [TASAKI Toshio], [JPN], [1942],
@@ -157,7 +157,7 @@
       [123], [PIACENTINI Valentino], [ITA], [1887],
       [124], [LIM Jaehyun], [KOR], [1886],
       [125], [LUPULESKU Ilija], [USA], [1882],
-      [126], [#text(gray, "BABOOR Chetan")], [IND], [1867],
+      [126], [#text(gray, "BABOOR Chetan")], [IND], [1869],
       [127], [TAVUKCUOGLU Irfan], [TUR], [1866],
       [128], [CIHAK Marek], [CZE], [1864],
     )

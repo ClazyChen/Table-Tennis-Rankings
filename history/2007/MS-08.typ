@@ -24,7 +24,7 @@
       [17], [LI Ching], [HKG], [2665],
       [18], [OVTCHAROV Dimitrij], [GER], [2630],
       [19], [KREANGA Kalinikos], [GRE], [2621],
-      [20], [HE Zhiwen], [ESP], [2616],
+      [20], [HE Zhiwen], [ESP], [2617],
       [21], [KAN Yo], [JPN], [2595],
       [22], [BOBOCICA Mihai], [ITA], [2581],
       [23], [PERSSON Jorgen], [SWE], [2575],

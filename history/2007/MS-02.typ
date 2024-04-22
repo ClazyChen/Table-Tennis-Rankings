@@ -115,7 +115,7 @@
       [90], [HAKANSSON Fredrik], [SWE], [2262],
       [91], [TORIOLA Segun], [NGR], [2257],
       [92], [KISHIKAWA Seiya], [JPN], [2257],
-      [93], [GRUJIC Slobodan], [SRB], [2253],
+      [93], [GRUJIC Slobodan], [SRB], [2254],
       [94], [WANG Zengyi], [POL], [2246],
       [95], [MONTEIRO Joao], [POR], [2245],
       [96], [PISTEJ Lubomir], [SVK], [2243],

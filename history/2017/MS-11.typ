@@ -18,7 +18,7 @@
       [11], [JEOUNG Youngsik], [KOR], [3224],
       [12], [LEE Sang Su], [KOR], [3206],
       [13], [LIANG Jingkun], [CHN], [3196],
-      [14], [HARIMOTO Tomokazu], [JPN], [3187],
+      [14], [HARIMOTO Tomokazu], [JPN], [3188],
       [15], [NIWA Koki], [JPN], [3179],
       [16], [SAMSONOV Vladimir], [BLR], [3168],
       [17], [GAUZY Simon], [FRA], [3156],

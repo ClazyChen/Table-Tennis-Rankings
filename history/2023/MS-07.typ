@@ -30,7 +30,7 @@
       [23], [LEBRUN Felix], [FRA], [3109],
       [24], [ZHOU Kai], [CHN], [3104],
       [25], [XU Yingbin], [CHN], [3093],
-      [26], [#text(gray, "JHA Kanak")], [USA], [3092],
+      [26], [JHA Kanak], [USA], [3092],
       [27], [FALCK Mattias], [SWE], [3084],
       [28], [YOSHIMURA Maharu], [JPN], [3078],
       [29], [FRANZISKA Patrick], [GER], [3071],

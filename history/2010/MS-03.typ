@@ -135,7 +135,7 @@
       [101], [SVENSSON Robert], [SWE], [2414],
       [102], [JAKAB Janos], [HUN], [2412],
       [103], [#text(gray, "YANG Min")], [ITA], [2412],
-      [104], [WOSIK Torben], [GER], [2406],
+      [104], [WOSIK Torben], [GER], [2407],
       [105], [YANG Zi], [SGP], [2406],
       [106], [LIM Jaehyun], [KOR], [2405],
       [107], [ILLAS Erik], [SVK], [2401],

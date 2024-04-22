@@ -26,7 +26,7 @@
       [19], [KREANGA Kalinikos], [GRE], [2956],
       [20], [LIVENTSOV Alexey], [RUS], [2956],
       [21], [MATTENET Adrien], [FRA], [2938],
-      [22], [MAZE Michael], [DEN], [2931],
+      [22], [MAZE Michael], [DEN], [2932],
       [23], [KISHIKAWA Seiya], [JPN], [2928],
       [24], [YOSHIDA Kaii], [JPN], [2923],
       [25], [STEGER Bastian], [GER], [2923],

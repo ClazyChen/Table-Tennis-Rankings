@@ -150,7 +150,7 @@
       [116], [张本智和], [JPN], [2806],
       [117], [高宁], [SGP], [2804],
       [118], [SZOCS Hunor], [ROU], [2804],
-      [119], [WALTHER Ricardo], [GER], [2803],
+      [119], [WALTHER Ricardo], [GER], [2804],
       [120], [LAKEEV Vasily], [RUS], [2799],
       [121], [ZHMUDENKO Yaroslav], [UKR], [2798],
       [122], [MACHADO Carlos], [ESP], [2796],

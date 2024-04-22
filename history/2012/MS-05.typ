@@ -113,7 +113,7 @@
       [88], [#text(gray, "SONG Hongyuan")], [CHN], [2720],
       [89], [JEVTOVIC Marko], [SRB], [2718],
       [90], [SHIBAEV Alexander], [RUS], [2711],
-      [91], [AGUIRRE Marcelo], [PAR], [2707],
+      [91], [AGUIRRE Marcelo], [PAR], [2708],
       [92], [TAN Ruiwu], [CRO], [2704],
       [93], [LASHIN El-Sayed], [EGY], [2703],
       [94], [GACINA Andrej], [CRO], [2702],

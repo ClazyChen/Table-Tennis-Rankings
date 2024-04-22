@@ -94,9 +94,9 @@
       [69], [巴斯蒂安 斯蒂格], [GER], [2200],
       [70], [KUZMIN Fedor], [RUS], [2193],
       [71], [HIELSCHER Lars], [GER], [2193],
-      [72], [HAKANSSON Fredrik], [SWE], [2191],
+      [72], [HAKANSSON Fredrik], [SWE], [2192],
       [73], [PAVELKA Tomas], [CZE], [2190],
-      [74], [SUCH Bartosz], [POL], [2189],
+      [74], [SUCH Bartosz], [POL], [2190],
       [75], [SAIVE Philippe], [BEL], [2185],
       [76], [PLACHY Josef], [CZE], [2181],
       [77], [KLASEK Marek], [CZE], [2181],
@@ -157,8 +157,8 @@
       [123], [HUANG Johnny], [CAN], [2005],
       [124], [PHUNG Armand], [FRA], [2001],
       [125], [STEPHENSEN Gudmundur], [ISL], [2000],
-      [126], [#text(gray, "MOLIN Magnus")], [SWE], [1999],
-      [127], [PAZSY Ferenc], [HUN], [1999],
+      [126], [#text(gray, "MOLIN Magnus")], [SWE], [2000],
+      [127], [PAZSY Ferenc], [HUN], [1998],
       [128], [VYBORNY Richard], [CZE], [1993],
     )
   )

@@ -74,8 +74,8 @@
       [58], [GARDOS Robert], [AUT], [2395],
       [59], [QIU Yike], [CHN], [2391],
       [60], [LEE Jinkwon], [KOR], [2385],
-      [61], [#text(gray, "ZHOU Bin")], [CHN], [2382],
-      [62], [PAZSY Ferenc], [HUN], [2382],
+      [61], [PAZSY Ferenc], [HUN], [2382],
+      [62], [#text(gray, "ZHOU Bin")], [CHN], [2382],
       [63], [SUSS Christian], [GER], [2373],
       [64], [BENTSEN Allan], [DEN], [2369],
     )

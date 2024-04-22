@@ -55,7 +55,7 @@
       [39], [KIM Hayeong], [KOR], [2937],
       [40], [CHENG I-Ching], [TPE], [2937],
       [41], [LIU Jia], [AUT], [2934],
-      [42], [#text(gray, "ODO Satsuki")], [JPN], [2928],
+      [42], [ODO Satsuki], [JPN], [2928],
       [43], [SHIN Yubin], [KOR], [2904],
       [44], [OJIO Haruna], [JPN], [2901],
       [45], [KUAI Man], [CHN], [2888],

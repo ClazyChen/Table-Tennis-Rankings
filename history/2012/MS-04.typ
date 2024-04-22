@@ -138,7 +138,7 @@
       [104], [HABESOHN Daniel], [AUT], [2629],
       [105], [PETO Zsolt], [SRB], [2623],
       [106], [TSUBOI Gustavo], [BRA], [2620],
-      [107], [LIU Song], [ARG], [2618],
+      [107], [LIU Song], [ARG], [2619],
       [108], [KUZMIN Fedor], [RUS], [2618],
       [109], [CHEUNG Yuk], [HKG], [2618],
       [110], [ACHANTA Sharath Kamal], [IND], [2617],

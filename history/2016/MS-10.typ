@@ -34,7 +34,7 @@
       [27], [TANG Peng], [HKG], [3048],
       [28], [CHEN Chien-An], [TPE], [3038],
       [29], [DRINKHALL Paul], [ENG], [3037],
-      [30], [GROTH Jonathan], [DEN], [3033],
+      [30], [GROTH Jonathan], [DEN], [3034],
       [31], [CHEN Weixing], [AUT], [3032],
       [32], [MATSUDAIRA Kenta], [JPN], [3031],
     )
@@ -149,7 +149,7 @@
       [115], [JIN Takuya], [JPN], [2808],
       [116], [KANG Dongsoo], [KOR], [2808],
       [117], [HARIMOTO Tomokazu], [JPN], [2806],
-      [118], [WALTHER Ricardo], [GER], [2803],
+      [118], [WALTHER Ricardo], [GER], [2804],
       [119], [LI Ahmet], [TUR], [2801],
       [120], [LAKEEV Vasily], [RUS], [2799],
       [121], [ZHMUDENKO Yaroslav], [UKR], [2798],

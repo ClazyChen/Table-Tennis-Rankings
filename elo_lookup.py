@@ -1,9 +1,9 @@
 import json
 from elo_preparation import date2int
 
-date = '2024-03-27'
+date = '2024-04-15'
 date = date2int(date)
-target_event_id = 2899
+target_event_id = 2937
 
 def read_elo(game_type):
     with open('data/elo_report_{}.json'.format(game_type), 'r') as f:
@@ -101,8 +101,11 @@ with open('data/matches_profile.json', 'r') as f:
         if delta * ranking_delta > 0:
             correct_matches[game_type] += 1
             s += ' correct'
-        else:
+        elif delta * ranking_delta < 0:
             s += ' wrong'
+        else:
+            total_matches[game_type] -= 1
+            s += ' draw'
         lookup_result[game_type].append(s)
 
 for game_type in ['MS', 'WS']:

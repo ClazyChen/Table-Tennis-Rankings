@@ -17,7 +17,7 @@
       [10], [FANG Bo], [CHN], [3189],
       [11], [NIWA Koki], [JPN], [3187],
       [12], [SAMSONOV Vladimir], [BLR], [3187],
-      [13], [OVTCHAROV Dimitrij], [GER], [3171],
+      [13], [OVTCHAROV Dimitrij], [GER], [3172],
       [14], [CHUANG Chih-Yuan], [TPE], [3151],
       [15], [FREITAS Marcos], [POR], [3149],
       [16], [GAO Ning], [SGP], [3122],

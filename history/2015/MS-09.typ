@@ -96,7 +96,7 @@
       [71], [WANG Eugene], [CAN], [2867],
       [72], [MACHI Asuka], [JPN], [2865],
       [73], [PAK Sin Hyok], [PRK], [2863],
-      [74], [TSUBOI Gustavo], [BRA], [2861],
+      [74], [TSUBOI Gustavo], [BRA], [2862],
       [75], [JANG Woojin], [KOR], [2859],
       [76], [OIKAWA Mizuki], [JPN], [2856],
       [77], [KARAKASEVIC Aleksandar], [SRB], [2855],

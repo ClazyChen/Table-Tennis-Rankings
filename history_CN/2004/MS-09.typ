@@ -118,7 +118,7 @@
       [93], [SHMYREV Maxim], [RUS], [1960],
       [94], [OLEJNIK Martin], [CZE], [1954],
       [95], [唐鹏], [HKG], [1953],
-      [96], [TRUKSA Jaromir], [SVK], [1947],
+      [96], [TRUKSA Jaromir], [SVK], [1946],
     )
   )#pagebreak()
 
@@ -143,7 +143,7 @@
       [109], [TSIOKAS Ntaniel], [GRE], [1917],
       [110], [KOSOWSKI Jakub], [POL], [1915],
       [111], [VYBORNY Richard], [CZE], [1903],
-      [112], [SEREDA Peter], [SVK], [1899],
+      [112], [SEREDA Peter], [SVK], [1900],
       [113], [FETH Stefan], [GER], [1893],
       [114], [STEPHENSEN Gudmundur], [ISL], [1890],
       [115], [PIACENTINI Valentino], [ITA], [1887],
@@ -152,7 +152,7 @@
       [118], [LUPULESKU Ilija], [USA], [1882],
       [119], [SURBEK Dragutin Jr], [CRO], [1874],
       [120], [LEGOUT Christophe], [FRA], [1871],
-      [121], [#text(gray, "BABOOR Chetan")], [IND], [1867],
+      [121], [#text(gray, "BABOOR Chetan")], [IND], [1869],
       [122], [TAVUKCUOGLU Irfan], [TUR], [1866],
       [123], [HENZELL William], [AUS], [1864],
       [124], [ZWICKL Daniel], [HUN], [1862],

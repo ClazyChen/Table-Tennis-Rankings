@@ -75,7 +75,7 @@
       [59], [MURAMATSU Yuto], [JPN], [2887],
       [60], [GACINA Andrej], [CRO], [2884],
       [61], [KIM Minseok], [KOR], [2883],
-      [62], [HE Zhiwen], [ESP], [2881],
+      [62], [HE Zhiwen], [ESP], [2882],
       [63], [HO Kwan Kit], [HKG], [2881],
       [64], [ZHOU Qihao], [CHN], [2878],
     )

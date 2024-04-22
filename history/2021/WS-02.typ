@@ -55,7 +55,7 @@
       [39], [GUO Yuhan], [CHN], [2949],
       [40], [CHEN Yi], [CHN], [2941],
       [41], [KIM Hayeong], [KOR], [2937],
-      [42], [#text(gray, "ODO Satsuki")], [JPN], [2928],
+      [42], [ODO Satsuki], [JPN], [2928],
       [43], [CHOI Hyojoo], [KOR], [2922],
       [44], [DIAZ Adriana], [PUR], [2906],
       [45], [OJIO Haruna], [JPN], [2901],

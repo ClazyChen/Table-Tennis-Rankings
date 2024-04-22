@@ -118,7 +118,7 @@
       [93], [FAZEKAS Peter], [HUN], [1962],
       [94], [OLEJNIK Martin], [CZE], [1954],
       [95], [唐鹏], [HKG], [1953],
-      [96], [TRUKSA Jaromir], [SVK], [1947],
+      [96], [TRUKSA Jaromir], [SVK], [1946],
     )
   )#pagebreak()
 
@@ -134,7 +134,7 @@
       [100], [ZHUANG David], [USA], [1933],
       [101], [DEMETER Lehel], [HUN], [1932],
       [102], [FENG Zhe], [BUL], [1932],
-      [103], [YUZAWA Ryo], [JPN], [1929],
+      [103], [YUZAWA Ryo], [JPN], [1928],
       [104], [CARNEROS Alfredo], [ESP], [1923],
       [105], [TSIOKAS Ntaniel], [GRE], [1917],
       [106], [KOSOWSKI Jakub], [POL], [1915],
@@ -144,7 +144,7 @@
       [110], [TASAKI Toshio], [JPN], [1906],
       [111], [MONTEIRO Thiago], [BRA], [1903],
       [112], [VYBORNY Richard], [CZE], [1903],
-      [113], [SEREDA Peter], [SVK], [1899],
+      [113], [SEREDA Peter], [SVK], [1900],
       [114], [FETH Stefan], [GER], [1893],
       [115], [STEPHENSEN Gudmundur], [ISL], [1890],
       [116], [PIACENTINI Valentino], [ITA], [1887],
@@ -153,7 +153,7 @@
       [119], [LO Dany], [FRA], [1875],
       [120], [SURBEK Dragutin Jr], [CRO], [1874],
       [121], [LEGOUT Christophe], [FRA], [1871],
-      [122], [#text(gray, "BABOOR Chetan")], [IND], [1867],
+      [122], [#text(gray, "BABOOR Chetan")], [IND], [1869],
       [123], [TAVUKCUOGLU Irfan], [TUR], [1866],
       [124], [ZWICKL Daniel], [HUN], [1862],
       [125], [MURAMORI Minoru], [JPN], [1853],

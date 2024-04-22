@@ -71,7 +71,7 @@
       [55], [JEONG Sangeun], [KOR], [2889],
       [56], [ACHANTA Sharath Kamal], [IND], [2889],
       [57], [GACINA Andrej], [CRO], [2884],
-      [58], [HE Zhiwen], [ESP], [2881],
+      [58], [HE Zhiwen], [ESP], [2882],
       [59], [OSHIMA Yuya], [JPN], [2881],
       [60], [HO Kwan Kit], [HKG], [2881],
       [61], [ZHOU Qihao], [CHN], [2878],

@@ -22,7 +22,7 @@
       [15], [OVTCHAROV Dimitrij], [GER], [2957],
       [16], [CHAN Kazuhiro], [JPN], [2951],
       [17], [BAUM Patrick], [GER], [2937],
-      [18], [MAZE Michael], [DEN], [2931],
+      [18], [MAZE Michael], [DEN], [2932],
       [19], [OH Sangeun], [KOR], [2917],
       [20], [SUSS Christian], [GER], [2904],
       [21], [APOLONIA Tiago], [POR], [2898],

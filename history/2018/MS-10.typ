@@ -66,7 +66,7 @@
       [50], [GACINA Andrej], [CRO], [3008],
       [51], [KOU Lei], [UKR], [3007],
       [52], [ZHOU Kai], [CHN], [3002],
-      [53], [#text(gray, "LI Ping")], [QAT], [2999],
+      [53], [#text(gray, "LI Ping")], [QAT], [3000],
       [54], [ZHOU Qihao], [CHN], [2998],
       [55], [FLORE Tristan], [FRA], [2990],
       [56], [PERSSON Jon], [SWE], [2978],

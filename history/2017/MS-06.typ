@@ -105,7 +105,7 @@
       [80], [PERSSON Jon], [SWE], [2888],
       [81], [WANG Yang], [SVK], [2888],
       [82], [DRINKHALL Paul], [ENG], [2886],
-      [83], [LIAO Cheng-Ting], [TPE], [2885],
+      [83], [LIAO Cheng-Ting], [TPE], [2886],
       [84], [TAZOE Kenta], [JPN], [2883],
       [85], [HARIMOTO Tomokazu], [JPN], [2881],
       [86], [ZHMUDENKO Yaroslav], [UKR], [2880],

@@ -116,8 +116,8 @@
       [91], [WALTHER Ricardo], [GER], [2790],
       [92], [陈建安], [TPE], [2790],
       [93], [#text(gray, "VANG Bora")], [TUR], [2788],
-      [94], [维尔纳 施拉格], [AUT], [2785],
-      [95], [PISTEJ Lubomir], [SVK], [2785],
+      [94], [PISTEJ Lubomir], [SVK], [2785],
+      [95], [维尔纳 施拉格], [AUT], [2785],
       [96], [#text(gray, "LIN Ju")], [DOM], [2782],
     )
   )#pagebreak()

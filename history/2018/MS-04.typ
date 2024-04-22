@@ -58,7 +58,7 @@
       [42], [CHUANG Chih-Yuan], [TPE], [3015],
       [43], [LIU Dingshuo], [CHN], [3006],
       [44], [JEONG Sangeun], [KOR], [3005],
-      [45], [#text(gray, "LI Ping")], [QAT], [2999],
+      [45], [#text(gray, "LI Ping")], [QAT], [3000],
       [46], [GACINA Andrej], [CRO], [2997],
       [47], [FILUS Ruwen], [GER], [2991],
       [48], [HARIMOTO Tomokazu], [JPN], [2989],

@@ -18,7 +18,7 @@
       [11], [FANG Bo], [CHN], [3243],
       [12], [JEOUNG Youngsik], [KOR], [3224],
       [13], [LIANG Jingkun], [CHN], [3196],
-      [14], [HARIMOTO Tomokazu], [JPN], [3187],
+      [14], [HARIMOTO Tomokazu], [JPN], [3188],
       [15], [SAMSONOV Vladimir], [BLR], [3168],
       [16], [NIWA Koki], [JPN], [3147],
       [17], [#text(gray, "JOO Saehyuk")], [KOR], [3133],

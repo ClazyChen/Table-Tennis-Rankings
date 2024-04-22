@@ -67,7 +67,7 @@
       [51], [KOU Lei], [UKR], [3007],
       [52], [ARUNA Quadri], [NGR], [3006],
       [53], [ZHOU Kai], [CHN], [3002],
-      [54], [#text(gray, "LI Ping")], [QAT], [2999],
+      [54], [#text(gray, "LI Ping")], [QAT], [3000],
       [55], [ZHOU Qihao], [CHN], [2998],
       [56], [FLORE Tristan], [FRA], [2990],
       [57], [GAUZY Simon], [FRA], [2984],

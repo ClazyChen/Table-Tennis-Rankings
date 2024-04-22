@@ -116,8 +116,8 @@
       [91], [WALTHER Ricardo], [GER], [2790],
       [92], [CHEN Chien-An], [TPE], [2790],
       [93], [#text(gray, "VANG Bora")], [TUR], [2788],
-      [94], [SCHLAGER Werner], [AUT], [2785],
-      [95], [PISTEJ Lubomir], [SVK], [2785],
+      [94], [PISTEJ Lubomir], [SVK], [2785],
+      [95], [SCHLAGER Werner], [AUT], [2785],
       [96], [#text(gray, "LIN Ju")], [DOM], [2782],
     )
   )#pagebreak()

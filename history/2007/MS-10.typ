@@ -28,7 +28,7 @@
       [21], [TANG Peng], [HKG], [2623],
       [22], [KORBEL Petr], [CZE], [2622],
       [23], [KREANGA Kalinikos], [GRE], [2621],
-      [24], [HE Zhiwen], [ESP], [2616],
+      [24], [HE Zhiwen], [ESP], [2617],
       [25], [KAN Yo], [JPN], [2595],
       [26], [PERSSON Jorgen], [SWE], [2572],
       [27], [WALDNER Jan-Ove], [SWE], [2570],

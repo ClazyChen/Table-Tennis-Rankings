@@ -74,8 +74,8 @@
       [58], [罗伯特 加尔多斯], [AUT], [2395],
       [59], [邱贻可], [CHN], [2391],
       [60], [LEE Jinkwon], [KOR], [2385],
-      [61], [#text(gray, "ZHOU Bin")], [CHN], [2382],
-      [62], [PAZSY Ferenc], [HUN], [2382],
+      [61], [PAZSY Ferenc], [HUN], [2382],
+      [62], [#text(gray, "ZHOU Bin")], [CHN], [2382],
       [63], [克里斯蒂安 苏斯], [GER], [2373],
       [64], [BENTSEN Allan], [DEN], [2369],
     )

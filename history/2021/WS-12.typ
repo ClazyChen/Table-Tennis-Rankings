@@ -56,7 +56,7 @@
       [40], [CHEN Yi], [CHN], [2941],
       [41], [KIM Hayeong], [KOR], [2937],
       [42], [LIU Jia], [AUT], [2934],
-      [43], [#text(gray, "ODO Satsuki")], [JPN], [2928],
+      [43], [ODO Satsuki], [JPN], [2928],
       [44], [CHEN Szu-Yu], [TPE], [2906],
       [45], [BERGSTROM Linda], [SWE], [2906],
       [46], [ZENG Jian], [SGP], [2904],

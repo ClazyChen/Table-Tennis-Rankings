@@ -91,7 +91,7 @@
       [66], [HACHARD Antoine], [FRA], [2874],
       [67], [HE Zhiwen], [ESP], [2874],
       [68], [HO Kwan Kit], [HKG], [2874],
-      [69], [ALAMIAN Nima], [IRI], [2872],
+      [69], [ALAMIAN Nima], [IRI], [2873],
       [70], [OUAICHE Stephane], [ALG], [2870],
       [71], [ARUNA Quadri], [NGR], [2870],
       [72], [APOLONIA Tiago], [POR], [2869],

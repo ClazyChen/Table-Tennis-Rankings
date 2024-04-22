@@ -134,7 +134,7 @@
       [100], [SHMYREV Maxim], [RUS], [2412],
       [101], [#text(gray, "YANG Min")], [ITA], [2412],
       [102], [斯蒂芬 门格尔], [GER], [2410],
-      [103], [WOSIK Torben], [GER], [2406],
+      [103], [WOSIK Torben], [GER], [2407],
       [104], [MATSUDAIRA Kenji], [JPN], [2406],
       [105], [让 米歇尔 赛弗], [BEL], [2405],
       [106], [LIM Jaehyun], [KOR], [2405],

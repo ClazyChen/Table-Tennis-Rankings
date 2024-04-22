@@ -31,7 +31,7 @@
       [24], [ZHOU Kai], [CHN], [3104],
       [25], [XU Yingbin], [CHN], [3099],
       [26], [CHO Daeseong], [KOR], [3094],
-      [27], [#text(gray, "JHA Kanak")], [USA], [3092],
+      [27], [JHA Kanak], [USA], [3092],
       [28], [FRANZISKA Patrick], [GER], [3068],
       [29], [LEBRUN Alexis], [FRA], [3066],
       [30], [YU Ziyang], [CHN], [3061],

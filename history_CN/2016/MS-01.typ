@@ -34,7 +34,7 @@
       [27], [LUNDQVIST Jens], [SWE], [3039],
       [28], [GERELL Par], [SWE], [3034],
       [29], [CHEN Weixing], [AUT], [3021],
-      [30], [SHIBAEV Alexander], [RUS], [3019],
+      [30], [SHIBAEV Alexander], [RUS], [3020],
       [31], [克里斯坦 卡尔松], [SWE], [3014],
       [32], [帕特里克 弗朗西斯卡], [GER], [3010],
     )
@@ -55,7 +55,7 @@
       [39], [松平健太], [JPN], [2990],
       [40], [高宁], [SGP], [2989],
       [41], [吉田海伟], [JPN], [2985],
-      [42], [WANG Zengyi], [POL], [2976],
+      [42], [WANG Zengyi], [POL], [2977],
       [43], [CHIANG Hung-Chieh], [TPE], [2957],
       [44], [李廷佑], [KOR], [2957],
       [45], [MATTENET Adrien], [FRA], [2955],

@@ -108,7 +108,7 @@
       [83], [MAZUNOV Dmitry], [RUS], [2349],
       [84], [HAN Jimin], [KOR], [2346],
       [85], [CARNEROS Alfredo], [ESP], [2341],
-      [86], [CHTCHETININE Evgueni], [BLR], [2337],
+      [86], [CHTCHETININE Evgueni], [BLR], [2338],
       [87], [WANG Zengyi], [POL], [2337],
       [88], [LEE Jinkwon], [KOR], [2331],
       [89], [GORAK Daniel], [POL], [2326],

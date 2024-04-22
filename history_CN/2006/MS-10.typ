@@ -137,7 +137,7 @@
       [103], [唐鹏], [HKG], [2202],
       [104], [LEUNG Chu Yan], [HKG], [2198],
       [105], [ANDRIANOV Sergei], [RUS], [2198],
-      [106], [HAKANSSON Fredrik], [SWE], [2191],
+      [106], [HAKANSSON Fredrik], [SWE], [2192],
       [107], [PAVELKA Tomas], [CZE], [2190],
       [108], [PIACENTINI Valentino], [ITA], [2184],
       [109], [HEISTER Danny], [NED], [2181],

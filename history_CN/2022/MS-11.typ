@@ -137,7 +137,7 @@
       [103], [#text(gray, "ZHANG Yudong")], [CHN], [2815],
       [104], [BRODD Viktor], [SWE], [2813],
       [105], [ZELJKO Filip], [CRO], [2811],
-      [106], [牛冠凯], [CHN], [2806],
+      [106], [牛冠凯], [CHN], [2807],
       [107], [基里尔 格拉西缅科], [KAZ], [2804],
       [108], [PARK Chan-Hyeok], [KOR], [2802],
       [109], [HABESOHN Daniel], [AUT], [2799],

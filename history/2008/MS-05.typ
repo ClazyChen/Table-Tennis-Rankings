@@ -26,7 +26,7 @@
       [19], [OH Sangeun], [KOR], [2748],
       [20], [SCHLAGER Werner], [AUT], [2748],
       [21], [MAZE Michael], [DEN], [2742],
-      [22], [LEE Jungwoo], [KOR], [2733],
+      [22], [LEE Jungwoo], [KOR], [2734],
       [23], [CHUANG Chih-Yuan], [TPE], [2727],
       [24], [PRIMORAC Zoran], [CRO], [2713],
       [25], [YOSHIDA Kaii], [JPN], [2708],

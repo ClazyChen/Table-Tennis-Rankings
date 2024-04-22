@@ -98,8 +98,8 @@
       [73], [MAZUNOV Dmitry], [RUS], [2112],
       [74], [FAZEKAS Peter], [HUN], [2107],
       [75], [TORIOLA Segun], [NGR], [2099],
-      [76], [SCHLICHTER Jorg], [GER], [2096],
-      [77], [GIONIS Panagiotis], [GRE], [2095],
+      [76], [SCHLICHTER Jorg], [GER], [2097],
+      [77], [GIONIS Panagiotis], [GRE], [2096],
       [78], [HOU Yingchao], [CHN], [2091],
       [79], [MIZUTANI Jun], [JPN], [2078],
       [80], [MATSUSHITA Koji], [JPN], [2075],
@@ -147,7 +147,7 @@
       [113], [MONTEIRO Joao], [POR], [1970],
       [114], [OLEJNIK Martin], [CZE], [1969],
       [115], [WU Chih-Chi], [TPE], [1967],
-      [116], [JAKAB Janos], [HUN], [1965],
+      [116], [JAKAB Janos], [HUN], [1966],
       [117], [LENGEROV Kostadin], [AUT], [1965],
       [118], [ACHANTA Sharath Kamal], [IND], [1965],
       [119], [APOLONIA Tiago], [POR], [1963],
@@ -158,7 +158,7 @@
       [124], [JOVER Sebastien], [FRA], [1948],
       [125], [JIANG Weizhong], [CRO], [1948],
       [126], [ZHMUDENKO Yaroslav], [UKR], [1948],
-      [127], [TRUKSA Jaromir], [SVK], [1947],
+      [127], [TRUKSA Jaromir], [SVK], [1946],
       [128], [STEPHENSEN Gudmundur], [ISL], [1940],
     )
   )

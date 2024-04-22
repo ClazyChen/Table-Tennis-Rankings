@@ -17,7 +17,7 @@
       [10], [SAMSONOV Vladimir], [BLR], [3180],
       [11], [MIZUTANI Jun], [JPN], [3162],
       [12], [CHEN Qi], [CHN], [3162],
-      [13], [RYU Seungmin], [KOR], [3126],
+      [13], [RYU Seungmin], [KOR], [3127],
       [14], [STEGER Bastian], [GER], [3111],
       [15], [NIWA Koki], [JPN], [3094],
       [16], [CRISAN Adrian], [ROU], [3076],

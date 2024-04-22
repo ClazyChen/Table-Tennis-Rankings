@@ -29,7 +29,7 @@
       [22], [JORGIC Darko], [SLO], [3102],
       [23], [KALLBERG Anton], [SWE], [3101],
       [24], [FRANZISKA Patrick], [GER], [3095],
-      [25], [#text(gray, "JHA Kanak")], [USA], [3092],
+      [25], [JHA Kanak], [USA], [3092],
       [26], [ARUNA Quadri], [NGR], [3089],
       [27], [FREITAS Marcos], [POR], [3085],
       [28], [YOSHIMURA Maharu], [JPN], [3084],

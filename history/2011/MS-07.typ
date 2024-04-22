@@ -25,7 +25,7 @@
       [18], [KREANGA Kalinikos], [GRE], [2986],
       [19], [CHUANG Chih-Yuan], [TPE], [2982],
       [20], [MATTENET Adrien], [FRA], [2934],
-      [21], [MAZE Michael], [DEN], [2931],
+      [21], [MAZE Michael], [DEN], [2932],
       [22], [BAUM Patrick], [GER], [2918],
       [23], [CHAN Kazuhiro], [JPN], [2912],
       [24], [LEE Jungwoo], [KOR], [2886],

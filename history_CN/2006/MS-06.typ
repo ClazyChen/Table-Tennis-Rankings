@@ -36,7 +36,7 @@
       [29], [SMIRNOV Alexey], [RUS], [2481],
       [30], [高礼泽], [HKG], [2460],
       [31], [克里斯蒂安 苏斯], [GER], [2455],
-      [32], [CHEUNG Yuk], [HKG], [2449],
+      [32], [PRIMORAC Zoran], [CRO], [2449],
     )
   )#pagebreak()
 
@@ -46,7 +46,7 @@
     table(
       columns: 4,
       [排名], [运动员], [国家/地区], [积分],
-      [33], [PRIMORAC Zoran], [CRO], [2449],
+      [33], [CHEUNG Yuk], [HKG], [2449],
       [34], [YANG Min], [ITA], [2448],
       [35], [HE Zhiwen], [ESP], [2444],
       [36], [ZHANG Chao], [CHN], [2437],
@@ -112,9 +112,9 @@
       [87], [ANDRIANOV Sergei], [RUS], [2198],
       [88], [HIELSCHER Lars], [GER], [2193],
       [89], [PISTEJ Lubomir], [SVK], [2192],
-      [90], [HAKANSSON Fredrik], [SWE], [2191],
+      [90], [HAKANSSON Fredrik], [SWE], [2192],
       [91], [PAVELKA Tomas], [CZE], [2190],
-      [92], [SUCH Bartosz], [POL], [2189],
+      [92], [SUCH Bartosz], [POL], [2190],
       [93], [PIACENTINI Valentino], [ITA], [2184],
       [94], [HEISTER Danny], [NED], [2181],
       [95], [PLACHY Josef], [CZE], [2181],
@@ -141,7 +141,7 @@
       [107], [KUSINSKI Marcin], [POL], [2135],
       [108], [HENZELL William], [AUS], [2131],
       [109], [RUMGAY Gavin], [SCO], [2131],
-      [110], [CARNEROS Alfredo], [ESP], [2108],
+      [110], [CARNEROS Alfredo], [ESP], [2109],
       [111], [KATKOV Ivan], [UKR], [2107],
       [112], [MOLDOVAN Istvan], [NOR], [2105],
       [113], [GERELL Par], [SWE], [2100],

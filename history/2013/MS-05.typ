@@ -63,7 +63,7 @@
       [47], [GACINA Andrej], [CRO], [2875],
       [48], [GIONIS Panagiotis], [GRE], [2867],
       [49], [YOSHIMURA Maharu], [JPN], [2856],
-      [50], [MATSUMOTO Cazuo], [BRA], [2853],
+      [50], [MATSUMOTO Cazuo], [BRA], [2854],
       [51], [MATSUDAIRA Kenta], [JPN], [2852],
       [52], [GORAK Daniel], [POL], [2843],
       [53], [CHO Eonrae], [KOR], [2837],

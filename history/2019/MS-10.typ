@@ -21,7 +21,7 @@
       [14], [JANG Woojin], [KOR], [3205],
       [15], [YAN An], [CHN], [3186],
       [16], [FANG Bo], [CHN], [3174],
-      [17], [JEOUNG Youngsik], [KOR], [3168],
+      [17], [JEOUNG Youngsik], [KOR], [3169],
       [18], [FRANZISKA Patrick], [GER], [3160],
       [19], [FALCK Mattias], [SWE], [3156],
       [20], [KANAMITSU Koyo], [JPN], [3155],

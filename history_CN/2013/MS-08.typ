@@ -116,9 +116,9 @@
       [91], [TSUBOI Gustavo], [BRA], [2761],
       [92], [GERELL Par], [SWE], [2753],
       [93], [侯英超], [CHN], [2750],
-      [94], [KIM Junghoon], [KOR], [2746],
-      [95], [ELOI Damien], [FRA], [2746],
-      [96], [LIN Ju], [DOM], [2746],
+      [94], [LIN Ju], [DOM], [2746],
+      [95], [KIM Junghoon], [KOR], [2746],
+      [96], [ELOI Damien], [FRA], [2746],
     )
   )#pagebreak()
 

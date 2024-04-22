@@ -17,7 +17,7 @@
       [10], [MIZUTANI Jun], [JPN], [3162],
       [11], [CHEN Qi], [CHN], [3162],
       [12], [OVTCHAROV Dimitrij], [GER], [3151],
-      [13], [RYU Seungmin], [KOR], [3126],
+      [13], [RYU Seungmin], [KOR], [3127],
       [14], [NIWA Koki], [JPN], [3122],
       [15], [MAZE Michael], [DEN], [3104],
       [16], [STEGER Bastian], [GER], [3060],

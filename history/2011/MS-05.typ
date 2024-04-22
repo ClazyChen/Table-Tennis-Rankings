@@ -23,7 +23,7 @@
       [16], [LEE Jungwoo], [KOR], [2959],
       [17], [OVTCHAROV Dimitrij], [GER], [2957],
       [18], [BAUM Patrick], [GER], [2937],
-      [19], [MAZE Michael], [DEN], [2931],
+      [19], [MAZE Michael], [DEN], [2932],
       [20], [CHAN Kazuhiro], [JPN], [2918],
       [21], [SUSS Christian], [GER], [2904],
       [22], [APOLONIA Tiago], [POR], [2898],

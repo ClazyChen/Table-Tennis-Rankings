@@ -89,7 +89,7 @@
       [Ranking], [Player], [Country/Region], [Rating],
       [65], [GERELL Par], [SWE], [2933],
       [66], [DRINKHALL Paul], [ENG], [2924],
-      [67], [GERASSIMENKO Kirill], [KAZ], [2923],
+      [67], [GERASSIMENKO Kirill], [KAZ], [2924],
       [68], [DYJAS Jakub], [POL], [2916],
       [69], [KIZUKURI Yuto], [JPN], [2914],
       [70], [GACINA Andrej], [CRO], [2914],

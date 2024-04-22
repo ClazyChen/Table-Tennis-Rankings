@@ -62,7 +62,7 @@
       [46], [TOGAMI Shunsuke], [JPN], [2990],
       [47], [ACHANTA Sharath Kamal], [IND], [2989],
       [48], [AN Jaehyun], [KOR], [2988],
-      [49], [JIN Takuya], [JPN], [2985],
+      [49], [JIN Takuya], [JPN], [2986],
       [50], [GERALDO Joao], [POR], [2985],
       [51], [#text(gray, "MIZUTANI Jun")], [JPN], [2985],
       [52], [OIKAWA Mizuki], [JPN], [2980],

@@ -28,7 +28,7 @@
       [21], [JOO Saehyuk], [KOR], [3055],
       [22], [FANG Bo], [CHN], [3051],
       [23], [MAZE Michael], [DEN], [3049],
-      [24], [NIWA Koki], [JPN], [3041],
+      [24], [NIWA Koki], [JPN], [3042],
       [25], [FREITAS Marcos], [POR], [3041],
       [26], [TANG Peng], [HKG], [3034],
       [27], [STEGER Bastian], [GER], [3033],

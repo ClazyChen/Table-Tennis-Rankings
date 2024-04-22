@@ -58,7 +58,7 @@
       [42], [FLORE Tristan], [FRA], [3017],
       [43], [WALTHER Ricardo], [GER], [3008],
       [44], [LIU Dingshuo], [CHN], [3006],
-      [45], [#text(gray, "LI Ping")], [QAT], [2999],
+      [45], [#text(gray, "LI Ping")], [QAT], [3000],
       [46], [OIKAWA Mizuki], [JPN], [2998],
       [47], [GERASSIMENKO Kirill], [KAZ], [2991],
       [48], [FILUS Ruwen], [GER], [2991],

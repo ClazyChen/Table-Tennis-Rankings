@@ -16,7 +16,7 @@
       [9], [CHEN Qi], [CHN], [3000],
       [10], [JOO Saehyuk], [KOR], [2989],
       [11], [ZHANG Jike], [CHN], [2973],
-      [12], [SAMSONOV Vladimir], [BLR], [2953],
+      [12], [SAMSONOV Vladimir], [BLR], [2954],
       [13], [YOSHIDA Kaii], [JPN], [2875],
       [14], [SUSS Christian], [GER], [2867],
       [15], [SCHLAGER Werner], [AUT], [2867],

@@ -147,7 +147,7 @@
       [113], [KOSOWSKI Jakub], [POL], [2428],
       [114], [WOSIK Torben], [GER], [2428],
       [115], [KASAHARA Hiromitsu], [JPN], [2427],
-      [116], [OYA Hidetoshi], [JPN], [2421],
+      [116], [OYA Hidetoshi], [JPN], [2422],
       [117], [MA Liang], [SGP], [2420],
       [118], [LIVENTSOV Alexey], [RUS], [2418],
       [119], [BURGIS Matiss], [LAT], [2411],

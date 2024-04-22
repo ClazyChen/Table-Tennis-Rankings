@@ -70,7 +70,7 @@
       [54], [LIVENTSOV Alexey], [RUS], [2833],
       [55], [GORAK Daniel], [POL], [2829],
       [56], [SKACHKOV Kirill], [RUS], [2828],
-      [57], [CHEN Feng], [SGP], [2826],
+      [57], [CHEN Feng], [SGP], [2827],
       [58], [SMIRNOV Alexey], [RUS], [2824],
       [59], [岸川圣也], [JPN], [2818],
       [60], [松平健太], [JPN], [2816],

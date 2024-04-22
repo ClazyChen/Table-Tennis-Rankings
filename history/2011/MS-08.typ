@@ -25,7 +25,7 @@
       [18], [KREANGA Kalinikos], [GRE], [2986],
       [19], [CHUANG Chih-Yuan], [TPE], [2935],
       [20], [MATTENET Adrien], [FRA], [2934],
-      [21], [MAZE Michael], [DEN], [2931],
+      [21], [MAZE Michael], [DEN], [2932],
       [22], [KISHIKAWA Seiya], [JPN], [2926],
       [23], [LIN Gaoyuan], [CHN], [2894],
       [24], [BAUM Patrick], [GER], [2877],

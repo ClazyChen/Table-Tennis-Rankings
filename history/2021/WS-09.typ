@@ -55,7 +55,7 @@
       [39], [MITTELHAM Nina], [GER], [2936],
       [40], [LIU Jia], [AUT], [2934],
       [41], [SAWETTABUT Suthasini], [THA], [2930],
-      [42], [#text(gray, "ODO Satsuki")], [JPN], [2928],
+      [42], [ODO Satsuki], [JPN], [2928],
       [43], [OJIO Haruna], [JPN], [2901],
       [44], [SHIN Yubin], [KOR], [2899],
       [45], [ZENG Jian], [SGP], [2899],

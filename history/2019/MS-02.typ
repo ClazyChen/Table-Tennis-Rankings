@@ -61,7 +61,7 @@
       [45], [LEBESSON Emmanuel], [FRA], [3010],
       [46], [PISTEJ Lubomir], [SVK], [3003],
       [47], [OSHIMA Yuya], [JPN], [3002],
-      [48], [#text(gray, "LI Ping")], [QAT], [2999],
+      [48], [#text(gray, "LI Ping")], [QAT], [3000],
       [49], [SHIBAEV Alexander], [RUS], [2995],
       [50], [CHO Seungmin], [KOR], [2994],
       [51], [ZHAO Zihao], [CHN], [2992],

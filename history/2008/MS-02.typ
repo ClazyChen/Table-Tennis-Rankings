@@ -20,7 +20,7 @@
       [13], [OH Sangeun], [KOR], [2748],
       [14], [PRIMORAC Zoran], [CRO], [2740],
       [15], [SUSS Christian], [GER], [2737],
-      [16], [GAO Ning], [SGP], [2675],
+      [16], [GAO Ning], [SGP], [2676],
       [17], [QIU Yike], [CHN], [2674],
       [18], [HE Zhiwen], [ESP], [2671],
       [19], [LI Ping], [QAT], [2665],

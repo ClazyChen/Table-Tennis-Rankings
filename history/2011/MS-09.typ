@@ -27,7 +27,7 @@
       [20], [SEO Hyundeok], [KOR], [2980],
       [21], [CHUANG Chih-Yuan], [TPE], [2977],
       [22], [MATTENET Adrien], [FRA], [2938],
-      [23], [MAZE Michael], [DEN], [2931],
+      [23], [MAZE Michael], [DEN], [2932],
       [24], [KISHIKAWA Seiya], [JPN], [2928],
       [25], [LIN Gaoyuan], [CHN], [2894],
       [26], [STEGER Bastian], [GER], [2887],

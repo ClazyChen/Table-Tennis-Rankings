@@ -117,7 +117,7 @@
       [92], [OLEJNIK Martin], [CZE], [1954],
       [93], [TANG Peng], [HKG], [1953],
       [94], [LEE Chulseung], [KOR], [1949],
-      [95], [TRUKSA Jaromir], [SVK], [1947],
+      [95], [TRUKSA Jaromir], [SVK], [1946],
       [96], [KUSINSKI Marcin], [POL], [1945],
     )
   )#pagebreak()
@@ -142,7 +142,7 @@
       [108], [KEINATH Thomas], [SVK], [1903],
       [109], [VYBORNY Richard], [CZE], [1903],
       [110], [MONTEIRO Thiago], [BRA], [1902],
-      [111], [SEREDA Peter], [SVK], [1899],
+      [111], [SEREDA Peter], [SVK], [1900],
       [112], [YUZAWA Ryo], [JPN], [1899],
       [113], [STEPHENSEN Gudmundur], [ISL], [1890],
       [114], [PIACENTINI Valentino], [ITA], [1888],
@@ -151,7 +151,7 @@
       [117], [FETH Stefan], [GER], [1874],
       [118], [MONDELLO Massimiliano], [ITA], [1874],
       [119], [PAPAGEORGIOU Konstantinos], [GRE], [1870],
-      [120], [#text(gray, "BABOOR Chetan")], [IND], [1867],
+      [120], [#text(gray, "BABOOR Chetan")], [IND], [1869],
       [121], [TAVUKCUOGLU Irfan], [TUR], [1866],
       [122], [MURAMORI Minoru], [JPN], [1858],
       [123], [LEGOUT Christophe], [FRA], [1855],

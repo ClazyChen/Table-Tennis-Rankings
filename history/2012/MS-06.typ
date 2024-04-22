@@ -77,7 +77,7 @@
       [61], [PATTANTYUS Adam], [HUN], [2804],
       [62], [CHO Eonrae], [KOR], [2802],
       [63], [SUSS Christian], [GER], [2788],
-      [64], [MATSUDAIRA Kenta], [JPN], [2782],
+      [64], [MATSUDAIRA Kenta], [JPN], [2783],
     )
   )#pagebreak()
 

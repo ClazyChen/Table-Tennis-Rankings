@@ -117,8 +117,8 @@
       [92], [HOU Yingchao], [CHN], [2750],
       [93], [YANG Zi], [SGP], [2749],
       [94], [YOSHIMURA Maharu], [JPN], [2747],
-      [95], [KIM Junghoon], [KOR], [2746],
-      [96], [ELOI Damien], [FRA], [2746],
+      [95], [LIN Ju], [DOM], [2746],
+      [96], [KIM Junghoon], [KOR], [2746],
     )
   )#pagebreak()
 
@@ -128,7 +128,7 @@
     table(
       columns: 4,
       [Ranking], [Player], [Country/Region], [Rating],
-      [97], [LIN Ju], [DOM], [2746],
+      [97], [ELOI Damien], [FRA], [2746],
       [98], [KARLSSON Kristian], [SWE], [2739],
       [99], [VANG Bora], [TUR], [2738],
       [100], [UEDA Jin], [JPN], [2736],

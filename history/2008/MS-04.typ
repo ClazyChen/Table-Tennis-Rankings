@@ -28,7 +28,7 @@
       [21], [PRIMORAC Zoran], [CRO], [2740],
       [22], [YOON Jaeyoung], [KOR], [2740],
       [23], [TANG Peng], [HKG], [2738],
-      [24], [LEE Jungwoo], [KOR], [2733],
+      [24], [LEE Jungwoo], [KOR], [2734],
       [25], [YOSHIDA Kaii], [JPN], [2714],
       [26], [PERSSON Jorgen], [SWE], [2702],
       [27], [QIU Yike], [CHN], [2674],

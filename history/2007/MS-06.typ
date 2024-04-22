@@ -18,7 +18,7 @@
       [11], [HOU Yingchao], [CHN], [2823],
       [12], [SCHLAGER Werner], [AUT], [2794],
       [13], [JOO Saehyuk], [KOR], [2747],
-      [14], [CHUANG Chih-Yuan], [TPE], [2693],
+      [14], [CHUANG Chih-Yuan], [TPE], [2694],
       [15], [LEE Jungwoo], [KOR], [2693],
       [16], [GAO Ning], [SGP], [2623],
       [17], [KREANGA Kalinikos], [GRE], [2621],

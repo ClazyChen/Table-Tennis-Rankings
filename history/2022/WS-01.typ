@@ -57,7 +57,7 @@
       [41], [SAWETTABUT Suthasini], [THA], [2946],
       [42], [KIM Hayeong], [KOR], [2937],
       [43], [LIU Jia], [AUT], [2934],
-      [44], [#text(gray, "ODO Satsuki")], [JPN], [2928],
+      [44], [ODO Satsuki], [JPN], [2928],
       [45], [CHEN Szu-Yu], [TPE], [2906],
       [46], [BERGSTROM Linda], [SWE], [2906],
       [47], [ZENG Jian], [SGP], [2904],
