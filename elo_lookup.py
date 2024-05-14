@@ -113,4 +113,8 @@ for game_type in ['MS', 'WS']:
         continue
     print('{} : {} / {} ( {} % )'.format(game_type, correct_matches[game_type], total_matches[game_type], correct_matches[game_type] / total_matches[game_type] * 100))
     for s in lookup_result[game_type]:
-        print(s)
+        # 如果以 wrong 结尾，红色显示
+        if s.endswith(' wrong'):
+            print('\033[1;31m{}\033[0m'.format(s))
+        else:
+            print(s)
