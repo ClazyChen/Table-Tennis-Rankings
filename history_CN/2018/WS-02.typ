@@ -154,7 +154,7 @@
       [120], [ZHANG Sofia-Xuan], [ESP], [2682],
       [121], [PASKAUSKIENE Ruta], [LTU], [2681],
       [122], [张安], [USA], [2680],
-      [123], [ODO Satsuki], [JPN], [2674],
+      [123], [大藤沙月], [JPN], [2674],
       [124], [MADARASZ Dora], [HUN], [2674],
       [125], [DOLGIKH Maria], [RUS], [2673],
       [126], [BILENKO Tetyana], [UKR], [2672],

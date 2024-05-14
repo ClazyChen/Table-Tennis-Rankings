@@ -154,7 +154,7 @@
       [120], [PASKAUSKIENE Ruta], [LTU], [2685],
       [121], [VOROBEVA Olga], [RUS], [2683],
       [122], [BILENKO Tetyana], [UKR], [2682],
-      [123], [ODO Satsuki], [JPN], [2674],
+      [123], [大藤沙月], [JPN], [2674],
       [124], [蒂娜 梅谢芙], [EGY], [2673],
       [125], [DOLGIKH Maria], [RUS], [2673],
       [126], [JI Eunchae], [KOR], [2670],

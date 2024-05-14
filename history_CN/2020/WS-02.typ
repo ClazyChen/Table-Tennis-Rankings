@@ -129,7 +129,7 @@
       columns: 4,
       [排名], [运动员], [国家/地区], [积分],
       [97], [#text(gray, "MORIZONO Mizuki")], [JPN], [2786],
-      [98], [ODO Satsuki], [JPN], [2786],
+      [98], [大藤沙月], [JPN], [2786],
       [99], [KIM Byeolnim], [KOR], [2785],
       [100], [李时温], [KOR], [2778],
       [101], [EERLAND Britt], [NED], [2777],

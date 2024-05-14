@@ -118,7 +118,7 @@
       [93], [YOO Eunchong], [KOR], [2799],
       [94], [MAEDA Miyu], [JPN], [2793],
       [95], [金河英], [KOR], [2793],
-      [96], [ODO Satsuki], [JPN], [2775],
+      [96], [大藤沙月], [JPN], [2775],
     )
   )#pagebreak()
 

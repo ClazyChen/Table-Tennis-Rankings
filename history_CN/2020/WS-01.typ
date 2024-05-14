@@ -117,7 +117,7 @@
       [92], [刘佳], [AUT], [2789],
       [93], [VOROBEVA Olga], [RUS], [2789],
       [94], [#text(gray, "MORIZONO Mizuki")], [JPN], [2786],
-      [95], [ODO Satsuki], [JPN], [2786],
+      [95], [大藤沙月], [JPN], [2786],
       [96], [KIM Byeolnim], [KOR], [2785],
     )
   )#pagebreak()

@@ -132,7 +132,7 @@
       [98], [MAEDA Miyu], [JPN], [2791],
       [99], [HAPONOVA Hanna], [UKR], [2785],
       [100], [SOLJA Amelie], [AUT], [2781],
-      [101], [ODO Satsuki], [JPN], [2775],
+      [101], [大藤沙月], [JPN], [2775],
       [102], [KIM Youjin], [KOR], [2770],
       [103], [MIKHAILOVA Polina], [RUS], [2764],
       [104], [PARTYKA Natalia], [POL], [2757],

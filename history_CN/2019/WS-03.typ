@@ -133,7 +133,7 @@
       [99], [NG Wing Nam], [HKG], [2768],
       [100], [EERLAND Britt], [NED], [2766],
       [101], [SAWETTABUT Suthasini], [THA], [2765],
-      [102], [ODO Satsuki], [JPN], [2764],
+      [102], [大藤沙月], [JPN], [2764],
       [103], [YOON Hyobin], [KOR], [2759],
       [104], [申裕斌], [KOR], [2758],
       [105], [MATELOVA Hana], [CZE], [2747],

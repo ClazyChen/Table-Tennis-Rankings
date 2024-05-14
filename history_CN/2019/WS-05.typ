@@ -116,7 +116,7 @@
       [91], [GRZYBOWSKA-FRANC Katarzyna], [POL], [2782],
       [92], [LIN Ye], [SGP], [2778],
       [93], [SOMA Yumeno], [JPN], [2769],
-      [94], [ODO Satsuki], [JPN], [2763],
+      [94], [大藤沙月], [JPN], [2763],
       [95], [森田美咲], [JPN], [2761],
       [96], [YOON Hyobin], [KOR], [2759],
     )

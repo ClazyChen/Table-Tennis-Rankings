@@ -100,7 +100,7 @@
       [75], [POTA Georgina], [HUN], [2849],
       [76], [小盐遥菜], [JPN], [2842],
       [77], [BILENKO Tetyana], [UKR], [2832],
-      [78], [ODO Satsuki], [JPN], [2831],
+      [78], [大藤沙月], [JPN], [2831],
       [79], [#text(gray, "LI Jiayuan")], [CHN], [2830],
       [80], [LIU Hsing-Yin], [TPE], [2827],
       [81], [浜本由惟], [JPN], [2827],

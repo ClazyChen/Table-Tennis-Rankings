@@ -117,7 +117,7 @@
       [92], [GALIC Alex], [SLO], [2786],
       [93], [阿德里安娜 迪亚兹], [PUR], [2786],
       [94], [ZHANG Sofia-Xuan], [ESP], [2784],
-      [95], [ODO Satsuki], [JPN], [2781],
+      [95], [大藤沙月], [JPN], [2781],
       [96], [MAEDA Miyu], [JPN], [2777],
     )
   )#pagebreak()

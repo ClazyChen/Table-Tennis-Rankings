@@ -138,7 +138,7 @@
       [104], [#text(gray, "SONG Maeum")], [KOR], [2755],
       [105], [VOROBEVA Olga], [RUS], [2753],
       [106], [张安], [USA], [2747],
-      [107], [ODO Satsuki], [JPN], [2744],
+      [107], [大藤沙月], [JPN], [2744],
       [108], [ZHANG Sofia-Xuan], [ESP], [2742],
       [109], [LIN Ye], [SGP], [2739],
       [110], [MATELOVA Hana], [CZE], [2737],

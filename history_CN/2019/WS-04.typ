@@ -129,7 +129,7 @@
       columns: 4,
       [排名], [运动员], [国家/地区], [积分],
       [97], [EERLAND Britt], [NED], [2766],
-      [98], [ODO Satsuki], [JPN], [2763],
+      [98], [大藤沙月], [JPN], [2763],
       [99], [森田美咲], [JPN], [2761],
       [100], [SAWETTABUT Suthasini], [THA], [2759],
       [101], [YOON Hyobin], [KOR], [2759],

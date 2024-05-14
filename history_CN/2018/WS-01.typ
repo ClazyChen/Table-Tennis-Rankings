@@ -154,7 +154,7 @@
       [120], [VOROBEVA Olga], [RUS], [2683],
       [121], [BILENKO Tetyana], [UKR], [2682],
       [122], [张安], [USA], [2680],
-      [123], [ODO Satsuki], [JPN], [2674],
+      [123], [大藤沙月], [JPN], [2674],
       [124], [蒂娜 梅谢芙], [EGY], [2673],
       [125], [DOLGIKH Maria], [RUS], [2673],
       [126], [DIACONU Adina], [ROU], [2671],

@@ -118,7 +118,7 @@
       [93], [BALAZOVA Barbora], [SVK], [2790],
       [94], [SOLJA Amelie], [AUT], [2785],
       [95], [ZHANG Sofia-Xuan], [ESP], [2784],
-      [96], [ODO Satsuki], [JPN], [2775],
+      [96], [大藤沙月], [JPN], [2775],
     )
   )#pagebreak()
 

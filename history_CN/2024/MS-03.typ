@@ -109,7 +109,7 @@
       [84], [WANG Eugene], [CAN], [2860],
       [85], [汪洋], [SVK], [2859],
       [86], [MONTEIRO Joao], [POR], [2855],
-      [87], [FENG Yi-Hsin], [TPE], [2853],
+      [87], [冯翊新], [TPE], [2853],
       [88], [BADOWSKI Marek], [POL], [2853],
       [89], [ORT Kilian], [GER], [2850],
       [90], [ALLEGRO Martin], [BEL], [2847],

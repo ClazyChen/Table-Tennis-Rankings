@@ -117,7 +117,7 @@
       [92], [MATELOVA Hana], [CZE], [2788],
       [93], [#text(gray, "MORIZONO Mizuki")], [JPN], [2786],
       [94], [WU Yue], [USA], [2786],
-      [95], [ODO Satsuki], [JPN], [2786],
+      [95], [大藤沙月], [JPN], [2786],
       [96], [KIM Byeolnim], [KOR], [2785],
     )
   )#pagebreak()

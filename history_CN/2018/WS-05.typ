@@ -108,7 +108,7 @@
       [83], [MAEDA Miyu], [JPN], [2801],
       [84], [PESOTSKA Margaryta], [UKR], [2795],
       [85], [CHENG Hsien-Tzu], [TPE], [2790],
-      [86], [ODO Satsuki], [JPN], [2785],
+      [86], [大藤沙月], [JPN], [2785],
       [87], [李时温], [KOR], [2784],
       [88], [GRZYBOWSKA-FRANC Katarzyna], [POL], [2781],
       [89], [玛妮卡 巴特拉], [IND], [2780],

@@ -132,7 +132,7 @@
       [98], [SHIOMI Maki], [JPN], [2772],
       [99], [KIM Youjin], [KOR], [2770],
       [100], [#text(gray, "RI Mi Gyong")], [PRK], [2770],
-      [101], [ODO Satsuki], [JPN], [2765],
+      [101], [大藤沙月], [JPN], [2765],
       [102], [木原美悠], [JPN], [2759],
       [103], [#text(gray, "CHOI Moonyoung")], [KOR], [2757],
       [104], [PARTYKA Natalia], [POL], [2757],

@@ -153,7 +153,7 @@
       [119], [SABITOVA Valentina], [RUS], [2687],
       [120], [ZHANG Sofia-Xuan], [ESP], [2682],
       [121], [PASKAUSKIENE Ruta], [LTU], [2681],
-      [122], [ODO Satsuki], [JPN], [2674],
+      [122], [大藤沙月], [JPN], [2674],
       [123], [MADARASZ Dora], [HUN], [2674],
       [124], [DOLGIKH Maria], [RUS], [2673],
       [125], [BALAZOVA Barbora], [SVK], [2672],

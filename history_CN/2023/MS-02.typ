@@ -113,7 +113,7 @@
       [88], [STUMPER Kay], [GER], [2862],
       [89], [罗伯特 加尔多斯], [AUT], [2852],
       [90], [WU Jiaji], [DOM], [2852],
-      [91], [FENG Yi-Hsin], [TPE], [2850],
+      [91], [冯翊新], [TPE], [2850],
       [92], [GNANASEKARAN Sathiyan], [IND], [2844],
       [93], [KUBIK Maciej], [POL], [2843],
       [94], [SGOUROPOULOS Ioannis], [GRE], [2842],

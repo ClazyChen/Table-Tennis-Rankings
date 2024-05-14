@@ -134,7 +134,7 @@
       [100], [申裕斌], [KOR], [2758],
       [101], [VOROBEVA Olga], [RUS], [2753],
       [102], [玛妮卡 巴特拉], [IND], [2752],
-      [103], [ODO Satsuki], [JPN], [2752],
+      [103], [大藤沙月], [JPN], [2752],
       [104], [PARTYKA Natalia], [POL], [2747],
       [105], [NOSKOVA Yana], [RUS], [2730],
       [106], [TAILAKOVA Mariia], [RUS], [2728],

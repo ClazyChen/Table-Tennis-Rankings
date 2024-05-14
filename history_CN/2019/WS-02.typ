@@ -134,7 +134,7 @@
       [100], [MATELOVA Hana], [CZE], [2759],
       [101], [YOON Hyobin], [KOR], [2759],
       [102], [申裕斌], [KOR], [2758],
-      [103], [ODO Satsuki], [JPN], [2752],
+      [103], [大藤沙月], [JPN], [2752],
       [104], [NOSKOVA Yana], [RUS], [2745],
       [105], [VOROBEVA Olga], [RUS], [2730],
       [106], [TAILAKOVA Mariia], [RUS], [2729],
