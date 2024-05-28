@@ -16,7 +16,7 @@
       [9], [HIRANO Miu], [JPN], [3253],
       [10], [HAYATA Hina], [JPN], [3253],
       [11], [ZHANG Rui], [CHN], [3218],
-      [12], [#text(gray, "HASHIMOTO Honoka")], [JPN], [3186],
+      [12], [HASHIMOTO Honoka], [JPN], [3186],
       [13], [FAN Siqi], [CHN], [3182],
       [14], [YANG Xiaoxin], [MON], [3175],
       [15], [OJIO Haruna], [JPN], [3166],

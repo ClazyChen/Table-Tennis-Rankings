@@ -16,7 +16,7 @@
       [9], [HE Zhuojia], [CHN], [3279],
       [10], [FAN Siqi], [CHN], [3240],
       [11], [ZHANG Rui], [CHN], [3193],
-      [12], [#text(gray, "HASHIMOTO Honoka")], [JPN], [3186],
+      [12], [HASHIMOTO Honoka], [JPN], [3186],
       [13], [SZOCS Bernadette], [ROU], [3172],
       [14], [ISHIKAWA Kasumi], [JPN], [3169],
       [15], [OJIO Haruna], [JPN], [3166],

@@ -16,7 +16,7 @@
       [9], [CHEN Xingtong], [CHN], [3212],
       [10], [QIAN Tianyi], [CHN], [3210],
       [11], [ZHANG Rui], [CHN], [3205],
-      [12], [#text(gray, "HASHIMOTO Honoka")], [JPN], [3186],
+      [12], [HASHIMOTO Honoka], [JPN], [3186],
       [13], [FAN Siqi], [CHN], [3179],
       [14], [ISHIKAWA Kasumi], [JPN], [3173],
       [15], [KIHARA Miyuu], [JPN], [3164],

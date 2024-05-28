@@ -17,7 +17,7 @@
       [10], [ISHIKAWA Kasumi], [JPN], [3198],
       [11], [FAN Siqi], [CHN], [3190],
       [12], [HIRANO Miu], [JPN], [3189],
-      [13], [#text(gray, "HASHIMOTO Honoka")], [JPN], [3186],
+      [13], [HASHIMOTO Honoka], [JPN], [3186],
       [14], [#text(gray, "YU Mengyu")], [SGP], [3182],
       [15], [QIAN Tianyi], [CHN], [3182],
       [16], [KUAI Man], [CHN], [3169],
