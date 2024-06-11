@@ -138,7 +138,7 @@
       [104], [卡林尼科斯 格林卡], [GRE], [2697],
       [105], [CIOTI Constantin], [ROU], [2696],
       [106], [PROKOPCOV Dmitrij], [CZE], [2695],
-      [107], [CHEUNG Yuk], [HKG], [2695],
+      [107], [张钰], [HKG], [2695],
       [108], [LIU Song], [ARG], [2694],
       [109], [村松雄斗], [JPN], [2693],
       [110], [MACHI Asuka], [JPN], [2693],

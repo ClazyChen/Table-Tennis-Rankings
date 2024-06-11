@@ -116,7 +116,7 @@
       [91], [LIN Ju], [DOM], [2674],
       [92], [YANG Zi], [SGP], [2671],
       [93], [FEJER-KONNERTH Zoltan], [GER], [2667],
-      [94], [CHEUNG Yuk], [HKG], [2666],
+      [94], [张钰], [HKG], [2666],
       [95], [PROKOPCOV Dmitrij], [CZE], [2665],
       [96], [KASAHARA Hiromitsu], [JPN], [2662],
     )

@@ -36,7 +36,7 @@
       [29], [邱贻可], [CHN], [2391],
       [30], [KEEN Trinko], [NED], [2380],
       [31], [BENTSEN Allan], [DEN], [2364],
-      [32], [CHEUNG Yuk], [HKG], [2361],
+      [32], [张钰], [HKG], [2361],
     )
   )#pagebreak()
 
@@ -46,7 +46,7 @@
     table(
       columns: 4,
       [排名], [运动员], [国家/地区], [积分],
-      [33], [LI Ching], [HKG], [2353],
+      [33], [李静], [HKG], [2353],
       [34], [GRUJIC Slobodan], [SRB], [2352],
       [35], [FRANZ Peter], [GER], [2351],
       [36], [MONRAD Martin], [DEN], [2339],

@@ -79,6 +79,8 @@ def check_player(id):
         players_ratings[id][2] = players_ratings[id][1]
         players_ratings[id][1] = cur_date
 
+player_last_date = {}
+
 total_matches = 0
 correct_matches = 0
 timestone = datetime.datetime.strptime('2018-01-01', '%Y-%m-%d') - datetime.datetime.strptime('1970-01-01', '%Y-%m-%d')
@@ -127,6 +129,26 @@ def update_elo(id1, id2, weight, result):
     # 向心力，使得rating更加集中
     delta1 = w * (a1 - e1)
     delta2 = w * (a2 - e2)
+
+    # year_max = 2
+    # year_d = 365 * 3
+    # if id1 not in player_last_date:
+    #     player_last_date[id1] = [0, cur_date]
+    #     # delta1 *= year_max
+    # else:
+    #     if player_last_date[id1][1] != cur_date:
+    #         player_last_date[id1][0] = player_last_date[id1][1]
+    #         player_last_date[id1][1] = cur_date
+    #     delta1 *= min(year_max, 1 + (cur_date - player_last_date[id1][0]) / year_d)
+    # if id2 not in player_last_date:
+    #     player_last_date[id2] = [0, cur_date]
+    #     # delta2 *= year_max
+    # else:
+    #     if player_last_date[id2][1] != cur_date:
+    #         player_last_date[id2][0] = player_last_date[id2][1]
+    #         player_last_date[id2][1] = cur_date
+    #     delta2 *= min(year_max, 1 + (cur_date - player_last_date[id2][0]) / year_d)
+
     center_coef1 = 1
     center_coef2 = 1
     center_exp = 1

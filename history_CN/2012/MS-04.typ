@@ -140,7 +140,7 @@
       [106], [TSUBOI Gustavo], [BRA], [2620],
       [107], [LIU Song], [ARG], [2619],
       [108], [KUZMIN Fedor], [RUS], [2618],
-      [109], [CHEUNG Yuk], [HKG], [2618],
+      [109], [张钰], [HKG], [2618],
       [110], [ACHANTA Sharath Kamal], [IND], [2617],
       [111], [FILIMON Andrei], [ROU], [2617],
       [112], [PISTEJ Lubomir], [SVK], [2617],

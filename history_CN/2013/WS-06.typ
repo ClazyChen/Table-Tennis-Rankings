@@ -46,7 +46,7 @@
     table(
       columns: 4,
       [排名], [运动员], [国家/地区], [积分],
-      [33], [MOON Hyunjung], [KOR], [2853],
+      [33], [文炫晶], [KOR], [2853],
       [34], [ZHAO Yan], [CHN], [2842],
       [35], [MONTEIRO DODEAN Daniela], [ROU], [2842],
       [36], [WANG Xuan], [CHN], [2841],

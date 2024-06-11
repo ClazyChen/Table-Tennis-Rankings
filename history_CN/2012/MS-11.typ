@@ -151,7 +151,7 @@
       [117], [LAKEEV Vasily], [RUS], [2659],
       [118], [WU Jiaji], [DOM], [2659],
       [119], [MADRID Marcos], [MEX], [2659],
-      [120], [CHEUNG Yuk], [HKG], [2658],
+      [120], [张钰], [HKG], [2658],
       [121], [塩野真人], [JPN], [2657],
       [122], [GERELL Par], [SWE], [2652],
       [123], [SUCH Bartosz], [POL], [2651],

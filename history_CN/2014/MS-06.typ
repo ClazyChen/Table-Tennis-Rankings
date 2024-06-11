@@ -145,7 +145,7 @@
       [111], [ROBINOT Alexandre], [FRA], [2745],
       [112], [KIM Donghyun], [KOR], [2744],
       [113], [KOSOWSKI Jakub], [POL], [2743],
-      [114], [CHEUNG Yuk], [HKG], [2738],
+      [114], [张钰], [HKG], [2738],
       [115], [STERNBERG Kasper], [DEN], [2738],
       [116], [HUANG Sheng-Sheng], [TPE], [2737],
       [117], [SMIRNOV Alexey], [RUS], [2737],

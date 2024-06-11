@@ -138,7 +138,7 @@
       [104], [HABESOHN Daniel], [AUT], [2629],
       [105], [PETO Zsolt], [SRB], [2623],
       [106], [KUZMIN Fedor], [RUS], [2618],
-      [107], [CHEUNG Yuk], [HKG], [2617],
+      [107], [张钰], [HKG], [2617],
       [108], [FILIMON Andrei], [ROU], [2617],
       [109], [PISTEJ Lubomir], [SVK], [2617],
       [110], [GORAK Daniel], [POL], [2616],

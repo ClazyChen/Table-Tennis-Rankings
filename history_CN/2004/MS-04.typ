@@ -46,7 +46,7 @@
     table(
       columns: 4,
       [排名], [运动员], [国家/地区], [积分],
-      [33], [LI Ching], [HKG], [2204],
+      [33], [李静], [HKG], [2204],
       [34], [KARLSSON Peter], [SWE], [2193],
       [35], [李廷佑], [KOR], [2192],
       [36], [KUZMIN Fedor], [RUS], [2182],
@@ -111,7 +111,7 @@
       [86], [SHMYREV Maxim], [RUS], [1970],
       [87], [MAZUNOV Dmitry], [RUS], [1969],
       [88], [克里斯蒂安 苏斯], [GER], [1967],
-      [89], [CHEUNG Yuk], [HKG], [1966],
+      [89], [张钰], [HKG], [1966],
       [90], [ACHANTA Sharath Kamal], [IND], [1965],
       [91], [FAZEKAS Peter], [HUN], [1962],
       [92], [OLEJNIK Martin], [CZE], [1954],

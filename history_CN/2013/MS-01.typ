@@ -155,7 +155,7 @@
       [121], [#text(gray, "KIM Song Nam")], [PRK], [2660],
       [122], [SIMONCIK Josef], [CZE], [2660],
       [123], [WU Jiaji], [DOM], [2659],
-      [124], [CHEUNG Yuk], [HKG], [2658],
+      [124], [张钰], [HKG], [2658],
       [125], [塩野真人], [JPN], [2657],
       [126], [MADRID Marcos], [MEX], [2654],
       [127], [WANG Zengyi], [POL], [2653],

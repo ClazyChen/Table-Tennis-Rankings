@@ -68,7 +68,7 @@
       [52], [丁祥恩], [KOR], [2721],
       [53], [SMIRNOV Alexey], [RUS], [2719],
       [54], [PRIMORAC Zoran], [CRO], [2717],
-      [55], [LI Ching], [HKG], [2714],
+      [55], [李静], [HKG], [2714],
       [56], [HABESOHN Daniel], [AUT], [2712],
       [57], [MONTEIRO Joao], [POR], [2711],
       [58], [ACHANTA Sharath Kamal], [IND], [2709],
@@ -128,7 +128,7 @@
     table(
       columns: 4,
       [排名], [运动员], [国家/地区], [积分],
-      [97], [CHEUNG Yuk], [HKG], [2597],
+      [97], [张钰], [HKG], [2597],
       [98], [闫安], [CHN], [2596],
       [99], [林高远], [CHN], [2584],
       [100], [BENTSEN Allan], [DEN], [2582],

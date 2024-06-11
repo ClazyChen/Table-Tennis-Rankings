@@ -142,7 +142,7 @@
       [108], [侯英超], [CHN], [2750],
       [109], [KEINATH Thomas], [SVK], [2750],
       [110], [KANG Dongsoo], [KOR], [2750],
-      [111], [CHEUNG Yuk], [HKG], [2746],
+      [111], [张钰], [HKG], [2746],
       [112], [LIN Ju], [DOM], [2746],
       [113], [KIM Donghyun], [KOR], [2744],
       [114], [KOSOWSKI Jakub], [POL], [2743],

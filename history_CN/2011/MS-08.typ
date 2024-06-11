@@ -102,7 +102,7 @@
       [77], [MATSUDAIRA Kenji], [JPN], [2658],
       [78], [斯特凡 菲格尔], [AUT], [2657],
       [79], [KASAHARA Hiromitsu], [JPN], [2650],
-      [80], [CHEUNG Yuk], [HKG], [2648],
+      [80], [张钰], [HKG], [2648],
       [81], [MONTEIRO Joao], [POR], [2646],
       [82], [KUZMIN Fedor], [RUS], [2644],
       [83], [SALIFOU Abdel-Kader], [FRA], [2642],
@@ -118,7 +118,7 @@
       [93], [SONG Hongyuan], [CHN], [2628],
       [94], [SIMONCIK Josef], [CZE], [2622],
       [95], [LIVENTSOV Alexey], [RUS], [2621],
-      [96], [LI Ching], [HKG], [2620],
+      [96], [李静], [HKG], [2620],
     )
   )#pagebreak()
 

@@ -156,7 +156,7 @@
       [122], [SIMONCIK Josef], [CZE], [2660],
       [123], [KUZMIN Fedor], [RUS], [2660],
       [124], [WU Jiaji], [DOM], [2659],
-      [125], [CHEUNG Yuk], [HKG], [2658],
+      [125], [张钰], [HKG], [2658],
       [126], [塩野真人], [JPN], [2657],
       [127], [ZHMUDENKO Yaroslav], [UKR], [2657],
       [128], [MADRID Marcos], [MEX], [2654],

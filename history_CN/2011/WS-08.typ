@@ -29,14 +29,14 @@
       [22], [唐汭序], [KOR], [2842],
       [23], [沈燕飞], [ESP], [2840],
       [24], [田志希], [KOR], [2831],
-      [25], [MOON Hyunjung], [KOR], [2829],
+      [25], [文炫晶], [KOR], [2829],
       [26], [WANG Xuan], [CHN], [2818],
-      [27], [YAO Yan], [CHN], [2806],
+      [27], [姚彦], [CHN], [2806],
       [28], [徐孝元], [KOR], [2795],
       [29], [李佳薇], [SGP], [2789],
       [30], [姜华珺], [HKG], [2788],
-      [31], [#text(gray, "LAU Sui Fei")], [HKG], [2776],
-      [32], [GAO Jun], [USA], [2773],
+      [31], [#text(gray, "柳絮飞")], [HKG], [2776],
+      [32], [高军], [USA], [2773],
     )
   )#pagebreak()
 
@@ -102,7 +102,7 @@
       [77], [ZHU Fang], [ESP], [2571],
       [78], [LI Qiangbing], [AUT], [2568],
       [79], [KANG Misoon], [KOR], [2565],
-      [80], [#text(gray, "LIN Ling")], [HKG], [2564],
+      [80], [#text(gray, "林菱")], [HKG], [2564],
       [81], [LOVAS Petra], [HUN], [2564],
       [82], [PAVLOVICH Veronika], [BLR], [2563],
       [83], [KIM Hye Song], [PRK], [2562],

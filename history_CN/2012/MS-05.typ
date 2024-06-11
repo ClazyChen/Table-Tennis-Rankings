@@ -136,7 +136,7 @@
       [102], [SUCH Bartosz], [POL], [2688],
       [103], [UEDA Jin], [JPN], [2688],
       [104], [PROKOPCOV Dmitrij], [CZE], [2687],
-      [105], [CHEUNG Yuk], [HKG], [2686],
+      [105], [张钰], [HKG], [2686],
       [106], [KIM Song Nam], [PRK], [2685],
       [107], [JAKAB Janos], [HUN], [2682],
       [108], [ANTHONY Amalraj], [IND], [2682],

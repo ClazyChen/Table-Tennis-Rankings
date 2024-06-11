@@ -25,6 +25,7 @@ CHEN Szu-Yu, 陈思羽
 CHEN Xingtong, 陈幸同
 CHEN Yi, 陈熠
 CHENG I-Ching, 郑怡静
+CHEUNG Yuk, 张钰
 CHIANG Peng-Lung, 蒋澎龙
 CHIEN Tung-Chuan, 陈沂芊
 CHO Daeseong, 赵大成
@@ -56,6 +57,7 @@ FUJII Hiroko, 藤井宽子
 FUKUHARA Ai, 福原爱
 FUKUOKA Haruna, 福冈春菜
 GACINA Andrej, 安德烈 加奇尼
+GAO Jun, 高军
 GAO Ning, 高宁
 GARDOS Robert, 罗伯特 加尔多斯
 GAUZY Simon, 西蒙 高兹
@@ -96,11 +98,13 @@ JOO Saehyuk, 朱世赫
 JORGIC Darko, 达科 约奇克
 KALLBERG Anton, 安东 卡尔伯格
 KALLBERG Christina, 克里斯蒂娜 卡尔伯格
+KANAMITSU Koyo, 金光宏畅
 KAO Cheng-Jui, 高承睿
 KARLSSON Kristian, 克里斯坦 卡尔松
 KATO Miyu, 加藤美优
 KIHARA Miyuu, 木原美悠
 KIM Hayeong, 金河英
+KIM Hyang Mi, 金香美
 KIM Hyon Hui, 金英姬
 KIM Kyungah, 金景娥
 KIM Kyungah, 金景娥
@@ -113,6 +117,7 @@ KO Lai Chak, 高礼泽
 KONG Linghui, 孔令辉
 KREANGA Kalinikos, 卡林尼科斯 格林卡
 KUAI Man, 蒯曼
+LAU Sui Fei, 柳絮飞
 LEBESSON Emmanuel, 艾曼纽 莱贝松
 LEBRUN Alexis, 艾利克斯 勒布伦
 LEBRUN Felix, 菲利克斯 勒布伦
@@ -122,6 +127,7 @@ LEE Ho Ching, 李皓晴
 LEE Jungwoo, 李廷佑
 LEE Sang Su, 李尚洙
 LEE Zion, 李时温
+LI Ching, 李静
 LI Fen, 李芬
 LI Jiao, 李佼
 LI Jiawei, 李佳薇
@@ -138,6 +144,7 @@ LIANG Yanning, 梁俨苧
 LIAO Cheng-Ting, 廖振珽
 LIM Jonghoon, 林钟勋
 LIN Gaoyuan, 林高远
+LIN Ling, 林菱
 LIN Shidong, 林诗栋
 LIN Yun-Ju, 林昀儒
 LIND Anders, 安德斯 林德
@@ -161,6 +168,7 @@ MENGEL Steffen, 斯蒂芬 门格尔
 MESHREF Dina, 蒂娜 梅谢芙
 MITTELHAM Nina, 妮娜 米特兰姆
 MIZUTANI Jun, 水谷隼
+MOON Hyunjung, 文炫晶
 MOREGARD Truls, 特鲁斯 莫雷加德
 MORI Sakura, 森樱
 MORIZONO Masataka, 森园政崇
@@ -186,6 +194,7 @@ PAK Sin Hyok, 朴申赫
 PARK Miyoung, 朴美英
 PAVADE Prithika, 普利西卡 帕瓦德
 PAVLOVICH Viktoria, 维多利亚 帕芙洛维奇
+PENG Luyang, 彭陆洋
 PERSSON Jorgen, 约尔根 佩尔森
 PITCHFORD Liam, 利亚姆 皮切福德
 POLCANOVA Sofia, 索菲亚 波尔卡诺娃
@@ -215,6 +224,8 @@ SHIN Yubin, 申裕斌
 SHINOZUKA Hiroto, 篠塚大登
 SHIONO Masato, 塩野真人
 SOLJA Petrissa, 佩特丽莎 索尔佳
+SONG Ah Sim, 桑亚婵
+STEFF Mihaela, 米哈拉 斯蒂芙
 STEGER Bastian, 巴斯蒂安 斯蒂格
 SUH Hyo Won, 徐孝元
 SUN Mingyang, 孙铭阳
@@ -261,6 +272,7 @@ YANG Ha Eun, 梁夏银
 YANG Huijing, 杨蕙菁
 YANG Xiaoxin, 杨晓欣
 YANG Yiyun, 杨屹韵
+YAO Yan, 姚彦
 YOON Jaeyoung, 尹在荣
 YOSHIDA Kaii, 吉田海伟
 YOSHIDA Masaki, 吉田雅己

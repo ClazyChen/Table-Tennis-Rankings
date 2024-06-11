@@ -145,7 +145,7 @@
       [111], [BAI He], [SVK], [2697],
       [112], [VLASOV Grigory], [RUS], [2694],
       [113], [MONTEIRO Thiago], [BRA], [2693],
-      [114], [CHEUNG Yuk], [HKG], [2688],
+      [114], [张钰], [HKG], [2688],
       [115], [RUMGAY Gavin], [SCO], [2687],
       [116], [西蒙 高兹], [FRA], [2684],
       [117], [PRIMORAC Zoran], [CRO], [2683],

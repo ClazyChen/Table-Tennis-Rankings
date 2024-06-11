@@ -32,9 +32,9 @@
       [25], [FRANZ Peter], [GER], [2404],
       [26], [HE Zhiwen], [ESP], [2392],
       [27], [邱贻可], [CHN], [2391],
-      [28], [CHEUNG Yuk], [HKG], [2389],
+      [28], [张钰], [HKG], [2389],
       [29], [KEEN Trinko], [NED], [2380],
-      [30], [LI Ching], [HKG], [2370],
+      [30], [李静], [HKG], [2370],
       [31], [BENTSEN Allan], [DEN], [2364],
       [32], [MONRAD Martin], [DEN], [2359],
     )

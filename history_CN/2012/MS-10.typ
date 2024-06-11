@@ -150,7 +150,7 @@
       [116], [WU Jiaji], [DOM], [2659],
       [117], [MADRID Marcos], [MEX], [2659],
       [118], [CIOTI Constantin], [ROU], [2658],
-      [119], [CHEUNG Yuk], [HKG], [2658],
+      [119], [张钰], [HKG], [2658],
       [120], [塩野真人], [JPN], [2657],
       [121], [DIDUKH Oleksandr], [UKR], [2656],
       [122], [KUZMIN Fedor], [RUS], [2655],

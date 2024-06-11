@@ -33,7 +33,7 @@
       [26], [沈燕飞], [ESP], [2957],
       [27], [单晓娜], [GER], [2924],
       [28], [RI Mi Gyong], [PRK], [2900],
-      [29], [MOON Hyunjung], [KOR], [2896],
+      [29], [文炫晶], [KOR], [2896],
       [30], [NG Wing Nam], [HKG], [2894],
       [31], [#text(gray, "WANG Xuan")], [CHN], [2885],
       [32], [#text(gray, "ZHAO Yan")], [CHN], [2881],

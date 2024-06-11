@@ -158,7 +158,7 @@
       [124], [WU Jiaji], [DOM], [2659],
       [125], [MADRID Marcos], [MEX], [2659],
       [126], [CIOTI Constantin], [ROU], [2658],
-      [127], [CHEUNG Yuk], [HKG], [2658],
+      [127], [张钰], [HKG], [2658],
       [128], [塩野真人], [JPN], [2657],
     )
   )

@@ -35,7 +35,7 @@
       [28], [平野早矢香], [JPN], [2883],
       [29], [常晨晨], [CHN], [2883],
       [30], [梁夏银], [KOR], [2869],
-      [31], [MOON Hyunjung], [KOR], [2853],
+      [31], [文炫晶], [KOR], [2853],
       [32], [朱雨玲], [CHN], [2845],
     )
   )#pagebreak()
@@ -53,9 +53,9 @@
       [37], [姜华珺], [HKG], [2833],
       [38], [PESOTSKA Margaryta], [UKR], [2813],
       [39], [EKHOLM Matilda], [SWE], [2802],
-      [40], [#text(gray, "GAO Jun")], [USA], [2798],
+      [40], [#text(gray, "高军")], [USA], [2798],
       [41], [#text(gray, "朴美英")], [KOR], [2796],
-      [42], [#text(gray, "YAO Yan")], [CHN], [2793],
+      [42], [#text(gray, "姚彦")], [CHN], [2793],
       [43], [LEE Eunhee], [KOR], [2793],
       [44], [IVANCAN Irene], [GER], [2786],
       [45], [PARTYKA Natalia], [POL], [2785],

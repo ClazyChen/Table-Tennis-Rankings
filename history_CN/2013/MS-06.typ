@@ -143,7 +143,7 @@
       [109], [MACHI Asuka], [JPN], [2693],
       [110], [帕特里克 弗朗西斯卡], [GER], [2693],
       [111], [KORBEL Petr], [CZE], [2689],
-      [112], [CHEUNG Yuk], [HKG], [2688],
+      [112], [张钰], [HKG], [2688],
       [113], [RUMGAY Gavin], [SCO], [2687],
       [114], [MADRID Marcos], [MEX], [2686],
       [115], [PRIMORAC Zoran], [CRO], [2683],

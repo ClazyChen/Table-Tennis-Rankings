@@ -34,7 +34,7 @@
       [27], [RI Mi Gyong], [PRK], [2900],
       [28], [PASKAUSKIENE Ruta], [LTU], [2900],
       [29], [李洁], [NED], [2897],
-      [30], [MOON Hyunjung], [KOR], [2896],
+      [30], [文炫晶], [KOR], [2896],
       [31], [#text(gray, "WANG Xuan")], [CHN], [2885],
       [32], [平野早矢香], [JPN], [2882],
     )

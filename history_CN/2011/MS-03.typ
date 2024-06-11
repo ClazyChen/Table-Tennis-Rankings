@@ -59,7 +59,7 @@
       [43], [约尔根 佩尔森], [SWE], [2756],
       [44], [KOSOWSKI Jakub], [POL], [2750],
       [45], [YANG Zi], [SGP], [2747],
-      [46], [LI Ching], [HKG], [2746],
+      [46], [李静], [HKG], [2746],
       [47], [唐鹏], [HKG], [2745],
       [48], [ACHANTA Sharath Kamal], [IND], [2738],
       [49], [KIM Junghoon], [KOR], [2738],
@@ -116,7 +116,7 @@
       [91], [艾曼纽 莱贝松], [FRA], [2601],
       [92], [KARAKASEVIC Aleksandar], [SRB], [2599],
       [93], [闫安], [CHN], [2596],
-      [94], [CHEUNG Yuk], [HKG], [2583],
+      [94], [张钰], [HKG], [2583],
       [95], [SHIBAEV Alexander], [RUS], [2583],
       [96], [BENTSEN Allan], [DEN], [2582],
     )

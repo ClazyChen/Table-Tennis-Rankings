@@ -141,7 +141,7 @@
       [107], [KEINATH Thomas], [SVK], [2750],
       [108], [MACHADO Carlos], [ESP], [2750],
       [109], [KANG Dongsoo], [KOR], [2750],
-      [110], [CHEUNG Yuk], [HKG], [2746],
+      [110], [张钰], [HKG], [2746],
       [111], [LIN Ju], [DOM], [2746],
       [112], [森园政崇], [JPN], [2744],
       [113], [KIM Donghyun], [KOR], [2744],

@@ -32,7 +32,7 @@
       [25], [傅玉], [POR], [2928],
       [26], [LANG Kristin], [GER], [2923],
       [27], [李洁], [NED], [2897],
-      [28], [MOON Hyunjung], [KOR], [2896],
+      [28], [文炫晶], [KOR], [2896],
       [29], [PASKAUSKIENE Ruta], [LTU], [2885],
       [30], [#text(gray, "ZHAO Yan")], [CHN], [2881],
       [31], [梁夏银], [KOR], [2875],
