@@ -51,7 +51,7 @@
       [35], [KIM Kyungah], [KOR], [2751],
       [36], [SCHALL Elke], [GER], [2735],
       [37], [PARK Miyoung], [KOR], [2734],
-      [38], [ZHU Yuling], [CHN], [2729],
+      [38], [ZHU Yuling], [MAC], [2729],
       [39], [LIU Jia], [AUT], [2718],
       [40], [YANG Ha Eun], [KOR], [2717],
       [41], [LI Xiaodan], [CHN], [2714],

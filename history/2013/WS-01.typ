@@ -25,7 +25,7 @@
       [18], [PAVLOVICH Viktoria], [BLR], [2938],
       [19], [#text(gray, "WANG Yuegu")], [SGP], [2932],
       [20], [#text(gray, "LI Jiawei")], [SGP], [2923],
-      [21], [ZHU Yuling], [CHN], [2917],
+      [21], [ZHU Yuling], [MAC], [2917],
       [22], [#text(gray, "CHANG Chenchen")], [CHN], [2917],
       [23], [LANG Kristin], [GER], [2906],
       [24], [LI Xiaodan], [CHN], [2892],

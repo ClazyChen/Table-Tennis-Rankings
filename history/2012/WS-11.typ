@@ -53,7 +53,7 @@
       [37], [LI Qian], [POL], [2840],
       [38], [TIKHOMIROVA Anna], [RUS], [2835],
       [39], [XIAN Yifang], [FRA], [2834],
-      [40], [ZHU Yuling], [CHN], [2829],
+      [40], [ZHU Yuling], [MAC], [2829],
       [41], [PESOTSKA Margaryta], [UKR], [2823],
       [42], [WAKAMIYA Misako], [JPN], [2803],
       [43], [#text(gray, "GAO Jun")], [USA], [2798],

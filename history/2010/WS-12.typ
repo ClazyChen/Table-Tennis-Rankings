@@ -49,7 +49,7 @@
       [33], [PAVLOVICH Viktoria], [BLR], [2727],
       [34], [MONTEIRO DODEAN Daniela], [ROU], [2724],
       [35], [SAMARA Elizabeta], [ROU], [2721],
-      [36], [ZHU Yuling], [CHN], [2718],
+      [36], [ZHU Yuling], [MAC], [2718],
       [37], [LI Jiawei], [SGP], [2697],
       [38], [ISHIGAKI Yuka], [JPN], [2697],
       [39], [WU Jiaduo], [GER], [2693],

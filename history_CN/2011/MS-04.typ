@@ -99,7 +99,7 @@
       [74], [丹羽孝希], [JPN], [2661],
       [75], [BLASZCZYK Lucjan], [POL], [2656],
       [76], [SKACHKOV Kirill], [RUS], [2653],
-      [77], [ZHMUDENKO Yaroslav], [UKR], [2652],
+      [77], [雅罗斯列夫 扎姆登科], [UKR], [2652],
       [78], [LUNDQVIST Jens], [SWE], [2643],
       [79], [WANG Zengyi], [POL], [2642],
       [80], [LEGOUT Christophe], [FRA], [2639],

@@ -11,7 +11,7 @@
       [4], [LIU Shiwen], [CHN], [3444],
       [5], [ITO Mima], [JPN], [3410],
       [6], [#text(gray, "DING Ning")], [CHN], [3401],
-      [7], [#text(gray, "ZHU Yuling")], [CHN], [3351],
+      [7], [ZHU Yuling], [MAC], [3351],
       [8], [WANG Yidi], [CHN], [3331],
       [9], [CHEN Xingtong], [CHN], [3301],
       [10], [QIAN Tianyi], [CHN], [3250],

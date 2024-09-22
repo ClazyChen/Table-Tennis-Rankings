@@ -7,7 +7,7 @@
       [Ranking], [Player], [Country/Region], [Rating],
       [1], [LIU Shiwen], [CHN], [3522],
       [2], [DING Ning], [CHN], [3498],
-      [3], [ZHU Yuling], [CHN], [3451],
+      [3], [ZHU Yuling], [MAC], [3451],
       [4], [LI Xiaoxia], [CHN], [3431],
       [5], [MU Zi], [CHN], [3335],
       [6], [WU Yang], [CHN], [3300],

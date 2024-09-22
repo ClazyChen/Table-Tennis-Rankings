@@ -14,7 +14,7 @@
       [7], [FENG Yalan], [CHN], [3136],
       [8], [FENG Tianwei], [SGP], [3099],
       [9], [#text(gray, "FAN Ying")], [CHN], [3099],
-      [10], [ZHU Yuling], [CHN], [3084],
+      [10], [ZHU Yuling], [MAC], [3084],
       [11], [ISHIKAWA Kasumi], [JPN], [3076],
       [12], [SHEN Yanfei], [ESP], [3061],
       [13], [CHEN Meng], [CHN], [3051],

@@ -9,7 +9,7 @@
       [2], [CHEN Meng], [CHN], [3588],
       [3], [LIU Shiwen], [CHN], [3507],
       [4], [ITO Mima], [JPN], [3455],
-      [5], [ZHU Yuling], [CHN], [3395],
+      [5], [ZHU Yuling], [MAC], [3395],
       [6], [WANG Manyu], [CHN], [3392],
       [7], [DING Ning], [CHN], [3386],
       [8], [WANG Yidi], [CHN], [3314],

@@ -55,7 +55,7 @@
       [39], [LI Qian], [POL], [2745],
       [40], [SCHALL Elke], [GER], [2735],
       [41], [YOON Sunae], [KOR], [2732],
-      [42], [ZHU Yuling], [CHN], [2719],
+      [42], [ZHU Yuling], [MAC], [2719],
       [43], [LIU Jia], [AUT], [2718],
       [44], [LI Xue], [FRA], [2710],
       [45], [LANG Kristin], [GER], [2695],

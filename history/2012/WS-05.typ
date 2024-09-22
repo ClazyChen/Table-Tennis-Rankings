@@ -56,7 +56,7 @@
       [40], [IVANCAN Irene], [GER], [2820],
       [41], [SUN Beibei], [SGP], [2813],
       [42], [MORIZONO Misaki], [JPN], [2808],
-      [43], [ZHU Yuling], [CHN], [2803],
+      [43], [ZHU Yuling], [MAC], [2803],
       [44], [#text(gray, "GAO Jun")], [USA], [2798],
       [45], [#text(gray, "YAO Yan")], [CHN], [2793],
       [46], [LIU Jia], [AUT], [2792],

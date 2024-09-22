@@ -150,7 +150,7 @@
       [116], [TOKIC Bojan], [SLO], [2827],
       [117], [ALAMIAN Nima], [IRI], [2826],
       [118], [#text(gray, "SEO Hyundeok")], [KOR], [2825],
-      [119], [#text(gray, "MATSUDAIRA Kenji")], [JPN], [2823],
+      [119], [MATSUDAIRA Kenji], [JPN], [2823],
       [120], [CHEN Chien-An], [TPE], [2815],
       [121], [SIRUCEK Pavel], [CZE], [2810],
       [122], [LIND Anders], [DEN], [2807],

@@ -148,7 +148,7 @@
       [114], [YANG Zi], [SGP], [2466],
       [115], [TAKAKIWA Taku], [JPN], [2459],
       [116], [TSUBOI Gustavo], [BRA], [2457],
-      [117], [ZHMUDENKO Yaroslav], [UKR], [2454],
+      [117], [雅罗斯列夫 扎姆登科], [UKR], [2454],
       [118], [HAN Jimin], [KOR], [2449],
       [119], [LEUNG Chu Yan], [HKG], [2448],
       [120], [#text(gray, "MONRAD Martin")], [DEN], [2447],

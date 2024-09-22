@@ -144,7 +144,7 @@
       [110], [SALEH Ahmed], [EGY], [1959],
       [111], [唐鹏], [HKG], [1953],
       [112], [JIANG Weizhong], [CRO], [1948],
-      [113], [ZHMUDENKO Yaroslav], [UKR], [1948],
+      [113], [雅罗斯列夫 扎姆登科], [UKR], [1948],
       [114], [TRUKSA Jaromir], [SVK], [1946],
       [115], [MATSUMOTO Cazuo], [BRA], [1944],
       [116], [蒂亚戈 阿波罗尼亚], [POR], [1943],

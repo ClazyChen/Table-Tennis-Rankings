@@ -60,7 +60,7 @@
       [44], [SEOK Hajung], [KOR], [2735],
       [45], [YOON Sunae], [KOR], [2731],
       [46], [LEE Eunhee], [KOR], [2730],
-      [47], [ZHU Yuling], [CHN], [2729],
+      [47], [ZHU Yuling], [MAC], [2729],
       [48], [LOVAS Petra], [HUN], [2728],
       [49], [TOTH Krisztina], [HUN], [2725],
       [50], [LIU Jia], [AUT], [2718],

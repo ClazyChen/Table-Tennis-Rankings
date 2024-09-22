@@ -6,7 +6,7 @@
       columns: 4,
       [Ranking], [Player], [Country/Region], [Rating],
       [1], [DING Ning], [CHN], [3699],
-      [2], [ZHU Yuling], [CHN], [3526],
+      [2], [ZHU Yuling], [MAC], [3526],
       [3], [LIU Shiwen], [CHN], [3472],
       [4], [CHEN Meng], [CHN], [3407],
       [5], [WANG Manyu], [CHN], [3332],

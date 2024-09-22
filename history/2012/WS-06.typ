@@ -54,7 +54,7 @@
       [38], [LEE Eunhee], [KOR], [2827],
       [39], [RI Myong Sun], [PRK], [2827],
       [40], [IVANCAN Irene], [GER], [2820],
-      [41], [ZHU Yuling], [CHN], [2803],
+      [41], [ZHU Yuling], [MAC], [2803],
       [42], [#text(gray, "GAO Jun")], [USA], [2798],
       [43], [SEOK Hajung], [KOR], [2793],
       [44], [#text(gray, "YAO Yan")], [CHN], [2793],

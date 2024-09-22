@@ -57,7 +57,7 @@
       [41], [TIKHOMIROVA Anna], [RUS], [2732],
       [42], [YOON Sunae], [KOR], [2731],
       [43], [CHENG I-Ching], [TPE], [2731],
-      [44], [ZHU Yuling], [CHN], [2730],
+      [44], [ZHU Yuling], [MAC], [2730],
       [45], [PESOTSKA Margaryta], [UKR], [2725],
       [46], [SUN Beibei], [SGP], [2717],
       [47], [LI Xiaodan], [CHN], [2714],

@@ -136,7 +136,7 @@
       [102], [利亚姆 皮切福德], [ENG], [2573],
       [103], [MATSUDAIRA Kenji], [JPN], [2571],
       [104], [DRINKHALL Paul], [ENG], [2567],
-      [105], [ZHMUDENKO Yaroslav], [UKR], [2565],
+      [105], [雅罗斯列夫 扎姆登科], [UKR], [2565],
       [106], [#text(gray, "RI Chol Guk")], [PRK], [2561],
       [107], [KEINATH Thomas], [SVK], [2557],
       [108], [LUNDQVIST Jens], [SWE], [2550],

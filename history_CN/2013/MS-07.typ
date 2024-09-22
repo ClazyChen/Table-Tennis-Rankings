@@ -61,7 +61,7 @@
       [45], [SHIBAEV Alexander], [RUS], [2890],
       [46], [TAKAKIWA Taku], [JPN], [2884],
       [47], [KIM Hyok Bong], [PRK], [2880],
-      [48], [WANG Eugene], [CAN], [2880],
+      [48], [王臻], [CAN], [2880],
       [49], [SKACHKOV Kirill], [RUS], [2874],
       [50], [CHO Eonrae], [KOR], [2871],
       [51], [帕纳吉奥迪斯 吉奥尼斯], [GRE], [2868],

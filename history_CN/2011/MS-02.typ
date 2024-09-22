@@ -101,7 +101,7 @@
       [76], [DRINKHALL Paul], [ENG], [2620],
       [77], [JAKAB Janos], [HUN], [2620],
       [78], [GORAK Daniel], [POL], [2618],
-      [79], [ZHMUDENKO Yaroslav], [UKR], [2618],
+      [79], [雅罗斯列夫 扎姆登科], [UKR], [2618],
       [80], [利亚姆 皮切福德], [ENG], [2616],
       [81], [KORBEL Petr], [CZE], [2610],
       [82], [PROKOPCOV Dmitrij], [CZE], [2610],

@@ -60,7 +60,7 @@
       [44], [TAKAKIWA Taku], [JPN], [2893],
       [45], [蒂亚戈 阿波罗尼亚], [POR], [2888],
       [46], [KIM Hyok Bong], [PRK], [2880],
-      [47], [WANG Eugene], [CAN], [2880],
+      [47], [王臻], [CAN], [2880],
       [48], [SKACHKOV Kirill], [RUS], [2878],
       [49], [CHO Eonrae], [KOR], [2871],
       [50], [帕纳吉奥迪斯 吉奥尼斯], [GRE], [2868],

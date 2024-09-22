@@ -1,9 +1,9 @@
 import json
 from elo_preparation import date2int
 
-date = '2024-05-20'
+date = '2024-07-27'
 date = date2int(date)
-target_event_id = 2865
+target_event_id = 2603
 
 def read_elo(game_type):
     with open('data/elo_report_{}.json'.format(game_type), 'r') as f:

@@ -96,7 +96,7 @@
       [71], [夸德里 阿鲁纳], [NGR], [2870],
       [72], [蒂亚戈 阿波罗尼亚], [POR], [2869],
       [73], [GORAK Daniel], [POL], [2868],
-      [74], [WANG Eugene], [CAN], [2867],
+      [74], [王臻], [CAN], [2867],
       [75], [MACHI Asuka], [JPN], [2865],
       [76], [朴申赫], [PRK], [2863],
       [77], [TSUBOI Gustavo], [BRA], [2859],
@@ -158,7 +158,7 @@
       [124], [LIVENTSOV Alexey], [RUS], [2765],
       [125], [MONTEIRO Thiago], [BRA], [2762],
       [126], [WANG Zengyi], [POL], [2761],
-      [127], [IONESCU Ovidiu], [ROU], [2760],
+      [127], [奥维迪乌 伊奥内斯库], [ROU], [2760],
       [128], [CHO Eonrae], [KOR], [2758],
     )
   )

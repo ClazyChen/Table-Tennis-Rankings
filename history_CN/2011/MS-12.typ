@@ -142,7 +142,7 @@
       [108], [KEINATH Thomas], [SVK], [2615],
       [109], [LIU Song], [ARG], [2615],
       [110], [唐鹏], [HKG], [2613],
-      [111], [ZHMUDENKO Yaroslav], [UKR], [2611],
+      [111], [雅罗斯列夫 扎姆登科], [UKR], [2611],
       [112], [KONECNY Tomas], [CZE], [2609],
       [113], [KORBEL Petr], [CZE], [2609],
       [114], [CARNEROS Alfredo], [ESP], [2608],

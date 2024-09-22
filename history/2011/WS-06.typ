@@ -54,7 +54,7 @@
       [38], [SCHALL Elke], [GER], [2735],
       [39], [PARK Miyoung], [KOR], [2734],
       [40], [YOON Sunae], [KOR], [2732],
-      [41], [ZHU Yuling], [CHN], [2719],
+      [41], [ZHU Yuling], [MAC], [2719],
       [42], [LIU Jia], [AUT], [2718],
       [43], [LI Xue], [FRA], [2710],
       [44], [MOON Hyunjung], [KOR], [2696],

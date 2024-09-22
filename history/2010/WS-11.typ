@@ -46,7 +46,7 @@
     table(
       columns: 4,
       [Ranking], [Player], [Country/Region], [Rating],
-      [33], [ZHU Yuling], [CHN], [2718],
+      [33], [ZHU Yuling], [MAC], [2718],
       [34], [HU Melek], [TUR], [2715],
       [35], [HIRANO Sayaka], [JPN], [2710],
       [36], [HUANG Yi-Hua], [TPE], [2710],

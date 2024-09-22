@@ -96,7 +96,7 @@
       [71], [PARK Ganghyeon], [KOR], [2956],
       [72], [WEI Shihao], [CHN], [2954],
       [73], [WALTHER Ricardo], [GER], [2950],
-      [74], [#text(gray, "UEDA Jin")], [JPN], [2949],
+      [74], [UEDA Jin], [JPN], [2949],
       [75], [CHO Daeseong], [KOR], [2948],
       [76], [UDA Yukiya], [JPN], [2947],
       [77], [GERELL Par], [SWE], [2944],
@@ -158,7 +158,7 @@
       [124], [#text(gray, "SEO Hyundeok")], [KOR], [2825],
       [125], [LANDRIEU Andrea], [FRA], [2824],
       [126], [ALAMIYAN Noshad], [IRI], [2823],
-      [127], [#text(gray, "MATSUDAIRA Kenji")], [JPN], [2823],
+      [127], [MATSUDAIRA Kenji], [JPN], [2823],
       [128], [ASSAR Omar], [EGY], [2821],
     )
   )

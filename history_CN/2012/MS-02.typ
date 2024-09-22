@@ -55,7 +55,7 @@
       [39], [维尔纳 施拉格], [AUT], [2836],
       [40], [TAKAKIWA Taku], [JPN], [2829],
       [41], [卡林尼科斯 格林卡], [GRE], [2827],
-      [42], [WANG Eugene], [CAN], [2825],
+      [42], [王臻], [CAN], [2825],
       [43], [#text(gray, "高礼泽")], [HKG], [2824],
       [44], [CHO Eonrae], [KOR], [2814],
       [45], [KARAKASEVIC Aleksandar], [SRB], [2807],
@@ -159,6 +159,6 @@
       [125], [LI Hu], [SGP], [2595],
       [126], [TSUBOI Gustavo], [BRA], [2593],
       [127], [MACHADO Carlos], [ESP], [2591],
-      [128], [ZHMUDENKO Yaroslav], [UKR], [2591],
+      [128], [雅罗斯列夫 扎姆登科], [UKR], [2591],
     )
   )

@@ -151,7 +151,7 @@
       [117], [SALEH Ahmed], [EGY], [1959],
       [118], [唐鹏], [HKG], [1953],
       [119], [JIANG Weizhong], [CRO], [1948],
-      [120], [ZHMUDENKO Yaroslav], [UKR], [1948],
+      [120], [雅罗斯列夫 扎姆登科], [UKR], [1948],
       [121], [TRUKSA Jaromir], [SVK], [1946],
       [122], [ZHUANG David], [USA], [1943],
       [123], [STEPHENSEN Gudmundur], [ISL], [1940],

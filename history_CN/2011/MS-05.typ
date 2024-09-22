@@ -112,7 +112,7 @@
       [87], [GORAK Daniel], [POL], [2618],
       [88], [利亚姆 皮切福德], [ENG], [2616],
       [89], [张钰], [HKG], [2616],
-      [90], [ZHMUDENKO Yaroslav], [UKR], [2614],
+      [90], [雅罗斯列夫 扎姆登科], [UKR], [2614],
       [91], [MACHADO Carlos], [ESP], [2613],
       [92], [LUNDQVIST Jens], [SWE], [2613],
       [93], [KASAHARA Hiromitsu], [JPN], [2613],

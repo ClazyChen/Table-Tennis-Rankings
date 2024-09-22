@@ -97,7 +97,7 @@
       [72], [MACHADO Carlos], [ESP], [2631],
       [73], [KAN Yo], [JPN], [2631],
       [74], [利亚姆 皮切福德], [ENG], [2626],
-      [75], [ZHMUDENKO Yaroslav], [UKR], [2624],
+      [75], [雅罗斯列夫 扎姆登科], [UKR], [2624],
       [76], [KASAHARA Hiromitsu], [JPN], [2623],
       [77], [李尚洙], [KOR], [2620],
       [78], [JAKAB Janos], [HUN], [2613],

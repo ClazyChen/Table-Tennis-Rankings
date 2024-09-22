@@ -12,7 +12,7 @@
       [5], [LIU Shiwen], [CHN], [3444],
       [6], [#text(gray, "DING Ning")], [CHN], [3401],
       [7], [WANG Yidi], [CHN], [3360],
-      [8], [#text(gray, "ZHU Yuling")], [CHN], [3351],
+      [8], [ZHU Yuling], [MAC], [3351],
       [9], [CHEN Xingtong], [CHN], [3301],
       [10], [ISHIKAWA Kasumi], [JPN], [3254],
       [11], [QIAN Tianyi], [CHN], [3250],

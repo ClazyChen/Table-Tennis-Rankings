@@ -96,7 +96,7 @@
       [71], [ELOI Damien], [FRA], [2667],
       [72], [SKACHKOV Kirill], [RUS], [2666],
       [73], [GERELL Par], [SWE], [2665],
-      [74], [ZHMUDENKO Yaroslav], [UKR], [2664],
+      [74], [雅罗斯列夫 扎姆登科], [UKR], [2664],
       [75], [LI Ahmet], [TUR], [2649],
       [76], [MACHADO Carlos], [ESP], [2646],
       [77], [HE Zhiwen], [ESP], [2639],

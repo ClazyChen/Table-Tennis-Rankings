@@ -139,7 +139,7 @@
       [105], [LIU Song], [ARG], [2624],
       [106], [FILIMON Andrei], [ROU], [2617],
       [107], [KEINATH Thomas], [SVK], [2615],
-      [108], [ZHMUDENKO Yaroslav], [UKR], [2611],
+      [108], [雅罗斯列夫 扎姆登科], [UKR], [2611],
       [109], [KONECNY Tomas], [CZE], [2609],
       [110], [KORBEL Petr], [CZE], [2609],
       [111], [KUZMIN Fedor], [RUS], [2609],

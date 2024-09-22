@@ -8,7 +8,7 @@
       [1], [DING Ning], [CHN], [3699],
       [2], [#text(gray, "LI Xiaoxia")], [CHN], [3576],
       [3], [LIU Shiwen], [CHN], [3505],
-      [4], [ZHU Yuling], [CHN], [3459],
+      [4], [ZHU Yuling], [MAC], [3459],
       [5], [CHEN Meng], [CHN], [3405],
       [6], [SUN Yingsha], [CHN], [3348],
       [7], [MU Zi], [CHN], [3329],

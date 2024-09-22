@@ -140,7 +140,7 @@
       [106], [ACHANTA Sharath Kamal], [IND], [2777],
       [107], [CHO Eonrae], [KOR], [2776],
       [108], [VLASOV Grigory], [RUS], [2775],
-      [109], [WANG Eugene], [CAN], [2775],
+      [109], [王臻], [CAN], [2775],
       [110], [CHTCHETININE Evgueni], [BLR], [2772],
       [111], [MATSUDAIRA Kenji], [JPN], [2771],
       [112], [米凯尔 梅兹], [DEN], [2770],

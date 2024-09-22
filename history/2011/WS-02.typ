@@ -49,7 +49,7 @@
       [33], [MOON Hyunjung], [KOR], [2754],
       [34], [LEE Eunhee], [KOR], [2734],
       [35], [LI Jiawei], [SGP], [2733],
-      [36], [ZHU Yuling], [CHN], [2719],
+      [36], [ZHU Yuling], [MAC], [2719],
       [37], [HIRANO Sayaka], [JPN], [2719],
       [38], [IVANCAN Irene], [GER], [2702],
       [39], [ISHIGAKI Yuka], [JPN], [2702],

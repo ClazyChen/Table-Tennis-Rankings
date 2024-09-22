@@ -75,7 +75,7 @@
       [59], [#text(gray, "尹在荣")], [KOR], [2812],
       [60], [维尔纳 施拉格], [AUT], [2809],
       [61], [吉田海伟], [JPN], [2807],
-      [62], [WANG Eugene], [CAN], [2800],
+      [62], [王臻], [CAN], [2800],
       [63], [MONTEIRO Joao], [POR], [2800],
       [64], [SKACHKOV Kirill], [RUS], [2796],
     )
@@ -139,7 +139,7 @@
       [105], [PATTANTYUS Adam], [HUN], [2695],
       [106], [LIU Song], [ARG], [2694],
       [107], [MACHI Asuka], [JPN], [2693],
-      [108], [DESAI Harmeet], [IND], [2693],
+      [108], [哈米特 德赛], [IND], [2693],
       [109], [KORBEL Petr], [CZE], [2689],
       [110], [LAKEEV Vasily], [RUS], [2689],
       [111], [SAHA Subhajit], [IND], [2686],
@@ -158,7 +158,7 @@
       [124], [WU Jiaji], [DOM], [2659],
       [125], [张钰], [HKG], [2658],
       [126], [塩野真人], [JPN], [2657],
-      [127], [ZHMUDENKO Yaroslav], [UKR], [2657],
+      [127], [雅罗斯列夫 扎姆登科], [UKR], [2657],
       [128], [MADRID Marcos], [MEX], [2654],
     )
   )

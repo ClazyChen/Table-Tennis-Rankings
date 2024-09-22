@@ -8,7 +8,7 @@
       [1], [DING Ning], [CHN], [3610],
       [2], [LIU Shiwen], [CHN], [3578],
       [3], [#text(gray, "LI Xiaoxia")], [CHN], [3576],
-      [4], [ZHU Yuling], [CHN], [3445],
+      [4], [ZHU Yuling], [MAC], [3445],
       [5], [CHEN Meng], [CHN], [3377],
       [6], [ISHIKAWA Kasumi], [JPN], [3317],
       [7], [MU Zi], [CHN], [3305],

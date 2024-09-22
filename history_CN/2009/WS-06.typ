@@ -158,7 +158,7 @@
       [124], [PENKAVOVA Katerina], [CZE], [2141],
       [125], [RAMIREZ Sara], [ESP], [2137],
       [126], [ONO Shiho], [JPN], [2135],
-      [127], [张默], [CAN], [2133],
+      [127], [张墨], [CAN], [2133],
       [128], [HIRICI Cristina], [ROU], [2133],
     )
   )

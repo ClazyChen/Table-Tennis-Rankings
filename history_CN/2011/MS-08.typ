@@ -144,7 +144,7 @@
       [110], [DIDUKH Oleksandr], [UKR], [2576],
       [111], [利亚姆 皮切福德], [ENG], [2572],
       [112], [DRINKHALL Paul], [ENG], [2567],
-      [113], [ZHMUDENKO Yaroslav], [UKR], [2565],
+      [113], [雅罗斯列夫 扎姆登科], [UKR], [2565],
       [114], [#text(gray, "RI Chol Guk")], [PRK], [2561],
       [115], [LUNDQVIST Jens], [SWE], [2550],
       [116], [BURGIS Matiss], [LAT], [2538],

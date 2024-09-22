@@ -288,7 +288,7 @@ ZENG Beixun, 曾蓓勋
 ZENG Jian, 曾尖
 ZHANG Jike, 张继科
 ZHANG Lily, 张安
-ZHANG Mo, 张默
+ZHANG Mo, 张墨
 ZHANG Qiang, 张蔷
 ZHANG Rui, 张瑞
 ZHANG Yining, 张怡宁
@@ -302,3 +302,18 @@ ZHU Linfeng, 朱霖峰
 ZHU Sibing, 朱思冰
 ZHU Yuling, 朱雨玲
 ZONG Geman, 纵歌曼
+IONESCU Ovidiu, 奥维迪乌 伊奥内斯库
+URSU Vladislav, 弗拉迪斯拉夫 乌尔苏
+ABO YAMAN Zaid, 扎伊德 阿博 亚曼
+DESAI Harmeet, 哈米特 德赛
+DIAW Ibrahima, 易卜拉欣 迪阿夫
+NUYTINCK Cedric, 塞德里克 纽廷克
+OMOTAYO Olajide, 奥拉吉德 奥莫塔约
+MLADENOVIC Luka, 卢卡 姆拉德诺维奇
+RAKOTOARIMANANA Fabio, 法比奥 拉库图阿里马纳纳
+GONZALEZ Daniel, 丹尼尔 冈萨雷斯
+ZHMUDENKO Yaroslav, 雅罗斯列夫 扎姆登科
+LUM Nicholas, 林文政
+QUEK Izaac, 郭勇
+WANG Eugene, 王臻
+PUCAR Tomislav, 托米斯拉夫 普卡

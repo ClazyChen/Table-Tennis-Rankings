@@ -76,7 +76,7 @@
       [60], [SHIBAEV Alexander], [RUS], [2857],
       [61], [WANG Zengyi], [POL], [2856],
       [62], [卡林尼科斯 格林卡], [GRE], [2854],
-      [63], [WANG Eugene], [CAN], [2854],
+      [63], [王臻], [CAN], [2854],
       [64], [吴尚垠], [KOR], [2853],
     )
   )#pagebreak()

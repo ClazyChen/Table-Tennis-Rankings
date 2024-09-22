@@ -8,7 +8,7 @@
       [1], [CHEN Meng], [CHN], [3598],
       [2], [SUN Yingsha], [CHN], [3574],
       [3], [LIU Shiwen], [CHN], [3522],
-      [4], [ZHU Yuling], [CHN], [3441],
+      [4], [ZHU Yuling], [MAC], [3441],
       [5], [DING Ning], [CHN], [3389],
       [6], [ITO Mima], [JPN], [3376],
       [7], [CHEN Xingtong], [CHN], [3364],

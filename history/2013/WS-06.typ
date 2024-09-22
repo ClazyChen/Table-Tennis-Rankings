@@ -11,7 +11,7 @@
       [4], [GUO Yan], [CHN], [3392],
       [5], [GUO Yue], [CHN], [3305],
       [6], [WU Yang], [CHN], [3257],
-      [7], [ZHU Yuling], [CHN], [3203],
+      [7], [ZHU Yuling], [MAC], [3203],
       [8], [FENG Yalan], [CHN], [3136],
       [9], [#text(gray, "FAN Ying")], [CHN], [3099],
       [10], [CHEN Meng], [CHN], [3081],

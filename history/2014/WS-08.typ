@@ -9,7 +9,7 @@
       [2], [LIU Shiwen], [CHN], [3512],
       [3], [LI Xiaoxia], [CHN], [3507],
       [4], [WU Yang], [CHN], [3367],
-      [5], [ZHU Yuling], [CHN], [3273],
+      [5], [ZHU Yuling], [MAC], [3273],
       [6], [FENG Tianwei], [SGP], [3270],
       [7], [CHEN Meng], [CHN], [3246],
       [8], [WEN Jia], [CHN], [3151],

@@ -36,7 +36,7 @@
       [29], [CHANG Chenchen], [CHN], [2883],
       [30], [YANG Ha Eun], [KOR], [2869],
       [31], [MOON Hyunjung], [KOR], [2853],
-      [32], [ZHU Yuling], [CHN], [2845],
+      [32], [ZHU Yuling], [MAC], [2845],
     )
   )#pagebreak()
 

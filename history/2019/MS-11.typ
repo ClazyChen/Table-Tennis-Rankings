@@ -94,7 +94,7 @@
       [69], [JHA Kanak], [USA], [2955],
       [70], [WEI Shihao], [CHN], [2954],
       [71], [OIKAWA Mizuki], [JPN], [2950],
-      [72], [#text(gray, "UEDA Jin")], [JPN], [2949],
+      [72], [UEDA Jin], [JPN], [2949],
       [73], [CHO Daeseong], [KOR], [2948],
       [74], [DRINKHALL Paul], [ENG], [2946],
       [75], [DUDA Benedikt], [GER], [2943],
@@ -158,7 +158,7 @@
       [124], [HO Kwan Kit], [HKG], [2830],
       [125], [ALAMIAN Nima], [IRI], [2825],
       [126], [#text(gray, "SEO Hyundeok")], [KOR], [2825],
-      [127], [#text(gray, "MATSUDAIRA Kenji")], [JPN], [2823],
+      [127], [MATSUDAIRA Kenji], [JPN], [2823],
       [128], [HABESOHN Daniel], [AUT], [2820],
     )
   )

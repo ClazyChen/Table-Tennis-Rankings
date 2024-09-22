@@ -71,7 +71,7 @@
       [55], [张一博], [JPN], [2873],
       [56], [TAKAKIWA Taku], [JPN], [2869],
       [57], [HE Zhiwen], [ESP], [2866],
-      [58], [WANG Eugene], [CAN], [2865],
+      [58], [王臻], [CAN], [2865],
       [59], [LI Ahmet], [TUR], [2863],
       [60], [LEUNG Chu Yan], [HKG], [2861],
       [61], [YANG Zi], [SGP], [2856],

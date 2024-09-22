@@ -52,7 +52,7 @@
       [36], [SUH Hyo Won], [KOR], [2756],
       [37], [JIANG Huajun], [HKG], [2755],
       [38], [SCHALL Elke], [GER], [2735],
-      [39], [ZHU Yuling], [CHN], [2729],
+      [39], [ZHU Yuling], [MAC], [2729],
       [40], [LEE Eunhee], [KOR], [2723],
       [41], [KIM Kyungah], [KOR], [2722],
       [42], [LIU Jia], [AUT], [2718],

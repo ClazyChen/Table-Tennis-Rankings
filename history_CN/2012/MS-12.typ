@@ -88,7 +88,7 @@
       columns: 4,
       [排名], [运动员], [国家/地区], [积分],
       [65], [方博], [CHN], [2802],
-      [66], [WANG Eugene], [CAN], [2800],
+      [66], [王臻], [CAN], [2800],
       [67], [ZWICKL Daniel], [HUN], [2798],
       [68], [ACHANTA Sharath Kamal], [IND], [2796],
       [69], [CHTCHETININE Evgueni], [BLR], [2788],

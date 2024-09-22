@@ -57,7 +57,7 @@
       [41], [YOON Sunae], [KOR], [2731],
       [42], [LEE Eunhee], [KOR], [2730],
       [43], [SUN Beibei], [SGP], [2730],
-      [44], [ZHU Yuling], [CHN], [2730],
+      [44], [ZHU Yuling], [MAC], [2730],
       [45], [LOVAS Petra], [HUN], [2728],
       [46], [LIU Jia], [AUT], [2718],
       [47], [WU Jiaduo], [GER], [2714],

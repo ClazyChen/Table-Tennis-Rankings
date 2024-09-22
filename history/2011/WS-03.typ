@@ -53,7 +53,7 @@
       [37], [LI Xue], [FRA], [2749],
       [38], [SUH Hyo Won], [KOR], [2737],
       [39], [LI Qian], [POL], [2729],
-      [40], [ZHU Yuling], [CHN], [2719],
+      [40], [ZHU Yuling], [MAC], [2719],
       [41], [LIU Jia], [AUT], [2718],
       [42], [IVANCAN Irene], [GER], [2702],
       [43], [LANG Kristin], [GER], [2695],

@@ -10,7 +10,7 @@
       [3], [LI Xiaoxia], [CHN], [3507],
       [4], [WU Yang], [CHN], [3367],
       [5], [FENG Tianwei], [SGP], [3286],
-      [6], [ZHU Yuling], [CHN], [3273],
+      [6], [ZHU Yuling], [MAC], [3273],
       [7], [CHEN Meng], [CHN], [3246],
       [8], [WEN Jia], [CHN], [3151],
       [9], [FENG Yalan], [CHN], [3137],

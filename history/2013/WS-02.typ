@@ -23,7 +23,7 @@
       [16], [PAVLOVICH Viktoria], [BLR], [2988],
       [17], [KIM Kyungah], [KOR], [2958],
       [18], [SAMARA Elizabeta], [ROU], [2947],
-      [19], [ZHU Yuling], [CHN], [2947],
+      [19], [ZHU Yuling], [MAC], [2947],
       [20], [LI Jiao], [NED], [2945],
       [21], [#text(gray, "WANG Yuegu")], [SGP], [2932],
       [22], [#text(gray, "LI Jiawei")], [SGP], [2923],

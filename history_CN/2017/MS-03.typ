@@ -76,7 +76,7 @@
       [60], [罗伯特 加尔多斯], [AUT], [2927],
       [61], [奥马尔 阿萨尔], [EGY], [2925],
       [62], [ACHANTA Sharath Kamal], [IND], [2925],
-      [63], [WANG Eugene], [CAN], [2925],
+      [63], [王臻], [CAN], [2925],
       [64], [张本智和], [JPN], [2925],
     )
   )#pagebreak()
@@ -95,11 +95,11 @@
       [70], [MATTENET Adrien], [FRA], [2916],
       [71], [#text(gray, "LI Hu")], [SGP], [2914],
       [72], [帕特里克 弗朗西斯卡], [GER], [2905],
-      [73], [ZHMUDENKO Yaroslav], [UKR], [2903],
+      [73], [雅罗斯列夫 扎姆登科], [UKR], [2903],
       [74], [MONTEIRO Joao], [POR], [2903],
       [75], [弗拉基米尔 萨姆索诺夫], [BLR], [2901],
       [76], [SHIBAEV Alexander], [RUS], [2901],
-      [77], [PUCAR Tomislav], [CRO], [2898],
+      [77], [托米斯拉夫 普卡], [CRO], [2898],
       [78], [KONECNY Tomas], [CZE], [2895],
       [79], [MATSUDAIRA Kenji], [JPN], [2890],
       [80], [安东 卡尔伯格], [SWE], [2884],
@@ -115,8 +115,8 @@
       [90], [WANG Xi], [GER], [2857],
       [91], [TAKAKIWA Taku], [JPN], [2854],
       [92], [VLASOV Grigory], [RUS], [2854],
-      [93], [IONESCU Ovidiu], [ROU], [2851],
-      [94], [DESAI Harmeet], [IND], [2848],
+      [93], [奥维迪乌 伊奥内斯库], [ROU], [2851],
+      [94], [哈米特 德赛], [IND], [2848],
       [95], [HABESOHN Daniel], [AUT], [2848],
       [96], [ROBLES Alvaro], [ESP], [2847],
     )

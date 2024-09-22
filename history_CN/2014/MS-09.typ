@@ -101,7 +101,7 @@
       [76], [MONTEIRO Joao], [POR], [2832],
       [77], [SHIBAEV Alexander], [RUS], [2829],
       [78], [OYA Hidetoshi], [JPN], [2828],
-      [79], [WANG Eugene], [CAN], [2828],
+      [79], [王臻], [CAN], [2828],
       [80], [大岛祐哉], [JPN], [2824],
       [81], [WU Zhikang], [SGP], [2822],
       [82], [蒂亚戈 阿波罗尼亚], [POR], [2819],

@@ -157,7 +157,7 @@
       [123], [塩野真人], [JPN], [2404],
       [124], [蒋澎龙], [TPE], [2403],
       [125], [REED Daniel], [ENG], [2403],
-      [126], [ZHMUDENKO Yaroslav], [UKR], [2401],
+      [126], [雅罗斯列夫 扎姆登科], [UKR], [2401],
       [127], [SEREDA Peter], [SVK], [2397],
       [128], [#text(gray, "LEI Zhenhua")], [CHN], [2397],
     )

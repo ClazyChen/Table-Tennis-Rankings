@@ -157,7 +157,7 @@
       [123], [唐鹏], [HKG], [1953],
       [124], [JOVER Sebastien], [FRA], [1948],
       [125], [JIANG Weizhong], [CRO], [1948],
-      [126], [ZHMUDENKO Yaroslav], [UKR], [1948],
+      [126], [雅罗斯列夫 扎姆登科], [UKR], [1948],
       [127], [TRUKSA Jaromir], [SVK], [1946],
       [128], [STEPHENSEN Gudmundur], [ISL], [1940],
     )

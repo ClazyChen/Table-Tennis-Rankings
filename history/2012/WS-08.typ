@@ -54,7 +54,7 @@
       [38], [RI Myong Sun], [PRK], [2827],
       [39], [LI Qian], [POL], [2822],
       [40], [IVANCAN Irene], [GER], [2820],
-      [41], [ZHU Yuling], [CHN], [2803],
+      [41], [ZHU Yuling], [MAC], [2803],
       [42], [EKHOLM Matilda], [SWE], [2802],
       [43], [#text(gray, "GAO Jun")], [USA], [2798],
       [44], [#text(gray, "YAO Yan")], [CHN], [2793],

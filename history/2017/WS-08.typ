@@ -9,7 +9,7 @@
       [2], [#text(gray, "LI Xiaoxia")], [CHN], [3576],
       [3], [LIU Shiwen], [CHN], [3505],
       [4], [CHEN Meng], [CHN], [3444],
-      [5], [ZHU Yuling], [CHN], [3421],
+      [5], [ZHU Yuling], [MAC], [3421],
       [6], [SUN Yingsha], [CHN], [3348],
       [7], [MU Zi], [CHN], [3329],
       [8], [HIRANO Miu], [JPN], [3285],

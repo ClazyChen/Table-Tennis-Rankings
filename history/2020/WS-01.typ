@@ -11,7 +11,7 @@
       [4], [WANG Manyu], [CHN], [3442],
       [5], [ITO Mima], [JPN], [3432],
       [6], [DING Ning], [CHN], [3331],
-      [7], [ZHU Yuling], [CHN], [3328],
+      [7], [ZHU Yuling], [MAC], [3328],
       [8], [WANG Yidi], [CHN], [3308],
       [9], [CHEN Xingtong], [CHN], [3270],
       [10], [QIAN Tianyi], [CHN], [3257],

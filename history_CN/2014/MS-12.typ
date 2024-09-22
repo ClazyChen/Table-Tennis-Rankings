@@ -110,7 +110,7 @@
       [85], [张一博], [JPN], [2817],
       [86], [约尔根 佩尔森], [SWE], [2816],
       [87], [KONECNY Tomas], [CZE], [2811],
-      [88], [WANG Eugene], [CAN], [2809],
+      [88], [王臻], [CAN], [2809],
       [89], [WU Zhikang], [SGP], [2807],
       [90], [HUANG Sheng-Sheng], [TPE], [2793],
       [91], [#text(gray, "KIM Nam Chol")], [PRK], [2792],

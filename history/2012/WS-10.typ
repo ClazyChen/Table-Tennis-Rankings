@@ -50,7 +50,7 @@
       [34], [WANG Xuan], [CHN], [2841],
       [35], [LI Qian], [POL], [2840],
       [36], [TIKHOMIROVA Anna], [RUS], [2835],
-      [37], [ZHU Yuling], [CHN], [2829],
+      [37], [ZHU Yuling], [MAC], [2829],
       [38], [PESOTSKA Margaryta], [UKR], [2813],
       [39], [WAKAMIYA Misako], [JPN], [2803],
       [40], [#text(gray, "GAO Jun")], [USA], [2798],

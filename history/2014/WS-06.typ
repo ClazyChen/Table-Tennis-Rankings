@@ -10,7 +10,7 @@
       [3], [LIU Shiwen], [CHN], [3505],
       [4], [#text(gray, "GUO Yan")], [CHN], [3410],
       [5], [WU Yang], [CHN], [3358],
-      [6], [ZHU Yuling], [CHN], [3287],
+      [6], [ZHU Yuling], [MAC], [3287],
       [7], [CHEN Meng], [CHN], [3268],
       [8], [#text(gray, "GUO Yue")], [CHN], [3261],
       [9], [FENG Tianwei], [SGP], [3224],

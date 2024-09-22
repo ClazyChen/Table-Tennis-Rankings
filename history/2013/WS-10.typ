@@ -11,7 +11,7 @@
       [4], [#text(gray, "GUO Yan")], [CHN], [3410],
       [5], [WU Yang], [CHN], [3297],
       [6], [#text(gray, "GUO Yue")], [CHN], [3261],
-      [7], [ZHU Yuling], [CHN], [3194],
+      [7], [ZHU Yuling], [MAC], [3194],
       [8], [CHEN Meng], [CHN], [3164],
       [9], [FENG Tianwei], [SGP], [3158],
       [10], [FENG Yalan], [CHN], [3137],

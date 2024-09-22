@@ -108,7 +108,7 @@
       [83], [吴尚垠], [KOR], [2853],
       [84], [丁祥恩], [KOR], [2852],
       [85], [WALTHER Ricardo], [GER], [2851],
-      [86], [WANG Eugene], [CAN], [2850],
+      [86], [王臻], [CAN], [2850],
       [87], [DRINKHALL Paul], [ENG], [2849],
       [88], [UEDA Jin], [JPN], [2848],
       [89], [HO Kwan Kit], [HKG], [2845],

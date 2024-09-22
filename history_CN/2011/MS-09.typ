@@ -146,7 +146,7 @@
       [112], [利亚姆 皮切福德], [ENG], [2572],
       [113], [#text(gray, "KAN Yo")], [JPN], [2570],
       [114], [#text(gray, "RI Chol Guk")], [PRK], [2561],
-      [115], [ZHMUDENKO Yaroslav], [UKR], [2553],
+      [115], [雅罗斯列夫 扎姆登科], [UKR], [2553],
       [116], [DRINKHALL Paul], [ENG], [2542],
       [117], [BURGIS Matiss], [LAT], [2538],
       [118], [TSUBOI Gustavo], [BRA], [2538],

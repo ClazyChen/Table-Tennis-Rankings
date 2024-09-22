@@ -53,7 +53,7 @@
       [37], [SHEN Yanfei], [ESP], [2749],
       [38], [LI Qian], [POL], [2745],
       [39], [PARK Miyoung], [KOR], [2721],
-      [40], [ZHU Yuling], [CHN], [2719],
+      [40], [ZHU Yuling], [MAC], [2719],
       [41], [LIU Jia], [AUT], [2718],
       [42], [LI Xue], [FRA], [2710],
       [43], [LANG Kristin], [GER], [2695],

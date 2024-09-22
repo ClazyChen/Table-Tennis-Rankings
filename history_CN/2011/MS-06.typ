@@ -134,7 +134,7 @@
       [100], [DIDUKH Oleksandr], [UKR], [2576],
       [101], [利亚姆 皮切福德], [ENG], [2573],
       [102], [DRINKHALL Paul], [ENG], [2567],
-      [103], [ZHMUDENKO Yaroslav], [UKR], [2565],
+      [103], [雅罗斯列夫 扎姆登科], [UKR], [2565],
       [104], [#text(gray, "RI Chol Guk")], [PRK], [2561],
       [105], [KEINATH Thomas], [SVK], [2557],
       [106], [MATSUDAIRA Kenji], [JPN], [2554],

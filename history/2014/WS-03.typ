@@ -10,7 +10,7 @@
       [3], [DING Ning], [CHN], [3463],
       [4], [#text(gray, "GUO Yan")], [CHN], [3410],
       [5], [WU Yang], [CHN], [3358],
-      [6], [ZHU Yuling], [CHN], [3265],
+      [6], [ZHU Yuling], [MAC], [3265],
       [7], [#text(gray, "GUO Yue")], [CHN], [3261],
       [8], [CHEN Meng], [CHN], [3257],
       [9], [WEN Jia], [CHN], [3151],

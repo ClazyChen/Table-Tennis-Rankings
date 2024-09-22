@@ -7,7 +7,7 @@
       [Ranking], [Player], [Country/Region], [Rating],
       [1], [DING Ning], [CHN], [3640],
       [2], [LIU Shiwen], [CHN], [3517],
-      [3], [ZHU Yuling], [CHN], [3517],
+      [3], [ZHU Yuling], [MAC], [3517],
       [4], [WANG Manyu], [CHN], [3490],
       [5], [CHEN Meng], [CHN], [3483],
       [6], [ITO Mima], [JPN], [3302],

@@ -47,7 +47,7 @@
       columns: 4,
       [Ranking], [Player], [Country/Region], [Rating],
       [33], [SAMARA Elizabeta], [ROU], [2719],
-      [34], [ZHU Yuling], [CHN], [2719],
+      [34], [ZHU Yuling], [MAC], [2719],
       [35], [SUN Beibei], [SGP], [2702],
       [36], [ISHIGAKI Yuka], [JPN], [2702],
       [37], [MONTEIRO DODEAN Daniela], [ROU], [2700],

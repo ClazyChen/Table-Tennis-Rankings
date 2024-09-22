@@ -100,7 +100,7 @@
       [75], [TAKAKIWA Taku], [JPN], [2899],
       [76], [GNANASEKARAN Sathiyan], [IND], [2896],
       [77], [木造勇人], [JPN], [2896],
-      [78], [WANG Eugene], [CAN], [2895],
+      [78], [王臻], [CAN], [2895],
       [79], [赵胜敏], [KOR], [2891],
       [80], [达科 约奇克], [SLO], [2890],
       [81], [陈建安], [TPE], [2889],
@@ -114,7 +114,7 @@
       [89], [周启豪], [CHN], [2878],
       [90], [汪洋], [SVK], [2873],
       [91], [MONTEIRO Joao], [POR], [2871],
-      [92], [IONESCU Ovidiu], [ROU], [2867],
+      [92], [奥维迪乌 伊奥内斯库], [ROU], [2867],
       [93], [ROBLES Alvaro], [ESP], [2866],
       [94], [LIVENTSOV Alexey], [RUS], [2865],
       [95], [#text(gray, "MATTENET Adrien")], [FRA], [2865],
@@ -159,6 +159,6 @@
       [125], [ANTHONY Amalraj], [IND], [2779],
       [126], [#text(gray, "RYUZAKI Tonin")], [JPN], [2778],
       [127], [PISTEJ Lubomir], [SVK], [2775],
-      [128], [DESAI Harmeet], [IND], [2774],
+      [128], [哈米特 德赛], [IND], [2774],
     )
   )

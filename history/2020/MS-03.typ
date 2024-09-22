@@ -97,7 +97,7 @@
       [72], [SIRUCEK Pavel], [CZE], [2962],
       [73], [WEI Shihao], [CHN], [2954],
       [74], [GNANASEKARAN Sathiyan], [IND], [2954],
-      [75], [#text(gray, "UEDA Jin")], [JPN], [2949],
+      [75], [UEDA Jin], [JPN], [2949],
       [76], [KALLBERG Anton], [SWE], [2948],
       [77], [JHA Kanak], [USA], [2943],
       [78], [AKKUZU Can], [FRA], [2942],
@@ -158,7 +158,7 @@
       [124], [OLAH Benedek], [FIN], [2825],
       [125], [#text(gray, "SEO Hyundeok")], [KOR], [2825],
       [126], [FLORE Tristan], [FRA], [2823],
-      [127], [#text(gray, "MATSUDAIRA Kenji")], [JPN], [2823],
+      [127], [MATSUDAIRA Kenji], [JPN], [2823],
       [128], [LIAO Cheng-Ting], [TPE], [2820],
     )
   )

@@ -71,7 +71,7 @@
       [55], [梁靖崑], [CHN], [2875],
       [56], [KIM Junghoon], [KOR], [2873],
       [57], [HE Zhiwen], [ESP], [2866],
-      [58], [WANG Eugene], [CAN], [2865],
+      [58], [王臻], [CAN], [2865],
       [59], [LEUNG Chu Yan], [HKG], [2861],
       [60], [SALIFOU Abdel-Kader], [FRA], [2861],
       [61], [YANG Zi], [SGP], [2856],

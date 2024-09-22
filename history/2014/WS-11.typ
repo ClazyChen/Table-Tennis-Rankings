@@ -9,7 +9,7 @@
       [2], [LIU Shiwen], [CHN], [3529],
       [3], [LI Xiaoxia], [CHN], [3452],
       [4], [WU Yang], [CHN], [3367],
-      [5], [ZHU Yuling], [CHN], [3291],
+      [5], [ZHU Yuling], [MAC], [3291],
       [6], [FENG Tianwei], [SGP], [3265],
       [7], [CHEN Meng], [CHN], [3251],
       [8], [ISHIKAWA Kasumi], [JPN], [3170],

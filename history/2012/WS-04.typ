@@ -35,7 +35,7 @@
       [28], [SAMARA Elizabeta], [ROU], [2838],
       [29], [PAVLOVICH Viktoria], [BLR], [2830],
       [30], [JIANG Huajun], [HKG], [2813],
-      [31], [ZHU Yuling], [CHN], [2803],
+      [31], [ZHU Yuling], [MAC], [2803],
       [32], [HIRANO Sayaka], [JPN], [2801],
     )
   )#pagebreak()

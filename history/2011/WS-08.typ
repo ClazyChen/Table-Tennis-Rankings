@@ -52,7 +52,7 @@
       [36], [FUJII Hiroko], [JPN], [2741],
       [37], [LEE Eunhee], [KOR], [2741],
       [38], [SCHALL Elke], [GER], [2735],
-      [39], [ZHU Yuling], [CHN], [2729],
+      [39], [ZHU Yuling], [MAC], [2729],
       [40], [KIM Kyungah], [KOR], [2722],
       [41], [LIU Jia], [AUT], [2718],
       [42], [HU Melek], [TUR], [2717],

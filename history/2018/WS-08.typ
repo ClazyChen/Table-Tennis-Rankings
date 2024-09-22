@@ -5,7 +5,7 @@
     table(
       columns: 4,
       [Ranking], [Player], [Country/Region], [Rating],
-      [1], [ZHU Yuling], [CHN], [3565],
+      [1], [ZHU Yuling], [MAC], [3565],
       [2], [DING Ning], [CHN], [3547],
       [3], [LIU Shiwen], [CHN], [3517],
       [4], [CHEN Meng], [CHN], [3495],

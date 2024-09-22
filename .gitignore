@@ -13,3 +13,5 @@ update-*
 
 # pycache
 __pycache__
+
+*.xlsx

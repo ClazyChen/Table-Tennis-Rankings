@@ -88,7 +88,7 @@
       columns: 4,
       [排名], [运动员], [国家/地区], [积分],
       [65], [方博], [CHN], [2802],
-      [66], [WANG Eugene], [CAN], [2800],
+      [66], [王臻], [CAN], [2800],
       [67], [帕特里克 弗朗西斯卡], [GER], [2800],
       [68], [SMIRNOV Alexey], [RUS], [2798],
       [69], [ZWICKL Daniel], [HUN], [2798],
@@ -158,7 +158,7 @@
       [124], [KOU Lei], [UKR], [2650],
       [125], [MONTEIRO Thiago], [BRA], [2644],
       [126], [DRINKHALL Paul], [ENG], [2643],
-      [127], [ZHMUDENKO Yaroslav], [UKR], [2642],
+      [127], [雅罗斯列夫 扎姆登科], [UKR], [2642],
       [128], [LI Ahmet], [TUR], [2639],
     )
   )

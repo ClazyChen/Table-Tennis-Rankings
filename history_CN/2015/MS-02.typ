@@ -110,7 +110,7 @@
       [85], [张一博], [JPN], [2817],
       [86], [约尔根 佩尔森], [SWE], [2816],
       [87], [KONECNY Tomas], [CZE], [2811],
-      [88], [WANG Eugene], [CAN], [2809],
+      [88], [王臻], [CAN], [2809],
       [89], [SAKAI Asuka], [JPN], [2807],
       [90], [WU Zhikang], [SGP], [2807],
       [91], [KIM Donghyun], [KOR], [2794],

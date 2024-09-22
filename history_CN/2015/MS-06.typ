@@ -101,7 +101,7 @@
       [76], [DRINKHALL Paul], [ENG], [2846],
       [77], [BOBOCICA Mihai], [ITA], [2843],
       [78], [TOKIC Bojan], [SLO], [2839],
-      [79], [WANG Eugene], [CAN], [2837],
+      [79], [王臻], [CAN], [2837],
       [80], [尚坤], [CHN], [2834],
       [81], [OYA Hidetoshi], [JPN], [2828],
       [82], [GORAK Daniel], [POL], [2827],

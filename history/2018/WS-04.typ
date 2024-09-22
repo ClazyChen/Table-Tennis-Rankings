@@ -8,7 +8,7 @@
       [1], [DING Ning], [CHN], [3641],
       [2], [LIU Shiwen], [CHN], [3547],
       [3], [CHEN Meng], [CHN], [3480],
-      [4], [ZHU Yuling], [CHN], [3462],
+      [4], [ZHU Yuling], [MAC], [3462],
       [5], [WANG Manyu], [CHN], [3415],
       [6], [ISHIKAWA Kasumi], [JPN], [3349],
       [7], [SUN Yingsha], [CHN], [3317],

@@ -35,7 +35,7 @@
       [28], [SAMARA Elizabeta], [ROU], [2838],
       [29], [PAVLOVICH Viktoria], [BLR], [2830],
       [30], [SEOK Hajung], [KOR], [2808],
-      [31], [ZHU Yuling], [CHN], [2803],
+      [31], [ZHU Yuling], [MAC], [2803],
       [32], [IVANCAN Irene], [GER], [2795],
     )
   )#pagebreak()

@@ -129,7 +129,7 @@
       columns: 4,
       [排名], [运动员], [国家/地区], [积分],
       [97], [ACHANTA Sharath Kamal], [IND], [2626],
-      [98], [ZHMUDENKO Yaroslav], [UKR], [2619],
+      [98], [雅罗斯列夫 扎姆登科], [UKR], [2619],
       [99], [LIU Song], [ARG], [2615],
       [100], [KOSOWSKI Jakub], [POL], [2613],
       [101], [尹在荣], [KOR], [2601],

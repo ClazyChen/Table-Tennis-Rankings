@@ -25,7 +25,7 @@
       [18], [#text(gray, "WANG Yuegu")], [SGP], [2932],
       [19], [#text(gray, "LI Jiawei")], [SGP], [2923],
       [20], [#text(gray, "CHANG Chenchen")], [CHN], [2917],
-      [21], [ZHU Yuling], [CHN], [2916],
+      [21], [ZHU Yuling], [MAC], [2916],
       [22], [LANG Kristin], [GER], [2906],
       [23], [TIE Yana], [HKG], [2906],
       [24], [LI Xiaodan], [CHN], [2892],

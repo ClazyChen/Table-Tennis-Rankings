@@ -54,7 +54,7 @@
       [38], [LI Jiawei], [SGP], [2740],
       [39], [VACENOVSKA Iveta], [CZE], [2737],
       [40], [SEOK Hajung], [KOR], [2735],
-      [41], [ZHU Yuling], [CHN], [2729],
+      [41], [ZHU Yuling], [MAC], [2729],
       [42], [LEE Eunhee], [KOR], [2723],
       [43], [KIM Kyungah], [KOR], [2722],
       [44], [TIKHOMIROVA Anna], [RUS], [2721],
