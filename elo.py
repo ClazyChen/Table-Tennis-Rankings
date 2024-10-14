@@ -26,16 +26,16 @@ from prettytable import PrettyTable
 centered = True
 inactive_test = True
 default_rating = 1500
-ceil_rating = 3500
+ceil_rating = 3400
 ranking_least_games = 10
 game_type = 'WS' # MS, WS, MD, WD, XD
-bias = 50
-d_up = 800
-d_down = 800
-diameter_center_up = 1200
-diameter_center_down = 1200
+bias = 36
+d_up = 720
+d_down = 1080
+diameter_center_up = 1280
+diameter_center_down = 960
 diameter_delta_up = 400
-diameter_delta_down = 400
+diameter_delta_down = 360
 
 # load the players data
 players = {}

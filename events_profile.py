@@ -61,38 +61,44 @@ def coefficient(type_, name):
     if type_ == "Olympic Games":
         if is_youth(name):
             if 'Qualification' in name or 'Road' in name:
-                return 0.01
+                return 0.05
             else:
-                return 0.01
+                return 0.15
         else:
-           return 2.5
+           return 3.0
     elif type_ == "WTTC":
-        return 2.0
+        return 2.5
     elif type_ == "World Cup":
-        return 1.6
+        return 2.0
     elif type_ == "WTT Finals":
-        return 1.4
+        return 1.6
     elif type_ == 'World Tour / Pro Tour':
         if 'Finals' in name:
-            return 1.4
+            return 1.6
         elif 'Platium' in name or 'Super Series' in name:
-            return 1.1
+            return 1.2
         else:
-            return 1.0
+            return 1.1
     elif type_ == "WTT Champions":
         return 1.2
     elif type_ == "WTT Grand Smash":
-        return 1.6
+        return 1.4
     elif type_ == "Continental Games":
         if is_youth(name):
-            return 0.01
+            return 0.07
         else:
-            return 1.0
+            if 'Asian' in name or 'European' in name:
+                return 1.6
+            else:
+                return 1.0
     elif type_ == "Continental":
         if is_youth(name):
-            return 0.01
+            return 0.06
         else:
-            return 0.8
+            if 'Asian' in name or 'European' in name:
+                return 1.4
+            else:
+                return 0.8
     elif type_ == 'WTT Contender Series':
         if 'Star' in name:
             return 1.1
@@ -101,39 +107,39 @@ def coefficient(type_, name):
     elif type_ == 'T2 Diamond':
         return 1.1
     elif type_ == 'WJTTC':
-        return 0.01
+        return 0.12
     elif type_ == 'Challenge':
-        return 1.0
+        return 0.9
     elif type_ == 'Olympic Qualification':
         return 0.5
     elif type_ == 'World Youth Championships':
-        return 0.01
+        return 0.12
     elif type_ == 'World Cadet Challenge':
-        return 0.01
+        return 0.02
     elif type_ == 'World Junior Circuit':
         if 'Finals' in name:
-            return 0.01
+            return 0.06
         elif 'Platinum' in name or 'Golden' in name:
-            return 0.01
+            return 0.05
         else:
-            return 0.01
+            return 0.04
     elif type_ == 'WTT Feeder Series':
         return 0.8
     elif type_ == 'Multi sport events':
         if is_youth(name):
-            return 0.01
+            return 0.03
         else:
             return 0.5
     elif type_ == 'Other events':
         if is_youth(name):
-            return 0.01
+            return 0.03
         else:
             return 0.5
     elif type_ == 'WTT Youth Contender Series':
         if 'Star' in name:
-            return 0.011
+            return 0.05
         else:
-            return 0.01
+            return 0.04
     else:
         return 0.01
 
