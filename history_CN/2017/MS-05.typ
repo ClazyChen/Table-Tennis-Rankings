@@ -159,6 +159,6 @@
       [125], [PAPAGEORGIOU Konstantinos], [GRE], [2646],
       [126], [达科 约奇克], [SLO], [2646],
       [127], [OLAH Benedek], [FIN], [2642],
-      [128], [BOBOCICA Mihai], [ITA], [2642],
+      [128], [朱霖峰], [CHN], [2642],
     )
   )

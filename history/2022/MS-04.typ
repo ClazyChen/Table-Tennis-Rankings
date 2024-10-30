@@ -109,7 +109,7 @@
       [84], [HABESOHN Daniel], [AUT], [2719],
       [85], [LEBRUN Felix], [FRA], [2716],
       [86], [ORT Kilian], [GER], [2716],
-      [87], [#text(gray, "MURAMATSU Yuto")], [JPN], [2715],
+      [87], [MURAMATSU Yuto], [JPN], [2715],
       [88], [BADOWSKI Marek], [POL], [2714],
       [89], [LIAO Cheng-Ting], [TPE], [2711],
       [90], [AN Ji Song], [PRK], [2704],

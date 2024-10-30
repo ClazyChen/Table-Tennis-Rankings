@@ -159,6 +159,6 @@
       [125], [LIU Yi], [CHN], [2430],
       [126], [CANTERO Jesus], [ESP], [2429],
       [127], [OYA Hidetoshi], [JPN], [2428],
-      [128], [WALTHER Ricardo], [GER], [2427],
+      [128], [HIGASHI Yuto], [JPN], [2428],
     )
   )

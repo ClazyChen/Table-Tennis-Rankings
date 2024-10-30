@@ -156,9 +156,9 @@
       [122], [PAPAGEORGIOU Konstantinos], [GRE], [2646],
       [123], [MENGEL Steffen], [GER], [2644],
       [124], [PERSSON Jon], [SWE], [2643],
-      [125], [SALIFOU Abdel-Kader], [FRA], [2640],
-      [126], [CANTERO Jesus], [ESP], [2640],
-      [127], [MONTEIRO Thiago], [BRA], [2637],
-      [128], [XUE Fei], [CHN], [2637],
+      [125], [ZHU Linfeng], [CHN], [2642],
+      [126], [SALIFOU Abdel-Kader], [BEN], [2640],
+      [127], [CANTERO Jesus], [ESP], [2640],
+      [128], [MONTEIRO Thiago], [BRA], [2637],
     )
   )

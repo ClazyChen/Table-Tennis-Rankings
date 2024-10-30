@@ -132,7 +132,7 @@
       [98], [LIVENTSOV Alexey], [RUS], [2626],
       [99], [SAIVE Jean-Michel], [BEL], [2622],
       [100], [ASSAR Omar], [EGY], [2617],
-      [101], [SALIFOU Abdel-Kader], [FRA], [2615],
+      [101], [SALIFOU Abdel-Kader], [BEN], [2615],
       [102], [KOU Lei], [UKR], [2615],
       [103], [VANG Bora], [TUR], [2613],
       [104], [FLORAS Robert], [POL], [2613],

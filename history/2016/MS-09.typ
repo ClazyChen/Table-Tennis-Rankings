@@ -156,9 +156,9 @@
       [122], [KIM Minseok], [KOR], [2646],
       [123], [ZHAI Yujia], [DEN], [2646],
       [124], [JIN Takuya], [JPN], [2644],
-      [125], [MACHADO Carlos], [ESP], [2642],
-      [126], [HACHARD Antoine], [FRA], [2639],
-      [127], [XUE Fei], [CHN], [2637],
-      [128], [YOSHIMURA Kazuhiro], [JPN], [2637],
+      [125], [ZHU Linfeng], [CHN], [2642],
+      [126], [MACHADO Carlos], [ESP], [2642],
+      [127], [HACHARD Antoine], [FRA], [2639],
+      [128], [XUE Fei], [CHN], [2637],
     )
   )

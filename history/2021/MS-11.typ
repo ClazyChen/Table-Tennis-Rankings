@@ -109,7 +109,7 @@
       [84], [JANCARIK Lubomir], [CZE], [2718],
       [85], [LAM Siu Hang], [HKG], [2716],
       [86], [TSUBOI Gustavo], [BRA], [2715],
-      [87], [#text(gray, "MURAMATSU Yuto")], [JPN], [2715],
+      [87], [MURAMATSU Yuto], [JPN], [2715],
       [88], [SKACHKOV Kirill], [RUS], [2710],
       [89], [WONG Chun Ting], [HKG], [2708],
       [90], [GARDOS Robert], [AUT], [2708],

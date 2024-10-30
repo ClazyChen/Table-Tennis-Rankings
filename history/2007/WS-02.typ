@@ -154,11 +154,11 @@
       [120], [LI Bin], [HUN], [2000],
       [121], [ISHIGAKI Yuka], [JPN], [1995],
       [122], [KREKINA Svetlana], [RUS], [1994],
-      [123], [#text(gray, "BATORFI Csilla")], [HUN], [1988],
-      [124], [KOLTSOVA Anastasia], [RUS], [1982],
-      [125], [NEVES Ana], [POR], [1982],
-      [126], [PALINA Irina], [RUS], [1976],
-      [127], [#text(gray, "GOBEL Jessica")], [GER], [1974],
-      [128], [NEMES Olga], [ROU], [1973],
+      [123], [SUN Jin], [CHN], [1990],
+      [124], [#text(gray, "BATORFI Csilla")], [HUN], [1988],
+      [125], [MU Zi], [CHN], [1986],
+      [126], [KOLTSOVA Anastasia], [RUS], [1982],
+      [127], [NEVES Ana], [POR], [1982],
+      [128], [PALINA Irina], [RUS], [1976],
     )
   )

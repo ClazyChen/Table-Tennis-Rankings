@@ -109,7 +109,7 @@
       [84], [MENGEL Steffen], [GER], [2719],
       [85], [PUCAR Tomislav], [CRO], [2717],
       [86], [ALAMIYAN Noshad], [IRI], [2717],
-      [87], [#text(gray, "MURAMATSU Yuto")], [JPN], [2715],
+      [87], [MURAMATSU Yuto], [JPN], [2715],
       [88], [BADOWSKI Marek], [POL], [2714],
       [89], [LEBRUN Alexis], [FRA], [2714],
       [90], [ORT Kilian], [GER], [2713],

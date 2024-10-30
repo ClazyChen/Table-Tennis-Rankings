@@ -99,7 +99,7 @@
       [74], [GORAK Daniel], [POL], [2482],
       [75], [JAKAB Janos], [HUN], [2478],
       [76], [利亚姆 皮切福德], [ENG], [2477],
-      [77], [SALIFOU Abdel-Kader], [FRA], [2475],
+      [77], [SALIFOU Abdel-Kader], [BEN], [2475],
       [78], [BENTSEN Allan], [DEN], [2470],
       [79], [韩阳], [JPN], [2469],
       [80], [KUZMIN Fedor], [RUS], [2465],

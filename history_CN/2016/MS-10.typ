@@ -156,9 +156,9 @@
       [122], [神巧也], [JPN], [2644],
       [123], [GORAK Daniel], [POL], [2643],
       [124], [LAKEEV Vasily], [RUS], [2642],
-      [125], [MACHADO Carlos], [ESP], [2642],
-      [126], [薛飞], [CHN], [2637],
-      [127], [KIM Minhyeok], [KOR], [2636],
-      [128], [SZOCS Hunor], [ROU], [2634],
+      [125], [朱霖峰], [CHN], [2642],
+      [126], [MACHADO Carlos], [ESP], [2642],
+      [127], [薛飞], [CHN], [2637],
+      [128], [KIM Minhyeok], [KOR], [2636],
     )
   )

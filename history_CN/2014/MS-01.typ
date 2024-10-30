@@ -96,7 +96,7 @@
       [71], [PLATONOV Pavel], [BLR], [2679],
       [72], [约尔根 佩尔森], [SWE], [2676],
       [73], [沙拉特 卡马尔 阿昌塔], [IND], [2674],
-      [74], [SALIFOU Abdel-Kader], [FRA], [2672],
+      [74], [SALIFOU Abdel-Kader], [BEN], [2672],
       [75], [罗伯特 加尔多斯], [AUT], [2662],
       [76], [LIVENTSOV Alexey], [RUS], [2657],
       [77], [GERELL Par], [SWE], [2654],

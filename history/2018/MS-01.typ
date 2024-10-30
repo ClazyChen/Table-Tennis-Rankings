@@ -148,7 +148,7 @@
       [114], [#text(gray, "FANG Yinchi")], [CHN], [2681],
       [115], [UDA Yukiya], [JPN], [2680],
       [116], [WANG Chuqin], [CHN], [2678],
-      [117], [SALIFOU Abdel-Kader], [FRA], [2675],
+      [117], [SALIFOU Abdel-Kader], [BEN], [2675],
       [118], [MATSUDAIRA Kenji], [JPN], [2666],
       [119], [TAKAMI Masaki], [JPN], [2666],
       [120], [LIVENTSOV Alexey], [RUS], [2663],

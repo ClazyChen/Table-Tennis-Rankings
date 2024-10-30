@@ -157,8 +157,8 @@
       [123], [ZHANG Mo], [CAN], [2594],
       [124], [#text(gray, "KIM Youjin")], [KOR], [2592],
       [125], [BERGSTROM Linda], [SWE], [2589],
-      [126], [HUANG Yi-Hua], [TPE], [2577],
-      [127], [#text(gray, "LI Xiang")], [ITA], [2574],
-      [128], [DIAZ Adriana], [PUR], [2572],
+      [126], [WU Yangchen], [CHN], [2586],
+      [127], [HUANG Yi-Hua], [TPE], [2577],
+      [128], [#text(gray, "LI Xiang")], [ITA], [2574],
     )
   )

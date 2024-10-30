@@ -156,9 +156,9 @@
       [122], [YOSHIMURA Kazuhiro], [JPN], [2649],
       [123], [#text(gray, "CHAN Kazuhiro")], [JPN], [2645],
       [124], [OIKAWA Mizuki], [JPN], [2644],
-      [125], [MACHADO Carlos], [ESP], [2642],
-      [126], [SZOCS Hunor], [ROU], [2640],
-      [127], [XUE Fei], [CHN], [2637],
-      [128], [KIZUKURI Yuto], [JPN], [2635],
+      [125], [ZHU Linfeng], [CHN], [2642],
+      [126], [MACHADO Carlos], [ESP], [2642],
+      [127], [SZOCS Hunor], [ROU], [2640],
+      [128], [XUE Fei], [CHN], [2637],
     )
   )

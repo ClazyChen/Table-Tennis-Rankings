@@ -144,7 +144,7 @@
       [110], [雅罗斯列夫 扎姆登科], [UKR], [2541],
       [111], [吉田雅己], [JPN], [2539],
       [112], [PATTANTYUS Adam], [HUN], [2539],
-      [113], [SALIFOU Abdel-Kader], [FRA], [2538],
+      [113], [SALIFOU Abdel-Kader], [BEN], [2538],
       [114], [SAHA Subhajit], [IND], [2536],
       [115], [TOSIC Roko], [CRO], [2535],
       [116], [MACHI Asuka], [JPN], [2533],

@@ -141,7 +141,7 @@
       [107], [#text(gray, "FANG Yinchi")], [CHN], [2681],
       [108], [TSUBOI Gustavo], [BRA], [2680],
       [109], [宇田幸矢], [JPN], [2680],
-      [110], [SALIFOU Abdel-Kader], [FRA], [2675],
+      [110], [SALIFOU Abdel-Kader], [BEN], [2675],
       [111], [ROBINOT Quentin], [FRA], [2674],
       [112], [LIVENTSOV Alexey], [RUS], [2674],
       [113], [LAM Siu Hang], [HKG], [2673],

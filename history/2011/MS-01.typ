@@ -97,7 +97,7 @@
       [72], [HE Zhiwen], [ESP], [2487],
       [73], [GORAK Daniel], [POL], [2482],
       [74], [JAKAB Janos], [HUN], [2478],
-      [75], [SALIFOU Abdel-Kader], [FRA], [2475],
+      [75], [SALIFOU Abdel-Kader], [BEN], [2475],
       [76], [PITCHFORD Liam], [ENG], [2473],
       [77], [BENTSEN Allan], [DEN], [2470],
       [78], [KAN Yo], [JPN], [2469],

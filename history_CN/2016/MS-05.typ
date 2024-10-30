@@ -155,10 +155,10 @@
       [121], [#text(gray, "张一博")], [JPN], [2645],
       [122], [HACHARD Antoine], [FRA], [2644],
       [123], [及川瑞基], [JPN], [2644],
-      [124], [MACHADO Carlos], [ESP], [2642],
-      [125], [SZOCS Hunor], [ROU], [2640],
-      [126], [江天一], [HKG], [2639],
-      [127], [薛飞], [CHN], [2637],
-      [128], [TANVIRIYAVECHAKUL Padasak], [THA], [2633],
+      [124], [朱霖峰], [CHN], [2642],
+      [125], [MACHADO Carlos], [ESP], [2642],
+      [126], [SZOCS Hunor], [ROU], [2640],
+      [127], [江天一], [HKG], [2639],
+      [128], [薛飞], [CHN], [2637],
     )
   )

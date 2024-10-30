@@ -117,7 +117,7 @@
       [92], [PAPAGEORGIOU Konstantinos], [GRE], [2626],
       [93], [SAIVE Jean-Michel], [BEL], [2622],
       [94], [ELOI Damien], [FRA], [2619],
-      [95], [SALIFOU Abdel-Kader], [FRA], [2615],
+      [95], [SALIFOU Abdel-Kader], [BEN], [2615],
       [96], [VANG Bora], [TUR], [2613],
     )
   )#pagebreak()

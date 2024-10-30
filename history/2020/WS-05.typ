@@ -157,8 +157,8 @@
       [123], [NOSKOVA Yana], [RUS], [2544],
       [124], [SASAO Asuka], [JPN], [2540],
       [125], [TRIGOLOS Daria], [BLR], [2537],
-      [126], [LIU Juan], [CHN], [2535],
-      [127], [SAWETTABUT Jinnipa], [THA], [2530],
-      [128], [DVORAK Galia], [ESP], [2526],
+      [126], [KIM Kum Yong], [PRK], [2536],
+      [127], [LIU Juan], [CHN], [2535],
+      [128], [SAWETTABUT Jinnipa], [THA], [2530],
     )
   )

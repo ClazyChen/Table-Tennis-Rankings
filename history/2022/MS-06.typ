@@ -112,7 +112,7 @@
       [87], [MENGEL Steffen], [GER], [2719],
       [88], [HABESOHN Daniel], [AUT], [2719],
       [89], [LEBRUN Felix], [FRA], [2716],
-      [90], [#text(gray, "MURAMATSU Yuto")], [JPN], [2715],
+      [90], [MURAMATSU Yuto], [JPN], [2715],
       [91], [BADOWSKI Marek], [POL], [2714],
       [92], [LIAO Cheng-Ting], [TPE], [2711],
       [93], [AN Ji Song], [PRK], [2704],

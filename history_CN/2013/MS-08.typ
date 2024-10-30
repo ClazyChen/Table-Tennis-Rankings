@@ -87,7 +87,7 @@
     table(
       columns: 4,
       [排名], [运动员], [国家/地区], [积分],
-      [65], [SALIFOU Abdel-Kader], [FRA], [2672],
+      [65], [SALIFOU Abdel-Kader], [BEN], [2672],
       [66], [SKACHKOV Kirill], [RUS], [2672],
       [67], [张一博], [JPN], [2670],
       [68], [LI Ahmet], [TUR], [2657],

@@ -103,7 +103,7 @@
       [78], [利亚姆 皮切福德], [ENG], [2468],
       [79], [KOSOWSKI Jakub], [POL], [2464],
       [80], [彼得 科贝尔], [CZE], [2459],
-      [81], [SALIFOU Abdel-Kader], [FRA], [2456],
+      [81], [SALIFOU Abdel-Kader], [BEN], [2456],
       [82], [KASAHARA Hiromitsu], [JPN], [2454],
       [83], [DRINKHALL Paul], [ENG], [2452],
       [84], [BLASZCZYK Lucjan], [POL], [2452],

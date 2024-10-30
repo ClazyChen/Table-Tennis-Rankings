@@ -102,7 +102,7 @@
       [77], [SKACHKOV Kirill], [RUS], [2498],
       [78], [GORAK Daniel], [POL], [2492],
       [79], [KUZMIN Fedor], [RUS], [2491],
-      [80], [SALIFOU Abdel-Kader], [FRA], [2491],
+      [80], [SALIFOU Abdel-Kader], [BEN], [2491],
       [81], [MATSUMOTO Cazuo], [BRA], [2487],
       [82], [安德烈 加奇尼], [CRO], [2486],
       [83], [SIMONCIK Josef], [CZE], [2484],

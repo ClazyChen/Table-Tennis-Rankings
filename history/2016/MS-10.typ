@@ -156,9 +156,9 @@
       [122], [JIN Takuya], [JPN], [2644],
       [123], [GORAK Daniel], [POL], [2643],
       [124], [LAKEEV Vasily], [RUS], [2642],
-      [125], [MACHADO Carlos], [ESP], [2642],
-      [126], [XUE Fei], [CHN], [2637],
-      [127], [KIM Minhyeok], [KOR], [2636],
-      [128], [SZOCS Hunor], [ROU], [2634],
+      [125], [ZHU Linfeng], [CHN], [2642],
+      [126], [MACHADO Carlos], [ESP], [2642],
+      [127], [XUE Fei], [CHN], [2637],
+      [128], [KIM Minhyeok], [KOR], [2636],
     )
   )

@@ -142,7 +142,7 @@
       [108], [#text(gray, "PAK Sin Hyok")], [PRK], [2688],
       [109], [LIND Anders], [DEN], [2687],
       [110], [GERALDO Joao], [POR], [2687],
-      [111], [SALIFOU Abdel-Kader], [FRA], [2685],
+      [111], [SALIFOU Abdel-Kader], [BEN], [2685],
       [112], [ALAMIAN Nima], [IRI], [2685],
       [113], [TANAKA Yuta], [JPN], [2685],
       [114], [DRINKHALL Paul], [ENG], [2683],

@@ -104,7 +104,7 @@
       [79], [BLASZCZYK Lucjan], [POL], [2501],
       [80], [HE Zhiwen], [ESP], [2499],
       [81], [GORAK Daniel], [POL], [2492],
-      [82], [SALIFOU Abdel-Kader], [FRA], [2491],
+      [82], [SALIFOU Abdel-Kader], [BEN], [2491],
       [83], [CHEN Chien-An], [TPE], [2491],
       [84], [WANG Zengyi], [POL], [2490],
       [85], [CHEUNG Yuk], [HKG], [2474],

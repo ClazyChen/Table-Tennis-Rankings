@@ -87,7 +87,7 @@
     table(
       columns: 4,
       [Ranking], [Player], [Country/Region], [Rating],
-      [65], [SALIFOU Abdel-Kader], [FRA], [2672],
+      [65], [SALIFOU Abdel-Kader], [BEN], [2672],
       [66], [SKACHKOV Kirill], [RUS], [2672],
       [67], [CHAN Kazuhiro], [JPN], [2670],
       [68], [LI Ahmet], [TUR], [2657],

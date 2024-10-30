@@ -154,11 +154,11 @@
       [120], [LI Bin], [HUN], [2000],
       [121], [石垣优香], [JPN], [1996],
       [122], [EKHOLM Matilda], [SWE], [1995],
-      [123], [HEINE Veronika], [AUT], [1987],
-      [124], [KREKINA Svetlana], [RUS], [1983],
-      [125], [KOLTSOVA Anastasia], [RUS], [1982],
-      [126], [NEVES Ana], [POR], [1981],
-      [127], [#text(gray, "GOBEL Jessica")], [GER], [1974],
-      [128], [NEMES Olga], [ROU], [1973],
+      [123], [SUN Jin], [CHN], [1990],
+      [124], [HEINE Veronika], [AUT], [1987],
+      [125], [木子], [CHN], [1986],
+      [126], [KREKINA Svetlana], [RUS], [1983],
+      [127], [KOLTSOVA Anastasia], [RUS], [1982],
+      [128], [NEVES Ana], [POR], [1981],
     )
   )

@@ -146,7 +146,7 @@
       [112], [GARDOS Robert], [AUT], [2681],
       [113], [#text(gray, "FANG Yinchi")], [CHN], [2681],
       [114], [UDA Yukiya], [JPN], [2680],
-      [115], [SALIFOU Abdel-Kader], [FRA], [2675],
+      [115], [SALIFOU Abdel-Kader], [BEN], [2675],
       [116], [LIVENTSOV Alexey], [RUS], [2674],
       [117], [MATSUDAIRA Kenji], [JPN], [2666],
       [118], [TAKAMI Masaki], [JPN], [2666],

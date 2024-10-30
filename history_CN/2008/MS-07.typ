@@ -158,7 +158,7 @@
       [124], [TORIOLA Segun], [NGR], [2187],
       [125], [PAZSY Ferenc], [HUN], [2186],
       [126], [LIU Song], [ARG], [2181],
-      [127], [MAZUNOV Dmitry], [RUS], [2177],
-      [128], [MONRAD Martin], [DEN], [2174],
+      [127], [丁祥恩], [KOR], [2178],
+      [128], [MAZUNOV Dmitry], [RUS], [2177],
     )
   )

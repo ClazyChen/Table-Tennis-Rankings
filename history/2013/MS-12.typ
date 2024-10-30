@@ -73,7 +73,7 @@
       [57], [APOLONIA Tiago], [POR], [2712],
       [58], [LEUNG Chu Yan], [HKG], [2711],
       [59], [KREANGA Kalinikos], [GRE], [2710],
-      [60], [SALIFOU Abdel-Kader], [FRA], [2708],
+      [60], [SALIFOU Abdel-Kader], [BEN], [2708],
       [61], [WANG Eugene], [CAN], [2707],
       [62], [CHO Eonrae], [KOR], [2705],
       [63], [WANG Zengyi], [POL], [2704],

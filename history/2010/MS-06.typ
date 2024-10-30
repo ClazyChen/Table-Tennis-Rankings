@@ -92,7 +92,7 @@
       [67], [JEOUNG Youngsik], [KOR], [2424],
       [68], [YAN An], [CHN], [2424],
       [69], [LIU Song], [ARG], [2421],
-      [70], [SALIFOU Abdel-Kader], [FRA], [2421],
+      [70], [SALIFOU Abdel-Kader], [BEN], [2421],
       [71], [SCHLAGER Werner], [AUT], [2416],
       [72], [GERELL Par], [SWE], [2415],
       [73], [MATTENET Adrien], [FRA], [2404],

@@ -155,10 +155,10 @@
       [121], [PAZSY Ferenc], [HUN], [2186],
       [122], [LIU Song], [ARG], [2181],
       [123], [MA Liang], [SGP], [2179],
-      [124], [MAZUNOV Dmitry], [RUS], [2177],
-      [125], [MONRAD Martin], [DEN], [2174],
-      [126], [PLACHY Josef], [CZE], [2170],
-      [127], [NEKHVEDOVICH Vitaly], [BLR], [2170],
-      [128], [#text(gray, "SAIVE Philippe")], [BEL], [2166],
+      [124], [JEONG Sangeun], [KOR], [2178],
+      [125], [MAZUNOV Dmitry], [RUS], [2177],
+      [126], [MONRAD Martin], [DEN], [2174],
+      [127], [PLACHY Josef], [CZE], [2170],
+      [128], [NEKHVEDOVICH Vitaly], [BLR], [2170],
     )
   )

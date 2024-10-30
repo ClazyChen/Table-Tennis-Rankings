@@ -156,9 +156,9 @@
       [122], [雅罗斯列夫 扎姆登科], [UKR], [2645],
       [123], [帕特里克 鲍姆], [GER], [2645],
       [124], [LI Ahmet], [TUR], [2643],
-      [125], [PERSSON Jon], [SWE], [2640],
-      [126], [CANTERO Jesus], [ESP], [2640],
-      [127], [MONTEIRO Thiago], [BRA], [2637],
-      [128], [薛飞], [CHN], [2637],
+      [125], [朱霖峰], [CHN], [2642],
+      [126], [PERSSON Jon], [SWE], [2640],
+      [127], [CANTERO Jesus], [ESP], [2640],
+      [128], [MONTEIRO Thiago], [BRA], [2637],
     )
   )

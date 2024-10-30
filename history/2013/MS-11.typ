@@ -74,7 +74,7 @@
       [58], [KREANGA Kalinikos], [GRE], [2710],
       [59], [LIVENTSOV Alexey], [RUS], [2708],
       [60], [KIM Hyok Bong], [PRK], [2703],
-      [61], [SALIFOU Abdel-Kader], [FRA], [2698],
+      [61], [SALIFOU Abdel-Kader], [BEN], [2698],
       [62], [CHEN Chien-An], [TPE], [2695],
       [63], [WANG Zengyi], [POL], [2691],
       [64], [PROKOPCOV Dmitrij], [CZE], [2688],

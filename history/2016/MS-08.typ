@@ -159,6 +159,6 @@
       [125], [ZHAI Yujia], [DEN], [2646],
       [126], [#text(gray, "CHAN Kazuhiro")], [JPN], [2645],
       [127], [JIN Takuya], [JPN], [2644],
-      [128], [MACHADO Carlos], [ESP], [2642],
+      [128], [ZHU Linfeng], [CHN], [2642],
     )
   )

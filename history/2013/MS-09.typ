@@ -103,7 +103,7 @@
       [78], [LI Hu], [SGP], [2635],
       [79], [MONTEIRO Joao], [POR], [2633],
       [80], [#text(gray, "SVENSSON Robert")], [SWE], [2632],
-      [81], [SALIFOU Abdel-Kader], [FRA], [2632],
+      [81], [SALIFOU Abdel-Kader], [BEN], [2632],
       [82], [WANG Yang], [SVK], [2622],
       [83], [PITCHFORD Liam], [ENG], [2622],
       [84], [LEBESSON Emmanuel], [FRA], [2621],

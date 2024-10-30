@@ -146,7 +146,7 @@
       [112], [KATSMAN Lev], [RUS], [2688],
       [113], [#text(gray, "PAK Sin Hyok")], [PRK], [2688],
       [114], [CHO Daeseong], [KOR], [2687],
-      [115], [SALIFOU Abdel-Kader], [FRA], [2685],
+      [115], [SALIFOU Abdel-Kader], [BEN], [2685],
       [116], [ALAMIAN Nima], [IRI], [2685],
       [117], [KIM Minhyeok], [KOR], [2683],
       [118], [DRINKHALL Paul], [ENG], [2681],

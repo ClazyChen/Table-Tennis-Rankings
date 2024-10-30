@@ -114,7 +114,7 @@
       [89], [KARAKASEVIC Aleksandar], [SRB], [2451],
       [90], [张钰], [HKG], [2450],
       [91], [JAKAB Janos], [HUN], [2448],
-      [92], [SALIFOU Abdel-Kader], [FRA], [2445],
+      [92], [SALIFOU Abdel-Kader], [BEN], [2445],
       [93], [闫安], [CHN], [2443],
       [94], [BENTSEN Allan], [DEN], [2443],
       [95], [DRINKHALL Paul], [ENG], [2442],

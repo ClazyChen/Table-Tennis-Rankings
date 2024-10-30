@@ -115,7 +115,7 @@
       [90], [FEGERL Stefan], [AUT], [2463],
       [91], [GACINA Andrej], [CRO], [2461],
       [92], [CHEUNG Yuk], [HKG], [2459],
-      [93], [SALIFOU Abdel-Kader], [FRA], [2459],
+      [93], [SALIFOU Abdel-Kader], [BEN], [2459],
       [94], [LIVENTSOV Alexey], [RUS], [2457],
       [95], [FILUS Ruwen], [GER], [2455],
       [96], [KASAHARA Hiromitsu], [JPN], [2447],

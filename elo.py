@@ -198,7 +198,8 @@ def update_elo(id1, id2, weight, result):
 def sort_ratings():
     temp = []
     for id, player in players_ratings.items():
-        if player[3] >= ranking_least_games and (player[1] >= cur_date - (365 if 'S' in game_type else 730) or (id in player_last_match and player_last_match[id] > cur_date)):
+        if (player[1] >= cur_date - (365 if 'S' in game_type else 730) or (id in player_last_match and player_last_match[id] > cur_date)):
+        # if player[3] >= ranking_least_games and (player[1] >= cur_date - (365 if 'S' in game_type else 730) or (id in player_last_match and player_last_match[id] > cur_date)):
             if 'S' in game_type:
                 temp.append((player[0], players[id], players_nation[id], id))
             else:

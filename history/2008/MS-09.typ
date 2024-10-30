@@ -154,11 +154,11 @@
       [120], [JANCARIK Lubomir], [CZE], [2189],
       [121], [PAZSY Ferenc], [HUN], [2186],
       [122], [SALEH Ahmed], [EGY], [2181],
-      [123], [LEGOUT Christophe], [FRA], [2177],
-      [124], [MONTEIRO Joao], [POR], [2174],
-      [125], [MONRAD Martin], [DEN], [2174],
-      [126], [PLACHY Josef], [CZE], [2170],
-      [127], [NEKHVEDOVICH Vitaly], [BLR], [2170],
-      [128], [#text(gray, "SAIVE Philippe")], [BEL], [2166],
+      [123], [JEONG Sangeun], [KOR], [2178],
+      [124], [LEGOUT Christophe], [FRA], [2177],
+      [125], [MONTEIRO Joao], [POR], [2174],
+      [126], [MONRAD Martin], [DEN], [2174],
+      [127], [PLACHY Josef], [CZE], [2170],
+      [128], [NEKHVEDOVICH Vitaly], [BLR], [2170],
     )
   )

@@ -109,7 +109,7 @@
       [84], [JANCARIK Lubomir], [CZE], [2718],
       [85], [LAM Siu Hang], [HKG], [2716],
       [86], [TSUBOI Gustavo], [BRA], [2715],
-      [87], [#text(gray, "村松雄斗")], [JPN], [2715],
+      [87], [村松雄斗], [JPN], [2715],
       [88], [SKACHKOV Kirill], [RUS], [2710],
       [89], [黄镇廷], [HKG], [2708],
       [90], [罗伯特 加尔多斯], [AUT], [2708],

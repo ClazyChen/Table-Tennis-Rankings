@@ -156,9 +156,9 @@
       [122], [LI Bin], [HUN], [2000],
       [123], [石垣优香], [JPN], [1996],
       [124], [EKHOLM Matilda], [SWE], [1995],
-      [125], [HEINE Veronika], [AUT], [1987],
-      [126], [KREKINA Svetlana], [RUS], [1983],
-      [127], [KOLTSOVA Anastasia], [RUS], [1982],
-      [128], [NEVES Ana], [POR], [1981],
+      [125], [SUN Jin], [CHN], [1990],
+      [126], [HEINE Veronika], [AUT], [1987],
+      [127], [木子], [CHN], [1986],
+      [128], [KREKINA Svetlana], [RUS], [1983],
     )
   )

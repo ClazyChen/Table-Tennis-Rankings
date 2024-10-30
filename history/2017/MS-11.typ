@@ -142,7 +142,7 @@
       [108], [RYUZAKI Tonin], [JPN], [2683],
       [109], [ALAMIAN Nima], [IRI], [2683],
       [110], [#text(gray, "FANG Yinchi")], [CHN], [2681],
-      [111], [SALIFOU Abdel-Kader], [FRA], [2679],
+      [111], [SALIFOU Abdel-Kader], [BEN], [2679],
       [112], [#text(gray, "HE Zhiwen")], [ESP], [2678],
       [113], [GNANASEKARAN Sathiyan], [IND], [2676],
       [114], [WANG Chuqin], [CHN], [2670],

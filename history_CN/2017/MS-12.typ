@@ -147,7 +147,7 @@
       [113], [宇田幸矢], [JPN], [2684],
       [114], [KANG Dongsoo], [KOR], [2683],
       [115], [#text(gray, "FANG Yinchi")], [CHN], [2681],
-      [116], [SALIFOU Abdel-Kader], [FRA], [2675],
+      [116], [SALIFOU Abdel-Kader], [BEN], [2675],
       [117], [TAKAMI Masaki], [JPN], [2672],
       [118], [王楚钦], [CHN], [2670],
       [119], [MATSUDAIRA Kenji], [JPN], [2666],

@@ -107,7 +107,7 @@
       [82], [SZOCS Hunor], [ROU], [2720],
       [83], [ALAMIYAN Noshad], [IRI], [2717],
       [84], [MENGEL Steffen], [GER], [2717],
-      [85], [#text(gray, "MURAMATSU Yuto")], [JPN], [2715],
+      [85], [MURAMATSU Yuto], [JPN], [2715],
       [86], [BADOWSKI Marek], [POL], [2714],
       [87], [GARDOS Robert], [AUT], [2713],
       [88], [PANG Yew En Koen], [SGP], [2708],

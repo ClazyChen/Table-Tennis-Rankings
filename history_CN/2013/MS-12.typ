@@ -73,7 +73,7 @@
       [57], [蒂亚戈 阿波罗尼亚], [POR], [2712],
       [58], [LEUNG Chu Yan], [HKG], [2711],
       [59], [卡林尼科斯 格林卡], [GRE], [2710],
-      [60], [SALIFOU Abdel-Kader], [FRA], [2708],
+      [60], [SALIFOU Abdel-Kader], [BEN], [2708],
       [61], [王臻], [CAN], [2707],
       [62], [CHO Eonrae], [KOR], [2705],
       [63], [WANG Zengyi], [POL], [2704],

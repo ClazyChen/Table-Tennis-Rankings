@@ -96,7 +96,7 @@
       [71], [LI Ahmet], [TUR], [2683],
       [72], [MATSUDAIRA Kenji], [JPN], [2680],
       [73], [PERSSON Jorgen], [SWE], [2676],
-      [74], [SALIFOU Abdel-Kader], [FRA], [2675],
+      [74], [SALIFOU Abdel-Kader], [BEN], [2675],
       [75], [ACHANTA Sharath Kamal], [IND], [2674],
       [76], [ALAMIYAN Noshad], [IRI], [2665],
       [77], [GARDOS Robert], [AUT], [2662],

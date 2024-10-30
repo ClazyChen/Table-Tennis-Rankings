@@ -157,8 +157,8 @@
       [123], [JIN Takuya], [JPN], [2644],
       [124], [LI Ahmet], [TUR], [2643],
       [125], [LAKEEV Vasily], [RUS], [2642],
-      [126], [PATTANTYUS Adam], [HUN], [2639],
-      [127], [XUE Fei], [CHN], [2637],
-      [128], [KIM Minhyeok], [KOR], [2636],
+      [126], [ZHU Linfeng], [CHN], [2642],
+      [127], [PATTANTYUS Adam], [HUN], [2639],
+      [128], [XUE Fei], [CHN], [2637],
     )
   )

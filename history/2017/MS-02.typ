@@ -156,9 +156,9 @@
       [122], [ZHMUDENKO Yaroslav], [UKR], [2645],
       [123], [BAUM Patrick], [GER], [2645],
       [124], [LI Ahmet], [TUR], [2643],
-      [125], [PERSSON Jon], [SWE], [2640],
-      [126], [CANTERO Jesus], [ESP], [2640],
-      [127], [MONTEIRO Thiago], [BRA], [2637],
-      [128], [XUE Fei], [CHN], [2637],
+      [125], [ZHU Linfeng], [CHN], [2642],
+      [126], [PERSSON Jon], [SWE], [2640],
+      [127], [CANTERO Jesus], [ESP], [2640],
+      [128], [MONTEIRO Thiago], [BRA], [2637],
     )
   )

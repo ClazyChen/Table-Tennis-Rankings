@@ -153,7 +153,7 @@
       [119], [#text(gray, "RYUZAKI Tonin")], [JPN], [2644],
       [120], [神巧也], [JPN], [2642],
       [121], [SZOCS Hunor], [ROU], [2641],
-      [122], [SALIFOU Abdel-Kader], [FRA], [2640],
+      [122], [SALIFOU Abdel-Kader], [BEN], [2640],
       [123], [MATSUDAIRA Kenji], [JPN], [2639],
       [124], [SAKAI Asuka], [JPN], [2638],
       [125], [ANTHONY Amalraj], [IND], [2636],

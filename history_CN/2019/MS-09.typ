@@ -156,7 +156,7 @@
       [122], [OUAICHE Stephane], [ALG], [2670],
       [123], [KOZUL Deni], [SLO], [2667],
       [124], [LIU Yebo], [CHN], [2666],
-      [125], [SALIFOU Abdel-Kader], [FRA], [2664],
+      [125], [SALIFOU Abdel-Kader], [BEN], [2664],
       [126], [#text(gray, "SEO Hyundeok")], [KOR], [2664],
       [127], [博扬 托基奇], [SLO], [2662],
       [128], [奥马尔 阿萨尔], [EGY], [2658],

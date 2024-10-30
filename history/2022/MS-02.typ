@@ -108,7 +108,7 @@
       [83], [SIPOS Rares], [ROU], [2722],
       [84], [MENGEL Steffen], [GER], [2719],
       [85], [ALAMIYAN Noshad], [IRI], [2717],
-      [86], [#text(gray, "MURAMATSU Yuto")], [JPN], [2715],
+      [86], [MURAMATSU Yuto], [JPN], [2715],
       [87], [BADOWSKI Marek], [POL], [2714],
       [88], [LEBRUN Alexis], [FRA], [2714],
       [89], [ORT Kilian], [GER], [2713],

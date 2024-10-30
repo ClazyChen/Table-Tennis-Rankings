@@ -93,7 +93,7 @@
       [68], [雅罗斯列夫 扎姆登科], [UKR], [2495],
       [69], [KUZMIN Fedor], [RUS], [2491],
       [70], [卡林尼科斯 格林卡], [GRE], [2489],
-      [71], [SALIFOU Abdel-Kader], [FRA], [2489],
+      [71], [SALIFOU Abdel-Kader], [BEN], [2489],
       [72], [艾曼纽 莱贝松], [FRA], [2488],
       [73], [HE Zhiwen], [ESP], [2487],
       [74], [JAKAB Janos], [HUN], [2478],

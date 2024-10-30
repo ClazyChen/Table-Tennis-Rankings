@@ -155,10 +155,10 @@
       [121], [#text(gray, "CHAN Kazuhiro")], [JPN], [2645],
       [122], [HACHARD Antoine], [FRA], [2644],
       [123], [OIKAWA Mizuki], [JPN], [2644],
-      [124], [MACHADO Carlos], [ESP], [2642],
-      [125], [SZOCS Hunor], [ROU], [2640],
-      [126], [JIANG Tianyi], [HKG], [2639],
-      [127], [XUE Fei], [CHN], [2637],
-      [128], [TANVIRIYAVECHAKUL Padasak], [THA], [2633],
+      [124], [ZHU Linfeng], [CHN], [2642],
+      [125], [MACHADO Carlos], [ESP], [2642],
+      [126], [SZOCS Hunor], [ROU], [2640],
+      [127], [JIANG Tianyi], [HKG], [2639],
+      [128], [XUE Fei], [CHN], [2637],
     )
   )

@@ -112,7 +112,7 @@
       [87], [MATSUMOTO Cazuo], [BRA], [2611],
       [88], [JAKAB Janos], [HUN], [2607],
       [89], [YANG Zi], [SGP], [2607],
-      [90], [SALIFOU Abdel-Kader], [FRA], [2606],
+      [90], [SALIFOU Abdel-Kader], [BEN], [2606],
       [91], [MENGEL Steffen], [GER], [2605],
       [92], [ELOI Damien], [FRA], [2605],
       [93], [GERELL Par], [SWE], [2604],

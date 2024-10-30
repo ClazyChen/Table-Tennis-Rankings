@@ -155,10 +155,10 @@
       [121], [GU Yuting], [CHN], [2373],
       [122], [BILENKO Tetyana], [UKR], [2369],
       [123], [JIA Jun], [CHN], [2368],
-      [124], [PARK Youngsook], [KOR], [2366],
-      [125], [TANIOKA Ayuka], [JPN], [2366],
-      [126], [DAS Mouma], [IND], [2365],
-      [127], [DVORAK Galia], [ESP], [2357],
-      [128], [AMBRUS Krisztina], [HUN], [2356],
+      [124], [#text(gray, "YANG Yang")], [CHN], [2367],
+      [125], [PARK Youngsook], [KOR], [2366],
+      [126], [TANIOKA Ayuka], [JPN], [2366],
+      [127], [DAS Mouma], [IND], [2365],
+      [128], [DVORAK Galia], [ESP], [2357],
     )
   )

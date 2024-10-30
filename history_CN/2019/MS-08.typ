@@ -144,7 +144,7 @@
       [110], [#text(gray, "朴申赫")], [PRK], [2688],
       [111], [GERALDO Joao], [POR], [2687],
       [112], [KATSMAN Lev], [RUS], [2686],
-      [113], [SALIFOU Abdel-Kader], [FRA], [2685],
+      [113], [SALIFOU Abdel-Kader], [BEN], [2685],
       [114], [尼马 阿拉米安], [IRI], [2685],
       [115], [田中佑汰], [JPN], [2685],
       [116], [DRINKHALL Paul], [ENG], [2683],

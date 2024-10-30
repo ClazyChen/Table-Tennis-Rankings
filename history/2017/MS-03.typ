@@ -155,10 +155,10 @@
       [121], [MENGEL Steffen], [GER], [2644],
       [122], [PERSSON Jon], [SWE], [2643],
       [123], [LI Ahmet], [TUR], [2643],
-      [124], [SALIFOU Abdel-Kader], [FRA], [2640],
-      [125], [CANTERO Jesus], [ESP], [2640],
-      [126], [MONTEIRO Thiago], [BRA], [2637],
-      [127], [XUE Fei], [CHN], [2637],
-      [128], [BROSSIER Benjamin], [FRA], [2635],
+      [124], [ZHU Linfeng], [CHN], [2642],
+      [125], [SALIFOU Abdel-Kader], [BEN], [2640],
+      [126], [CANTERO Jesus], [ESP], [2640],
+      [127], [MONTEIRO Thiago], [BRA], [2637],
+      [128], [XUE Fei], [CHN], [2637],
     )
   )

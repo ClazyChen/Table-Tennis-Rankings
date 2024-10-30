@@ -152,7 +152,7 @@
       [118], [SEO Hyundeok], [KOR], [2588],
       [119], [PERSSON Jon], [SWE], [2588],
       [120], [雨果 卡尔德拉诺], [BRA], [2587],
-      [121], [SALIFOU Abdel-Kader], [FRA], [2586],
+      [121], [SALIFOU Abdel-Kader], [BEN], [2586],
       [122], [KOSOWSKI Jakub], [POL], [2584],
       [123], [张钰], [HKG], [2583],
       [124], [上田仁], [JPN], [2580],

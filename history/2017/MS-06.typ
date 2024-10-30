@@ -157,8 +157,8 @@
       [123], [SZOCS Hunor], [ROU], [2646],
       [124], [ZHAI Yujia], [DEN], [2646],
       [125], [PAPAGEORGIOU Konstantinos], [GRE], [2646],
-      [126], [BOBOCICA Mihai], [ITA], [2642],
-      [127], [MONTEIRO Thiago], [BRA], [2637],
-      [128], [XUE Fei], [CHN], [2637],
+      [126], [ZHU Linfeng], [CHN], [2642],
+      [127], [BOBOCICA Mihai], [ITA], [2642],
+      [128], [MONTEIRO Thiago], [BRA], [2637],
     )
   )

@@ -115,7 +115,7 @@
       [90], [斯特凡 菲格尔], [AUT], [2463],
       [91], [安德烈 加奇尼], [CRO], [2461],
       [92], [张钰], [HKG], [2459],
-      [93], [SALIFOU Abdel-Kader], [FRA], [2459],
+      [93], [SALIFOU Abdel-Kader], [BEN], [2459],
       [94], [LIVENTSOV Alexey], [RUS], [2457],
       [95], [卢文 菲鲁斯], [GER], [2455],
       [96], [KASAHARA Hiromitsu], [JPN], [2447],

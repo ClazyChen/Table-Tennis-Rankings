@@ -75,7 +75,7 @@
       [59], [PERSSON Jorgen], [SWE], [2676],
       [60], [YOSHIMURA Maharu], [JPN], [2675],
       [61], [FRANZISKA Patrick], [GER], [2673],
-      [62], [SALIFOU Abdel-Kader], [FRA], [2672],
+      [62], [SALIFOU Abdel-Kader], [BEN], [2672],
       [63], [JIANG Tianyi], [HKG], [2670],
       [64], [CHAN Kazuhiro], [JPN], [2669],
     )
