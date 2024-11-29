@@ -55,93 +55,123 @@ def is_youth(name):
     p1 = 'Youth' in name or 'Cadet' in name or 'Junior' in name
     p2 = 'youth' in name or 'cadet' in name or 'junior' in name
     p3 = 'U21' in name or 'U-21' in name or 'YOG' in name
-    return p1 or p2 or p3
+    p4 = 'U15' in name or 'U-15' in name or 'U18' in name or 'U-18' in name
+    return p1 or p2 or p3 or p4
 
 def coefficient(type_, name):
+    if 'China vs World Team' in name or 'China vs. World Team' in name:
+        return 1.2
+    if 'Tournament of Champions' in name:
+        return 1.5
     if type_ == "Olympic Games":
-        if is_youth(name):
-            if 'Qualification' in name or 'Road' in name:
-                return 0.05
-            else:
-                return 0.15
+        if 'Qualification' in name or 'Road' in name:
+            return 0.2
+        elif is_youth(name):
+            return 1.0
         else:
-           return 3.0
+            return 3.0
     elif type_ == "WTTC":
         return 2.5
     elif type_ == "World Cup":
         return 2.0
     elif type_ == "WTT Finals":
-        return 1.6
+        return 1.5
     elif type_ == 'World Tour / Pro Tour':
         if 'Finals' in name:
-            return 1.6
-        elif 'Platium' in name or 'Super Series' in name:
-            return 1.2
+            return 1.5
+        elif 'Platinum' in name:
+            return 1.3
         else:
-            return 1.1
+            return 1.2
     elif type_ == "WTT Champions":
-        return 1.2
+        return 1.3
     elif type_ == "WTT Grand Smash":
         return 1.4
     elif type_ == "Continental Games":
         if is_youth(name):
-            return 0.07
+            return 0.25
         else:
             if 'Asian' in name or 'European' in name:
                 return 1.6
             else:
-                return 1.0
+                return 0.8
     elif type_ == "Continental":
         if is_youth(name):
-            return 0.06
+            if 'Asian' in name or 'European' in name:
+                return 0.5
+            else:
+                return 0.25
         else:
             if 'Asian' in name or 'European' in name:
-                return 1.4
+                return 1.5
             else:
-                return 0.8
+                return 0.75
     elif type_ == 'WTT Contender Series':
         if 'Star' in name:
             return 1.1
         else:
             return 1.0
     elif type_ == 'T2 Diamond':
-        return 1.1
+        return 1.0
     elif type_ == 'WJTTC':
-        return 0.12
+        return 0.8
     elif type_ == 'Challenge':
-        return 0.9
+        if 'Plus' in name:
+            return 1.1
+        else:
+            return 1.0
     elif type_ == 'Olympic Qualification':
-        return 0.5
+        return 0.6
     elif type_ == 'World Youth Championships':
-        return 0.12
+        return 0.8
     elif type_ == 'World Cadet Challenge':
-        return 0.02
+        return 0.65
     elif type_ == 'World Junior Circuit':
         if 'Finals' in name:
-            return 0.06
+            return 0.5
         elif 'Platinum' in name or 'Golden' in name:
-            return 0.05
+            return 0.4
         else:
-            return 0.04
+            return 0.3
     elif type_ == 'WTT Feeder Series':
-        return 0.8
+        return 1.0
     elif type_ == 'Multi sport events':
+        # 亚运会
+        if 'Asian' in name and 'Guangzhou' in name:
+            return 1.6
+        if 'Asian' in name and 'Incheon' in name:
+            return 1.6
+        if 'Pan American' in name and 'Guadalajara' in name:
+            return 0.8
         if is_youth(name):
-            return 0.03
+            return 0.2
         else:
-            return 0.5
+            return 0.6
     elif type_ == 'Other events':
-        if is_youth(name):
-            return 0.03
-        else:
+        # Open 按照挑战赛处理
+        if 'Open,' in name:
+            if is_youth(name):
+                return 0.3
+            else:
+                return 1.0
+        # 世乒赛预选赛
+        if 'WTTC' in name:
             return 0.5
+        # 欧青赛
+        if 'Top 10' in name:
+            return 0.5
+        # 剩余的地区比赛
+        if is_youth(name):
+            return 0.2
+        else:
+            return 0.6
     elif type_ == 'WTT Youth Contender Series':
         if 'Star' in name:
-            return 0.05
+            return 0.4
         else:
-            return 0.04
+            return 0.3
     else:
-        return 0.01
+        return 0.1
 
 event_file_number = 16
 while os.path.exists('events/events_{}.json'.format(event_file_number)):

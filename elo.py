@@ -26,16 +26,17 @@ from prettytable import PrettyTable
 centered = True
 inactive_test = True
 default_rating = 1500
-ceil_rating = 3400
+ceil_rating = 3000
 ranking_least_games = 10
 game_type = 'WS' # MS, WS, MD, WD, XD
-bias = 36
-d_up = 720
-d_down = 1080
-diameter_center_up = 1280
-diameter_center_down = 960
+yearly = True
+bias = 40
+d_up = 750
+d_down = 1000
+diameter_center_up = 1500
+diameter_center_down = 1000
 diameter_delta_up = 400
-diameter_delta_down = 360
+diameter_delta_down = 400
 
 # load the players data
 players = {}
@@ -85,6 +86,10 @@ total_matches = 0
 correct_matches = 0
 timestone = datetime.datetime.strptime('2018-01-01', '%Y-%m-%d') - datetime.datetime.strptime('1970-01-01', '%Y-%m-%d')
 timestone = timestone.days
+timestart = datetime.datetime.strptime('2004-01-01', '%Y-%m-%d') - datetime.datetime.strptime('1970-01-01', '%Y-%m-%d')
+timestart = timestart.days
+timeburst = datetime.datetime.strptime('2010-01-01', '%Y-%m-%d') - datetime.datetime.strptime('1970-01-01', '%Y-%m-%d')
+timeburst = timeburst.days
 def check_result(id1, id2, weight):
     global total_matches, correct_matches
     if cur_date < timestone:
@@ -102,7 +107,7 @@ def check_result(id1, id2, weight):
         correct_matches += 1
 
 # update elo
-def update_elo(id1, id2, weight, result):
+def update_elo(id1, id2, weight, result, date):
     r1 = players_ratings[id1][0]
     r2 = players_ratings[id2][0]
     # this strategy is experimental (it shows no effect)
@@ -124,7 +129,10 @@ def update_elo(id1, id2, weight, result):
     w = abs(weight)
     if weight == 0:
         w = 0.5
-    w *= bias
+    if yearly:
+        w *= bias
+    else:
+        w *= bias * (1.5 if date < timestart else 1) * (1.5 if date < timeburst else 1)
 
     # 向心力，使得rating更加集中
     delta1 = w * (a1 - e1)
@@ -170,8 +178,12 @@ def update_elo(id1, id2, weight, result):
         center_coef1 = 4
         center_coef2 = 4
 
-    delta1 *= center_coef1
-    delta2 *= center_coef2
+    if yearly:
+        delta1 *= center_coef1
+        delta2 *= center_coef2
+    else:
+        delta1 *= center_coef1 * (2 * (1 if game_type == 'WS' else 1) if date < timestart else 1) * (1.5 if date < timeburst else 1)
+        delta2 *= center_coef2 * (2 * (1 if game_type == 'WS' else 1) if date < timestart else 1) * (1.5 if date < timeburst else 1)
 
     r11 = r1 + delta1
     r21 = r2 + delta2
@@ -198,7 +210,11 @@ def update_elo(id1, id2, weight, result):
 def sort_ratings():
     temp = []
     for id, player in players_ratings.items():
-        if (player[1] >= cur_date - (365 if 'S' in game_type else 730) or (id in player_last_match and player_last_match[id] > cur_date)):
+        normal_condition = (player[1] >= cur_date - (365 if 'S' in game_type else 730) or (id in player_last_match and player_last_match[id] > cur_date))
+        yearly_condition = player[1] >= cur_date - 365
+        condition = yearly_condition if yearly else normal_condition
+        if condition:
+        # if (player[1] >= cur_date - (365 if 'S' in game_type else 730) or (id in player_last_match and player_last_match[id] > cur_date)):
         # if player[3] >= ranking_least_games and (player[1] >= cur_date - (365 if 'S' in game_type else 730) or (id in player_last_match and player_last_match[id] > cur_date)):
             if 'S' in game_type:
                 temp.append((player[0], players[id], players_nation[id], id))
@@ -228,6 +244,10 @@ def month_start():
     global year, month
     month_date = datetime.datetime.strptime('{}-{}-01'.format(year, month), '%Y-%m-%d')
     return (month_date - datetime.datetime.strptime('1970-01-01', '%Y-%m-%d')).days
+def year_start():
+    global year
+    year_date = datetime.datetime.strptime('{}-01-01'.format(year), '%Y-%m-%d')
+    return (year_date - datetime.datetime.strptime('1970-01-01', '%Y-%m-%d')).days
 
 def next_month():
     global year, month
@@ -237,7 +257,7 @@ def next_month():
         year += 1
 
 # analyze when the last match was played
-last_match_threshold = (datetime.datetime.strptime('2023-04-01', '%Y-%m-%d') - datetime.datetime.strptime('1970-01-01', '%Y-%m-%d')).days
+last_match_threshold = (datetime.datetime.strptime('2023-11-01', '%Y-%m-%d') - datetime.datetime.strptime('1970-01-01', '%Y-%m-%d')).days
 player_last_match = {}
 for match in matches:
     date = match['date']
@@ -256,6 +276,8 @@ for match in matches:
 
 save_rankings_number = 128
 table_capacity = 32
+if not os.path.exists('yearly'):
+    os.mkdir('yearly')
 def save_rankings(filename=None):
     # create history/<year>/<gametype>-<month>.typ
     # save the top 128 players
@@ -265,7 +287,10 @@ def save_rankings(filename=None):
         os.mkdir('history/{}'.format(year))
     temp = sort_ratings()
     if filename is None:
-        filename = 'history/{}/{}-{:02d}.typ'.format(year, game_type, month)
+        if yearly:
+            filename = 'yearly/{}-{}.typ'.format(game_type, year-1)
+        else:
+            filename = 'history/{}/{}-{:02d}.typ'.format(year, game_type, month)
     with open(filename, 'w', encoding='utf-8') as f:
         sex_text = 'Men\'s' if 'M' in game_type else ('Women\'s' if 'W' in game_type else 'Mixed')
         event_text = 'Singles' if 'S' in game_type else 'Doubles'
@@ -284,7 +309,7 @@ def save_rankings(filename=None):
 '''.format(sex_text, event_text, i+1, i+32))
                 new_line = [i+1, temp[i][1], temp[i][2], int(temp[i][0])]
                 last_match = player_last_match[temp[i][3]] if 'S' in game_type else 999999
-                if last_match < cur_date and last_match < last_match_threshold:
+                if not year and last_match < cur_date and last_match < last_match_threshold:
                     # inactive player
                     new_line[1] = r'#text(gray, "{}")'.format(new_line[1])
                 f.write('      [{}], [{}], [{}], [{}],\n'.format(*new_line))
@@ -292,6 +317,11 @@ def save_rankings(filename=None):
                 f.write(r'''    )
   )''')
     print('saved rankings to {}'.format(filename))
+
+def remake_year():
+    # 将当前的 rating 线性压缩
+    for id, player in players_ratings.items():
+        player[0] = default_rating + (min(2500, player[0]) - default_rating) * 0.8
 
 for match in matches:
     
@@ -301,7 +331,14 @@ for match in matches:
     if cur_date != date:
         # print('date = {}'.format(convert_date(date)))
         cur_date = date
-        if cur_date >= month_start():
+        if yearly:
+            if cur_date >= year_start():
+                print('year = {}'.format(year-1))
+                if year > 2004:
+                    save_rankings()
+                year += 1
+                remake_year()
+        elif cur_date >= month_start():
             print('year = {}, month = {}'.format(year, month))
             save_rankings()
             next_month()
@@ -316,7 +353,7 @@ for match in matches:
         check_player(player_a_id)
         check_player(player_x_id)
         check_result(player_a_id, player_x_id, weight)
-        r11, r21 = update_elo(player_a_id, player_x_id, weight, result)
+        r11, r21 = update_elo(player_a_id, player_x_id, weight, result, date)
         players_ratings[player_a_id][0] = r11
         players_ratings[player_x_id][0] = r21
         elo_report[player_a_id]['rating'][cur_date] = r11
@@ -337,7 +374,7 @@ for match in matches:
         check_player((player_a_id, player_b_id))
         check_player((player_x_id, player_y_id))
         check_result((player_a_id, player_b_id), (player_x_id, player_y_id), weight, result)
-        r11, r21 = update_elo((player_a_id, player_b_id), (player_x_id, player_y_id), weight)
+        r11, r21 = update_elo((player_a_id, player_b_id), (player_x_id, player_y_id), weight, result, date)
         players_ratings[(player_a_id, player_b_id)][0] = r11
         players_ratings[(player_x_id, player_y_id)][0] = r21
         elo_report[(player_a_id, player_b_id)]['rating'][cur_date] = r11
@@ -347,12 +384,15 @@ for match in matches:
             players_ratings[(player_x_id, player_y_id)][3] += 1
 
 print_rankings()
-save_rankings('{}-latest.typ'.format(game_type))
+if yearly:
+    save_rankings('yearly/{}-{}.typ'.format(game_type, year-1))
+else:
+    save_rankings('{}-latest.typ'.format(game_type))
 print('correct matches = {}'.format(correct_matches))
 print('total matches = {}'.format(total_matches))
 print('accuracy = {:.2f}%'.format(correct_matches / total_matches * 100))
 
-if 'S' in game_type:
+if not yearly and 'S' in game_type:
     # save the elo_report
     elo_report_json = []
     for id, report in elo_report.items():

@@ -11,7 +11,7 @@ types = []
 type_events = {}
 
 for event in profile:
-    type = r'{}; {}'.format(event['type'], event['kind'])
+    type = r'{}'.format(event['type'])
     if type not in types:
         types.append(type)
         type_events[type] = []

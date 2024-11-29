@@ -35,3 +35,13 @@ for year in range(2004, 2025):
 
 for event in ['MS', 'WS']:
     translate('{}-latest.typ'.format(event), '{}-latest_CN.typ'.format(event))
+
+translate('MS-history.typ', 'MS-history_CN.typ')
+translate('WS-history.typ', 'WS-history_CN.typ')
+
+if not os.path.exists('yearly_CN'):
+    os.mkdir('yearly_CN')
+
+for year in range(2004, 2025):
+    translate('yearly/MS-{}.typ'.format(year), 'yearly_CN/MS-{}.typ'.format(year))
+    translate('yearly/WS-{}.typ'.format(year), 'yearly_CN/WS-{}.typ'.format(year))
