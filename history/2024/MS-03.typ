@@ -46,7 +46,7 @@
     table(
       columns: 4,
       [Ranking], [Player], [Country/Region], [Rating],
-      [33], [YU Ziyang], [CHN], [2611],
+      [33], [#text(gray, "YU Ziyang")], [CHN], [2611],
       [34], [CHO Daeseong], [KOR], [2610],
       [35], [ZHOU Kai], [CHN], [2608],
       [36], [OH Junsung], [KOR], [2594],
@@ -92,14 +92,14 @@
       [67], [YOSHIMURA Kazuhiro], [JPN], [2458],
       [68], [#text(gray, "NOROOZI Afshin")], [IRI], [2455],
       [69], [CHO Seungmin], [KOR], [2452],
-      [70], [KIZUKURI Yuto], [JPN], [2452],
+      [70], [#text(gray, "KIZUKURI Yuto")], [JPN], [2452],
       [71], [GACINA Andrej], [CRO], [2452],
       [72], [ALAMIAN Nima], [IRI], [2451],
       [73], [KAO Cheng-Jui], [TPE], [2451],
       [74], [ALAMIYAN Noshad], [IRI], [2445],
       [75], [OIKAWA Mizuki], [JPN], [2445],
       [76], [PITCHFORD Liam], [ENG], [2444],
-      [77], [CAO Wei], [CHN], [2442],
+      [77], [#text(gray, "CAO Wei")], [CHN], [2442],
       [78], [ROBLES Alvaro], [ESP], [2441],
       [79], [PARK Ganghyeon], [KOR], [2441],
       [80], [LAKATOS Tamas], [HUN], [2439],
@@ -128,7 +128,7 @@
     table(
       columns: 4,
       [Ranking], [Player], [Country/Region], [Rating],
-      [97], [JIN Takuya], [JPN], [2401],
+      [97], [#text(gray, "JIN Takuya")], [JPN], [2401],
       [98], [CARVALHO Diogo], [POR], [2393],
       [99], [OUAICHE Stephane], [ALG], [2392],
       [100], [FENG Yi-Hsin], [TPE], [2390],
@@ -159,6 +159,6 @@
       [125], [BARDET Lilian], [FRA], [2343],
       [126], [MOVILEANU Darius], [ROU], [2342],
       [127], [WOO Hyeonggyu], [KOR], [2340],
-      [128], [FLORE Tristan], [FRA], [2340],
+      [128], [#text(gray, "FLORE Tristan")], [FRA], [2340],
     )
   )

@@ -36,7 +36,7 @@
       [29], [GAUZY Simon], [FRA], [2626],
       [30], [SUN Wen], [CHN], [2616],
       [31], [YOSHIMURA Maharu], [JPN], [2616],
-      [32], [YU Ziyang], [CHN], [2611],
+      [32], [#text(gray, "YU Ziyang")], [CHN], [2611],
     )
   )#pagebreak()
 
@@ -93,9 +93,9 @@
       [68], [ALAMIAN Nima], [IRI], [2458],
       [69], [#text(gray, "NOROOZI Afshin")], [IRI], [2455],
       [70], [WALTHER Ricardo], [GER], [2453],
-      [71], [KIZUKURI Yuto], [JPN], [2452],
+      [71], [#text(gray, "KIZUKURI Yuto")], [JPN], [2452],
       [72], [ACHANTA Sharath Kamal], [IND], [2451],
-      [73], [CAO Wei], [CHN], [2442],
+      [73], [#text(gray, "CAO Wei")], [CHN], [2442],
       [74], [LIND Anders], [DEN], [2439],
       [75], [GIONIS Panagiotis], [GRE], [2435],
       [76], [IONESCU Eduard], [ROU], [2435],
@@ -115,7 +115,7 @@
       [90], [LAKATOS Tamas], [HUN], [2408],
       [91], [#text(gray, "ORT Kilian")], [GER], [2405],
       [92], [#text(gray, "BRODD Viktor")], [SWE], [2401],
-      [93], [JIN Takuya], [JPN], [2401],
+      [93], [#text(gray, "JIN Takuya")], [JPN], [2401],
       [94], [WANG Yang], [SVK], [2400],
       [95], [MONTEIRO Joao], [POR], [2399],
       [96], [THAKKAR Manav Vikash], [IND], [2397],

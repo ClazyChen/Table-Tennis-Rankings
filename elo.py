@@ -28,8 +28,8 @@ inactive_test = True
 default_rating = 1500
 ceil_rating = 3000
 ranking_least_games = 10
-game_type = 'WS' # MS, WS, MD, WD, XD
-yearly = True
+game_type = 'MS' # MS, WS, MD, WD, XD
+yearly = False
 bias = 40
 d_up = 750
 d_down = 1000
@@ -257,7 +257,7 @@ def next_month():
         year += 1
 
 # analyze when the last match was played
-last_match_threshold = (datetime.datetime.strptime('2023-11-01', '%Y-%m-%d') - datetime.datetime.strptime('1970-01-01', '%Y-%m-%d')).days
+last_match_threshold = (datetime.datetime.strptime('2024-01-01', '%Y-%m-%d') - datetime.datetime.strptime('1970-01-01', '%Y-%m-%d')).days
 player_last_match = {}
 for match in matches:
     date = match['date']
@@ -309,7 +309,7 @@ def save_rankings(filename=None):
 '''.format(sex_text, event_text, i+1, i+32))
                 new_line = [i+1, temp[i][1], temp[i][2], int(temp[i][0])]
                 last_match = player_last_match[temp[i][3]] if 'S' in game_type else 999999
-                if not year and last_match < cur_date and last_match < last_match_threshold:
+                if not yearly and last_match < cur_date and last_match < last_match_threshold:
                     # inactive player
                     new_line[1] = r'#text(gray, "{}")'.format(new_line[1])
                 f.write('      [{}], [{}], [{}], [{}],\n'.format(*new_line))
@@ -384,7 +384,7 @@ for match in matches:
             players_ratings[(player_x_id, player_y_id)][3] += 1
 
 print_rankings()
-if yearly:
+if yearly and year < 2026:
     save_rankings('yearly/{}-{}.typ'.format(game_type, year-1))
 else:
     save_rankings('{}-latest.typ'.format(game_type))

@@ -29,7 +29,7 @@
       [22], [LIU Dingshuo], [CHN], [2627],
       [23], [JANG Woojin], [KOR], [2625],
       [24], [SUN Wen], [CHN], [2616],
-      [25], [YU Ziyang], [CHN], [2611],
+      [25], [#text(gray, "YU Ziyang")], [CHN], [2611],
       [26], [ZHOU Kai], [CHN], [2608],
       [27], [ARUNA Quadri], [NGR], [2607],
       [28], [OH Junsung], [KOR], [2594],
@@ -93,11 +93,11 @@
       [68], [#text(gray, "NOROOZI Afshin")], [IRI], [2455],
       [69], [WANG Yang], [SVK], [2454],
       [70], [CHO Seungmin], [KOR], [2452],
-      [71], [KIZUKURI Yuto], [JPN], [2452],
+      [71], [#text(gray, "KIZUKURI Yuto")], [JPN], [2452],
       [72], [GACINA Andrej], [CRO], [2449],
       [73], [LEBRUN Alexis], [FRA], [2449],
       [74], [OIKAWA Mizuki], [JPN], [2445],
-      [75], [CAO Wei], [CHN], [2442],
+      [75], [#text(gray, "CAO Wei")], [CHN], [2442],
       [76], [PARK Ganghyeon], [KOR], [2441],
       [77], [KARLSSON Kristian], [SWE], [2434],
       [78], [FENG Yi-Hsin], [TPE], [2434],
@@ -118,7 +118,7 @@
       [93], [MONTEIRO Joao], [POR], [2406],
       [94], [#text(gray, "ORT Kilian")], [GER], [2405],
       [95], [#text(gray, "BRODD Viktor")], [SWE], [2401],
-      [96], [JIN Takuya], [JPN], [2401],
+      [96], [#text(gray, "JIN Takuya")], [JPN], [2401],
     )
   )#pagebreak()
 
@@ -157,7 +157,7 @@
       [123], [SZUDI Adam], [HUN], [2343],
       [124], [THAKKAR Manav Vikash], [IND], [2343],
       [125], [WOO Hyeonggyu], [KOR], [2340],
-      [126], [FLORE Tristan], [FRA], [2340],
+      [126], [#text(gray, "FLORE Tristan")], [FRA], [2340],
       [127], [#text(gray, "SAI Linwei")], [CHN], [2333],
       [128], [RASSENFOSSE Adrien], [BEL], [2332],
     )

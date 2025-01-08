@@ -55,7 +55,7 @@
       [39], [FAN Shuhan], [CHN], [2551],
       [40], [YUAN Jia Nan], [FRA], [2532],
       [41], [PYON Song Gyong], [PRK], [2528],
-      [42], [WU Yangchen], [CHN], [2528],
+      [42], [#text(gray, "WU Yangchen")], [CHN], [2528],
       [43], [POLCANOVA Sofia], [AUT], [2523],
       [44], [QIN Yuxuan], [CHN], [2512],
       [45], [SUH Hyo Won], [KOR], [2496],
@@ -77,7 +77,7 @@
       [61], [AKULA Sreeja], [IND], [2432],
       [62], [ZENG Jian], [SGP], [2432],
       [63], [CHIEN Tung-Chuan], [TPE], [2430],
-      [64], [QI Fei], [CHN], [2425],
+      [64], [#text(gray, "QI Fei")], [CHN], [2425],
     )
   )#pagebreak()
 
@@ -144,7 +144,7 @@
       [110], [GHORPADE Yashaswini], [IND], [2299],
       [111], [RAKOVAC Lea], [CRO], [2298],
       [112], [NG Wing Lam], [HKG], [2296],
-      [113], [WANG Tianyi], [CHN], [2288],
+      [113], [#text(gray, "WANG Tianyi")], [CHN], [2288],
       [114], [CHEN Szu-Yu], [TPE], [2285],
       [115], [#text(gray, "YANG Huijing")], [CHN], [2283],
       [116], [SAWETTABUT Jinnipa], [THA], [2282],

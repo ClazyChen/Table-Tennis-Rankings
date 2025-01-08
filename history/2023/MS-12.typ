@@ -29,7 +29,7 @@
       [22], [LIM Jonghoon], [KOR], [2641],
       [23], [JHA Kanak], [USA], [2636],
       [24], [SUN Wen], [CHN], [2616],
-      [25], [YU Ziyang], [CHN], [2611],
+      [25], [#text(gray, "YU Ziyang")], [CHN], [2611],
       [26], [MENGEL Steffen], [GER], [2600],
       [27], [GAUZY Simon], [FRA], [2598],
       [28], [WONG Chun Ting], [HKG], [2593],

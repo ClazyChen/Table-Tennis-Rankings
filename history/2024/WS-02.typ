@@ -54,7 +54,7 @@
       [38], [MITTELHAM Nina], [GER], [2573],
       [39], [LIU Jia], [AUT], [2530],
       [40], [PYON Song Gyong], [PRK], [2528],
-      [41], [WU Yangchen], [CHN], [2528],
+      [41], [#text(gray, "WU Yangchen")], [CHN], [2528],
       [42], [TAKAHASHI Bruna], [BRA], [2518],
       [43], [ODO Satsuki], [JPN], [2513],
       [44], [QIN Yuxuan], [CHN], [2499],
@@ -76,7 +76,7 @@
       [60], [KAUFMANN Annett], [GER], [2439],
       [61], [PESOTSKA Margaryta], [UKR], [2431],
       [62], [YU Fu], [POR], [2428],
-      [63], [QI Fei], [CHN], [2425],
+      [63], [#text(gray, "QI Fei")], [CHN], [2425],
       [64], [SUH Hyo Won], [KOR], [2425],
     )
   )#pagebreak()
@@ -142,7 +142,7 @@
       [108], [KAMATH Archana Girish], [IND], [2297],
       [109], [ZARIF Audrey], [FRA], [2297],
       [110], [DOO Hoi Kem], [HKG], [2293],
-      [111], [WANG Tianyi], [CHN], [2288],
+      [111], [#text(gray, "WANG Tianyi")], [CHN], [2288],
       [112], [WEGRZYN Katarzyna], [POL], [2286],
       [113], [#text(gray, "YANG Huijing")], [CHN], [2283],
       [114], [IDESAWA Kyoka], [JPN], [2282],

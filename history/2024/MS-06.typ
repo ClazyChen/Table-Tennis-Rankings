@@ -49,7 +49,7 @@
       [33], [GAUZY Simon], [FRA], [2620],
       [34], [LIU Dingshuo], [CHN], [2617],
       [35], [SUN Wen], [CHN], [2616],
-      [36], [YU Ziyang], [CHN], [2611],
+      [36], [#text(gray, "YU Ziyang")], [CHN], [2611],
       [37], [FREITAS Marcos], [POR], [2587],
       [38], [CHUANG Chih-Yuan], [TPE], [2587],
       [39], [ZHOU Kai], [CHN], [2574],
@@ -96,9 +96,9 @@
       [71], [REDZIMSKI Milosz], [POL], [2457],
       [72], [#text(gray, "NOROOZI Afshin")], [IRI], [2455],
       [73], [YUAN Licen], [CHN], [2453],
-      [74], [KIZUKURI Yuto], [JPN], [2452],
+      [74], [#text(gray, "KIZUKURI Yuto")], [JPN], [2452],
       [75], [OH Junsung], [KOR], [2443],
-      [76], [CAO Wei], [CHN], [2442],
+      [76], [#text(gray, "CAO Wei")], [CHN], [2442],
       [77], [#text(gray, "BADOWSKI Marek")], [POL], [2434],
       [78], [WALTHER Ricardo], [GER], [2433],
       [79], [APOLONIA Tiago], [POR], [2432],
@@ -116,7 +116,7 @@
       [91], [DYJAS Jakub], [POL], [2403],
       [92], [WANG Yang], [SVK], [2403],
       [93], [#text(gray, "BRODD Viktor")], [SWE], [2401],
-      [94], [JIN Takuya], [JPN], [2401],
+      [94], [#text(gray, "JIN Takuya")], [JPN], [2401],
       [95], [DESAI Harmeet], [IND], [2398],
       [96], [THAKKAR Manav Vikash], [IND], [2394],
     )
@@ -158,7 +158,7 @@
       [124], [CHEN Chien-An], [TPE], [2343],
       [125], [AIDA Satoshi], [JPN], [2342],
       [126], [WOO Hyeonggyu], [KOR], [2340],
-      [127], [FLORE Tristan], [FRA], [2340],
+      [127], [#text(gray, "FLORE Tristan")], [FRA], [2340],
       [128], [GNANASEKARAN Sathiyan], [IND], [2338],
     )
   )

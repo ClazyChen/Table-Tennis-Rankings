@@ -53,7 +53,7 @@
       [37], [JOO Cheonhui], [KOR], [2563],
       [38], [POLCANOVA Sofia], [AUT], [2550],
       [39], [PYON Song Gyong], [PRK], [2528],
-      [40], [WU Yangchen], [CHN], [2528],
+      [40], [#text(gray, "WU Yangchen")], [CHN], [2528],
       [41], [PAVADE Prithika], [FRA], [2526],
       [42], [DOO Hoi Kem], [HKG], [2517],
       [43], [BATRA Manika], [IND], [2514],
@@ -76,7 +76,7 @@
       [60], [PESOTSKA Margaryta], [UKR], [2433],
       [61], [ZHANG Lily], [USA], [2431],
       [62], [XIAO Maria], [ESP], [2430],
-      [63], [QI Fei], [CHN], [2425],
+      [63], [#text(gray, "QI Fei")], [CHN], [2425],
       [64], [LEE Ho Ching], [HKG], [2422],
     )
   )#pagebreak()
@@ -143,7 +143,7 @@
       [109], [MUKHERJEE Sutirtha], [IND], [2292],
       [110], [MUKHERJEE Ayhika], [IND], [2292],
       [111], [HUANG Yu-Chiao], [TPE], [2291],
-      [112], [WANG Tianyi], [CHN], [2288],
+      [112], [#text(gray, "WANG Tianyi")], [CHN], [2288],
       [113], [GODA Hana], [EGY], [2284],
       [114], [#text(gray, "YANG Huijing")], [CHN], [2283],
       [115], [IDESAWA Kyoka], [JPN], [2282],
