@@ -1,5 +1,17 @@
 import json
 import datetime
+import scipy.stats as stats
+
+def weight_calc(w, l):
+    norm_dist = stats.norm(loc=0, scale=2/(w ** 0.5))
+    F = norm_dist.cdf
+    return 1 - 2*F(-(w-l)/2)
+
+# 预先计算好所有可能的权重
+weight_map = {}
+for w in range(1, 10):
+    for l in range(0, w):
+        weight_map[(w, l)] = weight_calc(w, l)
 
 # analyze the json data
 # 1. remove players whose sex is unknown
@@ -62,35 +74,38 @@ def result2weight(result):
     Y = int(result[1].strip())
     delta = X - Y
     abs_delta = abs(delta)
-    game = max(X, Y) * 2 - 1
+    # game = max(X, Y) * 2 - 1
     if delta == 0:
         return 0
     sgn_delta = delta / abs_delta
-    if game == 1:
-        return 3 / 4 * sgn_delta
-    if game == 3:
-        if abs_delta == 1:
-            return 11 / 16 * sgn_delta
-        else:
-            return 7 / 8 * sgn_delta
-    if game == 5:
-        if abs_delta == 1:
-            return 21 / 32 * sgn_delta
-        elif abs_delta == 2:
-            return 13 / 16 * sgn_delta
-        else:
-            return 15 / 16 * sgn_delta
-    # other conditions 
-    if abs_delta == 1:
-        return 163 / 256 * sgn_delta
-    elif abs_delta == 2:
-        return 99 / 128 * sgn_delta
-    elif abs_delta == 3:
-        return 57 / 64 * sgn_delta
-    elif abs_delta == 4:
-        return 31 / 32 * sgn_delta
-    else:
-        return sgn_delta
+    W = max(X, Y)
+    L = min(X, Y)
+    return weight_map[(W, L)] * sgn_delta
+    # if game == 1:
+    #     return 0.383 * sgn_delta
+    # if game == 3:
+    #     if abs_delta == 1:
+    #         return 11 / 16 * sgn_delta
+    #     else:
+    #         return 7 / 8 * sgn_delta
+    # if game == 5:
+    #     if abs_delta == 1:
+    #         return 21 / 32 * sgn_delta
+    #     elif abs_delta == 2:
+    #         return 13 / 16 * sgn_delta
+    #     else:
+    #         return 15 / 16 * sgn_delta
+    # # other conditions 
+    # if abs_delta == 1:
+    #     return 163 / 256 * sgn_delta
+    # elif abs_delta == 2:
+    #     return 99 / 128 * sgn_delta
+    # elif abs_delta == 3:
+    #     return 57 / 64 * sgn_delta
+    # elif abs_delta == 4:
+    #     return 31 / 32 * sgn_delta
+    # else:
+    #     return sgn_delta
 
 # load the matches data
 matches = {

@@ -28,15 +28,15 @@ inactive_test = True
 default_rating = 1500
 ceil_rating = 3000
 ranking_least_games = 10
-game_type = 'MS' # MS, WS, MD, WD, XD
+game_type = 'WS' # MS, WS, MD, WD, XD
 yearly = False
-bias = 40
-d_up = 750
+bias = 50
+d_up = 1000
 d_down = 1000
 diameter_center_up = 1500
-diameter_center_down = 1000
-diameter_delta_up = 400
-diameter_delta_down = 400
+diameter_center_down = 1000 + (9000 if yearly else 0)
+diameter_delta_up = 350
+diameter_delta_down = 350
 
 # load the players data
 players = {}
@@ -130,7 +130,7 @@ def update_elo(id1, id2, weight, result, date):
     if weight == 0:
         w = 0.5
     if yearly:
-        w *= bias
+        w *= bias * (1.1 if date < timestart else 1) * (1.1 if date < timeburst else 1)
     else:
         w *= bias * (1.5 if date < timestart else 1) * (1.5 if date < timeburst else 1)
 
@@ -182,8 +182,8 @@ def update_elo(id1, id2, weight, result, date):
         delta1 *= center_coef1
         delta2 *= center_coef2
     else:
-        delta1 *= center_coef1 * (2 * (1 if game_type == 'WS' else 1) if date < timestart else 1) * (1.5 if date < timeburst else 1)
-        delta2 *= center_coef2 * (2 * (1 if game_type == 'WS' else 1) if date < timestart else 1) * (1.5 if date < timeburst else 1)
+        delta1 *= center_coef1 * (1.5 * (1 if game_type == 'WS' else 1) if date < timestart else 1) * (1.5 if date < timeburst else 1)
+        delta2 *= center_coef2 * (1.5 * (1 if game_type == 'WS' else 1) if date < timestart else 1) * (1.5 if date < timeburst else 1)
 
     r11 = r1 + delta1
     r21 = r2 + delta2
@@ -321,7 +321,7 @@ def save_rankings(filename=None):
 def remake_year():
     # 将当前的 rating 线性压缩
     for id, player in players_ratings.items():
-        player[0] = default_rating + (min(2500, player[0]) - default_rating) * 0.8
+        player[0] = default_rating + (min(2700, player[0]) - default_rating) * 0.8
 
 for match in matches:
     
@@ -386,7 +386,7 @@ for match in matches:
 print_rankings()
 if yearly and year < 2026:
     save_rankings('yearly/{}-{}.typ'.format(game_type, year-1))
-else:
+elif not yearly:
     save_rankings('{}-latest.typ'.format(game_type))
 print('correct matches = {}'.format(correct_matches))
 print('total matches = {}'.format(total_matches))

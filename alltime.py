@@ -1,7 +1,7 @@
 import json
 import datetime
 
-game_type = 'WS'
+game_type = 'MS'
 # 读取历史ELO数据
 with open(f'data/elo_report_{game_type}.json', 'r') as f:
     elo_report = json.load(f)

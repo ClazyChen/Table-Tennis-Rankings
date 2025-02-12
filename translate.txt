@@ -365,3 +365,5 @@ PROKOPCOV Dmitrij, 德米特里 佩罗普科夫
 MATTENET Adrien, 阿德里安 马特内
 SHIBAEV Alexander, 亚历山大 希巴耶夫
 KOU Lei, 寇磊
+PARK Ganghyeon, 朴康贤
+HUANG Youzheng, 黄友政
