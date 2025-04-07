@@ -91,18 +91,18 @@ def coefficient(type_, name):
         if is_youth(name):
             return 0.25
         else:
-            if 'Asian' in name or 'European' in name:
+            if 'Asian' in name or 'European' in name or 'Asia' in name or 'Europe' in name:
                 return 1.6
             else:
                 return 0.8
     elif type_ == "Continental":
         if is_youth(name):
-            if 'Asian' in name or 'European' in name:
+            if 'Asian' in name or 'European' in name or 'Asia' in name or 'Europe' in name:
                 return 0.5
             else:
                 return 0.25
         else:
-            if 'Asian' in name or 'European' in name:
+            if 'Asian' in name or 'European' in name or 'Asia' in name or 'Europe' in name:
                 return 1.5
             else:
                 return 0.75

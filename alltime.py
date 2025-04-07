@@ -1,7 +1,8 @@
 import json
 import datetime
+import math
 
-game_type = 'MS'
+game_type = 'WS'
 # 读取历史ELO数据
 with open(f'data/elo_report_{game_type}.json', 'r') as f:
     elo_report = json.load(f)
@@ -11,14 +12,17 @@ alltime_report = []
 timestart = datetime.datetime.strptime('2004-01-01', '%Y-%m-%d') - datetime.datetime.strptime('1970-01-01', '%Y-%m-%d')
 timestart = timestart.days
 
+# divisor = sum(2 ** (0.5 * i) for i in range(10))
+
 # 对于每个选手，计算其第10高的ELO值
 for player in elo_report:
     name = player['name']
     nation = player['nation']
     rating = [x[1] for x in player['rating']] # if x[0] >= timestart]
     rating.sort(reverse=True)
-    if len(rating) >= 10:
+    if len(rating) >= 20:
         at_rating = rating[9]
+        # at_rating = sum([2 ** (0.5 * i) * x for i, x in enumerate(rating[10:20])]) / divisor
         alltime_report.append({
             'name': name,
             'nation': nation,
