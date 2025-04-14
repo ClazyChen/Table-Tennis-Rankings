@@ -5,6 +5,7 @@ download_*.py
 # cannot be pushed to github because of the size
 matches
 events
+players
 data
 update-*
 
