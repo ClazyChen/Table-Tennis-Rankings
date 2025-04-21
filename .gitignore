@@ -5,7 +5,9 @@ download_*.py
 # cannot be pushed to github because of the size
 matches
 events
-data
+players
+data/*.csv
+data/*.json
 update-*
 
 # vscode
