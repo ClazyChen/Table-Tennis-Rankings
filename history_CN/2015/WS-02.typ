@@ -179,7 +179,7 @@
       [126], [#name("HAN Xing")], [#age(26)], [#assoc("CGO")], [?], [?], [?], [*2396*], [#delta(0)],
       [127], [#name("SOO Wai Yam")], [#age(17)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2392*], [#delta(1)],
       [128], [#name("李时温")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2391*], [#delta(1)],
-      [129], [#name("玛利亚 肖")], [#age(21)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2389*], [#delta(1)],
+      [129], [#name("肖瑶茜")], [#age(21)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2389*], [#delta(1)],
       [130], [#name("KATO Kyoka")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2384*], [#delta(1)],
       [131], [#name("张墨")], [#age(26)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2384*], [#delta(16)],
       [132], [#name("GUSEVA Ekaterina")], [#age(19)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2378*], [#delta(9)],

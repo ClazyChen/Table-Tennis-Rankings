@@ -58,7 +58,7 @@
       [41], [#name("梁夏银")], [#age(23)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2651*], [#delta(6)],
       [42], [#name("杨晓欣")], [#age(29)], [#assoc("MON")], [#right], [#shakehand], [#attack], [*2650*], [#delta(-4)],
       [43], [#name("桥本帆乃香")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2646*], [#delta(-21)],
-      [44], [#name("玛利亚 肖")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2644*], [#delta(70)],
+      [44], [#name("肖瑶茜")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2644*], [#delta(70)],
       [45], [#name("李洁")], [#age(33)], [#assoc("NED")], [#right], [#shakehand], [#defense], [*2643*], [#delta(-6)],
       [46], [#name("安藤南")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2638*], [#delta(-26)],
       [47], [#name("徐孝元")], [#age(30)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2629*], [#delta(19)],

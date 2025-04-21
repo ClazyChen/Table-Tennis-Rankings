@@ -232,7 +232,7 @@
       [170], [#name("HYON Ryon Hui")], [#age(21)], [#assoc("PRK")], [?], [?], [?], [*2170*], [#delta(-6)],
       [171], [#name("MUANGSUK Anisara")], [#age(34)], [#assoc("THA")], [?], [?], [?], [*2168*], [#delta(-6)],
       [172], [#name("SIN Hye Song")], [#age(17)], [#assoc("PRK")], [?], [?], [?], [*2167*], [#delta(-6)],
-      [173], [#name("SUN Yang")], [#age(27)], [#assoc("NZL")], [?], [?], [?], [*2163*], [#delta(-4)],
+      [173], [#name("孙杨")], [#age(27)], [#assoc("NZL")], [?], [?], [?], [*2163*], [#delta(-4)],
       [174], [#name("PASTOR Agata")], [#age(24)], [#assoc("POL")], [?], [?], [?], [*2159*], [#delta(-4)],
       [175], [#name("HWANG Jina")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2158*], [#delta(-4)],
     )
@@ -252,7 +252,7 @@
       [181], [#name("KIM Mijeong")], [#age(21)], [#assoc("KOR")], [?], [?], [?], [*2149*], [#delta(-5)],
       [182], [#name("STEFANSKA Kinga")], [#age(30)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2148*], [#delta(-27)],
       [183], [#name("KRAMER Tanja")], [#age(30)], [#assoc("GER")], [?], [?], [?], [*2145*], [#delta(-6)],
-      [184], [#name("玛利亚 肖")], [#age(16)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2145*], [#delta(38)],
+      [184], [#name("肖瑶茜")], [#age(16)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2145*], [#delta(38)],
       [185], [#name("KOMWONG Nanthana")], [#age(30)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2142*], [#delta(-7)],
       [186], [#name("MOON Bosun")], [#age(24)], [#assoc("KOR")], [?], [?], [?], [*2140*], [#delta(-7)],
       [187], [#name("MA Chao In")], [#age(21)], [#assoc("MAC")], [?], [?], [?], [*2139*], [#delta(-7)],

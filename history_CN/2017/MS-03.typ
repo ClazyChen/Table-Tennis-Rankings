@@ -145,7 +145,7 @@
       [101], [#name("哈米特 德赛")], [#age(24)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2551*], [#delta(41)],
       [102], [#name("CHOE Il")], [#age(24)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2551*], [#delta(0)],
       [103], [#name("SEO Hyundeok")], [#age(26)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2550*], [#delta(1)],
-      [104], [#name("OLAH Benedek")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2548*], [#delta(-30)],
+      [104], [#name("贝内德克 奥拉")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2548*], [#delta(-30)],
       [105], [#name("MONTEIRO Thiago")], [#age(36)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2546*], [#delta(2)],
       [106], [#name("MACHI Asuka")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2546*], [#delta(2)],
       [107], [#name("PERSSON Jon")], [#age(31)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2543*], [#delta(-4)],

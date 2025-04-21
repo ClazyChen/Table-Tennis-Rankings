@@ -249,7 +249,7 @@
       [178], [#name("JOUTI Eric")], [#age(23)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2465*], [#delta(14)],
       [179], [#name("BRODD Viktor")], [#age(27)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2465*], [#delta(20)],
       [180], [#name("MINO Alberto")], [#age(27)], [#assoc("ECU")], [#right], [#shakehand], [#attack], [*2463*], [#delta(49)],
-      [181], [#name("OLAH Benedek")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2461*], [#delta(-18)],
+      [181], [#name("贝内德克 奥拉")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2461*], [#delta(-18)],
       [182], [#name("朴康贤")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2460*], [#delta(-4)],
       [183], [#name("HIRANO Yuki")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2458*], [#delta(-3)],
       [184], [#name("WU Jiaji")], [#age(22)], [#assoc("DOM")], [#right], [#penhold], [#attack], [*2457*], [#delta(-3)],

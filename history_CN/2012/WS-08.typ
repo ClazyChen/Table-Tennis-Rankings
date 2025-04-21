@@ -131,7 +131,7 @@
       [96], [#name("森田美咲")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2410*], [#delta(-1)],
       [97], [#name("SOLJA Amelie")], [#age(22)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2409*], [#delta(-1)],
       [98], [#name("LAY Jian Fang")], [#age(39)], [#assoc("AUS")], [#right], [#penhold], [#attack], [*2408*], [#delta(-19)],
-      [99], [#name("玛利亚 肖")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2404*], [#delta(0)],
+      [99], [#name("肖瑶茜")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2404*], [#delta(0)],
       [100], [#name("KANG Misoon")], [#age(19)], [#assoc("KOR")], [?], [?], [?], [*2404*], [#delta(0)],
     )
   )

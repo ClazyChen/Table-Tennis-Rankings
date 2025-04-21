@@ -178,7 +178,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [126], [#name("STERNBERG Kasper")], [#age(25)], [#assoc("DEN")], [#right], [#shakehand], [#attack], [*2484*], [#delta(3)],
       [127], [#name("奥维迪乌 伊奥内斯库")], [#age(25)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2482*], [#delta(3)],
-      [128], [#name("OLAH Benedek")], [#age(23)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2481*], [#delta(3)],
+      [128], [#name("贝内德克 奥拉")], [#age(23)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2481*], [#delta(3)],
       [129], [#name("TAO Wenzhang")], [#age(20)], [#assoc("USA")], [#right], [#penhold], [#attack], [*2481*], [#delta(3)],
       [130], [#name("贝内迪克特 杜达")], [#age(20)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2481*], [#delta(3)],
       [131], [#name("LIVENTSOV Alexey")], [#age(33)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2480*], [#delta(3)],

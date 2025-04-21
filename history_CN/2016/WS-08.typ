@@ -122,7 +122,7 @@
       [87], [#name("MAEDA Miyu")], [#age(20)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2499*], [#delta(1)],
       [88], [#name("梁夏银")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2490*], [#delta(1)],
       [89], [#name("RI Mi Gyong")], [#age(26)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2489*], [#delta(-11)],
-      [90], [#name("玛利亚 肖")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2485*], [#delta(1)],
+      [90], [#name("肖瑶茜")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2485*], [#delta(1)],
       [91], [#name("MATELOVA Hana")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2484*], [#delta(1)],
       [92], [#name("DOLGIKH Maria")], [#age(29)], [#assoc("RUS")], [#right], [#shakehand], [#defense], [*2483*], [#delta(1)],
       [93], [#name("芝田沙季")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2483*], [#delta(1)],

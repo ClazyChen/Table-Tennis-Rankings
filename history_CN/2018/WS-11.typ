@@ -124,7 +124,7 @@
       [89], [#name("SOO Wai Yam")], [#age(20)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2541*], [#delta(1)],
       [90], [#name("李时温")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2536*], [#delta(1)],
       [91], [#name("曾尖")], [#age(22)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2536*], [#delta(1)],
-      [92], [#name("玛利亚 肖")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2535*], [#delta(1)],
+      [92], [#name("肖瑶茜")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2535*], [#delta(1)],
       [93], [#name("张墨")], [#age(29)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2534*], [#delta(1)],
       [94], [#name("MA Wenting")], [#age(28)], [#assoc("NOR")], [#right], [#shakehand], [#attack], [*2532*], [#delta(1)],
       [95], [#name("YOON Hyobin")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2530*], [#delta(2)],

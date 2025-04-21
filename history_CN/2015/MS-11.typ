@@ -187,7 +187,7 @@
       [134], [#name("PAIKOV Mikhail")], [#age(26)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2492*], [#delta(-61)],
       [135], [#name("BROSSIER Benjamin")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2492*], [#delta(22)],
       [136], [#name("LAKEEV Vasily")], [#age(31)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2491*], [#delta(1)],
-      [137], [#name("OLAH Benedek")], [#age(24)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2491*], [#delta(-50)],
+      [137], [#name("贝内德克 奥拉")], [#age(24)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2491*], [#delta(-50)],
       [138], [#name("赵胜敏")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2490*], [#delta(-32)],
       [139], [#name("陈建安")], [#age(24)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2486*], [#delta(0)],
       [140], [#name("TSUBOI Yuma")], [#age(18)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2484*], [#delta(0)],

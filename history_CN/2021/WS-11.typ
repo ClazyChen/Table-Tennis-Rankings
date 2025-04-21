@@ -81,7 +81,7 @@
       [55], [#name("LAY Jian Fang")], [#age(48)], [#assoc("AUS")], [#right], [#penhold], [#attack], [*2546*], [#delta(1)],
       [56], [#name("李恩惠")], [#age(26)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2545*], [#delta(1)],
       [57], [#name("佩特丽莎 索尔佳")], [#age(27)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2534*], [#delta(4)],
-      [58], [#name("玛利亚 肖")], [#age(27)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2534*], [#delta(0)],
+      [58], [#name("肖瑶茜")], [#age(27)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2534*], [#delta(0)],
       [59], [#name("玛妮卡 巴特拉")], [#age(26)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2534*], [#delta(-4)],
       [60], [#name("琳达 伯格斯特罗姆")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2533*], [#delta(-6)],
       [61], [#name("YOO Eunchong")], [#age(28)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2533*], [#delta(2)],

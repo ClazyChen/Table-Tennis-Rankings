@@ -118,7 +118,7 @@
       [83], [#name("萨比亚 温特")], [#age(20)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2418*], [#delta(61)],
       [84], [#name("KIM Jong")], [#age(23)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2417*], [#delta(-39)],
       [85], [#name("HAPONOVA Hanna")], [#age(27)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2416*], [#delta(18)],
-      [86], [#name("玛利亚 肖")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2416*], [#delta(52)],
+      [86], [#name("肖瑶茜")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2416*], [#delta(52)],
       [87], [#name("ZHENG Jiaqi")], [#age(24)], [#assoc("USA")], [?], [?], [?], [*2413*], [#delta(112)],
       [88], [#name("SOLJA Amelie")], [#age(22)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2413*], [#delta(16)],
       [89], [#name("KNEZEVIC Monika")], [#age(22)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2413*], [#delta(121)],

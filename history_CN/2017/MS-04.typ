@@ -158,7 +158,7 @@
       [114], [#name("神巧也")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2534*], [#delta(0)],
       [115], [#name("POLANSKY Tomas")], [#age(19)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2533*], [#delta(46)],
       [116], [#name("LAM Siu Hang")], [#age(21)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2533*], [#delta(-1)],
-      [117], [#name("OLAH Benedek")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2531*], [#delta(-13)],
+      [117], [#name("贝内德克 奥拉")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2531*], [#delta(-13)],
       [118], [#name("ROBINOT Quentin")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2529*], [#delta(-1)],
       [119], [#name("PLETEA Cristian")], [#age(17)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2529*], [#delta(57)],
       [120], [#name("MATSUMOTO Cazuo")], [#age(32)], [#assoc("BRA")], [#left], [#penhold], [#attack], [*2526*], [#delta(-1)],

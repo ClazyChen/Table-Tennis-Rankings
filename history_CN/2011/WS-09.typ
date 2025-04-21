@@ -234,7 +234,7 @@
       [172], [#name("YOO Eunchong")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2200*], [#delta(12)],
       [173], [#name("KIM Minhee")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2200*], [#delta(-50)],
       [174], [#name("LI Bin")], [#age(23)], [#assoc("HUN")], [?], [?], [?], [*2199*], [#delta(-4)],
-      [175], [#name("玛利亚 肖")], [#age(17)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2198*], [#delta(8)],
+      [175], [#name("肖瑶茜")], [#age(17)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2198*], [#delta(8)],
     )
   )
 #pagebreak()

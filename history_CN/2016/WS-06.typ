@@ -126,7 +126,7 @@
       [91], [#name("ZHOU Yihan")], [#age(22)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2492*], [#delta(-6)],
       [92], [#name("CHA Hyo Sim")], [#age(22)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2490*], [#delta(1)],
       [93], [#name("苏萨西尼 萨维塔布特")], [#age(22)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2487*], [#delta(1)],
-      [94], [#name("玛利亚 肖")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2485*], [#delta(1)],
+      [94], [#name("肖瑶茜")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2485*], [#delta(1)],
       [95], [#name("MATELOVA Hana")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2484*], [#delta(1)],
       [96], [#name("LAY Jian Fang")], [#age(43)], [#assoc("AUS")], [#right], [#penhold], [#attack], [*2477*], [#delta(1)],
       [97], [#name("LIU Hsing-Yin")], [#age(29)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2477*], [#delta(1)],

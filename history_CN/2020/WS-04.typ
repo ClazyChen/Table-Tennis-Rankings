@@ -151,7 +151,7 @@
       [107], [#name("齐菲")], [#age(20)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2403*], [#delta(10)],
       [108], [#name("斯丽贾 阿库拉")], [#age(22)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2401*], [#delta(1)],
       [109], [#name("HO Tin-Tin")], [#age(22)], [#assoc("GBR")], [#right], [#penhold], [#attack], [*2399*], [#delta(9)],
-      [110], [#name("玛利亚 肖")], [#age(26)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2397*], [#delta(-2)],
+      [110], [#name("肖瑶茜")], [#age(26)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2397*], [#delta(-2)],
       [111], [#name("ZARIF Audrey")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2396*], [#delta(9)],
       [112], [#name("TAILAKOVA Mariia")], [#age(19)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2395*], [#delta(4)],
       [113], [#name("TRIGOLOS Daria")], [#age(21)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2394*], [#delta(15)],

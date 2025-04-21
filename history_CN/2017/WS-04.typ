@@ -155,7 +155,7 @@
       [111], [#name("PESOTSKA Margaryta")], [#age(26)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2476*], [#delta(0)],
       [112], [#name("长崎美柚")], [#age(15)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2476*], [#delta(0)],
       [113], [#name("PROKHOROVA Yulia")], [#age(30)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2469*], [#delta(1)],
-      [114], [#name("玛利亚 肖")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2466*], [#delta(13)],
+      [114], [#name("肖瑶茜")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2466*], [#delta(13)],
       [115], [#name("CHA Hyo Sim")], [#age(23)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2462*], [#delta(0)],
       [116], [#name("KUMAHARA Luca")], [#age(22)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2461*], [#delta(0)],
       [117], [#name("阿德里安娜 迪亚兹")], [#age(17)], [#assoc("PUR")], [#right], [#shakehand], [#attack], [*2456*], [#delta(-20)],

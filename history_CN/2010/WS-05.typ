@@ -152,7 +152,7 @@
       [108], [#name("TANIOKA Ayuka")], [#age(16)], [#assoc("JPN")], [?], [?], [?], [*2266*], [#delta(0)],
       [109], [#name("萨比亚 温特")], [#age(18)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2261*], [#delta(-3)],
       [110], [#name("KOMWONG Nanthana")], [#age(30)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2261*], [#delta(0)],
-      [111], [#name("SUN Yang")], [#age(27)], [#assoc("NZL")], [?], [?], [?], [*2255*], [#delta(17)],
+      [111], [#name("孙杨")], [#age(27)], [#assoc("NZL")], [?], [?], [?], [*2255*], [#delta(17)],
       [112], [#name("NOSKOVA Yana")], [#age(16)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2255*], [#delta(-1)],
       [113], [#name("SUN Jin")], [#age(30)], [#assoc("HKG")], [?], [?], [?], [*2248*], [#delta(-1)],
       [114], [#name("MISIKONYTE Lina")], [#age(22)], [#assoc("LTU")], [?], [?], [?], [*2241*], [#delta(-1)],

@@ -91,7 +91,7 @@
       [65], [#name("WEI Shihao")], [#age(21)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2638*], [#delta(3)],
       [66], [#name("雅克布 迪亚斯")], [#age(24)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2635*], [#delta(-11)],
       [67], [#name("亚历山大 卡拉卡谢维奇")], [#age(44)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2634*], [#delta(94)],
-      [68], [#name("LIU Yebo")], [#age(18)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2634*], [#delta(-3)],
+      [68], [#name("刘夜泊")], [#age(18)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2634*], [#delta(-3)],
       [69], [#name("AN Ji Song")], [#age(23)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2630*], [#delta(12)],
       [70], [#name("王臻")], [#age(34)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2629*], [#delta(1)],
       [71], [#name("托米斯拉夫 普卡")], [#age(23)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2629*], [#delta(-41)],

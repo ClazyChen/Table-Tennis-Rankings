@@ -218,7 +218,7 @@
       [156], [#name("LIU Juan")], [#age(34)], [#assoc("USA")], [#left], [#penhold], [#attack], [*2389*], [#delta(10)],
       [157], [#name("GROFOVA Karin")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2388*], [#delta(-2)],
       [158], [#name("NG Wing Nam")], [#age(27)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2387*], [#delta(9)],
-      [159], [#name("玛利亚 肖")], [#age(25)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2387*], [#delta(105)],
+      [159], [#name("肖瑶茜")], [#age(25)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2387*], [#delta(105)],
       [160], [#name("YU Hsiu-Ting")], [#age(18)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2385*], [#delta(39)],
       [161], [#name("PLAIAN Tania")], [#age(18)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2383*], [#delta(8)],
       [162], [#name("艾希卡 穆克吉")], [#age(22)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2376*], [#delta(11)],

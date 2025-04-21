@@ -211,7 +211,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [151], [#name("DOLGIKH Maria")], [#age(25)], [#assoc("RUS")], [#right], [#shakehand], [#defense], [*2265*], [#delta(2)],
-      [152], [#name("玛利亚 肖")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2263*], [#delta(3)],
+      [152], [#name("肖瑶茜")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2263*], [#delta(3)],
       [153], [#name("SZYMANSKA Antonina")], [#age(29)], [#assoc("POL")], [?], [?], [?], [*2261*], [#delta(4)],
       [154], [#name("ZHOU Yihan")], [#age(18)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2261*], [#delta(72)],
       [155], [#name("CECHOVA Dana")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2258*], [#delta(-23)],

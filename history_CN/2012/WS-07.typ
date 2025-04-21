@@ -131,7 +131,7 @@
       [96], [#name("SOLJA Amelie")], [#age(22)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2409*], [#delta(-1)],
       [97], [#name("佩特丽莎 索尔佳")], [#age(18)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2408*], [#delta(-1)],
       [98], [#name("HSING Ariel")], [#age(17)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2406*], [#delta(81)],
-      [99], [#name("玛利亚 肖")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2404*], [#delta(-1)],
+      [99], [#name("肖瑶茜")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2404*], [#delta(-1)],
       [100], [#name("KANG Misoon")], [#age(19)], [#assoc("KOR")], [?], [?], [?], [*2404*], [#delta(-1)],
     )
   )

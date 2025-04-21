@@ -131,7 +131,7 @@
       [96], [#name("布里特 伊尔兰德")], [#age(28)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2428*], [#delta(10)],
       [97], [#name("SOLJA Amelie")], [#age(32)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2426*], [#delta(-2)],
       [98], [#name("张墨")], [#age(33)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2424*], [#delta(-1)],
-      [99], [#name("玛利亚 肖")], [#age(28)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2422*], [#delta(-1)],
+      [99], [#name("肖瑶茜")], [#age(28)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2422*], [#delta(-1)],
       [100], [#name("安妮特 考夫曼")], [#age(16)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2421*], [#delta(-1)],
     )
   )

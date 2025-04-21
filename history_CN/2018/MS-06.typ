@@ -247,7 +247,7 @@
       [176], [#name("CARVALHO Diogo")], [#age(26)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2478*], [#delta(-6)],
       [177], [#name("米凯尔 梅兹")], [#age(37)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2478*], [#delta(-20)],
       [178], [#name("ARINOBU Taimu")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2478*], [#delta(-7)],
-      [179], [#name("OLAH Benedek")], [#age(27)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2478*], [#delta(-20)],
+      [179], [#name("贝内德克 奥拉")], [#age(27)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2478*], [#delta(-20)],
       [180], [#name("PENG Wang-Wei")], [#age(22)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2477*], [#delta(8)],
       [181], [#name("GAVLAS Antonin")], [#age(33)], [#assoc("CZE")], [#left], [#shakehand], [#attack], [*2475*], [#delta(-4)],
       [182], [#name("CHIANG Hung-Chieh")], [#age(29)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2473*], [#delta(-3)],

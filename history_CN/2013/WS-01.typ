@@ -185,7 +185,7 @@
       [132], [#name("蒂娜 梅谢芙")], [#age(19)], [#assoc("EGY")], [#left], [#shakehand], [#attack], [*2329*], [#delta(-3)],
       [133], [#name("DOI Minami")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2328*], [#delta(-1)],
       [134], [#name("DVORAK Galia")], [#age(25)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2327*], [#delta(-1)],
-      [135], [#name("玛利亚 肖")], [#age(19)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2326*], [#delta(-13)],
+      [135], [#name("肖瑶茜")], [#age(19)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2326*], [#delta(-13)],
       [136], [#name("索菲亚 波尔卡诺娃")], [#age(19)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2325*], [#delta(-2)],
       [137], [#name("JUNG Yumi")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2324*], [#delta(46)],
       [138], [#name("KNEZEVIC Monika")], [#age(23)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2323*], [#delta(-3)],

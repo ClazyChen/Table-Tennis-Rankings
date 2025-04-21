@@ -217,7 +217,7 @@
       [155], [#name("陈思羽")], [#age(18)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2216*], [#delta(-3)],
       [156], [#name("张蔷")], [#age(17)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2216*], [#delta(-3)],
       [157], [#name("HE Sirin")], [#age(22)], [#assoc("TUR")], [?], [?], [?], [*2214*], [#delta(-20)],
-      [158], [#name("玛利亚 肖")], [#age(17)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2213*], [#delta(13)],
+      [158], [#name("肖瑶茜")], [#age(17)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2213*], [#delta(13)],
       [159], [#name("YOON Suwon")], [#age(28)], [#assoc("KOR")], [?], [?], [?], [*2212*], [#delta(-4)],
       [160], [#name("LEE Hyun")], [#age(19)], [#assoc("KOR")], [?], [?], [?], [*2211*], [#delta(-4)],
       [161], [#name("DEDERKO Zhenhua")], [#age(34)], [#assoc("AUS")], [#right], [#shakehand], [#attack], [*2210*], [#delta(-4)],

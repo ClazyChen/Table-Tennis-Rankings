@@ -158,7 +158,7 @@
       [114], [#name("HUANG Fanzhen")], [#age(19)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2494*], [#delta(-3)],
       [115], [#name("刘佳")], [#age(37)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2493*], [#delta(-1)],
       [116], [#name("MATELOVA Hana")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2491*], [#delta(26)],
-      [117], [#name("玛利亚 肖")], [#age(25)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2487*], [#delta(-4)],
+      [117], [#name("肖瑶茜")], [#age(25)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2487*], [#delta(-4)],
       [118], [#name("布里特 伊尔兰德")], [#age(25)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2485*], [#delta(7)],
       [119], [#name("苏萨西尼 萨维塔布特")], [#age(25)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2484*], [#delta(-4)],
       [120], [#name("MATSUDAIRA Shiho")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2482*], [#delta(-4)],

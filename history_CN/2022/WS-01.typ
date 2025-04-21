@@ -128,7 +128,7 @@
       [93], [#name("TRIGOLOS Daria")], [#age(23)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2431*], [#delta(-3)],
       [94], [#name("VORONINA Vlada")], [#age(18)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2425*], [#delta(2)],
       [95], [#name("张墨")], [#age(33)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2424*], [#delta(2)],
-      [96], [#name("玛利亚 肖")], [#age(28)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2422*], [#delta(2)],
+      [96], [#name("肖瑶茜")], [#age(28)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2422*], [#delta(2)],
       [97], [#name("安妮特 考夫曼")], [#age(16)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2421*], [#delta(-20)],
       [98], [#name("李昱谆")], [#age(25)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2420*], [#delta(1)],
       [99], [#name("LUTZ Camille")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2420*], [#delta(-6)],

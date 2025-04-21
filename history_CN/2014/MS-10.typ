@@ -181,7 +181,7 @@
       [128], [#name("张钰")], [#age(33)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2484*], [#delta(-2)],
       [129], [#name("STERNBERG Kasper")], [#age(25)], [#assoc("DEN")], [#right], [#shakehand], [#attack], [*2484*], [#delta(-54)],
       [130], [#name("奥维迪乌 伊奥内斯库")], [#age(25)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2482*], [#delta(66)],
-      [131], [#name("OLAH Benedek")], [#age(23)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2481*], [#delta(188)],
+      [131], [#name("贝内德克 奥拉")], [#age(23)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2481*], [#delta(188)],
       [132], [#name("TAO Wenzhang")], [#age(20)], [#assoc("USA")], [#right], [#penhold], [#attack], [*2481*], [#delta(-4)],
       [133], [#name("贝内迪克特 杜达")], [#age(20)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2481*], [#delta(-6)],
       [134], [#name("LIVENTSOV Alexey")], [#age(33)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2480*], [#delta(-16)],

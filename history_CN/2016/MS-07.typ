@@ -75,7 +75,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [51], [#name("帕特里克 弗朗西斯卡")], [#age(24)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2636*], [#delta(1)],
-      [52], [#name("OLAH Benedek")], [#age(25)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2631*], [#delta(3)],
+      [52], [#name("贝内德克 奥拉")], [#age(25)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2631*], [#delta(3)],
       [53], [#name("GERALDO Joao")], [#age(21)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2630*], [#delta(26)],
       [54], [#name("汪洋")], [#age(22)], [#assoc("SVK")], [#right], [#shakehand], [#defense], [*2626*], [#delta(3)],
       [55], [#name("达米安 艾洛伊")], [#age(47)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2618*], [#delta(5)],

@@ -216,7 +216,7 @@
       [154], [#name("ARVIDSSON Simon")], [#age(27)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2493*], [#delta(-3)],
       [155], [#name("YANG Shuo")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2492*], [#delta(-3)],
       [156], [#name("TSUBOI Yuma")], [#age(20)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2488*], [#delta(-2)],
-      [157], [#name("OLAH Benedek")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2488*], [#delta(24)],
+      [157], [#name("贝内德克 奥拉")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2488*], [#delta(24)],
       [158], [#name("BOULOUSSA Mehdi")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2486*], [#delta(-3)],
       [159], [#name("卡纳克 贾哈")], [#age(17)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2485*], [#delta(198)],
       [160], [#name("BROSSIER Benjamin")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2480*], [#delta(25)],

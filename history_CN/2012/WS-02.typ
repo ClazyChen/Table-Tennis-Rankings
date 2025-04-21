@@ -214,7 +214,7 @@
       [152], [#name("PARK Youngsook")], [#age(24)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2266*], [#delta(-10)],
       [153], [#name("DOLGIKH Maria")], [#age(25)], [#assoc("RUS")], [#right], [#shakehand], [#defense], [*2265*], [#delta(-14)],
       [154], [#name("RAMIREZ Sara")], [#age(25)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2264*], [#delta(24)],
-      [155], [#name("玛利亚 肖")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2263*], [#delta(14)],
+      [155], [#name("肖瑶茜")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2263*], [#delta(14)],
       [156], [#name("NAGYVARADI Mercedes")], [#age(18)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2262*], [#delta(88)],
       [157], [#name("SZYMANSKA Antonina")], [#age(29)], [#assoc("POL")], [?], [?], [?], [*2261*], [#delta(-12)],
       [158], [#name("GU Ruochen")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2253*], [#delta(-10)],

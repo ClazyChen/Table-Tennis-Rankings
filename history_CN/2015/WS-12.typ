@@ -119,7 +119,7 @@
       [84], [#name("PASKAUSKIENE Ruta")], [#age(38)], [#assoc("LTU")], [#right], [#shakehand], [#attack], [*2505*], [#delta(8)],
       [85], [#name("李恩惠")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2503*], [#delta(2)],
       [86], [#name("BALAZOVA Barbora")], [#age(23)], [#assoc("SVK")], [#left], [#shakehand], [#attack], [*2495*], [#delta(-8)],
-      [87], [#name("玛利亚 肖")], [#age(21)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2494*], [#delta(-1)],
+      [87], [#name("肖瑶茜")], [#age(21)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2494*], [#delta(-1)],
       [88], [#name("LIU Hsing-Yin")], [#age(28)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2493*], [#delta(20)],
       [89], [#name("RI Mi Gyong")], [#age(25)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2492*], [#delta(0)],
       [90], [#name("张安")], [#age(19)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2490*], [#delta(1)],

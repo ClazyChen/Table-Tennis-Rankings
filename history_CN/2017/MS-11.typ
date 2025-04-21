@@ -212,7 +212,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [151], [#name("SZUDI Adam")], [#age(21)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2498*], [#delta(-4)],
       [152], [#name("帕特里克 鲍姆")], [#age(30)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2497*], [#delta(-4)],
-      [153], [#name("OLAH Benedek")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2496*], [#delta(-4)],
+      [153], [#name("贝内德克 奥拉")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2496*], [#delta(-4)],
       [154], [#name("LAKEEV Vasily")], [#age(33)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2495*], [#delta(-3)],
       [155], [#name("SEO Hyundeok")], [#age(26)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2494*], [#delta(-3)],
       [156], [#name("ANDERSSON Harald")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2493*], [#delta(-3)],

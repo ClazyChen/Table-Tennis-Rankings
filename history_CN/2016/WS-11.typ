@@ -113,7 +113,7 @@
       [78], [#name("NOSKOVA Yana")], [#age(22)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2525*], [#delta(-1)],
       [79], [#name("BILENKO Tetyana")], [#age(33)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2523*], [#delta(-21)],
       [80], [#name("加藤美优")], [#age(17)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2523*], [#delta(1)],
-      [81], [#name("玛利亚 肖")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2520*], [#delta(18)],
+      [81], [#name("肖瑶茜")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2520*], [#delta(18)],
       [82], [#name("张墨")], [#age(27)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2519*], [#delta(0)],
       [83], [#name("钱天一")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2510*], [#delta(3)],
       [84], [#name("伯纳黛特 斯佐科斯")], [#age(21)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2509*], [#delta(-17)],

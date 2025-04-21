@@ -216,7 +216,7 @@
       [154], [#name("NOSKOVA Yana")], [#age(16)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2166*], [#delta(-42)],
       [155], [#name("SMISTIKOVA Martina")], [#age(24)], [#assoc("CZE")], [?], [?], [?], [*2166*], [#delta(77)],
       [156], [#name("BALAZOVA Barbora")], [#age(18)], [#assoc("SVK")], [#left], [#shakehand], [#attack], [*2165*], [#delta(-1)],
-      [157], [#name("SUN Yang")], [#age(27)], [#assoc("NZL")], [?], [?], [?], [*2163*], [#delta(-46)],
+      [157], [#name("孙杨")], [#age(27)], [#assoc("NZL")], [?], [?], [?], [*2163*], [#delta(-46)],
       [158], [#name("PASTOR Agata")], [#age(24)], [#assoc("POL")], [?], [?], [?], [*2159*], [#delta(35)],
       [159], [#name("LEE Hyun")], [#age(18)], [#assoc("KOR")], [?], [?], [?], [*2159*], [#delta(-20)],
       [160], [#name("CREEMERS Linda")], [#age(25)], [#assoc("NED")], [?], [?], [?], [*2159*], [#delta(45)],

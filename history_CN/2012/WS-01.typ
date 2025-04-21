@@ -228,7 +228,7 @@
       [166], [#name("HOU Yu-Ling")], [#age(22)], [#assoc("TPE")], [?], [?], [?], [*2225*], [#delta(-1)],
       [167], [#name("TSUCHIDA Miki")], [#age(21)], [#assoc("JPN")], [?], [?], [?], [*2223*], [#delta(-1)],
       [168], [#name("KUZMINA Elena")], [#age(23)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2223*], [#delta(-1)],
-      [169], [#name("玛利亚 肖")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2221*], [#delta(6)],
+      [169], [#name("肖瑶茜")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2221*], [#delta(6)],
       [170], [#name("TIAN Yuan")], [#age(37)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2217*], [#delta(-2)],
       [171], [#name("韩莹")], [#age(29)], [#assoc("GER")], [#right], [#shakehand], [#defense], [*2216*], [#delta(-2)],
       [172], [#name("HANFFOU Sarah")], [#age(26)], [#assoc("CMR")], [#right], [#shakehand], [#attack], [*2215*], [#delta(-2)],

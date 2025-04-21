@@ -254,7 +254,7 @@
       [183], [#name("KIM Mijeong")], [#age(21)], [#assoc("KOR")], [?], [?], [?], [*2149*], [#delta(0)],
       [184], [#name("TODOROVIC Andrea")], [#age(18)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2146*], [#delta(0)],
       [185], [#name("TIMINA Yana")], [#age(35)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2145*], [#delta(1)],
-      [186], [#name("玛利亚 肖")], [#age(16)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2145*], [#delta(2)],
+      [186], [#name("肖瑶茜")], [#age(16)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2145*], [#delta(2)],
       [187], [#name("HSING Ariel")], [#age(15)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2143*], [#delta(51)],
       [188], [#name("MOON Bosun")], [#age(24)], [#assoc("KOR")], [?], [?], [?], [*2140*], [#delta(4)],
       [189], [#name("LIU Xi")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2137*], [#delta(48)],

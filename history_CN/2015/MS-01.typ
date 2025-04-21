@@ -198,7 +198,7 @@
       [145], [#name("TSUBOI Gustavo")], [#age(30)], [#assoc("BRA")], [#left], [#shakehand], [#attack], [*2455*], [#delta(2)],
       [146], [#name("TSUBOI Yuma")], [#age(18)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2455*], [#delta(-5)],
       [147], [#name("KONECNY Tomas")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2453*], [#delta(1)],
-      [148], [#name("OLAH Benedek")], [#age(24)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2452*], [#delta(6)],
+      [148], [#name("贝内德克 奥拉")], [#age(24)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2452*], [#delta(6)],
       [149], [#name("HIRANO Yuki")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2450*], [#delta(0)],
       [150], [#name("约尔根 佩尔森")], [#age(49)], [#assoc("SWE")], [?], [?], [?], [*2448*], [#delta(0)],
     )

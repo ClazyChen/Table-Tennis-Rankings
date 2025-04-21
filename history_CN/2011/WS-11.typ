@@ -266,7 +266,7 @@
       [195], [#name("RAMOS Fabiola")], [#age(34)], [#assoc("VEN")], [?], [?], [?], [*2179*], [#delta(86)],
       [196], [#name("HASAMA Nozomi")], [#age(25)], [#assoc("JPN")], [?], [?], [?], [*2176*], [#delta(-3)],
       [197], [#name("VASYLIEVA Ievgeniia")], [#age(21)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2176*], [#delta(-3)],
-      [198], [#name("玛利亚 肖")], [#age(17)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2175*], [#delta(-20)],
+      [198], [#name("肖瑶茜")], [#age(17)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2175*], [#delta(-20)],
       [199], [#name("NECULA Iulia")], [#age(25)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2174*], [#delta(-19)],
       [200], [#name("LEE Hyelin")], [#age(22)], [#assoc("KOR")], [?], [?], [?], [*2172*], [#delta(-2)],
     )

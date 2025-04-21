@@ -82,7 +82,7 @@
       [56], [#name("SAI Linwei")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2646*], [#delta(4)],
       [57], [#name("特鲁斯 莫雷加德")], [#age(19)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2642*], [#delta(-10)],
       [58], [#name("安德烈 加奇尼")], [#age(35)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2638*], [#delta(3)],
-      [59], [#name("OLAH Benedek")], [#age(30)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2635*], [#delta(-16)],
+      [59], [#name("贝内德克 奥拉")], [#age(30)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2635*], [#delta(-16)],
       [60], [#name("BOBOCICA Mihai")], [#age(35)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2635*], [#delta(3)],
       [61], [#name("冯翊新")], [#age(18)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2633*], [#delta(27)],
       [62], [#name("篠塚大登")], [#age(18)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2633*], [#delta(52)],
@@ -130,7 +130,7 @@
       [95], [#name("ZHANG Yudong")], [#age(24)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2575*], [#delta(-5)],
       [96], [#name("奥维迪乌 伊奥内斯库")], [#age(32)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2570*], [#delta(13)],
       [97], [#name("寇磊")], [#age(34)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2563*], [#delta(-6)],
-      [98], [#name("LIU Yebo")], [#age(20)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2562*], [#delta(-6)],
+      [98], [#name("刘夜泊")], [#age(20)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2562*], [#delta(-6)],
       [99], [#name("ROBLES Alvaro")], [#age(30)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2561*], [#delta(-25)],
       [100], [#name("KUMAR Nikhil")], [#age(18)], [#assoc("USA")], [#left], [#shakehand], [#attack], [*2560*], [#delta(-7)],
     )

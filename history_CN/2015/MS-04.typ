@@ -189,7 +189,7 @@
       [136], [#name("CHTCHETININE Evgueni")], [#age(45)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2476*], [#delta(0)],
       [137], [#name("让 米歇尔 赛弗")], [#age(46)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2475*], [#delta(-9)],
       [138], [#name("LAMBIET Florent")], [#age(20)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2474*], [#delta(110)],
-      [139], [#name("OLAH Benedek")], [#age(24)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2472*], [#delta(-1)],
+      [139], [#name("贝内德克 奥拉")], [#age(24)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2472*], [#delta(-1)],
       [140], [#name("PETO Zsolt")], [#age(28)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2471*], [#delta(1)],
       [141], [#name("艾曼纽 莱贝松")], [#age(27)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2471*], [#delta(-27)],
       [142], [#name("CHO Eonrae")], [#age(29)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2471*], [#delta(-32)],

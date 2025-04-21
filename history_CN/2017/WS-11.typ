@@ -250,7 +250,7 @@
       [179], [#name("LEE I-Chen")], [#age(30)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2381*], [#delta(1)],
       [180], [#name("GRUNDISCH Carole")], [#age(31)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2381*], [#delta(1)],
       [181], [#name("JEGER Mateja")], [#age(22)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2380*], [#delta(-18)],
-      [182], [#name("玛利亚 肖")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2379*], [#delta(-16)],
+      [182], [#name("肖瑶茜")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2379*], [#delta(-16)],
       [183], [#name("CECHOVA Dana")], [#age(34)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2379*], [#delta(-1)],
       [184], [#name("MADARASZ Dora")], [#age(24)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2378*], [#delta(-44)],
       [185], [#name("LEE Yearam")], [#age(28)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2377*], [#delta(-1)],

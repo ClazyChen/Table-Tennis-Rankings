@@ -231,7 +231,7 @@
       [169], [#name("VLASOV Grigory")], [#age(33)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2466*], [#delta(-10)],
       [170], [#name("LANDRIEU Andrea")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2463*], [#delta(-71)],
       [171], [#name("SZUDI Adam")], [#age(21)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2463*], [#delta(-20)],
-      [172], [#name("OLAH Benedek")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2462*], [#delta(-19)],
+      [172], [#name("贝内德克 奥拉")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2462*], [#delta(-19)],
       [173], [#name("SAMBE Kohei")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2460*], [#delta(6)],
       [174], [#name("STOYANOV Niagol")], [#age(30)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2460*], [#delta(-31)],
       [175], [#name("PRYSHCHEPA Ievgen")], [#age(32)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2458*], [#delta(-54)],

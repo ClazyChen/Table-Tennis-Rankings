@@ -60,7 +60,7 @@
       [43], [#name("奥马尔 阿萨尔")], [#age(25)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2658*], [#delta(36)],
       [44], [#name("GERELL Par")], [#age(34)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2657*], [#delta(41)],
       [45], [#name("陈卫星")], [#age(44)], [#assoc("AUT")], [#right], [#shakehand], [#defense], [*2656*], [#delta(-4)],
-      [46], [#name("OLAH Benedek")], [#age(25)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2652*], [#delta(31)],
+      [46], [#name("贝内德克 奥拉")], [#age(25)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2652*], [#delta(31)],
       [47], [#name("周恺")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2650*], [#delta(-5)],
       [48], [#name("安东 卡尔伯格")], [#age(19)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2649*], [#delta(38)],
       [49], [#name("张禹珍")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2647*], [#delta(-6)],

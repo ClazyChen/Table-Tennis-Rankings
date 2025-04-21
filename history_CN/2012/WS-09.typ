@@ -124,7 +124,7 @@
       [89], [#name("森田美咲")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2410*], [#delta(7)],
       [90], [#name("HUANG Yi-Hua")], [#age(28)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2408*], [#delta(-33)],
       [91], [#name("ZHOU Yihan")], [#age(18)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2406*], [#delta(46)],
-      [92], [#name("玛利亚 肖")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2404*], [#delta(7)],
+      [92], [#name("肖瑶茜")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2404*], [#delta(7)],
       [93], [#name("KANG Misoon")], [#age(19)], [#assoc("KOR")], [?], [?], [?], [*2404*], [#delta(7)],
       [94], [#name("LAY Jian Fang")], [#age(39)], [#assoc("AUS")], [#right], [#penhold], [#attack], [*2402*], [#delta(4)],
       [95], [#name("LOVAS Petra")], [#age(32)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2401*], [#delta(6)],

@@ -146,7 +146,7 @@
       [102], [#name("ZHOU Yihan")], [#age(21)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2466*], [#delta(-5)],
       [103], [#name("YOO Eunchong")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2463*], [#delta(-10)],
       [104], [#name("JI Eunchae")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2456*], [#delta(-6)],
-      [105], [#name("玛利亚 肖")], [#age(21)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2455*], [#delta(116)],
+      [105], [#name("肖瑶茜")], [#age(21)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2455*], [#delta(116)],
       [106], [#name("张安")], [#age(19)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2454*], [#delta(-6)],
       [107], [#name("LIU Hsing-Yin")], [#age(28)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2454*], [#delta(52)],
       [108], [#name("SOO Wai Yam")], [#age(17)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2450*], [#delta(57)],

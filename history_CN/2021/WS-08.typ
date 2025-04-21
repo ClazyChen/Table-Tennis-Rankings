@@ -128,7 +128,7 @@
       [93], [#name("ABRAAMIAN Elizabet")], [#age(18)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2457*], [#delta(24)],
       [94], [#name("高桥 布鲁娜")], [#age(21)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2456*], [#delta(-1)],
       [95], [#name("CIOBANU Irina")], [#age(26)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2454*], [#delta(-1)],
-      [96], [#name("玛利亚 肖")], [#age(27)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2453*], [#delta(-1)],
+      [96], [#name("肖瑶茜")], [#age(27)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2453*], [#delta(-1)],
       [97], [#name("奥拉万 帕拉南")], [#age(24)], [#assoc("THA")], [#left], [#shakehand], [#attack], [*2447*], [#delta(-1)],
       [98], [#name("BILENKO Tetyana")], [#age(38)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2443*], [#delta(-1)],
       [99], [#name("MATELOVA Hana")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2441*], [#delta(-1)],

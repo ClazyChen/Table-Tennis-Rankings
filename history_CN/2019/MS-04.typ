@@ -81,7 +81,7 @@
       [55], [#name("吉村和弘")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2661*], [#delta(-20)],
       [56], [#name("马克斯 弗雷塔斯")], [#age(31)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2655*], [#delta(-7)],
       [57], [#name("牛冠凯")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2652*], [#delta(2)],
-      [58], [#name("LIU Yebo")], [#age(18)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2652*], [#delta(2)],
+      [58], [#name("刘夜泊")], [#age(18)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2652*], [#delta(2)],
       [59], [#name("巴斯蒂安 斯蒂格")], [#age(38)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2647*], [#delta(24)],
       [60], [#name("徐海东")], [#age(19)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2646*], [#delta(4)],
       [61], [#name("STOYANOV Niagol")], [#age(32)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2645*], [#delta(5)],
@@ -108,7 +108,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [76], [#name("OLAH Benedek")], [#age(28)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2614*], [#delta(32)],
+      [76], [#name("贝内德克 奥拉")], [#age(28)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2614*], [#delta(32)],
       [77], [#name("基里尔 斯卡奇科夫")], [#age(32)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2612*], [#delta(54)],
       [78], [#name("ACHANTA Sharath")], [#age(37)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2611*], [#delta(0)],
       [79], [#name("PERSSON Jon")], [#age(33)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2610*], [#delta(-12)],

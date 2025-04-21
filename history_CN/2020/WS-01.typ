@@ -149,7 +149,7 @@
       [105], [#name("乔治娜 波塔")], [#age(35)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2453*], [#delta(9)],
       [106], [#name("NG Wing Nam")], [#age(28)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2446*], [#delta(9)],
       [107], [#name("李昱谆")], [#age(23)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2443*], [#delta(10)],
-      [108], [#name("玛利亚 肖")], [#age(26)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2441*], [#delta(11)],
+      [108], [#name("肖瑶茜")], [#age(26)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2441*], [#delta(11)],
       [109], [#name("LAM Yee Lok")], [#age(24)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2439*], [#delta(11)],
       [110], [#name("DVORAK Galia")], [#age(32)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2439*], [#delta(11)],
       [111], [#name("PARTYKA Natalia")], [#age(31)], [#assoc("POL")], [#left], [#shakehand], [#attack], [*2436*], [#delta(11)],

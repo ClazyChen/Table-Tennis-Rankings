@@ -227,7 +227,7 @@
       [165], [#name("SALIFOU Abdel-Kader")], [#age(29)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2492*], [#delta(0)],
       [166], [#name("金光宏畅")], [#age(18)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2490*], [#delta(22)],
       [167], [#name("亚历山大 卡拉卡谢维奇")], [#age(43)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2489*], [#delta(1)],
-      [168], [#name("OLAH Benedek")], [#age(27)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2487*], [#delta(4)],
+      [168], [#name("贝内德克 奥拉")], [#age(27)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2487*], [#delta(4)],
       [169], [#name("BOBOCICA Mihai")], [#age(32)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2486*], [#delta(46)],
       [170], [#name("ORT Kilian")], [#age(22)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2482*], [#delta(7)],
       [171], [#name("MONTEIRO Joao")], [#age(35)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2482*], [#delta(7)],

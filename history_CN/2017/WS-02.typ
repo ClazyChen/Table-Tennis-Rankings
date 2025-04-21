@@ -177,7 +177,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [126], [#name("STRBIKOVA Renata")], [#age(38)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2435*], [#delta(-10)],
-      [127], [#name("玛利亚 肖")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2432*], [#delta(-12)],
+      [127], [#name("肖瑶茜")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2432*], [#delta(-12)],
       [128], [#name("MATELOVA Hana")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2431*], [#delta(1)],
       [129], [#name("YOO Eunchong")], [#age(24)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2429*], [#delta(-4)],
       [130], [#name("CHENG Hsien-Tzu")], [#age(24)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2428*], [#delta(-4)],

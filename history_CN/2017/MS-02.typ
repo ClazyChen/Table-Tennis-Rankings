@@ -97,7 +97,7 @@
       [71], [#name("斯蒂芬 门格尔")], [#age(29)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2604*], [#delta(2)],
       [72], [#name("WANG Zengyi")], [#age(34)], [#assoc("POL")], [#right], [#penhold], [#attack], [*2604*], [#delta(14)],
       [73], [#name("基里尔 格拉西缅科")], [#age(21)], [#assoc("KAZ")], [#right], [#shakehand], [#attack], [*2603*], [#delta(39)],
-      [74], [#name("OLAH Benedek")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2601*], [#delta(-5)],
+      [74], [#name("贝内德克 奥拉")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2601*], [#delta(-5)],
       [75], [#name("庄智渊")], [#age(36)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2597*], [#delta(-25)],
     )
   )

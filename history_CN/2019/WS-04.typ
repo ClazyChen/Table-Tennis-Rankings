@@ -254,7 +254,7 @@
       [183], [#name("TOKUNAGA Miko")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2378*], [#delta(-4)],
       [184], [#name("LIU Yu-Hsin")], [#age(26)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2377*], [#delta(-4)],
       [185], [#name("KULIKOVA Olga")], [#age(26)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2375*], [#delta(-1)],
-      [186], [#name("玛利亚 肖")], [#age(25)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2373*], [#delta(-68)],
+      [186], [#name("肖瑶茜")], [#age(25)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2373*], [#delta(-68)],
       [187], [#name("JAZBEC Ida")], [#age(25)], [#assoc("CRO")], [#right], [#shakehand], [#defense], [*2373*], [#delta(-1)],
       [188], [#name("GALIC Alex")], [#age(25)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2371*], [#delta(-1)],
       [189], [#name("BRATEYKO Solomiya")], [#age(20)], [#assoc("UKR")], [#left], [#shakehand], [#attack], [*2370*], [#delta(54)],

@@ -125,7 +125,7 @@
       [90], [#name("陈建安")], [#age(30)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2566*], [#delta(-5)],
       [91], [#name("ISHIY Vitor")], [#age(26)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2566*], [#delta(39)],
       [92], [#name("寇磊")], [#age(34)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2563*], [#delta(42)],
-      [93], [#name("LIU Yebo")], [#age(20)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2562*], [#delta(1)],
+      [93], [#name("刘夜泊")], [#age(20)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2562*], [#delta(1)],
       [94], [#name("夸德里 阿鲁纳")], [#age(33)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2561*], [#delta(-19)],
       [95], [#name("廖振珽")], [#age(25)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2560*], [#delta(1)],
       [96], [#name("KUMAR Nikhil")], [#age(18)], [#assoc("USA")], [#left], [#shakehand], [#attack], [*2560*], [#delta(30)],
@@ -142,7 +142,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [101], [#name("OLAH Benedek")], [#age(30)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2555*], [#delta(55)],
+      [101], [#name("贝内德克 奥拉")], [#age(30)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2555*], [#delta(55)],
       [102], [#name("乔纳森 格罗斯")], [#age(29)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2554*], [#delta(50)],
       [103], [#name("SZUDI Adam")], [#age(25)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2550*], [#delta(-10)],
       [104], [#name("木造勇人")], [#age(22)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2550*], [#delta(-2)],

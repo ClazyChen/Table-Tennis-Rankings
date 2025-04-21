@@ -81,7 +81,7 @@
       [55], [#name("玛妮卡 巴特拉")], [#age(26)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2551*], [#delta(1)],
       [56], [#name("LAY Jian Fang")], [#age(48)], [#assoc("AUS")], [#right], [#penhold], [#attack], [*2546*], [#delta(1)],
       [57], [#name("李恩惠")], [#age(26)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2545*], [#delta(1)],
-      [58], [#name("玛利亚 肖")], [#age(27)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2537*], [#delta(3)],
+      [58], [#name("肖瑶茜")], [#age(27)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2537*], [#delta(3)],
       [59], [#name("奥拉万 帕拉南")], [#age(24)], [#assoc("THA")], [#left], [#shakehand], [#attack], [*2535*], [#delta(3)],
       [60], [#name("KAMATH Archana")], [#age(21)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2535*], [#delta(45)],
       [61], [#name("佩特丽莎 索尔佳")], [#age(27)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2534*], [#delta(2)],

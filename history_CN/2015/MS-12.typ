@@ -224,7 +224,7 @@
       [162], [#name("MATSUMOTO Cazuo")], [#age(30)], [#assoc("BRA")], [#left], [#penhold], [#attack], [*2457*], [#delta(43)],
       [163], [#name("WALKER Samuel")], [#age(20)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2457*], [#delta(124)],
       [164], [#name("廖振珽")], [#age(19)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2454*], [#delta(-38)],
-      [165], [#name("OLAH Benedek")], [#age(24)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2453*], [#delta(-28)],
+      [165], [#name("贝内德克 奥拉")], [#age(24)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2453*], [#delta(-28)],
       [166], [#name("HIRANO Yuki")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2450*], [#delta(0)],
       [167], [#name("JEAN Gregoire")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2450*], [#delta(0)],
       [168], [#name("PLATONOV Pavel")], [#age(32)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2447*], [#delta(0)],

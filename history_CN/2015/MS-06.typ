@@ -164,7 +164,7 @@
       [120], [#name("JAKAB Janos")], [#age(29)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2502*], [#delta(-27)],
       [121], [#name("德米特里 佩罗普科夫")], [#age(35)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2502*], [#delta(-33)],
       [122], [#name("ROBLES Alvaro")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2501*], [#delta(108)],
-      [123], [#name("OLAH Benedek")], [#age(24)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2501*], [#delta(15)],
+      [123], [#name("贝内德克 奥拉")], [#age(24)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2501*], [#delta(15)],
       [124], [#name("SAKAI Asuka")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2499*], [#delta(-10)],
       [125], [#name("CHENG Jingqi")], [#age(21)], [#assoc("CHN")], [?], [?], [?], [*2499*], [#delta(-10)],
     )

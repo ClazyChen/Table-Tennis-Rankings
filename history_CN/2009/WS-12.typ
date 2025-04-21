@@ -166,7 +166,7 @@
       [122], [#name("EKHOLM Matilda")], [#age(27)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2202*], [#delta(11)],
       [123], [#name("MOON Bosun")], [#age(23)], [#assoc("KOR")], [?], [?], [?], [*2199*], [#delta(-13)],
       [124], [#name("GRUNDISCH Carole")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2196*], [#delta(14)],
-      [125], [#name("SUN Yang")], [#age(26)], [#assoc("NZL")], [?], [?], [?], [*2195*], [#delta(-6)],
+      [125], [#name("孙杨")], [#age(26)], [#assoc("NZL")], [?], [?], [?], [*2195*], [#delta(-6)],
     )
   )
 #pagebreak()

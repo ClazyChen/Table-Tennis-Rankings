@@ -155,7 +155,7 @@
       [111], [#name("KUMAHARA Luca")], [#age(22)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2480*], [#delta(5)],
       [112], [#name("PESOTSKA Margaryta")], [#age(26)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2476*], [#delta(-1)],
       [113], [#name("长崎美柚")], [#age(15)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2476*], [#delta(-1)],
-      [114], [#name("玛利亚 肖")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2475*], [#delta(0)],
+      [114], [#name("肖瑶茜")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2475*], [#delta(0)],
       [115], [#name("CIOBANU Irina")], [#age(22)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2471*], [#delta(-22)],
       [116], [#name("MORIZONO Mizuki")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2470*], [#delta(-43)],
       [117], [#name("PROKHOROVA Yulia")], [#age(30)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2469*], [#delta(-4)],

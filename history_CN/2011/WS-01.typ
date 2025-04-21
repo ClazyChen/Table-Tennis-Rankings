@@ -230,7 +230,7 @@
       [168], [#name("张墨")], [#age(22)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2190*], [#delta(-6)],
       [169], [#name("BALAZOVA Barbora")], [#age(19)], [#assoc("SVK")], [#left], [#shakehand], [#attack], [*2188*], [#delta(-18)],
       [170], [#name("LIU Na")], [#age(28)], [#assoc("IRL")], [?], [?], [?], [*2188*], [#delta(-6)],
-      [171], [#name("玛利亚 肖")], [#age(17)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2187*], [#delta(15)],
+      [171], [#name("肖瑶茜")], [#age(17)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2187*], [#delta(15)],
       [172], [#name("KUMARESAN Shamini")], [#age(23)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2187*], [#delta(-7)],
       [173], [#name("PENKAVOVA Katerina")], [#age(24)], [#assoc("CZE")], [#left], [#shakehand], [#attack], [*2180*], [#delta(1)],
       [174], [#name("DUBKOVA Elena")], [#age(20)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2178*], [#delta(-7)],

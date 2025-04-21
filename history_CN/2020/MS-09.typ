@@ -115,7 +115,7 @@
       [80], [#name("WALTHER Ricardo")], [#age(29)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2595*], [#delta(-4)],
       [81], [#name("特鲁斯 莫雷加德")], [#age(18)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2595*], [#delta(3)],
       [82], [#name("冯翊新")], [#age(17)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2592*], [#delta(4)],
-      [83], [#name("OLAH Benedek")], [#age(29)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2592*], [#delta(8)],
+      [83], [#name("贝内德克 奥拉")], [#age(29)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2592*], [#delta(8)],
       [84], [#name("SALIFOU Abdel-Kader")], [#age(31)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2591*], [#delta(3)],
       [85], [#name("汪洋")], [#age(26)], [#assoc("SVK")], [#right], [#shakehand], [#defense], [*2590*], [#delta(-20)],
       [86], [#name("易卜拉欣 迪阿夫")], [#age(28)], [#assoc("SEN")], [#right], [#shakehand], [#attack], [*2590*], [#delta(26)],
@@ -132,7 +132,7 @@
       [97], [#name("HABESOHN Daniel")], [#age(34)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2573*], [#delta(51)],
       [98], [#name("BADOWSKI Marek")], [#age(23)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2568*], [#delta(-4)],
       [99], [#name("KOJIC Frane")], [#age(28)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2567*], [#delta(-11)],
-      [100], [#name("LIU Yebo")], [#age(19)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2562*], [#delta(-5)],
+      [100], [#name("刘夜泊")], [#age(19)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2562*], [#delta(-5)],
     )
   )
 #pagebreak()

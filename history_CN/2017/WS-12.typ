@@ -132,7 +132,7 @@
       [97], [#name("SUN Jiayi")], [#age(17)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2509*], [#delta(55)],
       [98], [#name("NING Jing")], [#age(17)], [#assoc("AZE")], [?], [?], [?], [*2506*], [#delta(-2)],
       [99], [#name("CHOE Hyon Hwa")], [#age(25)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2502*], [#delta(-5)],
-      [100], [#name("玛利亚 肖")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2501*], [#delta(82)],
+      [100], [#name("肖瑶茜")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2501*], [#delta(82)],
     )
   )
 #pagebreak()

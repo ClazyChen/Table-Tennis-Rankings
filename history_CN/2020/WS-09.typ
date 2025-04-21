@@ -154,7 +154,7 @@
       [110], [#name("ZARIF Audrey")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2396*], [#delta(0)],
       [111], [#name("DRAGOMAN Andreea")], [#age(20)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2393*], [#delta(3)],
       [112], [#name("MALOBABIC Ivana")], [#age(40)], [#assoc("CRO")], [#right], [#shakehand], [#defense], [*2390*], [#delta(3)],
-      [113], [#name("玛利亚 肖")], [#age(26)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2390*], [#delta(-4)],
+      [113], [#name("肖瑶茜")], [#age(26)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2390*], [#delta(-4)],
       [114], [#name("PARTYKA Natalia")], [#age(31)], [#assoc("POL")], [#left], [#shakehand], [#attack], [*2390*], [#delta(2)],
       [115], [#name("TOLIOU Aikaterini")], [#age(25)], [#assoc("GRE")], [#right], [#shakehand], [#defense], [*2389*], [#delta(2)],
       [116], [#name("高桥 布鲁娜")], [#age(20)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2388*], [#delta(-25)],

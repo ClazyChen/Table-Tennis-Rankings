@@ -146,7 +146,7 @@
       [102], [#name("乔治娜 波塔")], [#age(30)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2458*], [#delta(-20)],
       [103], [#name("JI Eunchae")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2456*], [#delta(1)],
       [104], [#name("LEE I-Chen")], [#age(28)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2456*], [#delta(-13)],
-      [105], [#name("玛利亚 肖")], [#age(21)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2455*], [#delta(0)],
+      [105], [#name("肖瑶茜")], [#age(21)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2455*], [#delta(0)],
       [106], [#name("LIU Hsing-Yin")], [#age(28)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2454*], [#delta(1)],
       [107], [#name("BALAZOVA Barbora")], [#age(23)], [#assoc("SVK")], [#left], [#shakehand], [#attack], [*2452*], [#delta(-11)],
       [108], [#name("布里特 伊尔兰德")], [#age(21)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2447*], [#delta(32)],

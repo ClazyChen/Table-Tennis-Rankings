@@ -112,7 +112,7 @@
       [77], [#name("GRZYBOWSKA-FRANC Katarzyna")], [#age(31)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2503*], [#delta(10)],
       [78], [#name("张安")], [#age(24)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2502*], [#delta(10)],
       [79], [#name("DODEAN Daniela")], [#age(32)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2501*], [#delta(22)],
-      [80], [#name("玛利亚 肖")], [#age(26)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2501*], [#delta(28)],
+      [80], [#name("肖瑶茜")], [#age(26)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2501*], [#delta(28)],
       [81], [#name("CIOBANU Irina")], [#age(25)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2497*], [#delta(8)],
       [82], [#name("李时温")], [#age(24)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2496*], [#delta(8)],
       [83], [#name("森樱")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2486*], [#delta(8)],

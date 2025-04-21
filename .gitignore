@@ -6,7 +6,8 @@ download_*.py
 matches
 events
 players
-data
+data/*.csv
+data/*.json
 update-*
 
 # vscode

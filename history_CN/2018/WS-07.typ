@@ -83,7 +83,7 @@
       [57], [#name("HUANG Yingqi")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2626*], [#delta(-2)],
       [58], [#name("单晓娜")], [#age(35)], [#assoc("GER")], [#right], [#penhold], [#attack], [*2626*], [#delta(-2)],
       [59], [#name("石洵瑶")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2625*], [#delta(-2)],
-      [60], [#name("玛利亚 肖")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2622*], [#delta(-11)],
+      [60], [#name("肖瑶茜")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2622*], [#delta(-11)],
       [61], [#name("SOLJA Amelie")], [#age(28)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2618*], [#delta(23)],
       [62], [#name("张墨")], [#age(29)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2613*], [#delta(-18)],
       [63], [#name("YOO Eunchong")], [#age(25)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2613*], [#delta(10)],

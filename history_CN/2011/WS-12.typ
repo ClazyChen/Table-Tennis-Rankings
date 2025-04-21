@@ -234,7 +234,7 @@
       [172], [#name("LEE Hyun")], [#age(19)], [#assoc("KOR")], [?], [?], [?], [*2211*], [#delta(-3)],
       [173], [#name("KNEZEVIC Monika")], [#age(21)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2211*], [#delta(-3)],
       [174], [#name("李佳燚")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2208*], [#delta(-3)],
-      [175], [#name("玛利亚 肖")], [#age(17)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2207*], [#delta(23)],
+      [175], [#name("肖瑶茜")], [#age(17)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2207*], [#delta(23)],
     )
   )
 #pagebreak()

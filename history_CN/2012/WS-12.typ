@@ -163,7 +163,7 @@
       [119], [#name("ERDELJI Anamaria")], [#age(27)], [#assoc("SRB")], [#right], [#shakehand], [#defense], [*2354*], [#delta(-3)],
       [120], [#name("MISIKONYTE Lina")], [#age(24)], [#assoc("LTU")], [?], [?], [?], [*2351*], [#delta(-3)],
       [121], [#name("DRINKHALL Joanna")], [#age(25)], [#assoc("ENG")], [#right], [#shakehand], [#defense], [*2351*], [#delta(-3)],
-      [122], [#name("玛利亚 肖")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2351*], [#delta(-31)],
+      [122], [#name("肖瑶茜")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2351*], [#delta(-31)],
       [123], [#name("KRAVCHENKO Marina")], [#age(39)], [#assoc("ISR")], [#right], [#shakehand], [#attack], [*2347*], [#delta(-2)],
       [124], [#name("JO Yujin")], [#age(20)], [#assoc("KOR")], [?], [?], [?], [*2346*], [#delta(-2)],
       [125], [#name("张蔷")], [#age(18)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2342*], [#delta(-2)],

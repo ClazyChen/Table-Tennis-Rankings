@@ -159,7 +159,7 @@
       [115], [#name("SOLJA Amelie")], [#age(19)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2212*], [#delta(5)],
       [116], [#name("GRZYBOWSKA-FRANC Katarzyna")], [#age(20)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2209*], [#delta(56)],
       [117], [#name("GATINSKA Katalina")], [#age(39)], [#assoc("BUL")], [?], [?], [?], [*2206*], [#delta(5)],
-      [118], [#name("SUN Yang")], [#age(26)], [#assoc("NZL")], [?], [?], [?], [*2195*], [#delta(81)],
+      [118], [#name("孙杨")], [#age(26)], [#assoc("NZL")], [?], [?], [?], [*2195*], [#delta(81)],
       [119], [#name("YU Kwok See")], [#age(23)], [#assoc("HKG")], [?], [?], [?], [*2195*], [#delta(5)],
       [120], [#name("NTOULAKI Ekaterina")], [#age(27)], [#assoc("GRE")], [?], [?], [?], [*2194*], [#delta(-5)],
       [121], [#name("JONSSON Carina")], [#age(30)], [#assoc("SWE")], [?], [?], [?], [*2194*], [#delta(6)],

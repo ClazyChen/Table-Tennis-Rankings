@@ -127,7 +127,7 @@
       [92], [#name("WALKER Samuel")], [#age(23)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2590*], [#delta(10)],
       [93], [#name("PLETEA Cristian")], [#age(18)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2587*], [#delta(86)],
       [94], [#name("WANG Zengyi")], [#age(35)], [#assoc("POL")], [#right], [#penhold], [#attack], [*2586*], [#delta(0)],
-      [95], [#name("OLAH Benedek")], [#age(27)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2586*], [#delta(0)],
+      [95], [#name("贝内德克 奥拉")], [#age(27)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2586*], [#delta(0)],
       [96], [#name("夸德里 阿鲁纳")], [#age(30)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2585*], [#delta(-57)],
       [97], [#name("托米斯拉夫 普卡")], [#age(22)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2584*], [#delta(-1)],
       [98], [#name("HWANG Minha")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2583*], [#delta(0)],

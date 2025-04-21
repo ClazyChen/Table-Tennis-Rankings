@@ -219,7 +219,7 @@
       [157], [#name("BEH Lee Wei")], [#age(25)], [#assoc("MAS")], [#right], [#shakehand], [#attack], [*2105*], [#delta(3)],
       [158], [#name("POHAR Martina")], [#age(27)], [#assoc("SLO")], [?], [?], [?], [*2100*], [#delta(-6)],
       [159], [#name("KIM Hye Song")], [#age(15)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2099*], [#delta(2)],
-      [160], [#name("玛利亚 肖")], [#age(14)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2094*], [#delta(3)],
+      [160], [#name("肖瑶茜")], [#age(14)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2094*], [#delta(3)],
       [161], [#name("SCHARRER Laura")], [#age(18)], [#assoc("SUI")], [?], [?], [?], [*2092*], [#delta(3)],
       [162], [#name("CHIU Soo Jiin")], [#age(23)], [#assoc("MAS")], [?], [?], [?], [*2088*], [#delta(4)],
       [163], [#name("CREEMERS Linda")], [#age(23)], [#assoc("NED")], [?], [?], [?], [*2084*], [#delta(25)],

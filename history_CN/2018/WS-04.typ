@@ -184,7 +184,7 @@
       [131], [#name("邵杰妮")], [#age(24)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2445*], [#delta(2)],
       [132], [#name("PASKAUSKIENE Ruta")], [#age(41)], [#assoc("LTU")], [#right], [#shakehand], [#attack], [*2445*], [#delta(2)],
       [133], [#name("LEE Ka Yee")], [#age(16)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2442*], [#delta(3)],
-      [134], [#name("玛利亚 肖")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2442*], [#delta(-33)],
+      [134], [#name("肖瑶茜")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2442*], [#delta(-33)],
       [135], [#name("YOON Hyobin")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2441*], [#delta(2)],
       [136], [#name("LOEUILLETTE Stephanie")], [#age(26)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2440*], [#delta(6)],
       [137], [#name("NOSKOVA Yana")], [#age(24)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2440*], [#delta(-21)],

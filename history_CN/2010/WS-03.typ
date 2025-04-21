@@ -180,7 +180,7 @@
       [127], [#name("MOON Bosun")], [#age(24)], [#assoc("KOR")], [?], [?], [?], [*2199*], [#delta(-3)],
       [128], [#name("BARTHEL Zhenqi")], [#age(23)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2199*], [#delta(-3)],
       [129], [#name("GRUNDISCH Carole")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2196*], [#delta(-2)],
-      [130], [#name("SUN Yang")], [#age(27)], [#assoc("NZL")], [?], [?], [?], [*2195*], [#delta(-2)],
+      [130], [#name("孙杨")], [#age(27)], [#assoc("NZL")], [?], [?], [?], [*2195*], [#delta(-2)],
       [131], [#name("JONSSON Carina")], [#age(31)], [#assoc("SWE")], [?], [?], [?], [*2195*], [#delta(-2)],
       [132], [#name("SZYMANSKA Antonina")], [#age(27)], [#assoc("POL")], [?], [?], [?], [*2187*], [#delta(-2)],
       [133], [#name("SHENG Dandan")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2181*], [#delta(-2)],

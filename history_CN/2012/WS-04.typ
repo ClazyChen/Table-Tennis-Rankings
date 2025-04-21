@@ -188,7 +188,7 @@
       [135], [#name("AMBRUS Krisztina")], [#age(20)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2300*], [#delta(0)],
       [136], [#name("SANG Xu Stephanie")], [#age(26)], [#assoc("AUS")], [#right], [#shakehand], [#attack], [*2297*], [#delta(0)],
       [137], [#name("苏萨西尼 萨维塔布特")], [#age(18)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2295*], [#delta(0)],
-      [138], [#name("玛利亚 肖")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2294*], [#delta(14)],
+      [138], [#name("肖瑶茜")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2294*], [#delta(14)],
       [139], [#name("HAN Xing")], [#age(23)], [#assoc("CGO")], [?], [?], [?], [*2289*], [#delta(-1)],
       [140], [#name("LI Isabelle Siyun")], [#age(18)], [#assoc("SGP")], [#right], [#shakehand], [#defense], [*2289*], [#delta(-1)],
       [141], [#name("ERDELJI Anamaria")], [#age(27)], [#assoc("SRB")], [#right], [#shakehand], [#defense], [*2289*], [#delta(-1)],

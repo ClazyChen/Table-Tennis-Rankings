@@ -261,7 +261,7 @@
       [190], [#name("TORIOLA Segun")], [#age(44)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2456*], [#delta(-2)],
       [191], [#name("PRYSHCHEPA Ievgen")], [#age(33)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2453*], [#delta(-2)],
       [192], [#name("MINO Alberto")], [#age(28)], [#assoc("ECU")], [#right], [#shakehand], [#attack], [*2451*], [#delta(-2)],
-      [193], [#name("OLAH Benedek")], [#age(27)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2448*], [#delta(-1)],
+      [193], [#name("贝内德克 奥拉")], [#age(27)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2448*], [#delta(-1)],
       [194], [#name("SEO Hyundeok")], [#age(27)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2448*], [#delta(-1)],
       [195], [#name("YEFIMOV Viktor")], [#age(30)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2447*], [#delta(-1)],
       [196], [#name("邱党")], [#age(22)], [#assoc("GER")], [#right], [#penhold], [#attack], [*2447*], [#delta(-1)],

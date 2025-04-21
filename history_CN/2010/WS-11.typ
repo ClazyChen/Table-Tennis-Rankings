@@ -256,7 +256,7 @@
       [185], [#name("KRAMER Tanja")], [#age(30)], [#assoc("GER")], [?], [?], [?], [*2145*], [#delta(-2)],
       [186], [#name("TIMINA Yana")], [#age(35)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2145*], [#delta(-17)],
       [187], [#name("SIKORSKA Magdalena")], [#age(24)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2145*], [#delta(47)],
-      [188], [#name("玛利亚 肖")], [#age(16)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2145*], [#delta(-4)],
+      [188], [#name("肖瑶茜")], [#age(16)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2145*], [#delta(-4)],
       [189], [#name("SZCZERKOWSKA Magdalena")], [#age(18)], [#assoc("POL")], [?], [?], [?], [*2144*], [#delta(-12)],
       [190], [#name("DOBREVA Polina")], [#age(18)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2143*], [#delta(-29)],
       [191], [#name("KOMWONG Nanthana")], [#age(30)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2142*], [#delta(-6)],

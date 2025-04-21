@@ -111,7 +111,7 @@
       [76], [#name("ACHANTA Sharath")], [#age(34)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2596*], [#delta(-30)],
       [77], [#name("TORIOLA Segun")], [#age(42)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2596*], [#delta(-2)],
       [78], [#name("PERSSON Jon")], [#age(30)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2596*], [#delta(-10)],
-      [79], [#name("OLAH Benedek")], [#age(25)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2594*], [#delta(54)],
+      [79], [#name("贝内德克 奥拉")], [#age(25)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2594*], [#delta(54)],
       [80], [#name("DRINKHALL Paul")], [#age(26)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2591*], [#delta(41)],
       [81], [#name("王楚钦")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2590*], [#delta(-5)],
       [82], [#name("TAKAKIWA Taku")], [#age(28)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2588*], [#delta(37)],

@@ -231,7 +231,7 @@
       [169], [#name("KOZUL Deni")], [#age(21)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2489*], [#delta(19)],
       [170], [#name("木造勇人")], [#age(19)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2488*], [#delta(-23)],
       [171], [#name("MADRID Marcos")], [#age(32)], [#assoc("MEX")], [#right], [#shakehand], [#attack], [*2487*], [#delta(-11)],
-      [172], [#name("OLAH Benedek")], [#age(27)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2487*], [#delta(7)],
+      [172], [#name("贝内德克 奥拉")], [#age(27)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2487*], [#delta(7)],
       [173], [#name("MATSUYAMA Yuki")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2487*], [#delta(-3)],
       [174], [#name("SAMBE Kohei")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2486*], [#delta(-3)],
       [175], [#name("SIPOS Rares")], [#age(18)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2486*], [#delta(-3)],

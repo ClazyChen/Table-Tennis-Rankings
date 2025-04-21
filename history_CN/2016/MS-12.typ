@@ -92,7 +92,7 @@
       [66], [#name("薛飞")], [#age(17)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2613*], [#delta(4)],
       [67], [#name("斯特凡 菲格尔")], [#age(28)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2607*], [#delta(-4)],
       [68], [#name("安德烈 加奇尼")], [#age(30)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2602*], [#delta(26)],
-      [69], [#name("OLAH Benedek")], [#age(25)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2601*], [#delta(-23)],
+      [69], [#name("贝内德克 奥拉")], [#age(25)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2601*], [#delta(-23)],
       [70], [#name("ACHANTA Sharath")], [#age(34)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2599*], [#delta(74)],
       [71], [#name("ANDERSSON Harald")], [#age(25)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2598*], [#delta(4)],
       [72], [#name("奥维迪乌 伊奥内斯库")], [#age(27)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2598*], [#delta(-31)],

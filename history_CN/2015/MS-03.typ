@@ -188,7 +188,7 @@
       [135], [#name("GERALDO Joao")], [#age(20)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2477*], [#delta(64)],
       [136], [#name("CHTCHETININE Evgueni")], [#age(45)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2476*], [#delta(-6)],
       [137], [#name("阿列克谢 斯米尔诺夫")], [#age(38)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2474*], [#delta(-19)],
-      [138], [#name("OLAH Benedek")], [#age(24)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2473*], [#delta(11)],
+      [138], [#name("贝内德克 奥拉")], [#age(24)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2473*], [#delta(11)],
       [139], [#name("RYUZAKI Tonin")], [#age(17)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2473*], [#delta(-8)],
       [140], [#name("KONECNY Tomas")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2472*], [#delta(7)],
       [141], [#name("PETO Zsolt")], [#age(28)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2471*], [#delta(-4)],

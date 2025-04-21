@@ -119,7 +119,7 @@
       [84], [#name("斯蒂芬 门格尔")], [#age(27)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2568*], [#delta(12)],
       [85], [#name("达米安 艾洛伊")], [#age(46)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2567*], [#delta(-4)],
       [86], [#name("巴斯蒂安 斯蒂格")], [#age(34)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2563*], [#delta(-4)],
-      [87], [#name("OLAH Benedek")], [#age(24)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2563*], [#delta(16)],
+      [87], [#name("贝内德克 奥拉")], [#age(24)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2563*], [#delta(16)],
       [88], [#name("尼马 阿拉米安")], [#age(23)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2562*], [#delta(45)],
       [89], [#name("贝内迪克特 杜达")], [#age(21)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2554*], [#delta(0)],
       [90], [#name("GERALDO Joao")], [#age(20)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2554*], [#delta(-20)],

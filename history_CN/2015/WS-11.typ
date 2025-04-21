@@ -118,7 +118,7 @@
       [83], [#name("加藤美优")], [#age(16)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2512*], [#delta(8)],
       [84], [#name("浜本由惟")], [#age(17)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2509*], [#delta(9)],
       [85], [#name("早田希娜")], [#age(15)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2509*], [#delta(1)],
-      [86], [#name("玛利亚 肖")], [#age(21)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2504*], [#delta(19)],
+      [86], [#name("肖瑶茜")], [#age(21)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2504*], [#delta(19)],
       [87], [#name("李恩惠")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2503*], [#delta(0)],
       [88], [#name("GRZYBOWSKA-FRANC Katarzyna")], [#age(26)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2503*], [#delta(-3)],
       [89], [#name("RI Mi Gyong")], [#age(25)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2492*], [#delta(-21)],

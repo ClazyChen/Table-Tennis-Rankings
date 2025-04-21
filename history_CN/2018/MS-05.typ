@@ -218,7 +218,7 @@
       [156], [#name("达科 约奇克")], [#age(20)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2499*], [#delta(-54)],
       [157], [#name("米凯尔 梅兹")], [#age(37)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2499*], [#delta(0)],
       [158], [#name("LEVENKO Andreas")], [#age(20)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2498*], [#delta(-12)],
-      [159], [#name("OLAH Benedek")], [#age(27)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2498*], [#delta(75)],
+      [159], [#name("贝内德克 奥拉")], [#age(27)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2498*], [#delta(75)],
       [160], [#name("金光宏畅")], [#age(18)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2497*], [#delta(-21)],
       [161], [#name("CHO Eonrae")], [#age(32)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2495*], [#delta(-67)],
       [162], [#name("SZOCS Hunor")], [#age(26)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2495*], [#delta(-11)],

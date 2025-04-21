@@ -29,7 +29,11 @@
 }
 #let assoc(str) = {
   set text(font: ("Cascadia Mono"))
-  [#str #box(image("data/flags/" + str + ".png", height: 10pt), baseline: 1pt)]
+  if str == "AIN" { [#str] }
+  else if str == "?" { [#str] }
+  else {
+    [#str #box(image("data/flags/" + str + ".png", height: 10pt), baseline: 1pt)]
+  }
 }
 #let name(str) = {
   set text(font: ("Cascadia Mono", "Microsoft YaHei"))

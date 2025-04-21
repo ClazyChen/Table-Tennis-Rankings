@@ -77,7 +77,7 @@
       [51], [#name("MATSUDAIRA Kenji")], [#age(27)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2625*], [#delta(-3)],
       [52], [#name("唐鹏")], [#age(35)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2625*], [#delta(-33)],
       [53], [#name("特里斯坦 弗洛雷")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2624*], [#delta(-12)],
-      [54], [#name("OLAH Benedek")], [#age(25)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2624*], [#delta(-2)],
+      [54], [#name("贝内德克 奥拉")], [#age(25)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2624*], [#delta(-2)],
       [55], [#name("达米安 艾洛伊")], [#age(47)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2618*], [#delta(0)],
       [56], [#name("上田仁")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2618*], [#delta(0)],
       [57], [#name("HIELSCHER Lars")], [#age(37)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2617*], [#delta(0)],

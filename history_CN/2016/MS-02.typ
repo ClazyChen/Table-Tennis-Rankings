@@ -152,7 +152,7 @@
       [108], [#name("尼马 阿拉米安")], [#age(24)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2540*], [#delta(-24)],
       [109], [#name("雨果 卡尔德拉诺")], [#age(20)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2533*], [#delta(-5)],
       [110], [#name("博扬 托基奇")], [#age(35)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2530*], [#delta(-5)],
-      [111], [#name("OLAH Benedek")], [#age(25)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2529*], [#delta(72)],
+      [111], [#name("贝内德克 奥拉")], [#age(25)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2529*], [#delta(72)],
       [112], [#name("DRINKHALL Paul")], [#age(26)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2529*], [#delta(1)],
       [113], [#name("ZHU Cheng")], [#age(19)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2528*], [#delta(-5)],
       [114], [#name("吉村和弘")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2527*], [#delta(-3)],

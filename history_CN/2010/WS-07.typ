@@ -218,7 +218,7 @@
       [156], [#name("LI Isabelle Siyun")], [#age(16)], [#assoc("SGP")], [#right], [#shakehand], [#defense], [*2166*], [#delta(-3)],
       [157], [#name("NOSKOVA Yana")], [#age(16)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2166*], [#delta(-3)],
       [158], [#name("SMISTIKOVA Martina")], [#age(24)], [#assoc("CZE")], [?], [?], [?], [*2166*], [#delta(-3)],
-      [159], [#name("SUN Yang")], [#age(27)], [#assoc("NZL")], [?], [?], [?], [*2163*], [#delta(-2)],
+      [159], [#name("孙杨")], [#age(27)], [#assoc("NZL")], [?], [?], [?], [*2163*], [#delta(-2)],
       [160], [#name("TANIOKA Ayuka")], [#age(16)], [#assoc("JPN")], [?], [?], [?], [*2160*], [#delta(-39)],
       [161], [#name("PASTOR Agata")], [#age(24)], [#assoc("POL")], [?], [?], [?], [*2159*], [#delta(-3)],
       [162], [#name("LEE Hyun")], [#age(18)], [#assoc("KOR")], [?], [?], [?], [*2159*], [#delta(-3)],

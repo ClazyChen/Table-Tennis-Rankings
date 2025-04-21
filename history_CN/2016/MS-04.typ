@@ -183,7 +183,7 @@
       [130], [#name("帕特里克 鲍姆")], [#age(29)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2495*], [#delta(0)],
       [131], [#name("OBESLO Michal")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2494*], [#delta(2)],
       [132], [#name("谭瑞午")], [#age(33)], [#assoc("CRO")], [#left], [#shakehand], [#attack], [*2490*], [#delta(-16)],
-      [133], [#name("OLAH Benedek")], [#age(25)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2489*], [#delta(-22)],
+      [133], [#name("贝内德克 奥拉")], [#age(25)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2489*], [#delta(-22)],
       [134], [#name("德米特里 佩罗普科夫")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2488*], [#delta(31)],
       [135], [#name("KEINATH Thomas")], [#age(39)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2487*], [#delta(65)],
       [136], [#name("ROBLES Alvaro")], [#age(25)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2487*], [#delta(-14)],

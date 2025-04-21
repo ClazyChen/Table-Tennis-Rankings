@@ -228,7 +228,7 @@
       [166], [#name("SIN Hye Song")], [#age(17)], [#assoc("PRK")], [?], [?], [?], [*2167*], [NEW],
       [167], [#name("SMISTIKOVA Martina")], [#age(24)], [#assoc("CZE")], [?], [?], [?], [*2166*], [#delta(-5)],
       [168], [#name("PROKHOROVA Yulia")], [#age(23)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2164*], [#delta(-5)],
-      [169], [#name("SUN Yang")], [#age(27)], [#assoc("NZL")], [?], [?], [?], [*2163*], [#delta(-5)],
+      [169], [#name("孙杨")], [#age(27)], [#assoc("NZL")], [?], [?], [?], [*2163*], [#delta(-5)],
       [170], [#name("PASTOR Agata")], [#age(24)], [#assoc("POL")], [?], [?], [?], [*2159*], [#delta(-5)],
       [171], [#name("HWANG Jina")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2158*], [#delta(-54)],
       [172], [#name("KUSINSKA Klaudia")], [#age(17)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2156*], [#delta(11)],

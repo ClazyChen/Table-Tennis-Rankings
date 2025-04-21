@@ -176,7 +176,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [126], [#name("SUN Yang")], [#age(27)], [#assoc("NZL")], [?], [?], [?], [*2195*], [#delta(-1)],
+      [126], [#name("孙杨")], [#age(27)], [#assoc("NZL")], [?], [?], [?], [*2195*], [#delta(-1)],
       [127], [#name("伯纳黛特 斯佐科斯")], [#age(15)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2193*], [#delta(102)],
       [128], [#name("BARTHEL Zhenqi")], [#age(23)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2190*], [#delta(-2)],
       [129], [#name("SZYMANSKA Antonina")], [#age(27)], [#assoc("POL")], [?], [?], [?], [*2187*], [#delta(-2)],

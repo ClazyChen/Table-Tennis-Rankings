@@ -222,7 +222,7 @@
       [160], [#name("BEH Lee Wei")], [#age(25)], [#assoc("MAS")], [#right], [#shakehand], [#attack], [*2105*], [#delta(-1)],
       [161], [#name("KIM Hye Song")], [#age(15)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2099*], [#delta(-1)],
       [162], [#name("SOLJA Amelie")], [#age(18)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2096*], [#delta(-1)],
-      [163], [#name("玛利亚 肖")], [#age(14)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2094*], [#delta(-1)],
+      [163], [#name("肖瑶茜")], [#age(14)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2094*], [#delta(-1)],
       [164], [#name("SCHARRER Laura")], [#age(18)], [#assoc("SUI")], [?], [?], [?], [*2092*], [#delta(-1)],
       [165], [#name("HEINE Veronika")], [#age(22)], [#assoc("AUT")], [?], [?], [?], [*2091*], [#delta(-1)],
       [166], [#name("CHIU Soo Jiin")], [#age(23)], [#assoc("MAS")], [?], [?], [?], [*2088*], [#delta(-1)],
@@ -267,7 +267,7 @@
       [196], [#name("OSMAN Bacent")], [#age(31)], [#assoc("EGY")], [?], [?], [?], [*2031*], [#delta(-1)],
       [197], [#name("VACENOVSKA Iveta")], [#age(22)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2028*], [#delta(0)],
       [198], [#name("GOLOTA Marta")], [#age(20)], [#assoc("POL")], [?], [?], [?], [*2027*], [#delta(0)],
-      [199], [#name("SUN Yang")], [#age(25)], [#assoc("NZL")], [?], [?], [?], [*2024*], [#delta(0)],
+      [199], [#name("孙杨")], [#age(25)], [#assoc("NZL")], [?], [?], [?], [*2024*], [#delta(0)],
       [200], [#name("KOZLOVSKAIAI Anna")], [#age(22)], [#assoc("RUS")], [?], [?], [?], [*2022*], [#delta(0)],
     )
   )

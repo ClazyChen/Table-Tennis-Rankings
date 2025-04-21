@@ -149,7 +149,7 @@
       [105], [#name("SAKAI Asuka")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2573*], [#delta(-4)],
       [106], [#name("MACHI Asuka")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2571*], [#delta(-3)],
       [107], [#name("蒂亚戈 阿波罗尼亚")], [#age(33)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2571*], [#delta(-12)],
-      [108], [#name("OLAH Benedek")], [#age(28)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2570*], [#delta(-6)],
+      [108], [#name("贝内德克 奥拉")], [#age(28)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2570*], [#delta(-6)],
       [109], [#name("田中佑汰")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2569*], [#delta(-5)],
       [110], [#name("MATSUDAIRA Kenji")], [#age(30)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2567*], [#delta(-4)],
       [111], [#name("SIRUCEK Pavel")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2566*], [#delta(46)],

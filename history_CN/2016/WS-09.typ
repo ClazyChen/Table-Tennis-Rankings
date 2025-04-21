@@ -119,7 +119,7 @@
       [84], [#name("VACENOVSKA Iveta")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2497*], [#delta(-9)],
       [85], [#name("徐孝元")], [#age(29)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2489*], [#delta(-47)],
       [86], [#name("LOVAS Petra")], [#age(36)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2489*], [#delta(26)],
-      [87], [#name("玛利亚 肖")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2485*], [#delta(3)],
+      [87], [#name("肖瑶茜")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2485*], [#delta(3)],
       [88], [#name("SOO Wai Yam")], [#age(18)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2484*], [#delta(13)],
       [89], [#name("LIN Ye")], [#age(20)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2480*], [#delta(5)],
       [90], [#name("PESOTSKA Margaryta")], [#age(25)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2476*], [#delta(5)],

@@ -246,7 +246,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [176], [#name("LI Bin")], [#age(23)], [#assoc("HUN")], [?], [?], [?], [*2199*], [#delta(-2)],
       [177], [#name("MIKULCOVA Kristyna")], [#age(19)], [#assoc("CZE")], [#left], [#shakehand], [#attack], [*2198*], [#delta(184)],
-      [178], [#name("玛利亚 肖")], [#age(17)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2198*], [#delta(-3)],
+      [178], [#name("肖瑶茜")], [#age(17)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2198*], [#delta(-3)],
       [179], [#name("ELDAWLATLY Nadeen")], [#age(18)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2196*], [#delta(-27)],
       [180], [#name("NECULA Iulia")], [#age(25)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2196*], [#delta(-1)],
       [181], [#name("GASNIER Laura")], [#age(18)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2190*], [#delta(-1)],

@@ -131,7 +131,7 @@
       [96], [#name("罗伯特 加尔多斯")], [#age(41)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2566*], [#delta(6)],
       [97], [#name("ROLLAND Jules")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2564*], [#delta(0)],
       [98], [#name("HABESOHN Daniel")], [#age(34)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2564*], [#delta(0)],
-      [99], [#name("LIU Yebo")], [#age(19)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2562*], [#delta(0)],
+      [99], [#name("刘夜泊")], [#age(19)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2562*], [#delta(0)],
       [100], [#name("MAJOROS Bence")], [#age(23)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2561*], [#delta(-9)],
     )
   )
@@ -223,7 +223,7 @@
       [161], [#name("ISMAILOV Sadi")], [#age(24)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2480*], [#delta(-1)],
       [162], [#name("曹巍")], [#age(21)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2479*], [#delta(0)],
       [163], [#name("LI Hsin-Yang")], [#age(20)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2478*], [#delta(0)],
-      [164], [#name("OLAH Benedek")], [#age(29)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2477*], [#delta(0)],
+      [164], [#name("贝内德克 奥拉")], [#age(29)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2477*], [#delta(0)],
       [165], [#name("PICARD Vincent")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2475*], [#delta(1)],
       [166], [#name("YEH Chih-Wei")], [#age(30)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2475*], [#delta(1)],
       [167], [#name("LAM Siu Hang")], [#age(24)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2475*], [#delta(5)],

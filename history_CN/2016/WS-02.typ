@@ -166,7 +166,7 @@
       [122], [#name("CECHOVA Dana")], [#age(33)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2429*], [#delta(43)],
       [123], [#name("CHENG Hsien-Tzu")], [#age(23)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2428*], [#delta(-8)],
       [124], [#name("WU Yue")], [#age(26)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2427*], [#delta(36)],
-      [125], [#name("玛利亚 肖")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2426*], [#delta(-38)],
+      [125], [#name("肖瑶茜")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2426*], [#delta(-38)],
     )
   )
 #pagebreak()

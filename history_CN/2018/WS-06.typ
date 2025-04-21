@@ -63,7 +63,7 @@
       [46], [#name("孙铭阳")], [#age(19)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2654*], [#delta(-7)],
       [47], [#name("范思琦")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2647*], [#delta(-6)],
       [48], [#name("加藤美优")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2647*], [#delta(-13)],
-      [49], [#name("玛利亚 肖")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2647*], [#delta(117)],
+      [49], [#name("肖瑶茜")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2647*], [#delta(117)],
       [50], [#name("BALAZOVA Barbora")], [#age(26)], [#assoc("SVK")], [#left], [#shakehand], [#attack], [*2645*], [#delta(34)],
     )
   )

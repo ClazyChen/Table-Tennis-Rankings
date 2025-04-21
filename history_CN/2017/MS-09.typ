@@ -259,7 +259,7 @@
       [188], [#name("YU Heyi")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2450*], [#delta(-4)],
       [189], [#name("ZHAI Yujia")], [#age(22)], [#assoc("DEN")], [#right], [#shakehand], [#attack], [*2448*], [#delta(-3)],
       [190], [#name("JOUTI Eric")], [#age(23)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2446*], [#delta(-3)],
-      [191], [#name("OLAH Benedek")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2443*], [#delta(3)],
+      [191], [#name("贝内德克 奥拉")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2443*], [#delta(3)],
       [192], [#name("AFANADOR Brian")], [#age(20)], [#assoc("PUR")], [#right], [#shakehand], [#attack], [*2442*], [#delta(-4)],
       [193], [#name("ABIODUN Bode")], [#age(37)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2442*], [#delta(175)],
       [194], [#name("SEREDA Peter")], [#age(33)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2442*], [#delta(25)],

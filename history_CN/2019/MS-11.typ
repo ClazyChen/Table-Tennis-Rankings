@@ -90,7 +90,7 @@
       [64], [#name("PARK Chan-Hyeok")], [#age(24)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2638*], [NEW],
       [65], [#name("WEI Shihao")], [#age(21)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2638*], [#delta(0)],
       [66], [#name("丹羽孝希")], [#age(25)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2635*], [#delta(39)],
-      [67], [#name("LIU Yebo")], [#age(18)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2634*], [#delta(1)],
+      [67], [#name("刘夜泊")], [#age(18)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2634*], [#delta(1)],
       [68], [#name("AN Ji Song")], [#age(23)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2630*], [#delta(1)],
       [69], [#name("及川瑞基")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2629*], [#delta(-24)],
       [70], [#name("王臻")], [#age(34)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2629*], [#delta(0)],
@@ -199,7 +199,7 @@
       [146], [#name("MATSUYAMA Yuki")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2505*], [#delta(3)],
       [147], [#name("JARVIS Tom")], [#age(20)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2504*], [#delta(127)],
       [148], [#name("KULCZYCKI Samuel")], [#age(17)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2504*], [#delta(189)],
-      [149], [#name("OLAH Benedek")], [#age(28)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2504*], [#delta(77)],
+      [149], [#name("贝内德克 奥拉")], [#age(28)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2504*], [#delta(77)],
       [150], [#name("安德斯 林德")], [#age(21)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2502*], [#delta(-10)],
     )
   )

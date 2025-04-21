@@ -178,7 +178,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [126], [#name("萨比亚 温特")], [#age(18)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2197*], [#delta(28)],
       [127], [#name("GRUNDISCH Carole")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2196*], [#delta(-2)],
-      [128], [#name("SUN Yang")], [#age(27)], [#assoc("NZL")], [?], [?], [?], [*2195*], [#delta(-2)],
+      [128], [#name("孙杨")], [#age(27)], [#assoc("NZL")], [?], [?], [?], [*2195*], [#delta(-2)],
       [129], [#name("JONSSON Carina")], [#age(31)], [#assoc("SWE")], [?], [?], [?], [*2195*], [#delta(-11)],
       [130], [#name("SZYMANSKA Antonina")], [#age(27)], [#assoc("POL")], [?], [?], [?], [*2187*], [#delta(-1)],
       [131], [#name("SHENG Dandan")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2181*], [#delta(-1)],

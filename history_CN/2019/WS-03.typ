@@ -159,7 +159,7 @@
       [115], [#name("HUANG Hsin")], [#age(24)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2493*], [#delta(83)],
       [116], [#name("MA Wenting")], [#age(29)], [#assoc("NOR")], [#right], [#shakehand], [#attack], [*2491*], [#delta(-13)],
       [117], [#name("PARTYKA Natalia")], [#age(30)], [#assoc("POL")], [#left], [#shakehand], [#attack], [*2488*], [#delta(55)],
-      [118], [#name("玛利亚 肖")], [#age(25)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2487*], [#delta(-1)],
+      [118], [#name("肖瑶茜")], [#age(25)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2487*], [#delta(-1)],
       [119], [#name("苏萨西尼 萨维塔布特")], [#age(25)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2484*], [#delta(0)],
       [120], [#name("MATSUDAIRA Shiho")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2482*], [#delta(0)],
       [121], [#name("DIACONU Adina")], [#age(20)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2480*], [#delta(78)],

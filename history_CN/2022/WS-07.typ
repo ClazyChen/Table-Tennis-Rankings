@@ -153,7 +153,7 @@
       [109], [#name("LUTZ Charlotte")], [#age(17)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2403*], [#delta(0)],
       [110], [#name("汉娜 高达")], [#age(15)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2403*], [#delta(-9)],
       [111], [#name("MATELOVA Hana")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2396*], [#delta(-23)],
-      [112], [#name("玛利亚 肖")], [#age(28)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2396*], [#delta(28)],
+      [112], [#name("肖瑶茜")], [#age(28)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2396*], [#delta(28)],
       [113], [#name("ARAPOVIC Hana")], [#age(18)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2395*], [#delta(1)],
       [114], [#name("MIGOT Marie")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2395*], [#delta(35)],
       [115], [#name("CHENG Hsien-Tzu")], [#age(29)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2393*], [#delta(-19)],

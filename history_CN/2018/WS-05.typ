@@ -225,7 +225,7 @@
       [163], [#name("KUKULKOVA Tatiana")], [#age(18)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2408*], [#delta(1)],
       [164], [#name("KHETKHUAN Tamolwan")], [#age(21)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2408*], [#delta(1)],
       [165], [#name("KATO Chiaki")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2406*], [#delta(2)],
-      [166], [#name("玛利亚 肖")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2403*], [#delta(-32)],
+      [166], [#name("肖瑶茜")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2403*], [#delta(-32)],
       [167], [#name("DRAGOMAN Andreea")], [#age(18)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2402*], [#delta(-24)],
       [168], [#name("LEE Yearam")], [#age(29)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2401*], [#delta(2)],
       [169], [#name("SUZUKI Rika")], [#age(24)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2400*], [#delta(20)],

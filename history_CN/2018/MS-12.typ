@@ -150,7 +150,7 @@
       [106], [#name("帕纳吉奥迪斯 吉奥尼斯")], [#age(38)], [#assoc("GRE")], [#right], [#shakehand], [#defense], [*2566*], [#delta(31)],
       [107], [#name("ROBLES Alvaro")], [#age(27)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2563*], [#delta(5)],
       [108], [#name("TSUBOI Gustavo")], [#age(33)], [#assoc("BRA")], [#left], [#shakehand], [#attack], [*2559*], [#delta(-33)],
-      [109], [#name("OLAH Benedek")], [#age(27)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2558*], [#delta(-14)],
+      [109], [#name("贝内德克 奥拉")], [#age(27)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2558*], [#delta(-14)],
       [110], [#name("CHIANG Hung-Chieh")], [#age(29)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2556*], [#delta(-6)],
       [111], [#name("徐瑛彬")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2552*], [#delta(5)],
       [112], [#name("WALKER Samuel")], [#age(23)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2550*], [#delta(-20)],

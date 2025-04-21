@@ -178,7 +178,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [126], [#name("MOON Bosun")], [#age(24)], [#assoc("KOR")], [?], [?], [?], [*2199*], [#delta(1)],
       [127], [#name("BARTHEL Zhenqi")], [#age(23)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2197*], [#delta(1)],
-      [128], [#name("SUN Yang")], [#age(27)], [#assoc("NZL")], [?], [?], [?], [*2195*], [#delta(2)],
+      [128], [#name("孙杨")], [#age(27)], [#assoc("NZL")], [?], [?], [?], [*2195*], [#delta(2)],
       [129], [#name("伯纳黛特 斯佐科斯")], [#age(15)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2194*], [#delta(-4)],
       [130], [#name("JONSSON Carina")], [#age(31)], [#assoc("SWE")], [?], [?], [?], [*2191*], [#delta(1)],
       [131], [#name("SZYMANSKA Antonina")], [#age(27)], [#assoc("POL")], [?], [?], [?], [*2187*], [#delta(1)],

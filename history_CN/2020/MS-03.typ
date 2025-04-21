@@ -130,7 +130,7 @@
       [95], [#name("廖振珽")], [#age(24)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2569*], [#delta(18)],
       [96], [#name("基里尔 斯卡奇科夫")], [#age(33)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2568*], [#delta(10)],
       [97], [#name("寇磊")], [#age(33)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2563*], [#delta(-15)],
-      [98], [#name("LIU Yebo")], [#age(19)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2562*], [#delta(1)],
+      [98], [#name("刘夜泊")], [#age(19)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2562*], [#delta(1)],
       [99], [#name("田中佑汰")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2559*], [#delta(2)],
       [100], [#name("JARVIS Tom")], [#age(21)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2557*], [#delta(-9)],
     )
@@ -150,7 +150,7 @@
       [106], [#name("塞德里克 纽廷克")], [#age(27)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2544*], [#delta(26)],
       [107], [#name("斯特凡 菲格尔")], [#age(32)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2544*], [#delta(18)],
       [108], [#name("斯蒂芬 门格尔")], [#age(32)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2544*], [#delta(-27)],
-      [109], [#name("OLAH Benedek")], [#age(29)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2543*], [#delta(55)],
+      [109], [#name("贝内德克 奥拉")], [#age(29)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2543*], [#delta(55)],
       [110], [#name("特里斯坦 弗洛雷")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2541*], [#delta(-17)],
       [111], [#name("雅罗斯列夫 扎姆登科")], [#age(32)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2538*], [#delta(71)],
       [112], [#name("夸德里 阿鲁纳")], [#age(32)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2538*], [#delta(-8)],

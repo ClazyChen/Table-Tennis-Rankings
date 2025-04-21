@@ -251,7 +251,7 @@
       [180], [#name("LEE Chia-Sheng")], [#age(21)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2436*], [#delta(-2)],
       [181], [#name("JOUTI Eric")], [#age(22)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2436*], [#delta(-2)],
       [182], [#name("基里尔 格拉西缅科")], [#age(20)], [#assoc("KAZ")], [#right], [#shakehand], [#attack], [*2432*], [#delta(-38)],
-      [183], [#name("OLAH Benedek")], [#age(25)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2432*], [#delta(-18)],
+      [183], [#name("贝内德克 奥拉")], [#age(25)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2432*], [#delta(-18)],
       [184], [#name("GONZALES Richard")], [#age(45)], [#assoc("PHI")], [?], [?], [?], [*2431*], [#delta(-3)],
       [185], [#name("YANG Heng-Wei")], [#age(19)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2431*], [#delta(-3)],
       [186], [#name("诺沙迪 阿拉米扬")], [#age(25)], [#assoc("IRI")], [#left], [#shakehand], [#attack], [*2431*], [#delta(-3)],

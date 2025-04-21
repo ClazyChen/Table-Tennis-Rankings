@@ -180,7 +180,7 @@
       [127], [#name("SAKAI Haruka")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2397*], [#delta(1)],
       [128], [#name("SOO Wai Yam")], [#age(17)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2392*], [#delta(67)],
       [129], [#name("李时温")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2391*], [#delta(9)],
-      [130], [#name("玛利亚 肖")], [#age(21)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2389*], [#delta(0)],
+      [130], [#name("肖瑶茜")], [#age(21)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2389*], [#delta(0)],
       [131], [#name("KATO Kyoka")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2384*], [#delta(0)],
       [132], [#name("蒂娜 梅谢芙")], [#age(21)], [#assoc("EGY")], [#left], [#shakehand], [#attack], [*2384*], [#delta(0)],
       [133], [#name("LEE Dasom")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2375*], [#delta(0)],

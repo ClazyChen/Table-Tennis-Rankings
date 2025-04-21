@@ -156,7 +156,7 @@
       [112], [#name("CHA Hyo Sim")], [#age(23)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2462*], [#delta(-2)],
       [113], [#name("芝田沙季")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2462*], [#delta(-18)],
       [114], [#name("KUMAHARA Luca")], [#age(22)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2461*], [#delta(-3)],
-      [115], [#name("玛利亚 肖")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2459*], [#delta(-2)],
+      [115], [#name("肖瑶茜")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2459*], [#delta(-2)],
       [116], [#name("STRBIKOVA Renata")], [#age(38)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2459*], [#delta(-2)],
       [117], [#name("PROKHOROVA Yulia")], [#age(30)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2456*], [#delta(-2)],
       [118], [#name("GRZYBOWSKA-FRANC Katarzyna")], [#age(28)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2456*], [#delta(1)],

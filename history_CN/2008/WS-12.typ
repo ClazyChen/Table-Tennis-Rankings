@@ -244,7 +244,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [176], [#name("玛利亚 肖")], [#age(14)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2050*], [#delta(-2)],
+      [176], [#name("肖瑶茜")], [#age(14)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2050*], [#delta(-2)],
       [177], [#name("NOUWEN Carla")], [#age(22)], [#assoc("NED")], [?], [?], [?], [*2049*], [#delta(42)],
       [178], [#name("KIM Sujin")], [#age(24)], [#assoc("KOR")], [?], [?], [?], [*2045*], [#delta(0)],
       [179], [#name("BARTOSOVA Hana")], [#age(27)], [#assoc("CZE")], [?], [?], [?], [*2042*], [#delta(24)],
@@ -264,7 +264,7 @@
       [193], [#name("EZZEDDINE Ruaida")], [#age(19)], [#assoc("VEN")], [?], [?], [?], [*2020*], [#delta(-1)],
       [194], [#name("SILVA Ligia")], [#age(27)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2016*], [#delta(-1)],
       [195], [#name("KOZLOVSKAIAI Anna")], [#age(22)], [#assoc("RUS")], [?], [?], [?], [*2016*], [#delta(-1)],
-      [196], [#name("SUN Yang")], [#age(25)], [#assoc("NZL")], [?], [?], [?], [*2015*], [#delta(-1)],
+      [196], [#name("孙杨")], [#age(25)], [#assoc("NZL")], [?], [?], [?], [*2015*], [#delta(-1)],
       [197], [#name("SMISTIKOVA Martina")], [#age(22)], [#assoc("CZE")], [?], [?], [?], [*2014*], [#delta(-13)],
       [198], [#name("OSHONAIKE Olufunke")], [#age(33)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2013*], [#delta(-2)],
       [199], [#name("PENKAVOVA Katerina")], [#age(21)], [#assoc("CZE")], [#left], [#shakehand], [#attack], [*2012*], [#delta(-51)],

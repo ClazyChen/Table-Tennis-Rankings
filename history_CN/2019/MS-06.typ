@@ -91,7 +91,7 @@
       [65], [#name("塞德里克 纽廷克")], [#age(26)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2654*], [#delta(-6)],
       [66], [#name("吉村和弘")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2654*], [#delta(-6)],
       [67], [#name("牛冠凯")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2652*], [#delta(-6)],
-      [68], [#name("LIU Yebo")], [#age(18)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2648*], [#delta(-5)],
+      [68], [#name("刘夜泊")], [#age(18)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2648*], [#delta(-5)],
       [69], [#name("PERSSON Jon")], [#age(33)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2646*], [#delta(-2)],
       [70], [#name("徐海东")], [#age(19)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2646*], [#delta(-2)],
       [71], [#name("向鹏")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2644*], [#delta(0)],
@@ -131,7 +131,7 @@
       [96], [#name("HWANG Minha")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2589*], [#delta(-3)],
       [97], [#name("WANG Zengyi")], [#age(36)], [#assoc("POL")], [#right], [#penhold], [#attack], [*2586*], [#delta(-3)],
       [98], [#name("ACHANTA Sharath")], [#age(37)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2586*], [#delta(-3)],
-      [99], [#name("OLAH Benedek")], [#age(28)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2585*], [#delta(-3)],
+      [99], [#name("贝内德克 奥拉")], [#age(28)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2585*], [#delta(-3)],
       [100], [#name("DRINKHALL Paul")], [#age(29)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2585*], [#delta(53)],
     )
   )

@@ -187,7 +187,7 @@
       [134], [#name("ZHANG Binyue")], [#age(19)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2420*], [#delta(4)],
       [135], [#name("MIKHAILOVA Polina")], [#age(33)], [#assoc("RUS")], [#right], [#shakehand], [#defense], [*2419*], [#delta(-3)],
       [136], [#name("SURJAN Sabina")], [#age(19)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2418*], [#delta(32)],
-      [137], [#name("玛利亚 肖")], [#age(25)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2415*], [#delta(2)],
+      [137], [#name("肖瑶茜")], [#age(25)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2415*], [#delta(2)],
       [138], [#name("VIVARELLI Debora")], [#age(26)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2413*], [#delta(52)],
       [139], [#name("HUANG Yu-Wen")], [#age(23)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2411*], [#delta(3)],
       [140], [#name("TRIGOLOS Daria")], [#age(20)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2411*], [#delta(76)],

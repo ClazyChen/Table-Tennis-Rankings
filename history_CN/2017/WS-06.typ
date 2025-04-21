@@ -155,7 +155,7 @@
       [111], [#name("MANTZ Chantal")], [#age(21)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2477*], [#delta(23)],
       [112], [#name("PESOTSKA Margaryta")], [#age(26)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2476*], [#delta(0)],
       [113], [#name("长崎美柚")], [#age(15)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2476*], [#delta(0)],
-      [114], [#name("玛利亚 肖")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2475*], [#delta(0)],
+      [114], [#name("肖瑶茜")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2475*], [#delta(0)],
       [115], [#name("KULIKOVA Olga")], [#age(24)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2472*], [#delta(-14)],
       [116], [#name("SABITOVA Valentina")], [#age(27)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2472*], [#delta(-16)],
       [117], [#name("CIOBANU Irina")], [#age(22)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2471*], [#delta(-2)],

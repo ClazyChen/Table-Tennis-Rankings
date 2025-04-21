@@ -89,7 +89,7 @@
       [63], [#name("MATSUZAWA Marina")], [#age(26)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2619*], [#delta(10)],
       [64], [#name("SOLJA Amelie")], [#age(28)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2618*], [#delta(-3)],
       [65], [#name("张墨")], [#age(29)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2613*], [#delta(-3)],
-      [66], [#name("玛利亚 肖")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2613*], [#delta(-6)],
+      [66], [#name("肖瑶茜")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2613*], [#delta(-6)],
       [67], [#name("钱天一")], [#age(18)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2612*], [#delta(-3)],
       [68], [#name("梁夏银")], [#age(24)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2611*], [#delta(4)],
       [69], [#name("李洁")], [#age(34)], [#assoc("NED")], [#right], [#shakehand], [#defense], [*2607*], [#delta(31)],

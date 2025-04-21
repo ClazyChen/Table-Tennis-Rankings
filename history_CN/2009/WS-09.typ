@@ -161,7 +161,7 @@
       [117], [#name("LI Bin")], [#age(21)], [#assoc("HUN")], [?], [?], [?], [*2213*], [#delta(1)],
       [118], [#name("SOLJA Amelie")], [#age(19)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2212*], [#delta(1)],
       [119], [#name("GATINSKA Katalina")], [#age(39)], [#assoc("BUL")], [?], [?], [?], [*2206*], [#delta(2)],
-      [120], [#name("SUN Yang")], [#age(26)], [#assoc("NZL")], [?], [?], [?], [*2195*], [#delta(3)],
+      [120], [#name("孙杨")], [#age(26)], [#assoc("NZL")], [?], [?], [?], [*2195*], [#delta(3)],
       [121], [#name("NTOULAKI Ekaterina")], [#age(27)], [#assoc("GRE")], [?], [?], [?], [*2194*], [#delta(3)],
       [122], [#name("JONSSON Carina")], [#age(30)], [#assoc("SWE")], [?], [?], [?], [*2194*], [#delta(3)],
       [123], [#name("HE Sirin")], [#age(20)], [#assoc("TUR")], [?], [?], [?], [*2191*], [#delta(4)],

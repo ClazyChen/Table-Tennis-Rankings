@@ -176,7 +176,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [126], [#name("玛利亚 肖")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2426*], [#delta(-1)],
+      [126], [#name("肖瑶茜")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2426*], [#delta(-1)],
       [127], [#name("YOON Hyobin")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2424*], [#delta(-1)],
       [128], [#name("SOO Wai Yam")], [#age(18)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2423*], [#delta(-1)],
       [129], [#name("LOVAS Petra")], [#age(36)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2422*], [#delta(-1)],

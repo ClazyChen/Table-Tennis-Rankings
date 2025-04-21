@@ -59,7 +59,7 @@
       [42], [#name("TOGAMI Shunsuke")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2692*], [#delta(1)],
       [43], [#name("ACHANTA Sharath")], [#age(40)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2692*], [#delta(1)],
       [44], [#name("KALLBERG Anton")], [#age(25)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2690*], [#delta(7)],
-      [45], [#name("LIANG Yanning")], [#age(21)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2690*], [#delta(439)],
+      [45], [#name("LIANG Yanning")], [#age(21)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2690*], [#delta(438)],
       [46], [#name("BADOWSKI Marek")], [#age(25)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2689*], [#delta(-1)],
       [47], [#name("LIU Dingshuo")], [#age(24)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2680*], [#delta(-1)],
       [48], [#name("UDA Yukiya")], [#age(21)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2675*], [#delta(-7)],

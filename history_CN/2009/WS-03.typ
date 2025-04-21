@@ -260,7 +260,7 @@
       [189], [#name("SILVA Ligia")], [#age(28)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2016*], [#delta(0)],
       [190], [#name("KOZLOVSKAIAI Anna")], [#age(23)], [#assoc("RUS")], [?], [?], [?], [*2016*], [#delta(0)],
       [191], [#name("STEFANSKA Kinga")], [#age(29)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2016*], [#delta(0)],
-      [192], [#name("SUN Yang")], [#age(26)], [#assoc("NZL")], [?], [?], [?], [*2015*], [#delta(0)],
+      [192], [#name("孙杨")], [#age(26)], [#assoc("NZL")], [?], [?], [?], [*2015*], [#delta(0)],
       [193], [#name("OSHONAIKE Olufunke")], [#age(34)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2013*], [#delta(0)],
       [194], [#name("PETERMAN-VARGA Timea")], [#age(21)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2011*], [#delta(0)],
       [195], [#name("GOLOTA Marta")], [#age(21)], [#assoc("POL")], [?], [?], [?], [*2009*], [#delta(0)],

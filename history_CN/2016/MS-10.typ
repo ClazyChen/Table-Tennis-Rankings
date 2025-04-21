@@ -109,7 +109,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [76], [#name("PATTANTYUS Adam")], [#age(38)], [#assoc("HUN")], [#right], [#shakehand], [#defense], [*2582*], [#delta(-2)],
-      [77], [#name("OLAH Benedek")], [#age(25)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2581*], [#delta(-23)],
+      [77], [#name("贝内德克 奥拉")], [#age(25)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2581*], [#delta(-23)],
       [78], [#name("TORIOLA Segun")], [#age(42)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2581*], [#delta(-3)],
       [79], [#name("奥马尔 阿萨尔")], [#age(25)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2580*], [#delta(-19)],
       [80], [#name("KONECNY Tomas")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2579*], [#delta(-35)],

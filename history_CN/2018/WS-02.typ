@@ -142,7 +142,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [101], [#name("玛利亚 肖")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2501*], [#delta(0)],
+      [101], [#name("肖瑶茜")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2501*], [#delta(0)],
       [102], [#name("HAPONOVA Hanna")], [#age(33)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2498*], [#delta(19)],
       [103], [#name("佩特丽莎 索尔佳")], [#age(24)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2495*], [#delta(-8)],
       [104], [#name("布里特 伊尔兰德")], [#age(24)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2493*], [#delta(-21)],

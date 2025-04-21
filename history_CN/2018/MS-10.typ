@@ -127,7 +127,7 @@
       [92], [#name("SAMBE Kohei")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2592*], [#delta(-5)],
       [93], [#name("向鹏")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2592*], [#delta(-5)],
       [94], [#name("WANG Zengyi")], [#age(35)], [#assoc("POL")], [#right], [#penhold], [#attack], [*2586*], [#delta(-1)],
-      [95], [#name("OLAH Benedek")], [#age(27)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2586*], [#delta(18)],
+      [95], [#name("贝内德克 奥拉")], [#age(27)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2586*], [#delta(18)],
       [96], [#name("托米斯拉夫 普卡")], [#age(22)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2584*], [#delta(-34)],
       [97], [#name("西蒙 高兹")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2583*], [#delta(-7)],
       [98], [#name("HWANG Minha")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2583*], [#delta(-3)],

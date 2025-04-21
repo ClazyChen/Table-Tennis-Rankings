@@ -123,7 +123,7 @@
       [88], [#name("BILENKO Tetyana")], [#age(29)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2406*], [#delta(10)],
       [89], [#name("ZHOU Yihan")], [#age(18)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2406*], [#delta(0)],
       [90], [#name("LI Qiangbing")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2405*], [#delta(-32)],
-      [91], [#name("玛利亚 肖")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2404*], [#delta(-1)],
+      [91], [#name("肖瑶茜")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2404*], [#delta(-1)],
       [92], [#name("KANG Misoon")], [#age(19)], [#assoc("KOR")], [?], [?], [?], [*2404*], [#delta(0)],
       [93], [#name("LAY Jian Fang")], [#age(39)], [#assoc("AUS")], [#right], [#penhold], [#attack], [*2402*], [#delta(1)],
       [94], [#name("ZHENG Jiaqi")], [#age(24)], [#assoc("USA")], [?], [?], [?], [*2400*], [#delta(1)],

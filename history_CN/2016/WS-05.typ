@@ -127,7 +127,7 @@
       [92], [#name("PRIVALOVA Alexandra")], [#age(29)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2493*], [#delta(13)],
       [93], [#name("CHA Hyo Sim")], [#age(22)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2490*], [#delta(-4)],
       [94], [#name("苏萨西尼 萨维塔布特")], [#age(22)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2487*], [#delta(-29)],
-      [95], [#name("玛利亚 肖")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2485*], [#delta(59)],
+      [95], [#name("肖瑶茜")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2485*], [#delta(59)],
       [96], [#name("MATELOVA Hana")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2484*], [#delta(-14)],
       [97], [#name("LAY Jian Fang")], [#age(43)], [#assoc("AUS")], [#right], [#penhold], [#attack], [*2477*], [#delta(4)],
       [98], [#name("LIU Hsing-Yin")], [#age(29)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2477*], [#delta(4)],

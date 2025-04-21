@@ -160,7 +160,7 @@
       [116], [#name("DRAGOMAN Andreea")], [#age(19)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2443*], [#delta(8)],
       [117], [#name("李昱谆")], [#age(22)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2443*], [#delta(8)],
       [118], [#name("王晓彤")], [#age(19)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2443*], [#delta(140)],
-      [119], [#name("玛利亚 肖")], [#age(25)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2441*], [#delta(18)],
+      [119], [#name("肖瑶茜")], [#age(25)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2441*], [#delta(18)],
       [120], [#name("LAM Yee Lok")], [#age(23)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2439*], [#delta(6)],
       [121], [#name("DVORAK Galia")], [#age(31)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2439*], [#delta(-5)],
       [122], [#name("PARTYKA Natalia")], [#age(30)], [#assoc("POL")], [#left], [#shakehand], [#attack], [*2436*], [#delta(33)],

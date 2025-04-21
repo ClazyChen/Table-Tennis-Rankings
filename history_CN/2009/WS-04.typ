@@ -268,6 +268,6 @@
       [197], [#name("SILVA Ligia")], [#age(28)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2016*], [#delta(-8)],
       [198], [#name("KOZLOVSKAIAI Anna")], [#age(23)], [#assoc("RUS")], [?], [?], [?], [*2016*], [#delta(-8)],
       [199], [#name("STEFANSKA Kinga")], [#age(29)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2016*], [#delta(-8)],
-      [200], [#name("SUN Yang")], [#age(26)], [#assoc("NZL")], [?], [?], [?], [*2015*], [#delta(-8)],
+      [200], [#name("孙杨")], [#age(26)], [#assoc("NZL")], [?], [?], [?], [*2015*], [#delta(-8)],
     )
   )

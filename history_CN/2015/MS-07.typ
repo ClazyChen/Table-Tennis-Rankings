@@ -210,7 +210,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [151], [#name("OLAH Benedek")], [#age(24)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2452*], [#delta(-28)],
+      [151], [#name("贝内德克 奥拉")], [#age(24)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2452*], [#delta(-28)],
       [152], [#name("MONTEIRO Thiago")], [#age(34)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2450*], [#delta(-3)],
       [153], [#name("HIRANO Yuki")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2450*], [#delta(-2)],
       [154], [#name("KOSIBA Daniel")], [#age(24)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2450*], [#delta(16)],

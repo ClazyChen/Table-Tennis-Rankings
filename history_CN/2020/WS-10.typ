@@ -176,7 +176,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [126], [#name("玛利亚 肖")], [#age(26)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2374*], [#delta(-13)],
+      [126], [#name("肖瑶茜")], [#age(26)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2374*], [#delta(-13)],
       [127], [#name("DVORAK Galia")], [#age(32)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2371*], [#delta(-27)],
       [128], [#name("PLAIAN Tania")], [#age(19)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2368*], [#delta(-2)],
       [129], [#name("TRIGOLOS Daria")], [#age(21)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2362*], [#delta(-2)],

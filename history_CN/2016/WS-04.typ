@@ -213,7 +213,7 @@
       [151], [#name("PASKAUSKIENE Ruta")], [#age(39)], [#assoc("LTU")], [#right], [#shakehand], [#attack], [*2393*], [#delta(-65)],
       [152], [#name("芝田沙季")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2390*], [#delta(76)],
       [153], [#name("LEE Yearam")], [#age(27)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2389*], [#delta(-8)],
-      [154], [#name("玛利亚 肖")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2388*], [#delta(-28)],
+      [154], [#name("肖瑶茜")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2388*], [#delta(-28)],
       [155], [#name("DAS Mouma")], [#age(32)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2383*], [#delta(11)],
       [156], [#name("NIWA Misato")], [#age(23)], [#assoc("JPN")], [?], [?], [?], [*2382*], [#delta(-8)],
       [157], [#name("LI Ching Wan")], [#age(22)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2380*], [#delta(-3)],

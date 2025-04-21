@@ -130,7 +130,7 @@
       [95], [#name("SOLJA Amelie")], [#age(32)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2426*], [#delta(61)],
       [96], [#name("VORONINA Vlada")], [#age(18)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2425*], [#delta(-2)],
       [97], [#name("张墨")], [#age(33)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2424*], [#delta(-2)],
-      [98], [#name("玛利亚 肖")], [#age(28)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2422*], [#delta(-2)],
+      [98], [#name("肖瑶茜")], [#age(28)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2422*], [#delta(-2)],
       [99], [#name("安妮特 考夫曼")], [#age(16)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2421*], [#delta(-2)],
       [100], [#name("李昱谆")], [#age(25)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2420*], [#delta(-2)],
     )

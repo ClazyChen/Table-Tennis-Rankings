@@ -122,7 +122,7 @@
       [87], [#name("HUANG Yi-Hua")], [#age(28)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2408*], [#delta(3)],
       [88], [#name("LOVAS Petra")], [#age(32)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2407*], [#delta(7)],
       [89], [#name("ZHOU Yihan")], [#age(18)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2406*], [#delta(2)],
-      [90], [#name("玛利亚 肖")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2404*], [#delta(2)],
+      [90], [#name("肖瑶茜")], [#age(18)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2404*], [#delta(2)],
       [91], [#name("STEFANSKA Kinga")], [#age(32)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2404*], [#delta(27)],
       [92], [#name("KANG Misoon")], [#age(19)], [#assoc("KOR")], [?], [?], [?], [*2404*], [#delta(1)],
       [93], [#name("BARTHEL Zhenqi")], [#age(25)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2403*], [#delta(-12)],

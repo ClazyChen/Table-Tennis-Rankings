@@ -163,7 +163,7 @@
       [119], [#name("GRZYBOWSKA-FRANC Katarzyna")], [#age(20)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2209*], [#delta(-3)],
       [120], [#name("GATINSKA Katalina")], [#age(39)], [#assoc("BUL")], [?], [?], [?], [*2206*], [#delta(-3)],
       [121], [#name("YU Kwok See")], [#age(23)], [#assoc("HKG")], [?], [?], [?], [*2200*], [#delta(-2)],
-      [122], [#name("SUN Yang")], [#age(26)], [#assoc("NZL")], [?], [?], [?], [*2195*], [#delta(-4)],
+      [122], [#name("孙杨")], [#age(26)], [#assoc("NZL")], [?], [?], [?], [*2195*], [#delta(-4)],
       [123], [#name("NTOULAKI Ekaterina")], [#age(27)], [#assoc("GRE")], [?], [?], [?], [*2194*], [#delta(-3)],
       [124], [#name("JONSSON Carina")], [#age(30)], [#assoc("SWE")], [?], [?], [?], [*2194*], [#delta(-3)],
       [125], [#name("徐孝元")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2192*], [#delta(-48)],

@@ -233,7 +233,7 @@
       [171], [#name("BARTHEL Zhenqi")], [#age(21)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2055*], [#delta(-1)],
       [172], [#name("DOMANIKU Besire")], [#age(36)], [#assoc("KOS")], [#right], [#shakehand], [#attack], [*2054*], [#delta(-1)],
       [173], [#name("BOGDANOVA Baiba")], [#age(21)], [#assoc("LAT")], [#right], [#shakehand], [#attack], [*2054*], [#delta(-1)],
-      [174], [#name("玛利亚 肖")], [#age(14)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2050*], [#delta(1)],
+      [174], [#name("肖瑶茜")], [#age(14)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2050*], [#delta(1)],
       [175], [#name("MIKHAILOVA Polina")], [#age(22)], [#assoc("RUS")], [#right], [#shakehand], [#defense], [*2049*], [#delta(-1)],
     )
   )
@@ -263,7 +263,7 @@
       [192], [#name("EZZEDDINE Ruaida")], [#age(19)], [#assoc("VEN")], [?], [?], [?], [*2020*], [#delta(-1)],
       [193], [#name("SILVA Ligia")], [#age(27)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2016*], [#delta(-1)],
       [194], [#name("KOZLOVSKAIAI Anna")], [#age(22)], [#assoc("RUS")], [?], [?], [?], [*2016*], [#delta(-1)],
-      [195], [#name("SUN Yang")], [#age(25)], [#assoc("NZL")], [?], [?], [?], [*2015*], [#delta(-1)],
+      [195], [#name("孙杨")], [#age(25)], [#assoc("NZL")], [?], [?], [?], [*2015*], [#delta(-1)],
       [196], [#name("OSHONAIKE Olufunke")], [#age(33)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2013*], [#delta(-1)],
       [197], [#name("SCHALL Elke")], [#age(35)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2010*], [#delta(-1)],
       [198], [#name("MAPHANGA Zodwa")], [#age(17)], [#assoc("RSA")], [#right], [#shakehand], [#attack], [*2008*], [#delta(-1)],

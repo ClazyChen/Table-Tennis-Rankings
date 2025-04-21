@@ -251,7 +251,7 @@
       [180], [#name("IACOB Camelia")], [#age(19)], [#assoc("ROU")], [#right], [#shakehand], [#defense], [*2186*], [#delta(0)],
       [181], [#name("PRIVALOVA Alexandra")], [#age(24)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2186*], [#delta(0)],
       [182], [#name("HIRICI Cristina")], [#age(19)], [#assoc("ROU")], [#left], [#shakehand], [#attack], [*2184*], [#delta(1)],
-      [183], [#name("玛利亚 肖")], [#age(17)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2183*], [#delta(29)],
+      [183], [#name("肖瑶茜")], [#age(17)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2183*], [#delta(29)],
       [184], [#name("YOO Eunchong")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2182*], [#delta(361)],
       [185], [#name("杜凯琹")], [#age(15)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2180*], [#delta(-1)],
       [186], [#name("OBRADOVIC Sonja")], [#age(21)], [#assoc("BIH")], [#right], [#shakehand], [#defense], [*2179*], [#delta(-1)],

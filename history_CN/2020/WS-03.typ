@@ -149,7 +149,7 @@
       [105], [#name("LIU Juan")], [#age(35)], [#assoc("USA")], [#left], [#penhold], [#attack], [*2427*], [#delta(4)],
       [106], [#name("VIVARELLI Debora")], [#age(27)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2423*], [#delta(62)],
       [107], [#name("LOEUILLETTE Stephanie")], [#age(28)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2423*], [#delta(6)],
-      [108], [#name("玛利亚 肖")], [#age(26)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2420*], [#delta(-28)],
+      [108], [#name("肖瑶茜")], [#age(26)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2420*], [#delta(-28)],
       [109], [#name("斯丽贾 阿库拉")], [#age(22)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2420*], [#delta(9)],
       [110], [#name("DVORAK Galia")], [#age(32)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2420*], [#delta(-6)],
       [111], [#name("琳达 伯格斯特罗姆")], [#age(25)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2418*], [#delta(-24)],

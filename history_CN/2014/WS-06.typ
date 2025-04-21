@@ -267,7 +267,7 @@
       [196], [#name("AGGARWAL Neha")], [#age(24)], [#assoc("IND")], [?], [?], [?], [*2290*], [#delta(42)],
       [197], [#name("LEMMER Alena")], [#age(17)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2287*], [#delta(13)],
       [198], [#name("ODOROVA Eva")], [#age(35)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2287*], [#delta(-115)],
-      [199], [#name("玛利亚 肖")], [#age(20)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2284*], [#delta(96)],
+      [199], [#name("肖瑶茜")], [#age(20)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2284*], [#delta(96)],
       [200], [#name("DOLGIKH Maria")], [#age(27)], [#assoc("RUS")], [#right], [#shakehand], [#defense], [*2284*], [#delta(-83)],
     )
   )

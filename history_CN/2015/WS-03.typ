@@ -233,7 +233,7 @@
       [171], [#name("GUI Lin")], [#age(22)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2334*], [#delta(64)],
       [172], [#name("KUZMINA Elena")], [#age(26)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2331*], [#delta(-14)],
       [173], [#name("李时温")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2329*], [#delta(-45)],
-      [174], [#name("玛利亚 肖")], [#age(21)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2325*], [#delta(-45)],
+      [174], [#name("肖瑶茜")], [#age(21)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2325*], [#delta(-45)],
       [175], [#name("LAY Jian Fang")], [#age(42)], [#assoc("AUS")], [#right], [#penhold], [#attack], [*2325*], [#delta(-8)],
     )
   )

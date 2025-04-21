@@ -154,7 +154,7 @@
       [110], [#name("CHENG Hsien-Tzu")], [#age(26)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2495*], [#delta(2)],
       [111], [#name("HUANG Fanzhen")], [#age(19)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2494*], [#delta(-1)],
       [112], [#name("TAILAKOVA Mariia")], [#age(18)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2493*], [#delta(-1)],
-      [113], [#name("玛利亚 肖")], [#age(25)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2493*], [#delta(0)],
+      [113], [#name("肖瑶茜")], [#age(25)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2493*], [#delta(0)],
       [114], [#name("刘佳")], [#age(37)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2484*], [#delta(2)],
       [115], [#name("苏萨西尼 萨维塔布特")], [#age(25)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2484*], [#delta(2)],
       [116], [#name("MATSUDAIRA Shiho")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2482*], [#delta(2)],

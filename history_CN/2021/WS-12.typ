@@ -130,7 +130,7 @@
       [95], [#name("CIOBANU Irina")], [#age(26)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2434*], [#delta(-4)],
       [96], [#name("VORONINA Vlada")], [#age(17)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2429*], [#delta(6)],
       [97], [#name("张墨")], [#age(32)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2424*], [#delta(-10)],
-      [98], [#name("玛利亚 肖")], [#age(27)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2422*], [#delta(-40)],
+      [98], [#name("肖瑶茜")], [#age(27)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2422*], [#delta(-40)],
       [99], [#name("李昱谆")], [#age(24)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2420*], [#delta(-2)],
       [100], [#name("MALOBABIC Ivana")], [#age(41)], [#assoc("CRO")], [#right], [#shakehand], [#defense], [*2420*], [#delta(13)],
     )

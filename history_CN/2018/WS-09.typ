@@ -108,7 +108,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [76], [#name("玛利亚 肖")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2581*], [#delta(-10)],
+      [76], [#name("肖瑶茜")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2581*], [#delta(-10)],
       [77], [#name("妮娜 米特兰姆")], [#age(22)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2580*], [#delta(33)],
       [78], [#name("SOO Wai Yam")], [#age(20)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2574*], [#delta(-3)],
       [79], [#name("SOMA Yumeno")], [#age(16)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2568*], [#delta(19)],

@@ -78,7 +78,7 @@
       [52], [#name("帕特里克 弗朗西斯卡")], [#age(24)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2636*], [#delta(13)],
       [53], [#name("斯特凡 菲格尔")], [#age(28)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2636*], [#delta(-4)],
       [54], [#name("博扬 托基奇")], [#age(35)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2634*], [#delta(-9)],
-      [55], [#name("OLAH Benedek")], [#age(25)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2631*], [#delta(24)],
+      [55], [#name("贝内德克 奥拉")], [#age(25)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2631*], [#delta(24)],
       [56], [#name("高宁")], [#age(34)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2630*], [#delta(-5)],
       [57], [#name("汪洋")], [#age(22)], [#assoc("SVK")], [#right], [#shakehand], [#defense], [*2626*], [#delta(-3)],
       [58], [#name("王臻")], [#age(31)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2624*], [#delta(-2)],

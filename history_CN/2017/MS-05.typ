@@ -222,7 +222,7 @@
       [160], [#name("KIM Donghyun")], [#age(23)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2486*], [#delta(3)],
       [161], [#name("HACHARD Antoine")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2484*], [#delta(-32)],
       [162], [#name("STOYANOV Niagol")], [#age(30)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2484*], [#delta(58)],
-      [163], [#name("OLAH Benedek")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2479*], [#delta(-46)],
+      [163], [#name("贝内德克 奥拉")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2479*], [#delta(-46)],
       [164], [#name("SALEH Ahmed")], [#age(38)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2478*], [#delta(-5)],
       [165], [#name("FLORAS Robert")], [#age(25)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2477*], [#delta(31)],
       [166], [#name("安宰贤")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2476*], [#delta(2)],

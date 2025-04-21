@@ -262,7 +262,7 @@
       [191], [#name("GHOSH Soumyajit")], [#age(24)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2437*], [#delta(-5)],
       [192], [#name("REED Daniel")], [#age(28)], [#assoc("ENG")], [?], [?], [?], [*2437*], [#delta(-5)],
       [193], [#name("SIRUCEK Pavel")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2435*], [#delta(-5)],
-      [194], [#name("OLAH Benedek")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2431*], [#delta(-37)],
+      [194], [#name("贝内德克 奥拉")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2431*], [#delta(-37)],
       [195], [#name("KOJIC Frane")], [#age(25)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2431*], [#delta(-5)],
       [196], [#name("GAUZY Paul")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2430*], [#delta(-3)],
       [197], [#name("PAIKOV Mikhail")], [#age(28)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2429*], [#delta(-3)],

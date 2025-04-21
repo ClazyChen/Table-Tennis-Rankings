@@ -129,7 +129,7 @@
       [94], [#name("高桥 布鲁娜")], [#age(21)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2456*], [#delta(0)],
       [95], [#name("CIOBANU Irina")], [#age(26)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2454*], [#delta(0)],
       [96], [#name("乔治娜 波塔")], [#age(36)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2453*], [#delta(0)],
-      [97], [#name("玛利亚 肖")], [#age(27)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2453*], [#delta(0)],
+      [97], [#name("肖瑶茜")], [#age(27)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2453*], [#delta(0)],
       [98], [#name("DE NUTTE Sarah")], [#age(29)], [#assoc("LUX")], [#right], [#shakehand], [#attack], [*2451*], [#delta(0)],
       [99], [#name("奥拉万 帕拉南")], [#age(24)], [#assoc("THA")], [#left], [#shakehand], [#attack], [*2447*], [#delta(0)],
       [100], [#name("斯丽贾 阿库拉")], [#age(23)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2439*], [#delta(0)],

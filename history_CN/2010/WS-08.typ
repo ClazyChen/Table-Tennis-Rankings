@@ -223,7 +223,7 @@
       [161], [#name("伯纳黛特 斯佐科斯")], [#age(15)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2170*], [#delta(17)],
       [162], [#name("SMISTIKOVA Martina")], [#age(24)], [#assoc("CZE")], [?], [?], [?], [*2166*], [#delta(-4)],
       [163], [#name("PROKHOROVA Yulia")], [#age(23)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2164*], [#delta(37)],
-      [164], [#name("SUN Yang")], [#age(27)], [#assoc("NZL")], [?], [?], [?], [*2163*], [#delta(-5)],
+      [164], [#name("孙杨")], [#age(27)], [#assoc("NZL")], [?], [?], [?], [*2163*], [#delta(-5)],
       [165], [#name("PASTOR Agata")], [#age(24)], [#assoc("POL")], [?], [?], [?], [*2159*], [#delta(-4)],
       [166], [#name("FUJII Yuko")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2154*], [#delta(-1)],
       [167], [#name("KASABOVA Asya")], [#age(34)], [#assoc("BUL")], [?], [?], [?], [*2152*], [#delta(0)],

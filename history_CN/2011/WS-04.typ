@@ -244,7 +244,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [176], [#name("玛利亚 肖")], [#age(17)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2179*], [#delta(25)],
+      [176], [#name("肖瑶茜")], [#age(17)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2179*], [#delta(25)],
       [177], [#name("POHAR Martina")], [#age(30)], [#assoc("SLO")], [?], [?], [?], [*2178*], [#delta(20)],
       [178], [#name("KOLTSOVA Anastasia")], [#age(24)], [#assoc("RUS")], [?], [?], [?], [*2178*], [#delta(-30)],
       [179], [#name("GUAN Mengyuan")], [#age(19)], [#assoc("HKG")], [?], [?], [?], [*2177*], [#delta(66)],

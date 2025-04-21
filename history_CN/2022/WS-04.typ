@@ -187,7 +187,7 @@
       [134], [#name("HUANG Yu-Jie")], [#age(19)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2345*], [NEW],
       [135], [#name("KHETKHUAN Tamolwan")], [#age(25)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2340*], [#delta(42)],
       [136], [#name("CHAU Wing Sze")], [#age(20)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2339*], [#delta(0)],
-      [137], [#name("玛利亚 肖")], [#age(28)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2337*], [#delta(-38)],
+      [137], [#name("肖瑶茜")], [#age(28)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2337*], [#delta(-38)],
       [138], [#name("LOEUILLETTE Stephanie")], [#age(30)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2334*], [#delta(1)],
       [139], [#name("ZARIF Audrey")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2332*], [#delta(-9)],
       [140], [#name("CHASSELIN Pauline")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2331*], [#delta(-14)],

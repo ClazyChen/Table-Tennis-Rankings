@@ -154,7 +154,7 @@
       [110], [#name("田中佑汰")], [#age(18)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2566*], [#delta(-25)],
       [111], [#name("乔纳森 格罗斯")], [#age(26)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2560*], [#delta(-4)],
       [112], [#name("朴申赫")], [#age(25)], [#assoc("PRK")], [#left], [#penhold], [#attack], [*2559*], [#delta(-4)],
-      [113], [#name("OLAH Benedek")], [#age(27)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2559*], [#delta(55)],
+      [113], [#name("贝内德克 奥拉")], [#age(27)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2559*], [#delta(55)],
       [114], [#name("KHANIN Aleksandr")], [#age(20)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2556*], [#delta(168)],
       [115], [#name("帕纳吉奥迪斯 吉奥尼斯")], [#age(38)], [#assoc("GRE")], [#right], [#shakehand], [#defense], [*2555*], [#delta(-3)],
       [116], [#name("MAJOROS Bence")], [#age(21)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2554*], [#delta(-43)],

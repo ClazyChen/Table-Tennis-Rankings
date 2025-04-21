@@ -177,7 +177,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [126], [#name("NING Jing")], [#age(17)], [#assoc("AZE")], [?], [?], [?], [*2432*], [#delta(74)],
-      [127], [#name("玛利亚 肖")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2432*], [#delta(0)],
+      [127], [#name("肖瑶茜")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2432*], [#delta(0)],
       [128], [#name("YOO Eunchong")], [#age(24)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2429*], [#delta(1)],
       [129], [#name("JI Eunchae")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2427*], [#delta(2)],
       [130], [#name("LAM Yee Lok")], [#age(21)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2427*], [#delta(2)],

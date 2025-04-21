@@ -225,7 +225,7 @@
       [163], [#name("JEGER Mateja")], [#age(22)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2402*], [#delta(15)],
       [164], [#name("GALIC Alex")], [#age(23)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2402*], [#delta(66)],
       [165], [#name("AVAMERI Airi")], [#age(19)], [#assoc("EST")], [#right], [#shakehand], [#attack], [*2400*], [#delta(22)],
-      [166], [#name("玛利亚 肖")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2400*], [#delta(-122)],
+      [166], [#name("肖瑶茜")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2400*], [#delta(-122)],
       [167], [#name("JONG Un Ju")], [#age(22)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2400*], [#delta(-5)],
       [168], [#name("NAGAO Takako")], [#age(22)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2399*], [#delta(-5)],
       [169], [#name("LIN Chia-Hsuan")], [#age(20)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2398*], [#delta(-25)],

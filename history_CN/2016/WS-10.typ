@@ -131,7 +131,7 @@
       [96], [#name("MAEDA Miyu")], [#age(20)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2487*], [#delta(-21)],
       [97], [#name("孙颖莎")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2485*], [#delta(69)],
       [98], [#name("YOON Hyobin")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2485*], [#delta(23)],
-      [99], [#name("玛利亚 肖")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2485*], [#delta(-12)],
+      [99], [#name("肖瑶茜")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2485*], [#delta(-12)],
       [100], [#name("STRBIKOVA Renata")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2477*], [#delta(-3)],
     )
   )

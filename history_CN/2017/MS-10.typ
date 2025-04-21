@@ -199,7 +199,7 @@
       [146], [#name("SAKAI Asuka")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2498*], [#delta(-4)],
       [147], [#name("SZUDI Adam")], [#age(21)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2498*], [#delta(77)],
       [148], [#name("帕特里克 鲍姆")], [#age(30)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2497*], [#delta(105)],
-      [149], [#name("OLAH Benedek")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2496*], [#delta(42)],
+      [149], [#name("贝内德克 奥拉")], [#age(26)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2496*], [#delta(42)],
       [150], [#name("TSUBOI Gustavo")], [#age(32)], [#assoc("BRA")], [#left], [#shakehand], [#attack], [*2496*], [#delta(13)],
     )
   )

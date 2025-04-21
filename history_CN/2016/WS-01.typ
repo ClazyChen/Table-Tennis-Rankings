@@ -119,7 +119,7 @@
       [84], [#name("李恩惠")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2503*], [#delta(1)],
       [85], [#name("伯纳黛特 斯佐科斯")], [#age(21)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2498*], [#delta(-28)],
       [86], [#name("BALAZOVA Barbora")], [#age(24)], [#assoc("SVK")], [#left], [#shakehand], [#attack], [*2495*], [#delta(0)],
-      [87], [#name("玛利亚 肖")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2494*], [#delta(0)],
+      [87], [#name("肖瑶茜")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2494*], [#delta(0)],
       [88], [#name("LIU Hsing-Yin")], [#age(29)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2493*], [#delta(0)],
       [89], [#name("ZHOU Yihan")], [#age(22)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2493*], [#delta(-10)],
       [90], [#name("RI Mi Gyong")], [#age(26)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2492*], [#delta(-1)],

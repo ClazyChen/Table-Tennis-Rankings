@@ -266,7 +266,7 @@
       [195], [#name("LEE I-Chen")], [#age(22)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2017*], [#delta(17)],
       [196], [#name("SILVA Ligia")], [#age(28)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2016*], [#delta(-2)],
       [197], [#name("KOZLOVSKAIAI Anna")], [#age(23)], [#assoc("RUS")], [?], [?], [?], [*2016*], [#delta(-2)],
-      [198], [#name("SUN Yang")], [#age(26)], [#assoc("NZL")], [?], [?], [?], [*2015*], [#delta(-2)],
+      [198], [#name("孙杨")], [#age(26)], [#assoc("NZL")], [?], [?], [?], [*2015*], [#delta(-2)],
       [199], [#name("SMISTIKOVA Martina")], [#age(23)], [#assoc("CZE")], [?], [?], [?], [*2014*], [#delta(-2)],
       [200], [#name("OSHONAIKE Olufunke")], [#age(34)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2013*], [#delta(-2)],
     )

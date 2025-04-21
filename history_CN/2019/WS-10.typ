@@ -189,7 +189,7 @@
       [136], [#name("KOMWONG Nanthana")], [#age(39)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2429*], [#delta(13)],
       [137], [#name("HO Tin-Tin")], [#age(21)], [#assoc("GBR")], [#right], [#penhold], [#attack], [*2423*], [#delta(87)],
       [138], [#name("ZHANG Binyue")], [#age(19)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2420*], [#delta(0)],
-      [139], [#name("玛利亚 肖")], [#age(25)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2420*], [#delta(20)],
+      [139], [#name("肖瑶茜")], [#age(25)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2420*], [#delta(20)],
       [140], [#name("李昱谆")], [#age(22)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2417*], [#delta(-1)],
       [141], [#name("ZAHARIA Elena")], [#age(15)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2415*], [#delta(43)],
       [142], [#name("HUANG Yu-Wen")], [#age(23)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2411*], [#delta(4)],

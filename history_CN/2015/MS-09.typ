@@ -144,7 +144,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [101], [#name("LIVENTSOV Alexey")], [#age(34)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2534*], [#delta(9)],
       [102], [#name("CHIANG Hung-Chieh")], [#age(26)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2533*], [#delta(30)],
-      [103], [#name("OLAH Benedek")], [#age(24)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2533*], [#delta(48)],
+      [103], [#name("贝内德克 奥拉")], [#age(24)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2533*], [#delta(48)],
       [104], [#name("BOBOCICA Mihai")], [#age(29)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2532*], [#delta(-4)],
       [105], [#name("HO Kwan Kit")], [#age(18)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2532*], [#delta(-35)],
       [106], [#name("及川瑞基")], [#age(18)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2531*], [#delta(-9)],

@@ -143,7 +143,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [101], [#name("SAKAI Asuka")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2573*], [#delta(1)],
-      [102], [#name("OLAH Benedek")], [#age(28)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2572*], [#delta(7)],
+      [102], [#name("贝内德克 奥拉")], [#age(28)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2572*], [#delta(7)],
       [103], [#name("MACHI Asuka")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2571*], [#delta(0)],
       [104], [#name("田中佑汰")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2569*], [#delta(-12)],
       [105], [#name("JANCARIK Lubomir")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2569*], [#delta(-1)],

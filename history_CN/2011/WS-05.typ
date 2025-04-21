@@ -261,7 +261,7 @@
       [190], [#name("GUAN Mengyuan")], [#age(19)], [#assoc("HKG")], [?], [?], [?], [*2158*], [#delta(-11)],
       [191], [#name("HWANG Jina")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2158*], [#delta(-6)],
       [192], [#name("MUANGSUK Anisara")], [#age(35)], [#assoc("THA")], [?], [?], [?], [*2157*], [#delta(-6)],
-      [193], [#name("玛利亚 肖")], [#age(17)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2154*], [#delta(-17)],
+      [193], [#name("肖瑶茜")], [#age(17)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2154*], [#delta(-17)],
       [194], [#name("FUJII Yuko")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2154*], [#delta(-7)],
       [195], [#name("PENKAVOVA Katerina")], [#age(24)], [#assoc("CZE")], [#left], [#shakehand], [#attack], [*2153*], [#delta(-7)],
       [196], [#name("EDEM Offiong")], [#age(25)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2152*], [#delta(-6)],

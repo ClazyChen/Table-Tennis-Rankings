@@ -154,7 +154,7 @@
       [110], [#name("CHA Hyo Sim")], [#age(22)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2462*], [#delta(-8)],
       [111], [#name("KUMAHARA Luca")], [#age(21)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2461*], [#delta(-7)],
       [112], [#name("MA Wenting")], [#age(26)], [#assoc("NOR")], [#right], [#shakehand], [#attack], [*2461*], [#delta(31)],
-      [113], [#name("玛利亚 肖")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2459*], [#delta(-32)],
+      [113], [#name("肖瑶茜")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2459*], [#delta(-32)],
       [114], [#name("STRBIKOVA Renata")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2459*], [#delta(-3)],
       [115], [#name("PROKHOROVA Yulia")], [#age(29)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2456*], [#delta(-8)],
       [116], [#name("MAK Tze Wing")], [#age(18)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2454*], [#delta(86)],

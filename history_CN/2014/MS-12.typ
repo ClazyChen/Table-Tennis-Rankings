@@ -213,7 +213,7 @@
       [151], [#name("德米特里 佩罗普科夫")], [#age(34)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2448*], [#delta(1)],
       [152], [#name("LIVENTSOV Alexey")], [#age(33)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2447*], [#delta(-21)],
       [153], [#name("吴尚垠")], [#age(37)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2446*], [#delta(0)],
-      [154], [#name("OLAH Benedek")], [#age(23)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2446*], [#delta(-26)],
+      [154], [#name("贝内德克 奥拉")], [#age(23)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2446*], [#delta(-26)],
       [155], [#name("SAKAI Asuka")], [#age(18)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2446*], [#delta(3)],
       [156], [#name("HIELSCHER Lars")], [#age(35)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2443*], [#delta(-1)],
       [157], [#name("廖振珽")], [#age(18)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2441*], [#delta(-35)],
