@@ -319,7 +319,7 @@ WANG Eugene, 王臻
 PUCAR Tomislav, 托米斯拉夫 普卡
 KAUFMANN Annett, 安妮特 考夫曼
 YOKOI Sakura, 横井咲樱
-BERGSTROM Linda, 琳达 伯格斯特罗姆
+BERGSTROM Linda, 琳达 伯格斯特隆
 EERLAND Britt, 布里特 伊尔兰德
 PARANANG Orawan, 奥拉万 帕拉南
 KORBEL Petr, 彼得 科贝尔
@@ -379,3 +379,23 @@ YAN Sheng, 严升
 CHANG Yu-An, 张宇安
 SUN Zheng, 孙正
 LIU Yebo, 刘夜泊
+WANG Tianyi, 王添艺
+ZHU Qihui, 祝启慧
+OJIO Yuna, 小盐悠菜
+WAN Yuan, 万远
+HU Yi, 胡一
+YAO Ruixuan, 姚睿轩
+MENDE Rin, 面手凛
+AKAE Kaho, 赤江夏星
+KUO Guan-Hong, 郭冠宏
+LI Hechen, 李和宸
+JARVIS Tom, 汤姆 贾维斯
+ROBLES Alvaro, 阿尔瓦罗 罗布勒斯
+FARAJI Benyamin, 本雅明 法拉吉
+BAE Hwan, 裴焕
+IIZUKA Leonardo, 莱奥纳多 饭冢
+MATSUSHIMA Miku, 松岛美空
+RAKOVAC Lea, 莱娅 拉科瓦奇
+MATELOVA Hana, 汉娜 马特洛娃
+YEH Yi-Tian, 叶伊恬
+PARK Gahyeon, 朴佳贤

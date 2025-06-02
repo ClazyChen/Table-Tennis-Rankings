@@ -94,7 +94,7 @@
       [68], [#name("詹斯 伦德奎斯特")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2371*], [#delta(-32)],
       [69], [#name("松下浩二")], [#age(38)], [#assoc("JPN")], [#right], [?], [#defense], [*2370*], [#delta(-20)],
       [70], [#name("SEREDA Peter")], [#age(21)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2363*], [#delta(18)],
-      [71], [#name("GERELL Par")], [#age(23)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2362*], [#delta(8)],
+      [71], [#name("GERELL Par")], [#age(23)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2363*], [#delta(8)],
       [72], [#name("亚历山大 卡拉卡谢维奇")], [#age(30)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2334*], [#delta(-2)],
       [73], [#name("阿列克谢 斯米尔诺夫")], [#age(28)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2325*], [#delta(-7)],
       [74], [#name("梁柱恩")], [#age(26)], [#assoc("HKG")], [#right], [#penhold], [#attack], [*2325*], [#delta(-17)],
