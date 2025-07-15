@@ -77,7 +77,7 @@
       [51], [#name("阿德里安娜 迪亚兹")], [#age(21)], [#assoc("PUR")], [#right], [#shakehand], [#attack], [*2605*], [#delta(0)],
       [52], [#name("袁嘉楠")], [#age(36)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2598*], [#delta(0)],
       [53], [#name("妮娜 米特兰姆")], [#age(25)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2595*], [#delta(0)],
-      [54], [#name("琳达 伯格斯特罗姆")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2595*], [#delta(0)],
+      [54], [#name("琳达 伯格斯特隆")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2595*], [#delta(0)],
       [55], [#name("SOO Wai Yam")], [#age(23)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2595*], [#delta(0)],
       [56], [#name("苏萨西尼 萨维塔布特")], [#age(27)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2590*], [#delta(0)],
       [57], [#name("布里特 伊尔兰德")], [#age(27)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2584*], [#delta(0)],
@@ -131,7 +131,7 @@
       [96], [#name("奥拉万 帕拉南")], [#age(24)], [#assoc("THA")], [#left], [#shakehand], [#attack], [*2448*], [#delta(-1)],
       [97], [#name("DODEAN Daniela")], [#age(33)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2446*], [#delta(-1)],
       [98], [#name("BILENKO Tetyana")], [#age(38)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2443*], [#delta(-1)],
-      [99], [#name("MATELOVA Hana")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2442*], [#delta(-1)],
+      [99], [#name("汉娜 马特洛娃")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2442*], [#delta(-1)],
       [100], [#name("斯丽贾 阿库拉")], [#age(23)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2440*], [#delta(-1)],
     )
   )
@@ -192,8 +192,8 @@
       [139], [#name("LI Yuqi")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2346*], [#delta(0)],
       [140], [#name("LIU Yuan")], [#age(36)], [#assoc("AUT")], [#right], [#penhold], [#attack], [*2346*], [#delta(0)],
       [141], [#name("MISCHEK Karoline")], [#age(23)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2346*], [#delta(0)],
-      [142], [#name("LEE Daeun")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2343*], [#delta(0)],
-      [143], [#name("HURSEY Anna")], [#age(15)], [#assoc("WAL")], [#right], [#shakehand], [#attack], [*2342*], [#delta(-15)],
+      [142], [#name("李多恩")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2343*], [#delta(0)],
+      [143], [#name("安娜 赫西")], [#age(15)], [#assoc("WAL")], [#right], [#shakehand], [#attack], [*2342*], [#delta(-15)],
       [144], [#name("VISHNIAKOVA Olga")], [#age(20)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2341*], [#delta(-1)],
       [145], [#name("ALTINKAYA Sibel")], [#age(28)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2340*], [#delta(0)],
       [146], [#name("CHAU Wing Sze")], [#age(19)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2338*], [#delta(0)],

@@ -111,7 +111,7 @@
       [76], [#name("SO Eka")], [#age(22)], [#assoc("JPN")], [#right], [#penhold], [#attack], [*2557*], [#delta(-5)],
       [77], [#name("苏萨西尼 萨维塔布特")], [#age(23)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2553*], [#delta(-5)],
       [78], [#name("陈思羽")], [#age(24)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2550*], [#delta(-8)],
-      [79], [#name("MATELOVA Hana")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2544*], [#delta(49)],
+      [79], [#name("汉娜 马特洛娃")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2544*], [#delta(49)],
       [80], [#name("李皓晴")], [#age(25)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2544*], [#delta(-31)],
       [81], [#name("KOMWONG Nanthana")], [#age(37)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2543*], [#delta(-2)],
       [82], [#name("LIU Hsing-Yin")], [#age(30)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2541*], [#delta(17)],

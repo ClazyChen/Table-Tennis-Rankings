@@ -77,7 +77,7 @@
       [51], [#name("KIM Junghoon")], [#age(28)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2539*], [#delta(-4)],
       [52], [#name("KUZMIN Fedor")], [#age(27)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2536*], [#delta(29)],
       [53], [#name("金赫峰")], [#age(25)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2534*], [#delta(-4)],
-      [54], [#name("HABESOHN Daniel")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2526*], [#delta(5)],
+      [54], [#name("丹尼尔 哈贝松")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2526*], [#delta(5)],
       [55], [#name("江天一")], [#age(22)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2525*], [#delta(-14)],
       [56], [#name("MATSUDAIRA Kenji")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2523*], [#delta(-5)],
       [57], [#name("金珉锡")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2523*], [#delta(-1)],

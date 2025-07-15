@@ -194,7 +194,7 @@
       [141], [#name("CIHAK Marek")], [#age(33)], [#assoc("CZE")], [?], [?], [?], [*2233*], [#delta(-1)],
       [142], [#name("DEMETER Lehel")], [#age(29)], [#assoc("HUN")], [?], [?], [?], [*2229*], [#delta(-1)],
       [143], [#name("TSUBOGUCHI Michikazu")], [#age(21)], [#assoc("JPN")], [?], [?], [?], [*2225*], [#delta(2)],
-      [144], [#name("HABESOHN Daniel")], [#age(21)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2223*], [#delta(2)],
+      [144], [#name("丹尼尔 哈贝松")], [#age(21)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2223*], [#delta(2)],
       [145], [#name("LAKEEV Vasily")], [#age(23)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2222*], [#delta(2)],
       [146], [#name("KOSOWSKI Jakub")], [#age(25)], [#assoc("POL")], [?], [?], [?], [*2217*], [#delta(2)],
       [147], [#name("PETER-PAUL Pradeeban")], [#age(30)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2217*], [#delta(2)],

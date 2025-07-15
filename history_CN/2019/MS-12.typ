@@ -76,7 +76,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [51], [#name("陈建安")], [#age(28)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2685*], [#delta(-5)],
       [52], [#name("李尚洙")], [#age(29)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2679*], [#delta(-14)],
-      [53], [#name("WALTHER Ricardo")], [#age(28)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2679*], [#delta(-5)],
+      [53], [#name("里卡多 瓦尔特")], [#age(28)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2679*], [#delta(-5)],
       [54], [#name("森园政崇")], [#age(24)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2675*], [#delta(-23)],
       [55], [#name("徐海东")], [#age(19)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2671*], [#delta(-22)],
       [56], [#name("向鹏")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2670*], [#delta(-14)],
@@ -132,7 +132,7 @@
       [97], [#name("吉田雅己")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2569*], [#delta(-11)],
       [98], [#name("蒂亚戈 阿波罗尼亚")], [#age(33)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2569*], [#delta(7)],
       [99], [#name("易卜拉欣 迪阿夫")], [#age(27)], [#assoc("SEN")], [#right], [#shakehand], [#attack], [*2567*], [#delta(106)],
-      [100], [#name("CASSIN Alexandre")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2561*], [#delta(21)],
+      [100], [#name("亚历山大 卡辛")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2561*], [#delta(21)],
     )
   )
 #pagebreak()
@@ -200,7 +200,7 @@
       [147], [#name("GHOSH Soumyajit")], [#age(26)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2492*], [#delta(10)],
       [148], [#name("BERTRAND Irvin")], [#age(19)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2491*], [#delta(-30)],
       [149], [#name("HO Kwan Kit")], [#age(22)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2490*], [#delta(-19)],
-      [150], [#name("HABESOHN Daniel")], [#age(33)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2489*], [#delta(-61)],
+      [150], [#name("丹尼尔 哈贝松")], [#age(33)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2489*], [#delta(-61)],
     )
   )
 #pagebreak()

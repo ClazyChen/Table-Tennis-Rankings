@@ -233,7 +233,7 @@
       [171], [#name("ZHANG Sofia-Xuan")], [#age(19)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2391*], [#delta(-5)],
       [172], [#name("RI Hyon Sim")], [#age(21)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2390*], [#delta(-5)],
       [173], [#name("SUGASAWA Yukari")], [#age(15)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2390*], [#delta(17)],
-      [174], [#name("MATELOVA Hana")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2389*], [#delta(-6)],
+      [174], [#name("汉娜 马特洛娃")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2389*], [#delta(-6)],
       [175], [#name("BILENKO Tetyana")], [#age(35)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2388*], [#delta(-6)],
     )
   )
@@ -252,7 +252,7 @@
       [181], [#name("KULIKOVA Olga")], [#age(25)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2381*], [#delta(95)],
       [182], [#name("GRUNDISCH Carole")], [#age(32)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2381*], [#delta(-8)],
       [183], [#name("MATSUDAIRA Shiho")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2380*], [#delta(-7)],
-      [184], [#name("琳达 伯格斯特罗姆")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2379*], [#delta(11)],
+      [184], [#name("琳达 伯格斯特隆")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2379*], [#delta(11)],
       [185], [#name("KIM Sol Song")], [#age(24)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2378*], [#delta(-8)],
       [186], [#name("LIU Yu-Hsin")], [#age(25)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2377*], [#delta(-6)],
       [187], [#name("CHEN Ting-Ting")], [#age(18)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2376*], [#delta(-6)],

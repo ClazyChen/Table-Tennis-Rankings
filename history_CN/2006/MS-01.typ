@@ -195,7 +195,7 @@
       [142], [#name("KIM Junghoon")], [#age(24)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2152*], [#delta(1)],
       [143], [#name("CIOTI Constantin")], [#age(23)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2151*], [#delta(1)],
       [144], [#name("SAKAMOTO Ryusuke")], [#age(22)], [#assoc("JPN")], [?], [?], [?], [*2149*], [#delta(1)],
-      [145], [#name("HABESOHN Daniel")], [#age(20)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2145*], [#delta(1)],
+      [145], [#name("丹尼尔 哈贝松")], [#age(20)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2145*], [#delta(1)],
       [146], [#name("TAKAKIWA Kenichi")], [#age(22)], [#assoc("JPN")], [?], [?], [?], [*2142*], [#delta(1)],
       [147], [#name("ZHANG Wilson")], [#age(27)], [#assoc("CAN")], [?], [?], [?], [*2141*], [#delta(1)],
       [148], [#name("SANGUANSIN Phakpoom")], [#age(23)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2140*], [#delta(1)],

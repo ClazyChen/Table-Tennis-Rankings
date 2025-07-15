@@ -215,7 +215,7 @@
       [153], [#name("KOSOWSKI Jakub")], [#age(31)], [#assoc("POL")], [?], [?], [?], [*2419*], [#delta(-4)],
       [154], [#name("LORENTZ Romain")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2419*], [#delta(-4)],
       [155], [#name("PAPAGEORGIOU Konstantinos")], [#age(34)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2417*], [#delta(-3)],
-      [156], [#name("HABESOHN Daniel")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2416*], [#delta(-3)],
+      [156], [#name("丹尼尔 哈贝松")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2416*], [#delta(-3)],
       [157], [#name("MIUCHI Kentaro")], [#age(24)], [#assoc("JPN")], [?], [?], [?], [*2411*], [#delta(-1)],
       [158], [#name("FEJER-KONNERTH Zoltan")], [#age(35)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2410*], [#delta(-1)],
       [159], [#name("SALEH Ahmed")], [#age(34)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2409*], [#delta(-1)],

@@ -114,7 +114,7 @@
       [79], [#name("VACENOVSKA Iveta")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2524*], [#delta(-3)],
       [80], [#name("PROKHOROVA Yulia")], [#age(29)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2523*], [#delta(8)],
       [81], [#name("阿德里安娜 迪亚兹")], [#age(16)], [#assoc("PUR")], [#right], [#shakehand], [#attack], [*2514*], [#delta(41)],
-      [82], [#name("MATELOVA Hana")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2513*], [#delta(2)],
+      [82], [#name("汉娜 马特洛娃")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2513*], [#delta(2)],
       [83], [#name("李洁")], [#age(32)], [#assoc("NED")], [#right], [#shakehand], [#defense], [*2506*], [#delta(-53)],
       [84], [#name("邵杰妮")], [#age(22)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2505*], [#delta(1)],
       [85], [#name("HUANG Yi-Hua")], [#age(32)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2505*], [#delta(30)],

@@ -64,7 +64,7 @@
       [47], [#name("梁柱恩")], [#age(32)], [#assoc("HKG")], [#right], [#penhold], [#attack], [*2571*], [#delta(32)],
       [48], [#name("诺沙迪 阿拉米扬")], [#age(20)], [#assoc("IRI")], [#left], [#shakehand], [#attack], [*2566*], [#delta(1)],
       [49], [#name("西蒙 高兹")], [#age(17)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2566*], [#delta(101)],
-      [50], [#name("WALTHER Ricardo")], [#age(20)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2563*], [#delta(95)],
+      [50], [#name("里卡多 瓦尔特")], [#age(20)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2563*], [#delta(95)],
     )
   )
 #pagebreak()
@@ -78,7 +78,7 @@
       [52], [#name("马克斯 弗雷塔斯")], [#age(23)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2560*], [#delta(5)],
       [53], [#name("何志文")], [#age(49)], [#assoc("ESP")], [#left], [#penhold], [#attack], [*2556*], [#delta(6)],
       [54], [#name("李廷佑")], [#age(27)], [#assoc("KOR")], [#left], [#penhold], [#attack], [*2556*], [#delta(-2)],
-      [55], [#name("HABESOHN Daniel")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2544*], [#delta(33)],
+      [55], [#name("丹尼尔 哈贝松")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2544*], [#delta(33)],
       [56], [#name("LIVENTSOV Alexey")], [#age(30)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2542*], [#delta(2)],
       [57], [#name("SUCH Bartosz")], [#age(28)], [#assoc("POL")], [?], [?], [?], [*2540*], [#delta(40)],
       [58], [#name("克里斯蒂安 苏斯")], [#age(26)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2538*], [#delta(2)],

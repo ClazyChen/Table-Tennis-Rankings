@@ -64,7 +64,7 @@
       [47], [#name("托米斯拉夫 普卡")], [#age(24)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2687*], [#delta(-6)],
       [48], [#name("陈建安")], [#age(29)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2685*], [#delta(1)],
       [49], [#name("帕纳吉奥迪斯 吉奥尼斯")], [#age(40)], [#assoc("GRE")], [#right], [#shakehand], [#defense], [*2684*], [#delta(7)],
-      [50], [#name("WALTHER Ricardo")], [#age(29)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2679*], [#delta(0)],
+      [50], [#name("里卡多 瓦尔特")], [#age(29)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2679*], [#delta(0)],
     )
   )
 #pagebreak()
@@ -130,7 +130,7 @@
       [95], [#name("奥马尔 阿萨尔")], [#age(29)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2567*], [#delta(0)],
       [96], [#name("罗伯特 加尔多斯")], [#age(41)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2566*], [#delta(6)],
       [97], [#name("ROLLAND Jules")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2564*], [#delta(0)],
-      [98], [#name("HABESOHN Daniel")], [#age(34)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2563*], [#delta(0)],
+      [98], [#name("丹尼尔 哈贝松")], [#age(34)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2563*], [#delta(0)],
       [99], [#name("刘夜泊")], [#age(19)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2562*], [#delta(0)],
       [100], [#name("MAJOROS Bence")], [#age(23)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2561*], [#delta(-10)],
     )
@@ -184,7 +184,7 @@
       [131], [#name("CHEN Diogo")], [#age(24)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2525*], [#delta(3)],
       [132], [#name("塞德里克 纽廷克")], [#age(27)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2524*], [#delta(-7)],
       [133], [#name("阿尔瓦罗 罗布勒斯")], [#age(29)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2524*], [#delta(-16)],
-      [134], [#name("CASSIN Alexandre")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2519*], [#delta(1)],
+      [134], [#name("亚历山大 卡辛")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2519*], [#delta(1)],
       [135], [#name("PLATONOV Pavel")], [#age(37)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2516*], [#delta(1)],
       [136], [#name("SZUDI Adam")], [#age(24)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2515*], [#delta(53)],
       [137], [#name("JOUTI Eric")], [#age(26)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2508*], [#delta(1)],

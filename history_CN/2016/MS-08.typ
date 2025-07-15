@@ -97,7 +97,7 @@
       [71], [#name("及川瑞基")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2600*], [#delta(0)],
       [72], [#name("寇磊")], [#age(29)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2600*], [#delta(0)],
       [73], [#name("克里斯坦 卡尔松")], [#age(25)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2599*], [#delta(0)],
-      [74], [#name("WALTHER Ricardo")], [#age(25)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2598*], [#delta(0)],
+      [74], [#name("里卡多 瓦尔特")], [#age(25)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2598*], [#delta(0)],
       [75], [#name("神巧也")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2597*], [#delta(0)],
     )
   )
@@ -131,7 +131,7 @@
       [96], [#name("KIM Minhyeok")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2565*], [#delta(1)],
       [97], [#name("蒂姆 波尔")], [#age(35)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2563*], [#delta(1)],
       [98], [#name("BROSSIER Benjamin")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2557*], [#delta(1)],
-      [99], [#name("CASSIN Alexandre")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2554*], [#delta(17)],
+      [99], [#name("亚历山大 卡辛")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2554*], [#delta(17)],
       [100], [#name("ANDERSSON Harald")], [#age(25)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2553*], [#delta(0)],
     )
   )
@@ -250,7 +250,7 @@
       [179], [#name("ELBEIALI Mohamed")], [#age(28)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2438*], [#delta(1)],
       [180], [#name("REED Daniel")], [#age(27)], [#assoc("ENG")], [?], [?], [?], [*2437*], [#delta(1)],
       [181], [#name("BOBOCICA Mihai")], [#age(30)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2435*], [#delta(1)],
-      [182], [#name("HABESOHN Daniel")], [#age(30)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2435*], [#delta(1)],
+      [182], [#name("丹尼尔 哈贝松")], [#age(30)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2435*], [#delta(1)],
       [183], [#name("AKERSTROM Fabian")], [#age(28)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2434*], [#delta(1)],
       [184], [#name("SEYFRIED Joe")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2434*], [#delta(-19)],
       [185], [#name("JOUTI Eric")], [#age(22)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2433*], [#delta(0)],

@@ -46,7 +46,7 @@
       [29], [#name("马克斯 弗雷塔斯")], [#age(27)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2694*], [#delta(-11)],
       [30], [#name("郑荣植")], [#age(23)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2687*], [#delta(6)],
       [31], [#name("吉田海伟")], [#age(34)], [#assoc("JPN")], [#right], [#penhold], [#attack], [*2678*], [#delta(1)],
-      [32], [#name("HABESOHN Daniel")], [#age(29)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2678*], [#delta(30)],
+      [32], [#name("丹尼尔 哈贝松")], [#age(29)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2678*], [#delta(30)],
       [33], [#name("GERALDO Joao")], [#age(20)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2670*], [#delta(31)],
       [34], [#name("蒂亚戈 阿波罗尼亚")], [#age(29)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2668*], [#delta(31)],
       [35], [#name("森园政崇")], [#age(20)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2667*], [#delta(3)],
@@ -144,7 +144,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [101], [#name("CHEN Feng")], [#age(21)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2530*], [#delta(122)],
       [102], [#name("KOSOWSKI Jakub")], [#age(33)], [#assoc("POL")], [?], [?], [?], [*2528*], [#delta(0)],
-      [103], [#name("WALTHER Ricardo")], [#age(24)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2524*], [#delta(4)],
+      [103], [#name("里卡多 瓦尔特")], [#age(24)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2524*], [#delta(4)],
       [104], [#name("HACHARD Antoine")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2523*], [#delta(4)],
       [105], [#name("刘丁硕")], [#age(17)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2522*], [#delta(4)],
       [106], [#name("CHIANG Hung-Chieh")], [#age(26)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2519*], [#delta(-25)],
@@ -268,6 +268,6 @@
       [197], [#name("BAGGALEY Andrew")], [#age(32)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2414*], [#delta(-2)],
       [198], [#name("SZOCS Hunor")], [#age(23)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2413*], [#delta(-2)],
       [199], [#name("STOYANOV Niagol")], [#age(28)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2409*], [#delta(14)],
-      [200], [#name("CASSIN Alexandre")], [#age(17)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2409*], [#delta(-3)],
+      [200], [#name("亚历山大 卡辛")], [#age(17)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2409*], [#delta(-3)],
     )
   )

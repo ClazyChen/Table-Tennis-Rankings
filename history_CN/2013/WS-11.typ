@@ -177,7 +177,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [126], [#name("MADARASZ Dora")], [#age(20)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2381*], [#delta(-12)],
-      [127], [#name("MATELOVA Hana")], [#age(23)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2378*], [#delta(-23)],
+      [127], [#name("汉娜 马特洛娃")], [#age(23)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2378*], [#delta(-23)],
       [128], [#name("张墨")], [#age(24)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2377*], [#delta(-3)],
       [129], [#name("SIBLEY Kelly")], [#age(25)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2373*], [#delta(48)],
       [130], [#name("KUZMINA Elena")], [#age(24)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2372*], [#delta(14)],

@@ -190,7 +190,7 @@
       [137], [#name("HAN Jimin")], [#age(21)], [#assoc("KOR")], [?], [?], [?], [*2301*], [#delta(2)],
       [138], [#name("KOSIBA Daniel")], [#age(19)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2299*], [#delta(-3)],
       [139], [#name("ZWICKL Daniel")], [#age(26)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2298*], [#delta(1)],
-      [140], [#name("HABESOHN Daniel")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2296*], [#delta(-17)],
+      [140], [#name("丹尼尔 哈贝松")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2296*], [#delta(-17)],
       [141], [#name("AKERSTROM Fabian")], [#age(22)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2296*], [#delta(0)],
       [142], [#name("MA Liang")], [#age(19)], [#assoc("SGP")], [?], [?], [?], [*2295*], [#delta(14)],
       [143], [#name("KIM Nam Chol")], [#age(22)], [#assoc("PRK")], [?], [?], [?], [*2294*], [#delta(0)],

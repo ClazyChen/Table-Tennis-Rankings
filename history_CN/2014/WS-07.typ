@@ -179,7 +179,7 @@
       [126], [#name("SILVA Yadira")], [#age(29)], [#assoc("MEX")], [#right], [#shakehand], [#attack], [*2388*], [#delta(-3)],
       [127], [#name("LAY Jian Fang")], [#age(41)], [#assoc("AUS")], [#right], [#penhold], [#attack], [*2388*], [#delta(-3)],
       [128], [#name("GRZYBOWSKA-FRANC Katarzyna")], [#age(25)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2387*], [#delta(-3)],
-      [129], [#name("MATELOVA Hana")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2386*], [#delta(-3)],
+      [129], [#name("汉娜 马特洛娃")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2386*], [#delta(-3)],
       [130], [#name("DRINKHALL Joanna")], [#age(27)], [#assoc("ENG")], [#right], [#shakehand], [#defense], [*2383*], [#delta(-2)],
       [131], [#name("MORET Rachel")], [#age(25)], [#assoc("SUI")], [#left], [#shakehand], [#attack], [*2382*], [#delta(-2)],
       [132], [#name("NOSKOVA Yana")], [#age(20)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2382*], [#delta(-2)],

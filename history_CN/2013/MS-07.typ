@@ -183,7 +183,7 @@
       [130], [#name("WU Jiaji")], [#age(18)], [#assoc("DOM")], [#right], [#penhold], [#attack], [*2440*], [#delta(-5)],
       [131], [#name("LEE Chia-Sheng")], [#age(18)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2440*], [#delta(17)],
       [132], [#name("利亚姆 皮切福德")], [#age(20)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2440*], [#delta(-53)],
-      [133], [#name("HABESOHN Daniel")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2440*], [#delta(-5)],
+      [133], [#name("丹尼尔 哈贝松")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2440*], [#delta(-5)],
       [134], [#name("彼得 科贝尔")], [#age(42)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2437*], [#delta(-39)],
       [135], [#name("亚历山大 卡拉卡谢维奇")], [#age(38)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2435*], [#delta(-4)],
       [136], [#name("KASAHARA Hiromitsu")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2434*], [#delta(-7)],

@@ -160,7 +160,7 @@
       [116], [#name("KATO Kyoka")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2488*], [#delta(2)],
       [117], [#name("崔孝珠")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2487*], [#delta(-46)],
       [118], [#name("DODEAN Daniela")], [#age(30)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2486*], [#delta(1)],
-      [119], [#name("MATELOVA Hana")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2486*], [#delta(-14)],
+      [119], [#name("汉娜 马特洛娃")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2486*], [#delta(-14)],
       [120], [#name("ZUO Yue")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2482*], [#delta(0)],
       [121], [#name("NG Wing Nam")], [#age(26)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2479*], [#delta(23)],
       [122], [#name("TODOROVIC Andrea")], [#age(26)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2477*], [#delta(0)],
@@ -232,7 +232,7 @@
       [170], [#name("SHCHERBATYKH Valeria")], [#age(20)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2387*], [#delta(-1)],
       [171], [#name("艾希卡 穆克吉")], [#age(21)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2387*], [#delta(0)],
       [172], [#name("MALOBABIC Ivana")], [#age(38)], [#assoc("CRO")], [#right], [#shakehand], [#defense], [*2386*], [#delta(0)],
-      [173], [#name("琳达 伯格斯特罗姆")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2385*], [#delta(-36)],
+      [173], [#name("琳达 伯格斯特隆")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2385*], [#delta(-36)],
       [174], [#name("BALINT Bernadett")], [#age(22)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2384*], [#delta(-1)],
       [175], [#name("ODOROVA Eva")], [#age(39)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2383*], [#delta(-1)],
     )

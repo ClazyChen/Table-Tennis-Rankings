@@ -184,7 +184,7 @@
       [131], [#name("MATSUDAIRA Kenji")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2284*], [#delta(-9)],
       [132], [#name("KONGSGAARD Christian")], [#age(25)], [#assoc("DEN")], [?], [?], [?], [*2282*], [#delta(82)],
       [133], [#name("SAKAMOTO Ryusuke")], [#age(24)], [#assoc("JPN")], [?], [?], [?], [*2278*], [#delta(-10)],
-      [134], [#name("HABESOHN Daniel")], [#age(22)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2276*], [#delta(25)],
+      [134], [#name("丹尼尔 哈贝松")], [#age(22)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2276*], [#delta(25)],
       [135], [#name("HIELSCHER Lars")], [#age(29)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2273*], [#delta(-10)],
       [136], [#name("AL-HASAN Ibrahem")], [#age(22)], [#assoc("KUW")], [#right], [#shakehand], [#attack], [*2273*], [#delta(161)],
       [137], [#name("GRUJIC Slobodan")], [#age(35)], [#assoc("SRB")], [?], [?], [?], [*2272*], [#delta(-44)],

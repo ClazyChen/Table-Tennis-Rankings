@@ -96,7 +96,7 @@
       [70], [#name("博扬 托基奇")], [#age(30)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2489*], [#delta(-1)],
       [71], [#name("MACHADO Carlos")], [#age(31)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2485*], [#delta(0)],
       [72], [#name("KUZMIN Fedor")], [#age(28)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2483*], [#delta(0)],
-      [73], [#name("HABESOHN Daniel")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2480*], [#delta(0)],
+      [73], [#name("丹尼尔 哈贝松")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2480*], [#delta(0)],
       [74], [#name("金赫峰")], [#age(26)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2479*], [#delta(0)],
       [75], [#name("雅罗斯列夫 扎姆登科")], [#age(23)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2478*], [#delta(1)],
     )

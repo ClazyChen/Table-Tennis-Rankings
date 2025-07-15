@@ -161,7 +161,7 @@
       [117], [#name("LI Qiangbing")], [#age(29)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2384*], [#delta(1)],
       [118], [#name("PRIVALOVA Alexandra")], [#age(27)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2383*], [#delta(1)],
       [119], [#name("SOLJA Amelie")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2382*], [#delta(29)],
-      [120], [#name("MATELOVA Hana")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2378*], [#delta(23)],
+      [120], [#name("汉娜 马特洛娃")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2378*], [#delta(23)],
       [121], [#name("张墨")], [#age(25)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2377*], [#delta(1)],
       [122], [#name("王曼昱")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2377*], [#delta(284)],
       [123], [#name("BEH Lee Wei")], [#age(31)], [#assoc("MAS")], [#right], [#shakehand], [#attack], [*2375*], [#delta(63)],

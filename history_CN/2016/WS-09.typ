@@ -179,7 +179,7 @@
       [126], [#name("MORIZONO Mizuki")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2419*], [#delta(8)],
       [127], [#name("ZHENG Jiaqi")], [#age(28)], [#assoc("USA")], [?], [?], [?], [*2418*], [#delta(-3)],
       [128], [#name("LEE I-Chen")], [#age(29)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2417*], [#delta(7)],
-      [129], [#name("MATELOVA Hana")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2416*], [#delta(-38)],
+      [129], [#name("汉娜 马特洛娃")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2416*], [#delta(-38)],
       [130], [#name("CECHOVA Dana")], [#age(33)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2415*], [#delta(7)],
       [131], [#name("LIN Chia-Chih")], [#age(25)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2411*], [#delta(8)],
       [132], [#name("布里特 伊尔兰德")], [#age(22)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2410*], [#delta(-2)],

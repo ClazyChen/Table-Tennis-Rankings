@@ -216,7 +216,7 @@
       [154], [#name("FEJER-KONNERTH Zoltan")], [#age(30)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2256*], [#delta(-4)],
       [155], [#name("KO Junhyung")], [#age(25)], [#assoc("KOR")], [?], [?], [?], [*2254*], [#delta(-3)],
       [156], [#name("FILIMON Lucian")], [#age(29)], [#assoc("ROU")], [?], [?], [?], [*2252*], [#delta(-1)],
-      [157], [#name("HABESOHN Daniel")], [#age(22)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2251*], [#delta(-21)],
+      [157], [#name("丹尼尔 哈贝松")], [#age(22)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2251*], [#delta(-21)],
       [158], [#name("丁祥恩")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2251*], [#delta(-2)],
       [159], [#name("JOVER Sebastien")], [#age(33)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2248*], [#delta(-2)],
       [160], [#name("OLLIVIER Brice")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2245*], [#delta(-2)],

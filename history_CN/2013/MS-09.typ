@@ -212,7 +212,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [151], [#name("FLORAS Robert")], [#age(21)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2415*], [#delta(3)],
       [152], [#name("KIM Donghyun")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2413*], [#delta(-18)],
-      [153], [#name("HABESOHN Daniel")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2413*], [#delta(-23)],
+      [153], [#name("丹尼尔 哈贝松")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2413*], [#delta(-23)],
       [154], [#name("西蒙 高兹")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2411*], [#delta(-35)],
       [155], [#name("FEJER-KONNERTH Zoltan")], [#age(35)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2410*], [#delta(2)],
       [156], [#name("SAKAI Asuka")], [#age(17)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2409*], [#delta(34)],

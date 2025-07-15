@@ -46,8 +46,8 @@
       [29], [#name("西蒙 高兹")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2654*], [#delta(2)],
       [30], [#name("周恺")], [#age(19)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2649*], [#delta(2)],
       [31], [#name("吉村真晴")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2649*], [#delta(2)],
-      [32], [#name("WALTHER Ricardo")], [#age(24)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2649*], [#delta(2)],
-      [33], [#name("HABESOHN Daniel")], [#age(29)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2649*], [#delta(41)],
+      [32], [#name("里卡多 瓦尔特")], [#age(24)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2649*], [#delta(2)],
+      [33], [#name("丹尼尔 哈贝松")], [#age(29)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2649*], [#delta(41)],
       [34], [#name("松平健太")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2648*], [#delta(1)],
       [35], [#name("李平")], [#age(29)], [#assoc("QAT")], [#right], [#shakehand], [#attack], [*2646*], [NEW],
       [36], [#name("塩野真人")], [#age(29)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2641*], [#delta(0)],
@@ -234,7 +234,7 @@
       [172], [#name("岸川圣也")], [#age(28)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2424*], [#delta(0)],
       [173], [#name("LEGOUT Christophe")], [#age(42)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2424*], [#delta(0)],
       [174], [#name("TAZOE Kenta")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2423*], [#delta(0)],
-      [175], [#name("CASSIN Alexandre")], [#age(17)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2422*], [#delta(0)],
+      [175], [#name("亚历山大 卡辛")], [#age(17)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2422*], [#delta(0)],
     )
   )
 #pagebreak()

@@ -145,7 +145,7 @@
       [101], [#name("平野美宇")], [#age(13)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2407*], [#delta(-10)],
       [102], [#name("李芬")], [#age(37)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2406*], [#delta(1)],
       [103], [#name("妮娜 米特兰姆")], [#age(17)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2406*], [#delta(2)],
-      [104], [#name("MATELOVA Hana")], [#age(23)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2405*], [#delta(0)],
+      [104], [#name("汉娜 马特洛娃")], [#age(23)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2405*], [#delta(0)],
       [105], [#name("伊藤美诚")], [#age(13)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2402*], [#delta(-28)],
       [106], [#name("HUANG Yi-Hua")], [#age(29)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2401*], [#delta(0)],
       [107], [#name("ZHENG Shichang")], [#age(21)], [#assoc("CHN")], [?], [?], [?], [*2400*], [#delta(0)],
@@ -199,7 +199,7 @@
       [146], [#name("MATSUDAIRA Shiho")], [#age(18)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2337*], [#delta(-6)],
       [147], [#name("STEFANSKA Kinga")], [#age(33)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2333*], [#delta(-3)],
       [148], [#name("TIAN Yuan")], [#age(38)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2331*], [#delta(-2)],
-      [149], [#name("RAKOVAC Lea")], [#age(17)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2330*], [#delta(-4)],
+      [149], [#name("莱娅 拉科瓦奇")], [#age(17)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2330*], [#delta(-4)],
       [150], [#name("DOI Minami")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2328*], [#delta(-1)],
     )
   )

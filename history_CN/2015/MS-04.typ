@@ -75,7 +75,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [51], [#name("丁祥恩")], [#age(25)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2617*], [#delta(1)],
-      [52], [#name("WALTHER Ricardo")], [#age(24)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2617*], [#delta(-7)],
+      [52], [#name("里卡多 瓦尔特")], [#age(24)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2617*], [#delta(-7)],
       [53], [#name("BOBOCICA Mihai")], [#age(29)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2617*], [#delta(0)],
       [54], [#name("罗伯特 加尔多斯")], [#age(36)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2616*], [#delta(-32)],
       [55], [#name("帕特里克 弗朗西斯卡")], [#age(23)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2609*], [#delta(31)],
@@ -96,7 +96,7 @@
       [70], [#name("林高远")], [#age(20)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2580*], [#delta(-4)],
       [71], [#name("马蒂亚斯 法尔克")], [#age(24)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2579*], [#delta(75)],
       [72], [#name("OYA Hidetoshi")], [#age(27)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2578*], [#delta(-4)],
-      [73], [#name("HABESOHN Daniel")], [#age(29)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2576*], [#delta(-46)],
+      [73], [#name("丹尼尔 哈贝松")], [#age(29)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2576*], [#delta(-46)],
       [74], [#name("HUANG Sheng-Sheng")], [#age(28)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2574*], [#delta(19)],
       [75], [#name("尚坤")], [#age(25)], [#assoc("CHN")], [?], [?], [?], [*2570*], [#delta(-1)],
     )

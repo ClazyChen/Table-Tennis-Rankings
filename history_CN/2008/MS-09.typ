@@ -262,7 +262,7 @@
       [191], [#name("TOKIYOSHI Yuichi")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2160*], [#delta(6)],
       [192], [#name("BUHIJJI Hamad")], [#age(21)], [#assoc("BRN")], [?], [?], [?], [*2159*], [#delta(6)],
       [193], [#name("雅罗斯列夫 扎姆登科")], [#age(20)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2158*], [#delta(6)],
-      [194], [#name("HABESOHN Daniel")], [#age(22)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2144*], [#delta(7)],
+      [194], [#name("丹尼尔 哈贝松")], [#age(22)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2144*], [#delta(7)],
       [195], [#name("LIU Zhongze")], [#age(20)], [#assoc("SGP")], [?], [?], [?], [*2144*], [#delta(7)],
       [196], [#name("DAVID Petr")], [#age(24)], [#assoc("CZE")], [?], [?], [?], [*2142*], [#delta(7)],
       [197], [#name("阿德里安 马特内")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2142*], [#delta(7)],

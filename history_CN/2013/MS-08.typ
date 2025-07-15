@@ -180,7 +180,7 @@
       [127], [#name("BOBOCICA Mihai")], [#age(27)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2441*], [#delta(2)],
       [128], [#name("WU Jiaji")], [#age(18)], [#assoc("DOM")], [#right], [#penhold], [#attack], [*2440*], [#delta(2)],
       [129], [#name("利亚姆 皮切福德")], [#age(20)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2440*], [#delta(3)],
-      [130], [#name("HABESOHN Daniel")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2440*], [#delta(3)],
+      [130], [#name("丹尼尔 哈贝松")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2440*], [#delta(3)],
       [131], [#name("彼得 科贝尔")], [#age(42)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2437*], [#delta(3)],
       [132], [#name("亚历山大 卡拉卡谢维奇")], [#age(38)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2435*], [#delta(3)],
       [133], [#name("LASHIN Elsayed")], [#age(33)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2432*], [#delta(47)],

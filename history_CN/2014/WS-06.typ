@@ -176,7 +176,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [126], [#name("MATELOVA Hana")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2386*], [#delta(-37)],
+      [126], [#name("汉娜 马特洛娃")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2386*], [#delta(-37)],
       [127], [#name("ZHENG Jiaqi")], [#age(26)], [#assoc("USA")], [?], [?], [?], [*2385*], [#delta(-7)],
       [128], [#name("DRINKHALL Joanna")], [#age(27)], [#assoc("ENG")], [#right], [#shakehand], [#defense], [*2383*], [#delta(-46)],
       [129], [#name("MORET Rachel")], [#age(25)], [#assoc("SUI")], [#left], [#shakehand], [#attack], [*2382*], [#delta(125)],

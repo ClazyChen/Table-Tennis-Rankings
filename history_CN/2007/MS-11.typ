@@ -144,7 +144,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [101], [#name("特林科 基恩")], [#age(36)], [#assoc("NED")], [#left], [#shakehand], [#attack], [*2323*], [#delta(0)],
       [102], [#name("CHTCHETININE Evgueni")], [#age(37)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2321*], [#delta(18)],
-      [103], [#name("HABESOHN Daniel")], [#age(21)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2321*], [#delta(41)],
+      [103], [#name("丹尼尔 哈贝松")], [#age(21)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2321*], [#delta(41)],
       [104], [#name("CHANG Yen-Shu")], [#age(28)], [#assoc("TPE")], [?], [?], [?], [*2320*], [#delta(-1)],
       [105], [#name("BOBOCICA Mihai")], [#age(21)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2319*], [#delta(2)],
       [106], [#name("JEVTOVIC Marko")], [#age(20)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2316*], [#delta(152)],

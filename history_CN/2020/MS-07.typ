@@ -61,7 +61,7 @@
       [44], [#name("雨果 卡尔德拉诺")], [#age(24)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2677*], [#delta(-14)],
       [45], [#name("帕纳吉奥迪斯 吉奥尼斯")], [#age(40)], [#assoc("GRE")], [#right], [#shakehand], [#defense], [*2675*], [#delta(-1)],
       [46], [#name("雅克布 迪亚斯")], [#age(25)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2675*], [#delta(-1)],
-      [47], [#name("CASSIN Alexandre")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2675*], [#delta(-1)],
+      [47], [#name("亚历山大 卡辛")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2675*], [#delta(-1)],
       [48], [#name("GNANASEKARAN Sathiyan")], [#age(27)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2671*], [#delta(-1)],
       [49], [#name("亚历山大 希巴耶夫")], [#age(30)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2670*], [#delta(-1)],
       [50], [#name("克里斯坦 卡尔松")], [#age(29)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2669*], [#delta(-1)],
@@ -97,7 +97,7 @@
       [71], [#name("王臻")], [#age(35)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2617*], [#delta(-1)],
       [72], [#name("特鲁斯 莫雷加德")], [#age(18)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2616*], [#delta(-1)],
       [73], [#name("蒂亚戈 阿波罗尼亚")], [#age(34)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2615*], [#delta(-1)],
-      [74], [#name("WALTHER Ricardo")], [#age(29)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2610*], [#delta(0)],
+      [74], [#name("里卡多 瓦尔特")], [#age(29)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2610*], [#delta(0)],
       [75], [#name("陈建安")], [#age(29)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2610*], [#delta(0)],
     )
   )
@@ -198,7 +198,7 @@
       [145], [#name("曹巍")], [#age(21)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2479*], [#delta(2)],
       [146], [#name("DE NODREST Leo")], [#age(20)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2478*], [#delta(2)],
       [147], [#name("PUTUNTICA Andrei")], [#age(21)], [#assoc("MDA")], [#left], [#shakehand], [#attack], [*2476*], [#delta(2)],
-      [148], [#name("HABESOHN Daniel")], [#age(34)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2475*], [#delta(2)],
+      [148], [#name("丹尼尔 哈贝松")], [#age(34)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2475*], [#delta(2)],
       [149], [#name("PICARD Vincent")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2475*], [#delta(2)],
       [150], [#name("CIFUENTES Horacio")], [#age(22)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2473*], [#delta(2)],
     )

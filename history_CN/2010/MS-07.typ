@@ -249,7 +249,7 @@
       [178], [#name("奥维迪乌 伊奥内斯库")], [#age(21)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2251*], [#delta(61)],
       [179], [#name("SIMONER Christoph")], [#age(27)], [#assoc("AUT")], [?], [?], [?], [*2249*], [#delta(0)],
       [180], [#name("MADRID Marcos")], [#age(24)], [#assoc("MEX")], [#right], [#shakehand], [#attack], [*2247*], [#delta(0)],
-      [181], [#name("HABESOHN Daniel")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2245*], [#delta(0)],
+      [181], [#name("丹尼尔 哈贝松")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2245*], [#delta(0)],
       [182], [#name("CHENG Jingqi")], [#age(16)], [#assoc("CHN")], [?], [?], [?], [*2245*], [#delta(0)],
       [183], [#name("ROGIERS Benjamin")], [#age(21)], [#assoc("BEL")], [?], [?], [?], [*2245*], [#delta(-42)],
       [184], [#name("CIHAK Marek")], [#age(36)], [#assoc("CZE")], [?], [?], [?], [*2244*], [#delta(-1)],

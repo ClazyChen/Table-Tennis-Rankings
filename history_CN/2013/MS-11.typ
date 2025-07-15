@@ -145,7 +145,7 @@
       [101], [#name("寇磊")], [#age(26)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2483*], [#delta(106)],
       [102], [#name("GHOSH Soumyajit")], [#age(20)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2480*], [#delta(0)],
       [103], [#name("MONTEIRO Joao")], [#age(30)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2478*], [#delta(-18)],
-      [104], [#name("HABESOHN Daniel")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2478*], [#delta(49)],
+      [104], [#name("丹尼尔 哈贝松")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2478*], [#delta(49)],
       [105], [#name("DURAN Marc")], [#age(27)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2475*], [#delta(71)],
       [106], [#name("雨果 卡尔德拉诺")], [#age(17)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2475*], [#delta(-2)],
       [107], [#name("VLASOV Grigory")], [#age(29)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2474*], [#delta(-27)],

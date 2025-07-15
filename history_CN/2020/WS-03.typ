@@ -111,7 +111,7 @@
       [76], [#name("乔治娜 波塔")], [#age(35)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2510*], [#delta(0)],
       [77], [#name("奥拉万 帕拉南")], [#age(23)], [#assoc("THA")], [#left], [#shakehand], [#attack], [*2508*], [#delta(-24)],
       [78], [#name("GRZYBOWSKA-FRANC Katarzyna")], [#age(31)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2503*], [#delta(1)],
-      [79], [#name("MATELOVA Hana")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2502*], [#delta(-2)],
+      [79], [#name("汉娜 马特洛娃")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2502*], [#delta(-2)],
       [80], [#name("BAJOR Natalia")], [#age(23)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2501*], [#delta(15)],
       [81], [#name("BALAZOVA Barbora")], [#age(28)], [#assoc("SVK")], [#left], [#shakehand], [#attack], [*2496*], [#delta(-15)],
       [82], [#name("李昱谆")], [#age(23)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2496*], [#delta(19)],
@@ -152,7 +152,7 @@
       [108], [#name("肖瑶茜")], [#age(26)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2421*], [#delta(-27)],
       [109], [#name("斯丽贾 阿库拉")], [#age(22)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2420*], [#delta(11)],
       [110], [#name("DVORAK Galia")], [#age(32)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2420*], [#delta(-7)],
-      [111], [#name("琳达 伯格斯特罗姆")], [#age(25)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2418*], [#delta(-23)],
+      [111], [#name("琳达 伯格斯特隆")], [#age(25)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2418*], [#delta(-23)],
       [112], [#name("LENG Yutong")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2417*], [#delta(1)],
       [113], [#name("VIVARELLI Debora")], [#age(27)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2415*], [#delta(50)],
       [114], [#name("WEGRZYN Anna")], [#age(19)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2415*], [#delta(11)],
@@ -200,7 +200,7 @@
       [147], [#name("LI Yuqi")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2346*], [#delta(7)],
       [148], [#name("MORET Rachel")], [#age(31)], [#assoc("SUI")], [#left], [#shakehand], [#attack], [*2346*], [#delta(22)],
       [149], [#name("KOLISH Anastasia")], [#age(19)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2344*], [#delta(-6)],
-      [150], [#name("LEE Daeun")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2343*], [#delta(9)],
+      [150], [#name("李多恩")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2343*], [#delta(9)],
     )
   )
 #pagebreak()

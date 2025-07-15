@@ -200,7 +200,7 @@
       [147], [#name("FETUKHINA Margarita")], [#age(24)], [#assoc("RUS")], [?], [?], [?], [*2299*], [#delta(6)],
       [148], [#name("NOSKOVA Yana")], [#age(18)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2296*], [#delta(-21)],
       [149], [#name("杜凯琹")], [#age(16)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2295*], [#delta(42)],
-      [150], [#name("RAKOVAC Lea")], [#age(16)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2294*], [#delta(4)],
+      [150], [#name("莱娅 拉科瓦奇")], [#age(16)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2294*], [#delta(4)],
     )
   )
 #pagebreak()

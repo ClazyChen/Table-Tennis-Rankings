@@ -194,7 +194,7 @@
       [141], [#name("MATSUMOTO Cazuo")], [#age(22)], [#assoc("BRA")], [#left], [#penhold], [#attack], [*2230*], [#delta(56)],
       [142], [#name("DEMETER Lehel")], [#age(29)], [#assoc("HUN")], [?], [?], [?], [*2229*], [#delta(-2)],
       [143], [#name("KEINATH Thomas")], [#age(30)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2228*], [#delta(-83)],
-      [144], [#name("HABESOHN Daniel")], [#age(21)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2223*], [#delta(11)],
+      [144], [#name("丹尼尔 哈贝松")], [#age(21)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2223*], [#delta(11)],
       [145], [#name("LAKEEV Vasily")], [#age(23)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2222*], [#delta(-1)],
       [146], [#name("HUANG Sheng-Sheng")], [#age(20)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2220*], [#delta(-1)],
       [147], [#name("KOSOWSKI Jakub")], [#age(25)], [#assoc("POL")], [?], [?], [?], [*2217*], [#delta(6)],

@@ -52,7 +52,7 @@
       [35], [#name("克里斯坦 卡尔松")], [#age(29)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2722*], [#delta(20)],
       [36], [#name("向鹏")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2718*], [#delta(-18)],
       [37], [#name("西蒙 高兹")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2718*], [#delta(-10)],
-      [38], [#name("CASSIN Alexandre")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2717*], [#delta(96)],
+      [38], [#name("亚历山大 卡辛")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2717*], [#delta(96)],
       [39], [#name("神巧也")], [#age(27)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2710*], [#delta(5)],
       [40], [#name("孙闻")], [#age(23)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2706*], [#delta(-6)],
       [41], [#name("薛飞")], [#age(21)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2702*], [#delta(-3)],
@@ -92,7 +92,7 @@
       [66], [#name("帕特里克 弗朗西斯卡")], [#age(28)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2639*], [#delta(-36)],
       [67], [#name("安德斯 林德")], [#age(22)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2639*], [#delta(106)],
       [68], [#name("WEI Shihao")], [#age(22)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2638*], [#delta(-2)],
-      [69], [#name("WALTHER Ricardo")], [#age(29)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2637*], [#delta(-19)],
+      [69], [#name("里卡多 瓦尔特")], [#age(29)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2637*], [#delta(-19)],
       [70], [#name("马蒂亚斯 法尔克")], [#age(29)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2637*], [#delta(-8)],
       [71], [#name("蒂亚戈 阿波罗尼亚")], [#age(34)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2633*], [#delta(20)],
       [72], [#name("GERALDO Joao")], [#age(25)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2630*], [#delta(142)],
@@ -199,7 +199,7 @@
       [146], [#name("PETO Zsolt")], [#age(33)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2492*], [#delta(2)],
       [147], [#name("GHOSH Soumyajit")], [#age(27)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2492*], [#delta(4)],
       [148], [#name("CARVALHO Diogo")], [#age(28)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2492*], [#delta(5)],
-      [149], [#name("HABESOHN Daniel")], [#age(34)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2482*], [#delta(-51)],
+      [149], [#name("丹尼尔 哈贝松")], [#age(34)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2482*], [#delta(-51)],
       [150], [#name("博扬 托基奇")], [#age(39)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2480*], [#delta(-42)],
     )
   )

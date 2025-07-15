@@ -62,7 +62,7 @@
       [45], [#name("SALIFOU Abdel-Kader")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2605*], [#delta(13)],
       [46], [#name("YANG Zi")], [#age(29)], [#assoc("SGP")], [#left], [#shakehand], [#attack], [*2601*], [#delta(40)],
       [47], [#name("李尚洙")], [#age(23)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2598*], [#delta(-10)],
-      [48], [#name("HABESOHN Daniel")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2597*], [#delta(56)],
+      [48], [#name("丹尼尔 哈贝松")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2597*], [#delta(56)],
       [49], [#name("李廷佑")], [#age(29)], [#assoc("KOR")], [#left], [#penhold], [#attack], [*2595*], [#delta(-6)],
       [50], [#name("汪洋")], [#age(19)], [#assoc("SVK")], [#right], [#shakehand], [#defense], [*2595*], [#delta(-2)],
     )
@@ -199,7 +199,7 @@
       [146], [#name("雅克布 迪亚斯")], [#age(18)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2431*], [#delta(35)],
       [147], [#name("BROSSIER Benjamin")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2431*], [#delta(103)],
       [148], [#name("奥维迪乌 伊奥内斯库")], [#age(24)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2429*], [#delta(-27)],
-      [149], [#name("WALTHER Ricardo")], [#age(22)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2427*], [#delta(84)],
+      [149], [#name("里卡多 瓦尔特")], [#age(22)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2427*], [#delta(84)],
       [150], [#name("WU Chih-Chi")], [#age(27)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2427*], [#delta(38)],
     )
   )

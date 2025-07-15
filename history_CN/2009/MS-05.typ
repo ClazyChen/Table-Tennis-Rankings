@@ -268,6 +268,6 @@
       [197], [#name("HINSE Pierre-Luc")], [#age(22)], [#assoc("CAN")], [?], [?], [?], [*2177*], [#delta(0)],
       [198], [#name("BRATANOV Martin")], [#age(35)], [#assoc("BEL")], [?], [?], [?], [*2176*], [#delta(0)],
       [199], [#name("DODEAN Adrian")], [#age(24)], [#assoc("ROU")], [?], [?], [?], [*2175*], [#delta(0)],
-      [200], [#name("HABESOHN Daniel")], [#age(23)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2173*], [#delta(0)],
+      [200], [#name("丹尼尔 哈贝松")], [#age(23)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2173*], [#delta(0)],
     )
   )

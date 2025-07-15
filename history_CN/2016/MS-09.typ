@@ -90,7 +90,7 @@
       [64], [#name("森园政崇")], [#age(21)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2609*], [#delta(3)],
       [65], [#name("LAKEEV Vasily")], [#age(32)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2601*], [#delta(5)],
       [66], [#name("克里斯坦 卡尔松")], [#age(25)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2599*], [#delta(7)],
-      [67], [#name("WALTHER Ricardo")], [#age(25)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2598*], [#delta(7)],
+      [67], [#name("里卡多 瓦尔特")], [#age(25)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2598*], [#delta(7)],
       [68], [#name("神巧也")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2597*], [#delta(7)],
       [69], [#name("王楚钦")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2590*], [#delta(9)],
       [70], [#name("MATSUMOTO Cazuo")], [#age(31)], [#assoc("BRA")], [#left], [#penhold], [#attack], [*2587*], [#delta(-11)],
@@ -129,7 +129,7 @@
       [94], [#name("ROBINOT Quentin")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2558*], [#delta(-10)],
       [95], [#name("阿德里安 马特内")], [#age(29)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2558*], [#delta(0)],
       [96], [#name("BROSSIER Benjamin")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2557*], [#delta(2)],
-      [97], [#name("CASSIN Alexandre")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2554*], [#delta(2)],
+      [97], [#name("亚历山大 卡辛")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2554*], [#delta(2)],
       [98], [#name("ANDERSSON Harald")], [#age(25)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2553*], [#delta(2)],
       [99], [#name("高宁")], [#age(34)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2552*], [#delta(-20)],
       [100], [#name("丁祥恩")], [#age(26)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2551*], [#delta(4)],
@@ -234,7 +234,7 @@
       [172], [#name("ELBEIALI Mohamed")], [#age(28)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2438*], [#delta(7)],
       [173], [#name("REED Daniel")], [#age(27)], [#assoc("ENG")], [?], [?], [?], [*2437*], [#delta(7)],
       [174], [#name("BOBOCICA Mihai")], [#age(30)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2435*], [#delta(7)],
-      [175], [#name("HABESOHN Daniel")], [#age(30)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2435*], [#delta(7)],
+      [175], [#name("丹尼尔 哈贝松")], [#age(30)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2435*], [#delta(7)],
     )
   )
 #pagebreak()

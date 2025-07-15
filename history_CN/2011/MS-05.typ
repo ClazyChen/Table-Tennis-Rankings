@@ -116,7 +116,7 @@
       [81], [#name("艾曼纽 莱贝松")], [#age(23)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2495*], [#delta(51)],
       [82], [#name("SALIFOU Abdel-Kader")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2491*], [#delta(23)],
       [83], [#name("卢兹扬 布拉斯奇克")], [#age(37)], [#assoc("POL")], [?], [?], [?], [*2490*], [#delta(0)],
-      [84], [#name("HABESOHN Daniel")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2488*], [#delta(1)],
+      [84], [#name("丹尼尔 哈贝松")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2488*], [#delta(1)],
       [85], [#name("ACHANTA Sharath")], [#age(29)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2486*], [#delta(-16)],
       [86], [#name("CHTCHETININE Evgueni")], [#age(41)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2484*], [#delta(-4)],
       [87], [#name("MACHADO Carlos")], [#age(31)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2477*], [#delta(0)],

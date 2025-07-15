@@ -214,7 +214,7 @@
       [152], [#name("DIDUKH Oleksandr")], [#age(27)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2272*], [#delta(0)],
       [153], [#name("AKHLAGHPASAND Mohammadreza")], [#age(31)], [#assoc("IRI")], [#left], [#shakehand], [#attack], [*2270*], [#delta(0)],
       [154], [#name("ALTO Gaston")], [#age(24)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2270*], [#delta(0)],
-      [155], [#name("HABESOHN Daniel")], [#age(23)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2268*], [#delta(0)],
+      [155], [#name("丹尼尔 哈贝松")], [#age(23)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2268*], [#delta(0)],
       [156], [#name("TAMMINEN Timo")], [#age(21)], [#assoc("FIN")], [?], [?], [?], [*2265*], [#delta(0)],
       [157], [#name("YIN Hang")], [#age(14)], [#assoc("CHN")], [?], [?], [?], [*2263*], [#delta(0)],
       [158], [#name("ELBEIALI Mohamed")], [#age(21)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2261*], [#delta(0)],

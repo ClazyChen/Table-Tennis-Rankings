@@ -214,7 +214,7 @@
       [152], [#name("KATKOV Ivan")], [#age(23)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2207*], [#delta(-3)],
       [153], [#name("KOSOWSKI Jakub")], [#age(25)], [#assoc("POL")], [?], [?], [?], [*2205*], [#delta(-3)],
       [154], [#name("GRIGOREV Artur")], [#age(21)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2205*], [#delta(-3)],
-      [155], [#name("HABESOHN Daniel")], [#age(21)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2205*], [#delta(-3)],
+      [155], [#name("丹尼尔 哈贝松")], [#age(21)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2205*], [#delta(-3)],
       [156], [#name("PAPAGEORGIOU Konstantinos")], [#age(28)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2205*], [#delta(-3)],
       [157], [#name("DURAN Marc")], [#age(21)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2204*], [#delta(-3)],
       [158], [#name("REDJEP Ronald")], [#age(34)], [#assoc("CRO")], [#left], [#shakehand], [#attack], [*2203*], [#delta(-3)],

@@ -260,7 +260,7 @@
       [189], [#name("HAN Jimin")], [#age(21)], [#assoc("KOR")], [?], [?], [?], [*2230*], [#delta(-18)],
       [190], [#name("NASIRU Kazeem")], [#age(36)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2230*], [#delta(1)],
       [191], [#name("HORVAT Mitja")], [#age(32)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2229*], [#delta(1)],
-      [192], [#name("HABESOHN Daniel")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2227*], [#delta(-11)],
+      [192], [#name("丹尼尔 哈贝松")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2227*], [#delta(-11)],
       [193], [#name("CHOU Tung-Yu")], [#age(23)], [#assoc("TPE")], [?], [?], [?], [*2226*], [#delta(0)],
       [194], [#name("YIANGOU Marios")], [#age(19)], [#assoc("CYP")], [#right], [#shakehand], [#attack], [*2226*], [#delta(-38)],
       [195], [#name("FILIMON Lucian")], [#age(31)], [#assoc("ROU")], [?], [?], [?], [*2221*], [#delta(-1)],

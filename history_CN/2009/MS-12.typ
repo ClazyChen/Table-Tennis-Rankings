@@ -163,7 +163,7 @@
       [119], [#name("艾曼纽 莱贝松")], [#age(21)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2338*], [#delta(-42)],
       [120], [#name("斯蒂芬 门格尔")], [#age(21)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2336*], [#delta(24)],
       [121], [#name("SAKAMOTO Ryusuke")], [#age(25)], [#assoc("JPN")], [?], [?], [?], [*2336*], [#delta(-10)],
-      [122], [#name("HABESOHN Daniel")], [#age(23)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2335*], [#delta(32)],
+      [122], [#name("丹尼尔 哈贝松")], [#age(23)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2335*], [#delta(32)],
       [123], [#name("MONTEIRO Thiago")], [#age(28)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2334*], [#delta(-51)],
       [124], [#name("BOBOCICA Mihai")], [#age(23)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2332*], [#delta(12)],
       [125], [#name("SEREDA Peter")], [#age(25)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2328*], [#delta(23)],

@@ -63,7 +63,7 @@
       [46], [#name("DRINKHALL Paul")], [#age(27)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2656*], [#delta(0)],
       [47], [#name("诺沙迪 阿拉米扬")], [#age(26)], [#assoc("IRI")], [#left], [#shakehand], [#attack], [*2649*], [#delta(0)],
       [48], [#name("廖振珽")], [#age(21)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2648*], [#delta(0)],
-      [49], [#name("WALTHER Ricardo")], [#age(26)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2647*], [#delta(0)],
+      [49], [#name("里卡多 瓦尔特")], [#age(26)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2647*], [#delta(0)],
       [50], [#name("王臻")], [#age(32)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2644*], [#delta(0)],
     )
   )
@@ -177,7 +177,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [126], [#name("塞德里克 纽廷克")], [#age(24)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2515*], [#delta(-38)],
-      [127], [#name("HABESOHN Daniel")], [#age(31)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2514*], [#delta(-2)],
+      [127], [#name("丹尼尔 哈贝松")], [#age(31)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2514*], [#delta(-2)],
       [128], [#name("HACHARD Antoine")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2514*], [#delta(-11)],
       [129], [#name("KENJAEV Zokhid")], [#age(25)], [#assoc("UZB")], [#right], [#shakehand], [#attack], [*2512*], [#delta(-2)],
       [130], [#name("SZOCS Hunor")], [#age(25)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2511*], [#delta(14)],

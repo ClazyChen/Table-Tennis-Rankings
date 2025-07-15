@@ -217,7 +217,7 @@
       [155], [#name("OBESLO Michal")], [#age(19)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2237*], [#delta(-49)],
       [156], [#name("PAIKOV Mikhail")], [#age(19)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2235*], [#delta(-18)],
       [157], [#name("SIMONCIK Josef")], [#age(28)], [#assoc("CZE")], [?], [?], [?], [*2233*], [#delta(2)],
-      [158], [#name("HABESOHN Daniel")], [#age(22)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2233*], [#delta(-93)],
+      [158], [#name("丹尼尔 哈贝松")], [#age(22)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2233*], [#delta(-93)],
       [159], [#name("NASIRU Kazeem")], [#age(34)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2230*], [#delta(-1)],
       [160], [#name("DAVID Petr")], [#age(24)], [#assoc("CZE")], [?], [?], [?], [*2230*], [#delta(38)],
       [161], [#name("PRESSLMAYER Bernhard")], [#age(28)], [#assoc("AUT")], [?], [?], [?], [*2229*], [#delta(35)],

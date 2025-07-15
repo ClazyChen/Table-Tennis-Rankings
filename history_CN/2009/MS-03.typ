@@ -260,7 +260,7 @@
       [189], [#name("LEONG Kin Wa")], [#age(29)], [#assoc("MAC")], [?], [?], [?], [*2187*], [#delta(-1)],
       [190], [#name("GHOSH Soumyajit")], [#age(16)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2186*], [#delta(263)],
       [191], [#name("GAVLAS Antonin")], [#age(24)], [#assoc("CZE")], [#left], [#shakehand], [#attack], [*2185*], [#delta(12)],
-      [192], [#name("HABESOHN Daniel")], [#age(23)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2182*], [#delta(-3)],
+      [192], [#name("丹尼尔 哈贝松")], [#age(23)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2182*], [#delta(-3)],
       [193], [#name("PRESSLMAYER Bernhard")], [#age(29)], [#assoc("AUT")], [?], [?], [?], [*2178*], [#delta(-3)],
       [194], [#name("HINSE Pierre-Luc")], [#age(22)], [#assoc("CAN")], [?], [?], [?], [*2177*], [#delta(-3)],
       [195], [#name("BRATANOV Martin")], [#age(35)], [#assoc("BEL")], [?], [?], [?], [*2176*], [#delta(-3)],

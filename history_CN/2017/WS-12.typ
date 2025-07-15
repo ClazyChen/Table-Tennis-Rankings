@@ -165,7 +165,7 @@
       [121], [#name("TAILAKOVA Mariia")], [#age(16)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2452*], [#delta(13)],
       [122], [#name("NARUMOTO Ayami")], [#age(22)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2452*], [#delta(10)],
       [123], [#name("HAPONOVA Hanna")], [#age(32)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2449*], [#delta(-5)],
-      [124], [#name("MATELOVA Hana")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2448*], [#delta(-22)],
+      [124], [#name("汉娜 马特洛娃")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2448*], [#delta(-22)],
       [125], [#name("LIU Hsing-Yin")], [#age(30)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2448*], [#delta(-3)],
     )
   )
@@ -190,7 +190,7 @@
       [137], [#name("PERGEL Szandra")], [#age(29)], [#assoc("HUN")], [#left], [#shakehand], [#attack], [*2433*], [#delta(-38)],
       [138], [#name("玛妮卡 巴特拉")], [#age(22)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2432*], [#delta(4)],
       [139], [#name("HO Tin-Tin")], [#age(19)], [#assoc("GBR")], [#right], [#penhold], [#attack], [*2431*], [#delta(-25)],
-      [140], [#name("琳达 伯格斯特罗姆")], [#age(22)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2429*], [#delta(22)],
+      [140], [#name("琳达 伯格斯特隆")], [#age(22)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2429*], [#delta(22)],
       [141], [#name("朱成竹")], [#age(20)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2427*], [#delta(14)],
       [142], [#name("PARTYKA Natalia")], [#age(28)], [#assoc("POL")], [#left], [#shakehand], [#attack], [*2424*], [#delta(-45)],
       [143], [#name("UMEMURA Yuka")], [#age(17)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2423*], [#delta(3)],

@@ -217,7 +217,7 @@
       [155], [#name("ZENG Cem")], [#age(25)], [#assoc("TUR")], [?], [?], [?], [*2280*], [#delta(-4)],
       [156], [#name("FAZEKAS Peter")], [#age(29)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2278*], [#delta(-4)],
       [157], [#name("CARNEROS Alfredo")], [#age(32)], [#assoc("ESP")], [?], [?], [?], [*2274*], [#delta(-3)],
-      [158], [#name("HABESOHN Daniel")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2273*], [#delta(-18)],
+      [158], [#name("丹尼尔 哈贝松")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2273*], [#delta(-18)],
       [159], [#name("LASHIN Elsayed")], [#age(30)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2273*], [#delta(-1)],
       [160], [#name("PAZSY Ferenc")], [#age(36)], [#assoc("HUN")], [?], [?], [?], [*2272*], [#delta(-5)],
       [161], [#name("KASAHARA Hiromitsu")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2270*], [#delta(24)],

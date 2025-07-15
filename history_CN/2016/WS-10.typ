@@ -230,7 +230,7 @@
       [168], [#name("BIKBAEVA Anna")], [#age(22)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2364*], [#delta(29)],
       [169], [#name("CHASSELIN Pauline")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2362*], [#delta(-6)],
       [170], [#name("IACOB Camelia")], [#age(24)], [#assoc("ROU")], [#right], [#shakehand], [#defense], [*2362*], [#delta(-2)],
-      [171], [#name("MATELOVA Hana")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2360*], [#delta(-42)],
+      [171], [#name("汉娜 马特洛娃")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2360*], [#delta(-42)],
       [172], [#name("TAILAKOVA Mariia")], [#age(15)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2360*], [#delta(44)],
       [173], [#name("LIN Po-Hsuan")], [#age(19)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2357*], [#delta(37)],
       [174], [#name("HUANG Hsin")], [#age(21)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2355*], [#delta(-7)],

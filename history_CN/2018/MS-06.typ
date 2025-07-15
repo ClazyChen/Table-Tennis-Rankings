@@ -64,7 +64,7 @@
       [47], [#name("TSUBOI Gustavo")], [#age(33)], [#assoc("BRA")], [#left], [#shakehand], [#attack], [*2676*], [#delta(40)],
       [48], [#name("卢文 菲鲁斯")], [#age(30)], [#assoc("GER")], [#right], [#shakehand], [#defense], [*2674*], [#delta(12)],
       [49], [#name("朱霖峰")], [#age(22)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2672*], [#delta(20)],
-      [50], [#name("WALTHER Ricardo")], [#age(27)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2668*], [#delta(-12)],
+      [50], [#name("里卡多 瓦尔特")], [#age(27)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2668*], [#delta(-12)],
     )
   )
 #pagebreak()
@@ -74,7 +74,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [51], [#name("HABESOHN Daniel")], [#age(32)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2666*], [#delta(79)],
+      [51], [#name("丹尼尔 哈贝松")], [#age(32)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2666*], [#delta(79)],
       [52], [#name("KIM Minhyeok")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2665*], [#delta(0)],
       [53], [#name("MAJOROS Bence")], [#age(21)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2663*], [#delta(41)],
       [54], [#name("森园政崇")], [#age(23)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2660*], [#delta(-15)],

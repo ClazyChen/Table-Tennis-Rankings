@@ -147,7 +147,7 @@
       [103], [#name("李恩惠")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2496*], [#delta(-26)],
       [104], [#name("长崎美柚")], [#age(15)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2494*], [#delta(20)],
       [105], [#name("MA Wenting")], [#age(27)], [#assoc("NOR")], [#right], [#shakehand], [#attack], [*2492*], [#delta(2)],
-      [106], [#name("MATELOVA Hana")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2491*], [#delta(37)],
+      [106], [#name("汉娜 马特洛娃")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2491*], [#delta(37)],
       [107], [#name("邵杰妮")], [#age(23)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2486*], [#delta(25)],
       [108], [#name("NG Wing Nam")], [#age(25)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2486*], [#delta(-4)],
       [109], [#name("YOON Hyobin")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2485*], [#delta(0)],

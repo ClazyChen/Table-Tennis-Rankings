@@ -84,7 +84,7 @@
       [58], [#name("平野早矢香")], [#age(30)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2572*], [#delta(26)],
       [59], [#name("ABE Megumi")], [#age(29)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2562*], [#delta(0)],
       [60], [#name("苏萨西尼 萨维塔布特")], [#age(21)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2561*], [#delta(0)],
-      [61], [#name("MATELOVA Hana")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2560*], [#delta(0)],
+      [61], [#name("汉娜 马特洛娃")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2560*], [#delta(0)],
       [62], [#name("BILENKO Tetyana")], [#age(32)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2559*], [#delta(0)],
       [63], [#name("LI Xue")], [#age(30)], [#assoc("FRA")], [#right], [#shakehand], [#defense], [*2558*], [#delta(0)],
       [64], [#name("沈燕飞")], [#age(36)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2548*], [#delta(0)],
@@ -165,7 +165,7 @@
       [121], [#name("PROKHOROVA Yulia")], [#age(28)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2412*], [#delta(0)],
       [122], [#name("ZHENG Shichang")], [#age(23)], [#assoc("CHN")], [?], [?], [?], [*2407*], [#delta(5)],
       [123], [#name("LEE I-Chen")], [#age(28)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2406*], [#delta(25)],
-      [124], [#name("RAKOVAC Lea")], [#age(19)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2402*], [#delta(-1)],
+      [124], [#name("莱娅 拉科瓦奇")], [#age(19)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2402*], [#delta(-1)],
       [125], [#name("李时温")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2402*], [#delta(-19)],
     )
   )
@@ -195,7 +195,7 @@
       [142], [#name("CHOI Jeongmin")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2377*], [#delta(-10)],
       [143], [#name("CHOI Yelin")], [#age(17)], [#assoc("KOR")], [?], [?], [?], [*2376*], [#delta(1)],
       [144], [#name("WU Yue")], [#age(25)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2375*], [#delta(143)],
-      [145], [#name("琳达 伯格斯特罗姆")], [#age(20)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2374*], [#delta(2)],
+      [145], [#name("琳达 伯格斯特隆")], [#age(20)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2374*], [#delta(2)],
       [146], [#name("MORITA Ayane")], [#age(18)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2369*], [#delta(4)],
       [147], [#name("LENNON Emmanuelle")], [#age(28)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2369*], [#delta(4)],
       [148], [#name("TASHIRO Saki")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2367*], [#delta(-39)],

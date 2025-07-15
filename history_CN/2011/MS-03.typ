@@ -114,7 +114,7 @@
       [79], [#name("亚历山大 希巴耶夫")], [#age(21)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2501*], [#delta(20)],
       [80], [#name("吉田海伟")], [#age(30)], [#assoc("JPN")], [#right], [#penhold], [#attack], [*2496*], [#delta(-14)],
       [81], [#name("RUBTSOV Igor")], [#age(31)], [#assoc("RUS")], [?], [?], [?], [*2496*], [#delta(-19)],
-      [82], [#name("HABESOHN Daniel")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2491*], [#delta(-24)],
+      [82], [#name("丹尼尔 哈贝松")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2491*], [#delta(-24)],
       [83], [#name("何志文")], [#age(49)], [#assoc("ESP")], [#left], [#penhold], [#attack], [*2487*], [#delta(-18)],
       [84], [#name("LI Ahmet")], [#age(20)], [#assoc("TUR")], [#left], [#shakehand], [#attack], [*2480*], [#delta(-27)],
       [85], [#name("达米安 艾洛伊")], [#age(42)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2477*], [#delta(-9)],

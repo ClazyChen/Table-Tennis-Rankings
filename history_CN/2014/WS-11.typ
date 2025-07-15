@@ -122,7 +122,7 @@
       [87], [#name("伯纳黛特 斯佐科斯")], [#age(19)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2490*], [#delta(1)],
       [88], [#name("SO Eka")], [#age(19)], [#assoc("JPN")], [#right], [#penhold], [#attack], [*2489*], [#delta(1)],
       [89], [#name("FUJII Yuko")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2482*], [#delta(1)],
-      [90], [#name("RAKOVAC Lea")], [#age(18)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2479*], [#delta(25)],
+      [90], [#name("莱娅 拉科瓦奇")], [#age(18)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2479*], [#delta(25)],
       [91], [#name("李佼")], [#age(41)], [#assoc("NED")], [#left], [#penhold], [#attack], [*2475*], [#delta(-22)],
       [92], [#name("PASKAUSKIENE Ruta")], [#age(37)], [#assoc("LTU")], [#right], [#shakehand], [#attack], [*2474*], [#delta(0)],
       [93], [#name("IACOB Camelia")], [#age(22)], [#assoc("ROU")], [#right], [#shakehand], [#defense], [*2474*], [#delta(0)],
@@ -199,7 +199,7 @@
       [146], [#name("MU Jingyu")], [#age(15)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2357*], [#delta(2)],
       [147], [#name("STEFANSKA Kinga")], [#age(34)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2356*], [#delta(2)],
       [148], [#name("MATSUMOTO Yuki")], [#age(21)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2355*], [#delta(2)],
-      [149], [#name("MATELOVA Hana")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2353*], [#delta(2)],
+      [149], [#name("汉娜 马特洛娃")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2353*], [#delta(2)],
       [150], [#name("ISHIZUKA Miwako")], [#age(27)], [#assoc("JPN")], [?], [?], [?], [*2351*], [#delta(2)],
     )
   )

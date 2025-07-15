@@ -190,7 +190,7 @@
       [137], [#name("ABBAT Alice")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2342*], [#delta(0)],
       [138], [#name("LIU Yu-Hsin")], [#age(20)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2342*], [#delta(209)],
       [139], [#name("张蔷")], [#age(19)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2341*], [#delta(-1)],
-      [140], [#name("MATELOVA Hana")], [#age(23)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2338*], [#delta(-1)],
+      [140], [#name("汉娜 马特洛娃")], [#age(23)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2338*], [#delta(-1)],
       [141], [#name("LAY Jian Fang")], [#age(40)], [#assoc("AUS")], [#right], [#penhold], [#attack], [*2337*], [#delta(-1)],
       [142], [#name("平野美宇")], [#age(13)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2337*], [#delta(-8)],
       [143], [#name("GASNIER Laura")], [#age(20)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2336*], [#delta(-2)],
@@ -244,7 +244,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [176], [#name("RAKOVAC Lea")], [#age(17)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2270*], [#delta(1)],
+      [176], [#name("莱娅 拉科瓦奇")], [#age(17)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2270*], [#delta(1)],
       [177], [#name("MORITA Ayane")], [#age(16)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2269*], [#delta(12)],
       [178], [#name("DUBKOVA Elena")], [#age(22)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2268*], [#delta(0)],
       [179], [#name("KIM Byeolnim")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2268*], [#delta(84)],

@@ -88,7 +88,7 @@
       [62], [#name("BOBOCICA Mihai")], [#age(22)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2448*], [#delta(-17)],
       [63], [#name("HENZELL William")], [#age(26)], [#assoc("AUS")], [#right], [#shakehand], [#attack], [*2447*], [#delta(3)],
       [64], [#name("RI Chol Guk")], [#age(23)], [#assoc("PRK")], [?], [?], [?], [*2446*], [#delta(3)],
-      [65], [#name("HABESOHN Daniel")], [#age(22)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2443*], [#delta(128)],
+      [65], [#name("丹尼尔 哈贝松")], [#age(22)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2443*], [#delta(128)],
       [66], [#name("塩野真人")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2442*], [#delta(2)],
       [67], [#name("LIVENTSOV Alexey")], [#age(27)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2440*], [#delta(-9)],
       [68], [#name("LEI Zhenhua")], [#age(22)], [#assoc("CHN")], [?], [?], [?], [*2436*], [#delta(1)],

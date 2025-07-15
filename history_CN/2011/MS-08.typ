@@ -117,7 +117,7 @@
       [82], [#name("德米特里 佩罗普科夫")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2489*], [#delta(-2)],
       [83], [#name("尹在荣")], [#age(28)], [#assoc("KOR")], [?], [?], [?], [*2482*], [#delta(-12)],
       [84], [#name("吉田海伟")], [#age(30)], [#assoc("JPN")], [#right], [#penhold], [#attack], [*2481*], [#delta(-15)],
-      [85], [#name("HABESOHN Daniel")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2476*], [#delta(-1)],
+      [85], [#name("丹尼尔 哈贝松")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2476*], [#delta(-1)],
       [86], [#name("MIUCHI Kentaro")], [#age(22)], [#assoc("JPN")], [?], [?], [?], [*2474*], [#delta(56)],
       [87], [#name("郑荣植")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2471*], [#delta(3)],
       [88], [#name("CHTCHETININE Evgueni")], [#age(41)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2470*], [#delta(-3)],

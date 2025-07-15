@@ -157,7 +157,7 @@
       [113], [#name("LI Qiangbing")], [#age(28)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2384*], [#delta(-3)],
       [114], [#name("MATSUZAWA Marina")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2383*], [#delta(-19)],
       [115], [#name("HWANG Jina")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2373*], [#delta(0)],
-      [116], [#name("MATELOVA Hana")], [#age(23)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2371*], [#delta(24)],
+      [116], [#name("汉娜 马特洛娃")], [#age(23)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2371*], [#delta(24)],
       [117], [#name("TASHIRO Saki")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2369*], [#delta(2)],
       [118], [#name("杜凯琹")], [#age(17)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2368*], [#delta(4)],
       [119], [#name("LI Chunli")], [#age(51)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2367*], [#delta(1)],
@@ -233,7 +233,7 @@
       [171], [#name("SO Eka")], [#age(18)], [#assoc("JPN")], [#right], [#penhold], [#attack], [*2273*], [#delta(53)],
       [172], [#name("DUBKOVA Elena")], [#age(22)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2268*], [#delta(6)],
       [173], [#name("HSIUNG Nai-I")], [#age(23)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2268*], [#delta(7)],
-      [174], [#name("RAKOVAC Lea")], [#age(17)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2267*], [#delta(2)],
+      [174], [#name("莱娅 拉科瓦奇")], [#age(17)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2267*], [#delta(2)],
       [175], [#name("索菲亚 波尔卡诺娃")], [#age(19)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2265*], [#delta(6)],
     )
   )

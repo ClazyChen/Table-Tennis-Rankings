@@ -80,7 +80,7 @@
       [54], [#name("刘丁硕")], [#age(19)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2637*], [#delta(5)],
       [55], [#name("陈建安")], [#age(26)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2636*], [#delta(-9)],
       [56], [#name("阿德里安 马特内")], [#age(30)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2635*], [#delta(36)],
-      [57], [#name("WALTHER Ricardo")], [#age(26)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2634*], [#delta(-18)],
+      [57], [#name("里卡多 瓦尔特")], [#age(26)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2634*], [#delta(-18)],
       [58], [#name("吉田雅己")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2633*], [#delta(2)],
       [59], [#name("WANG Xi")], [#age(33)], [#assoc("GER")], [?], [?], [?], [*2629*], [#delta(50)],
       [60], [#name("亚历山大 希巴耶夫")], [#age(27)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2622*], [#delta(37)],
@@ -165,7 +165,7 @@
       [121], [#name("BROSSIER Benjamin")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2524*], [#delta(-1)],
       [122], [#name("TORIOLA Segun")], [#age(43)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2522*], [#delta(5)],
       [123], [#name("MAJOROS Bence")], [#age(20)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2522*], [#delta(6)],
-      [124], [#name("HABESOHN Daniel")], [#age(31)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2516*], [#delta(26)],
+      [124], [#name("丹尼尔 哈贝松")], [#age(31)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2516*], [#delta(26)],
       [125], [#name("KENJAEV Zokhid")], [#age(25)], [#assoc("UZB")], [#right], [#shakehand], [#attack], [*2512*], [#delta(5)],
     )
   )

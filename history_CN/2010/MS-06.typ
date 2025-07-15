@@ -249,7 +249,7 @@
       [178], [#name("BURGIS Matiss")], [#age(21)], [#assoc("LAT")], [#right], [#shakehand], [#attack], [*2251*], [#delta(-40)],
       [179], [#name("SIMONER Christoph")], [#age(27)], [#assoc("AUT")], [?], [?], [?], [*2249*], [#delta(-8)],
       [180], [#name("MADRID Marcos")], [#age(24)], [#assoc("MEX")], [#right], [#shakehand], [#attack], [*2247*], [#delta(17)],
-      [181], [#name("HABESOHN Daniel")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2245*], [#delta(-18)],
+      [181], [#name("丹尼尔 哈贝松")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2245*], [#delta(-18)],
       [182], [#name("CHENG Jingqi")], [#age(16)], [#assoc("CHN")], [?], [?], [?], [*2245*], [#delta(-9)],
       [183], [#name("CIHAK Marek")], [#age(36)], [#assoc("CZE")], [?], [?], [?], [*2244*], [#delta(-9)],
       [184], [#name("DURANSPAHIC Admir")], [#age(23)], [#assoc("BIH")], [#right], [#shakehand], [#attack], [*2244*], [#delta(406)],

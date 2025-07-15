@@ -81,7 +81,7 @@
       [55], [#name("博扬 托基奇")], [#age(30)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2528*], [#delta(15)],
       [56], [#name("SEO Hyundeok")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2527*], [#delta(-5)],
       [57], [#name("LI Ahmet")], [#age(20)], [#assoc("TUR")], [#left], [#shakehand], [#attack], [*2523*], [#delta(30)],
-      [58], [#name("HABESOHN Daniel")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2523*], [#delta(15)],
+      [58], [#name("丹尼尔 哈贝松")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2523*], [#delta(15)],
       [59], [#name("MACHADO Carlos")], [#age(31)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2522*], [#delta(12)],
       [60], [#name("ACHANTA Sharath")], [#age(29)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2520*], [#delta(-2)],
       [61], [#name("尚坤")], [#age(21)], [#assoc("CHN")], [?], [?], [?], [*2519*], [#delta(-2)],

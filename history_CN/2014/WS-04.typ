@@ -158,7 +158,7 @@
       [114], [#name("DOLGIKH Maria")], [#age(27)], [#assoc("RUS")], [#right], [#shakehand], [#defense], [*2392*], [#delta(36)],
       [115], [#name("DRINKHALL Joanna")], [#age(27)], [#assoc("ENG")], [#right], [#shakehand], [#defense], [*2392*], [#delta(15)],
       [116], [#name("ZHENG Jiaqi")], [#age(26)], [#assoc("USA")], [?], [?], [?], [*2385*], [#delta(0)],
-      [117], [#name("MATELOVA Hana")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2384*], [#delta(20)],
+      [117], [#name("汉娜 马特洛娃")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2384*], [#delta(20)],
       [118], [#name("NEMOTO Riyo")], [#age(24)], [#assoc("JPN")], [?], [?], [?], [*2384*], [#delta(0)],
       [119], [#name("DODEAN Daniela")], [#age(26)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2382*], [#delta(0)],
       [120], [#name("LIN Chia-Hui")], [#age(27)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2381*], [#delta(1)],

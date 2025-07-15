@@ -268,6 +268,6 @@
       [197], [#name("HAN Jimin")], [#age(21)], [#assoc("KOR")], [?], [?], [?], [*2230*], [#delta(-8)],
       [198], [#name("NASIRU Kazeem")], [#age(36)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2230*], [#delta(-8)],
       [199], [#name("HORVAT Mitja")], [#age(32)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2229*], [#delta(-8)],
-      [200], [#name("HABESOHN Daniel")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2227*], [#delta(-8)],
+      [200], [#name("丹尼尔 哈贝松")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2227*], [#delta(-8)],
     )
   )

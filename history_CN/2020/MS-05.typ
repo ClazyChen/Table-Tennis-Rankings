@@ -60,7 +60,7 @@
       [43], [#name("李尚洙")], [#age(30)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2684*], [#delta(0)],
       [44], [#name("帕纳吉奥迪斯 吉奥尼斯")], [#age(40)], [#assoc("GRE")], [#right], [#shakehand], [#defense], [*2675*], [#delta(0)],
       [45], [#name("雅克布 迪亚斯")], [#age(25)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2675*], [#delta(0)],
-      [46], [#name("CASSIN Alexandre")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2675*], [#delta(0)],
+      [46], [#name("亚历山大 卡辛")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2675*], [#delta(0)],
       [47], [#name("GNANASEKARAN Sathiyan")], [#age(27)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2671*], [#delta(0)],
       [48], [#name("亚历山大 希巴耶夫")], [#age(30)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2670*], [#delta(0)],
       [49], [#name("克里斯坦 卡尔松")], [#age(29)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2669*], [#delta(0)],
@@ -97,7 +97,7 @@
       [71], [#name("特鲁斯 莫雷加德")], [#age(18)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2616*], [#delta(0)],
       [72], [#name("蒂亚戈 阿波罗尼亚")], [#age(34)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2615*], [#delta(0)],
       [73], [#name("托米斯拉夫 普卡")], [#age(24)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2612*], [#delta(0)],
-      [74], [#name("WALTHER Ricardo")], [#age(29)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2610*], [#delta(0)],
+      [74], [#name("里卡多 瓦尔特")], [#age(29)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2610*], [#delta(0)],
       [75], [#name("陈建安")], [#age(29)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2610*], [#delta(0)],
     )
   )
@@ -200,7 +200,7 @@
       [147], [#name("曹巍")], [#age(21)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2479*], [#delta(0)],
       [148], [#name("DE NODREST Leo")], [#age(20)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2478*], [#delta(0)],
       [149], [#name("PUTUNTICA Andrei")], [#age(21)], [#assoc("MDA")], [#left], [#shakehand], [#attack], [*2476*], [#delta(0)],
-      [150], [#name("HABESOHN Daniel")], [#age(34)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2475*], [#delta(0)],
+      [150], [#name("丹尼尔 哈贝松")], [#age(34)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2475*], [#delta(0)],
     )
   )
 #pagebreak()

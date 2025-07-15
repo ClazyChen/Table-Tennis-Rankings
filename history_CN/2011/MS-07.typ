@@ -116,7 +116,7 @@
       [81], [#name("陈建安")], [#age(20)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2484*], [#delta(-32)],
       [82], [#name("MACHADO Carlos")], [#age(31)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2482*], [#delta(0)],
       [83], [#name("YANG Zi")], [#age(27)], [#assoc("SGP")], [#left], [#shakehand], [#attack], [*2478*], [#delta(-43)],
-      [84], [#name("HABESOHN Daniel")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2476*], [#delta(-1)],
+      [84], [#name("丹尼尔 哈贝松")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2476*], [#delta(-1)],
       [85], [#name("CHTCHETININE Evgueni")], [#age(41)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2470*], [#delta(0)],
       [86], [#name("SONG Hongyuan")], [#age(18)], [#assoc("CHN")], [?], [?], [?], [*2469*], [#delta(0)],
       [87], [#name("詹斯 伦德奎斯特")], [#age(32)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2468*], [#delta(0)],

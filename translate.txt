@@ -374,7 +374,6 @@ PARK Gyuhyeon, 朴圭贤
 OLAH Benedek, 贝内德克 奥拉
 REDZIMSKI Milosz, 米洛什 雷德齐姆斯基
 HUANG Yan-Cheng, 黄彦诚
-CHEN Baldwin, 陈颢桦
 YAN Sheng, 严升
 CHANG Yu-An, 张宇安
 SUN Zheng, 孙正
@@ -399,3 +398,28 @@ RAKOVAC Lea, 莱娅 拉科瓦奇
 MATELOVA Hana, 汉娜 马特洛娃
 YEH Yi-Tian, 叶伊恬
 PARK Gahyeon, 朴佳贤
+BERTELSMEIER Andre, 安德烈 贝特尔斯迈尔
+COTON Flavien, 弗拉维安 科顿
+HABESOHN Daniel, 丹尼尔 哈贝松
+WALTHER Ricardo, 里卡多 瓦尔特
+CASSIN Alexandre, 亚历山大 卡辛
+DORR Esteban, 埃斯特班 多尔
+CHEN Junsong, 陈俊菘
+KAWAKAMI Ryuusei, 川上流星
+YOSHIYAMA Kazuki, 吉山和希
+OMODA Kotomi, 面田采巳
+ZHU Ziyu, 朱梓予
+ZHANG Xiangyu, 张翔宇
+HURSEY Anna, 安娜 赫西
+CHA Su Yong, 嵯水影
+NOMURA Moe, 野村萌
+Ryu Hanna, 柳韩娜
+LEE Daeun, 李多恩
+TAKAMORI Mao, 高森爱央
+WU Jia-En, 巫嘉恩
+AOKI Sachi, 青木咲智
+ABRAAMIAN Elizabet, 伊丽莎白 阿布拉米安
+SU Tsz Tung, 苏籽童
+BARDET Lilian, 力廉 巴德
+CHIRITA Iulian, 尤利安 奇里塔
+CHAN Baldwin, 陈颢桦

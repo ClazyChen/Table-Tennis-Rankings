@@ -195,7 +195,7 @@
       [142], [#name("夸德里 阿鲁纳")], [#age(25)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2430*], [#delta(-5)],
       [143], [#name("寇磊")], [#age(26)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2428*], [#delta(-3)],
       [144], [#name("雅罗斯列夫 扎姆登科")], [#age(25)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2427*], [#delta(-11)],
-      [145], [#name("HABESOHN Daniel")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2424*], [#delta(-40)],
+      [145], [#name("丹尼尔 哈贝松")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2424*], [#delta(-40)],
       [146], [#name("黄镇廷")], [#age(22)], [#assoc("HKG")], [#right], [#penhold], [#attack], [*2422*], [#delta(-49)],
       [147], [#name("KOSOWSKI Jakub")], [#age(31)], [#assoc("POL")], [?], [?], [?], [*2419*], [#delta(19)],
       [148], [#name("PAPAGEORGIOU Konstantinos")], [#age(34)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2417*], [#delta(-5)],

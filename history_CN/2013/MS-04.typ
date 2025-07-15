@@ -212,7 +212,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [151], [#name("CHIANG Hung-Chieh")], [#age(24)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2417*], [#delta(6)],
       [152], [#name("PAPAGEORGIOU Konstantinos")], [#age(34)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2417*], [#delta(1)],
-      [153], [#name("HABESOHN Daniel")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2416*], [#delta(-63)],
+      [153], [#name("丹尼尔 哈贝松")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2416*], [#delta(-63)],
       [154], [#name("PAIKOV Mikhail")], [#age(24)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2413*], [#delta(1)],
       [155], [#name("KUZMIN Fedor")], [#age(30)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2413*], [#delta(1)],
       [156], [#name("MIUCHI Kentaro")], [#age(24)], [#assoc("JPN")], [?], [?], [?], [*2411*], [#delta(2)],

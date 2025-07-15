@@ -108,7 +108,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [76], [#name("MATELOVA Hana")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2558*], [#delta(18)],
+      [76], [#name("汉娜 马特洛娃")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2558*], [#delta(18)],
       [77], [#name("SOO Wai Yam")], [#age(21)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2543*], [#delta(-2)],
       [78], [#name("VOROBEVA Olga")], [#age(29)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2543*], [#delta(3)],
       [79], [#name("伯纳黛特 斯佐科斯")], [#age(24)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2541*], [#delta(-34)],
@@ -119,7 +119,7 @@
       [84], [#name("申裕斌")], [#age(15)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2520*], [#delta(14)],
       [85], [#name("杜凯琹")], [#age(23)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2519*], [#delta(25)],
       [86], [#name("苏萨西尼 萨维塔布特")], [#age(25)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2518*], [#delta(33)],
-      [87], [#name("琳达 伯格斯特罗姆")], [#age(24)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2517*], [#delta(8)],
+      [87], [#name("琳达 伯格斯特隆")], [#age(24)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2517*], [#delta(8)],
       [88], [#name("YOO Eunchong")], [#age(26)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2512*], [#delta(-1)],
       [89], [#name("萨比亚 温特")], [#age(27)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2510*], [#delta(7)],
       [90], [#name("乔治娜 波塔")], [#age(34)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2510*], [#delta(7)],
@@ -244,7 +244,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [176], [#name("LEE Daeun")], [#age(17)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2343*], [#delta(11)],
+      [176], [#name("李多恩")], [#age(17)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2343*], [#delta(11)],
       [177], [#name("LOEUILLETTE Stephanie")], [#age(27)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2341*], [#delta(28)],
       [178], [#name("ZHANG Wenjing")], [#age(20)], [#assoc("HKG")], [#right], [#shakehand], [#defense], [*2338*], [#delta(12)],
       [179], [#name("GASNIER Laura")], [#age(26)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2338*], [#delta(-33)],

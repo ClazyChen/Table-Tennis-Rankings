@@ -266,7 +266,7 @@
       [195], [#name("MIZUNO Yuya")], [#age(19)], [#assoc("JPN")], [?], [?], [?], [*2040*], [#delta(-4)],
       [196], [#name("FAZEKAS Peter")], [#age(25)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2040*], [#delta(-46)],
       [197], [#name("BUROV Viacheslav")], [#age(21)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2040*], [#delta(-4)],
-      [198], [#name("HABESOHN Daniel")], [#age(20)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2038*], [#delta(-4)],
+      [198], [#name("丹尼尔 哈贝松")], [#age(20)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2038*], [#delta(-4)],
       [199], [#name("MILICEVIC Srdan")], [#age(30)], [#assoc("BIH")], [?], [?], [?], [*2035*], [#delta(-4)],
       [200], [#name("LASHIN Elsayed")], [#age(26)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2034*], [#delta(-10)],
     )

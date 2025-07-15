@@ -252,7 +252,7 @@
       [181], [#name("IBRAHIM Muhd Shakirin")], [#age(22)], [#assoc("MAS")], [?], [?], [?], [*2143*], [#delta(1)],
       [182], [#name("FILIMON Lucian")], [#age(28)], [#assoc("ROU")], [?], [?], [?], [*2141*], [#delta(-36)],
       [183], [#name("ZOMBORI David")], [#age(19)], [#assoc("HUN")], [?], [?], [?], [*2140*], [#delta(104)],
-      [184], [#name("HABESOHN Daniel")], [#age(21)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2137*], [#delta(111)],
+      [184], [#name("丹尼尔 哈贝松")], [#age(21)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2137*], [#delta(111)],
       [185], [#name("ABRAMOV Isaak")], [#age(36)], [#assoc("ISR")], [#right], [#shakehand], [#attack], [*2136*], [#delta(-1)],
       [186], [#name("PISTEJ Lubomir")], [#age(23)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2135*], [#delta(-52)],
       [187], [#name("AL-QERSHI Wael")], [#age(23)], [#assoc("YEM")], [?], [?], [?], [*2133*], [#delta(-1)],

@@ -193,7 +193,7 @@
       [140], [#name("RAMIREZ Sara")], [#age(26)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2351*], [#delta(-7)],
       [141], [#name("李恩惠")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2350*], [#delta(-27)],
       [142], [#name("KRAVCHENKO Marina")], [#age(40)], [#assoc("ISR")], [#right], [#shakehand], [#attack], [*2347*], [#delta(4)],
-      [143], [#name("MATELOVA Hana")], [#age(23)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2347*], [#delta(-16)],
+      [143], [#name("汉娜 马特洛娃")], [#age(23)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2347*], [#delta(-16)],
       [144], [#name("NECULA Iulia")], [#age(27)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2345*], [#delta(4)],
       [145], [#name("KUZMINA Elena")], [#age(24)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2342*], [#delta(-15)],
       [146], [#name("SUZUKI Rika")], [#age(19)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2342*], [#delta(-24)],

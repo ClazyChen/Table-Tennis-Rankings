@@ -85,7 +85,7 @@
       [59], [#name("金河英")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2617*], [#delta(0)],
       [60], [#name("MORIZONO Mizuki")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2616*], [#delta(0)],
       [61], [#name("伯纳黛特 斯佐科斯")], [#age(24)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2616*], [#delta(-25)],
-      [62], [#name("MATELOVA Hana")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2609*], [#delta(49)],
+      [62], [#name("汉娜 马特洛娃")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2609*], [#delta(49)],
       [63], [#name("伊丽莎白 萨玛拉")], [#age(30)], [#assoc("ROU")], [#left], [#shakehand], [#attack], [*2602*], [#delta(1)],
       [64], [#name("佩特丽莎 索尔佳")], [#age(25)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2601*], [#delta(-42)],
       [65], [#name("HUANG Yingqi")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2600*], [#delta(-2)],
@@ -130,7 +130,7 @@
       [95], [#name("李洁")], [#age(35)], [#assoc("NED")], [#right], [#shakehand], [#defense], [*2525*], [#delta(-3)],
       [96], [#name("王 艾米")], [#age(17)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2524*], [#delta(26)],
       [97], [#name("YUAN Yuan")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2517*], [#delta(-1)],
-      [98], [#name("琳达 伯格斯特罗姆")], [#age(24)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2508*], [#delta(54)],
+      [98], [#name("琳达 伯格斯特隆")], [#age(24)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2508*], [#delta(54)],
       [99], [#name("WU Yue")], [#age(29)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2508*], [#delta(73)],
       [100], [#name("PARK Joohyun")], [#age(26)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2508*], [#delta(1)],
     )

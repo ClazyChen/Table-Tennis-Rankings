@@ -222,7 +222,7 @@
       [160], [#name("LI Ahmet")], [#age(19)], [#assoc("TUR")], [#left], [#shakehand], [#attack], [*2276*], [#delta(48)],
       [161], [#name("CARNEROS Alfredo")], [#age(32)], [#assoc("ESP")], [?], [?], [?], [*2274*], [#delta(-4)],
       [162], [#name("张一博")], [#age(25)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2274*], [#delta(2)],
-      [163], [#name("HABESOHN Daniel")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2273*], [#delta(-5)],
+      [163], [#name("丹尼尔 哈贝松")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2273*], [#delta(-5)],
       [164], [#name("LASHIN Elsayed")], [#age(30)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2273*], [#delta(-5)],
       [165], [#name("HOYAMA Hugo")], [#age(41)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2269*], [#delta(-14)],
       [166], [#name("WU Chih-Chi")], [#age(24)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2264*], [#delta(-13)],

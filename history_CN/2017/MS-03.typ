@@ -63,7 +63,7 @@
       [46], [#name("DRINKHALL Paul")], [#age(27)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2652*], [#delta(34)],
       [47], [#name("诺沙迪 阿拉米扬")], [#age(26)], [#assoc("IRI")], [#left], [#shakehand], [#attack], [*2649*], [#delta(37)],
       [48], [#name("廖振珽")], [#age(21)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2648*], [#delta(-4)],
-      [49], [#name("WALTHER Ricardo")], [#age(26)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2647*], [#delta(8)],
+      [49], [#name("里卡多 瓦尔特")], [#age(26)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2647*], [#delta(8)],
       [50], [#name("王臻")], [#age(32)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2644*], [#delta(-1)],
     )
   )
@@ -166,7 +166,7 @@
       [122], [#name("森园政崇")], [#age(22)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2524*], [#delta(-29)],
       [123], [#name("TORIOLA Segun")], [#age(43)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2522*], [#delta(-1)],
       [124], [#name("BADOWSKI Marek")], [#age(20)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2518*], [#delta(5)],
-      [125], [#name("HABESOHN Daniel")], [#age(31)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2514*], [#delta(-1)],
+      [125], [#name("丹尼尔 哈贝松")], [#age(31)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2514*], [#delta(-1)],
     )
   )
 #pagebreak()

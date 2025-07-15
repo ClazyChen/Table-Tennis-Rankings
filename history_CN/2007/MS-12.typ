@@ -218,7 +218,7 @@
       [156], [#name("NEKHVEDOVICH Vitaly")], [#age(32)], [#assoc("BLR")], [?], [?], [?], [*2203*], [#delta(55)],
       [157], [#name("MONRAD Martin")], [#age(30)], [#assoc("DEN")], [?], [?], [?], [*2201*], [#delta(2)],
       [158], [#name("BAGGALEY Andrew")], [#age(24)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2199*], [#delta(0)],
-      [159], [#name("HABESOHN Daniel")], [#age(21)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2194*], [#delta(-56)],
+      [159], [#name("丹尼尔 哈贝松")], [#age(21)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2194*], [#delta(-56)],
       [160], [#name("TOMASI Stefano")], [#age(24)], [#assoc("ITA")], [?], [?], [?], [*2193*], [#delta(-37)],
       [161], [#name("SEREDA Peter")], [#age(23)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2190*], [#delta(-27)],
       [162], [#name("RUMGAY Gavin")], [#age(23)], [#assoc("SCO")], [#right], [#shakehand], [#attack], [*2188*], [#delta(-19)],

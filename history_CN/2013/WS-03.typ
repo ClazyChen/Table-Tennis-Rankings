@@ -185,7 +185,7 @@
       [132], [#name("BALAZOVA Barbora")], [#age(21)], [#assoc("SVK")], [#left], [#shakehand], [#attack], [*2343*], [#delta(0)],
       [133], [#name("ABBAT Alice")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2342*], [#delta(19)],
       [134], [#name("张蔷")], [#age(19)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2341*], [#delta(0)],
-      [135], [#name("MATELOVA Hana")], [#age(23)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2338*], [#delta(1)],
+      [135], [#name("汉娜 马特洛娃")], [#age(23)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2338*], [#delta(1)],
       [136], [#name("GASNIER Laura")], [#age(20)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2336*], [#delta(1)],
       [137], [#name("CHOI Jeongmin")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2330*], [#delta(2)],
       [138], [#name("GUAN Mengyuan")], [#age(21)], [#assoc("HKG")], [?], [?], [?], [*2329*], [#delta(17)],
@@ -234,7 +234,7 @@
       [172], [#name("HSIUNG Nai-I")], [#age(23)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2268*], [#delta(2)],
       [173], [#name("KERTAI Rita")], [#age(35)], [#assoc("HUN")], [#left], [#shakehand], [#attack], [*2266*], [#delta(2)],
       [174], [#name("侯美玲")], [#age(24)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2266*], [#delta(2)],
-      [175], [#name("RAKOVAC Lea")], [#age(17)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2264*], [#delta(24)],
+      [175], [#name("莱娅 拉科瓦奇")], [#age(17)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2264*], [#delta(24)],
     )
   )
 #pagebreak()

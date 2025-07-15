@@ -150,7 +150,7 @@
       [106], [#name("布里特 伊尔兰德")], [#age(22)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2447*], [#delta(0)],
       [107], [#name("SUZUKI Rika")], [#age(22)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2447*], [#delta(85)],
       [108], [#name("CHA Hyo Sim")], [#age(22)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2445*], [#delta(-1)],
-      [109], [#name("MATELOVA Hana")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2442*], [#delta(-1)],
+      [109], [#name("汉娜 马特洛娃")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2442*], [#delta(-1)],
       [110], [#name("KIM Byeolnim")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2441*], [#delta(-1)],
       [111], [#name("曾尖")], [#age(20)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2439*], [#delta(-42)],
       [112], [#name("蒂娜 梅谢芙")], [#age(22)], [#assoc("EGY")], [#left], [#shakehand], [#attack], [*2439*], [#delta(-2)],
@@ -194,12 +194,12 @@
       [141], [#name("AN Yeongeun")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2399*], [#delta(32)],
       [142], [#name("MADARASZ Dora")], [#age(23)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2393*], [#delta(-1)],
       [143], [#name("万远")], [#age(19)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2391*], [#delta(47)],
-      [144], [#name("RAKOVAC Lea")], [#age(20)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2389*], [#delta(-1)],
+      [144], [#name("莱娅 拉科瓦奇")], [#age(20)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2389*], [#delta(-1)],
       [145], [#name("LEE Yearam")], [#age(27)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2389*], [#delta(-1)],
       [146], [#name("阿德里安娜 迪亚兹")], [#age(16)], [#assoc("PUR")], [#right], [#shakehand], [#attack], [*2384*], [#delta(-1)],
       [147], [#name("NIWA Misato")], [#age(23)], [#assoc("JPN")], [?], [?], [?], [*2382*], [#delta(-1)],
       [148], [#name("BAJOR Natalia")], [#age(19)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2377*], [#delta(-6)],
-      [149], [#name("琳达 伯格斯特罗姆")], [#age(21)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2376*], [#delta(-2)],
+      [149], [#name("琳达 伯格斯特隆")], [#age(21)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2376*], [#delta(-2)],
       [150], [#name("CHOI Yelin")], [#age(18)], [#assoc("KOR")], [?], [?], [?], [*2376*], [#delta(-2)],
     )
   )

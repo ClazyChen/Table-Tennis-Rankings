@@ -186,7 +186,7 @@
       [133], [#name("巴斯蒂安 斯蒂格")], [#age(27)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2289*], [#delta(-3)],
       [134], [#name("KONGSGAARD Christian")], [#age(25)], [#assoc("DEN")], [?], [?], [?], [*2282*], [#delta(-2)],
       [135], [#name("SAKAMOTO Ryusuke")], [#age(24)], [#assoc("JPN")], [?], [?], [?], [*2278*], [#delta(-2)],
-      [136], [#name("HABESOHN Daniel")], [#age(22)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2276*], [#delta(-2)],
+      [136], [#name("丹尼尔 哈贝松")], [#age(22)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2276*], [#delta(-2)],
       [137], [#name("HIELSCHER Lars")], [#age(29)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2273*], [#delta(-2)],
       [138], [#name("TSUBOI Gustavo")], [#age(23)], [#assoc("BRA")], [#left], [#shakehand], [#attack], [*2273*], [#delta(-78)],
       [139], [#name("AL-HASAN Ibrahem")], [#age(22)], [#assoc("KUW")], [#right], [#shakehand], [#attack], [*2273*], [#delta(-3)],

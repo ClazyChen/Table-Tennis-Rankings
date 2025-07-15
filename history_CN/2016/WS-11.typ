@@ -157,7 +157,7 @@
       [113], [#name("MANTZ Chantal")], [#age(20)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2442*], [#delta(0)],
       [114], [#name("SO Eka")], [#age(21)], [#assoc("JPN")], [#right], [#penhold], [#attack], [*2439*], [#delta(1)],
       [115], [#name("TASHIRO Saki")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2437*], [#delta(1)],
-      [116], [#name("MATELOVA Hana")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2437*], [#delta(55)],
+      [116], [#name("汉娜 马特洛娃")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2437*], [#delta(55)],
       [117], [#name("范思琦")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2436*], [#delta(1)],
       [118], [#name("CECHOVA Dana")], [#age(33)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2436*], [#delta(17)],
       [119], [#name("GUI Lin")], [#age(23)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2433*], [#delta(0)],

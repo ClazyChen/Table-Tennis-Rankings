@@ -187,7 +187,7 @@
       [134], [#name("DUBKOVA Elena")], [#age(23)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2359*], [#delta(3)],
       [135], [#name("TASHIRO Saki")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2359*], [#delta(3)],
       [136], [#name("KANG Haneul")], [#age(19)], [#assoc("KOR")], [?], [?], [?], [*2358*], [#delta(3)],
-      [137], [#name("MATELOVA Hana")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2357*], [#delta(-17)],
+      [137], [#name("汉娜 马特洛娃")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2357*], [#delta(-17)],
       [138], [#name("MIKHAILOVA Polina")], [#age(28)], [#assoc("RUS")], [#right], [#shakehand], [#defense], [*2353*], [#delta(-11)],
       [139], [#name("SIBLEY Kelly")], [#age(26)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2353*], [#delta(-15)],
       [140], [#name("BOLLMEIER Nadine")], [#age(33)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2351*], [#delta(3)],

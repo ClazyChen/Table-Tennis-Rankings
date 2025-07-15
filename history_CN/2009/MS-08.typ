@@ -215,7 +215,7 @@
       [153], [#name("HAN Jimin")], [#age(20)], [#assoc("KOR")], [?], [?], [?], [*2272*], [#delta(0)],
       [154], [#name("AKHLAGHPASAND Mohammadreza")], [#age(31)], [#assoc("IRI")], [#left], [#shakehand], [#attack], [*2270*], [#delta(0)],
       [155], [#name("ALTO Gaston")], [#age(24)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2270*], [#delta(1)],
-      [156], [#name("HABESOHN Daniel")], [#age(23)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2268*], [#delta(1)],
+      [156], [#name("丹尼尔 哈贝松")], [#age(23)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2268*], [#delta(1)],
       [157], [#name("TAMMINEN Timo")], [#age(21)], [#assoc("FIN")], [?], [?], [?], [*2265*], [#delta(2)],
       [158], [#name("YIN Hang")], [#age(14)], [#assoc("CHN")], [?], [?], [?], [*2263*], [#delta(2)],
       [159], [#name("郑荣植")], [#age(17)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2263*], [#delta(2)],

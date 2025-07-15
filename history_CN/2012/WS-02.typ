@@ -220,7 +220,7 @@
       [158], [#name("GU Ruochen")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2253*], [#delta(-10)],
       [159], [#name("SZCZERKOWSKA Magdalena")], [#age(20)], [#assoc("POL")], [?], [?], [?], [*2251*], [#delta(-13)],
       [160], [#name("MAEDA Miyu")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2251*], [#delta(-11)],
-      [161], [#name("MATELOVA Hana")], [#age(22)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2248*], [#delta(80)],
+      [161], [#name("汉娜 马特洛娃")], [#age(22)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2248*], [#delta(80)],
       [162], [#name("VOROBEVA Olga")], [#age(22)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2248*], [#delta(-11)],
       [163], [#name("TIAN Yuan")], [#age(37)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2246*], [#delta(7)],
       [164], [#name("PERGEL Szandra")], [#age(24)], [#assoc("HUN")], [#left], [#shakehand], [#attack], [*2244*], [#delta(-8)],

@@ -82,7 +82,7 @@
       [56], [#name("金珉锡")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2523*], [#delta(0)],
       [57], [#name("约尔根 佩尔森")], [#age(44)], [#assoc("SWE")], [?], [?], [?], [*2520*], [#delta(0)],
       [58], [#name("尚坤")], [#age(20)], [#assoc("CHN")], [?], [?], [?], [*2519*], [#delta(0)],
-      [59], [#name("HABESOHN Daniel")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2516*], [#delta(141)],
+      [59], [#name("丹尼尔 哈贝松")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2516*], [#delta(141)],
       [60], [#name("韩阳")], [#age(32)], [#assoc("JPN")], [?], [?], [?], [*2515*], [#delta(-1)],
       [61], [#name("卡林尼科斯 格林卡")], [#age(38)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2515*], [#delta(-26)],
       [62], [#name("阿列克谢 斯米尔诺夫")], [#age(33)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2509*], [#delta(-29)],

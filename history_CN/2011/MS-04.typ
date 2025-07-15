@@ -117,7 +117,7 @@
       [82], [#name("CHTCHETININE Evgueni")], [#age(41)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2490*], [#delta(-30)],
       [83], [#name("卢兹扬 布拉斯奇克")], [#age(37)], [#assoc("POL")], [?], [?], [?], [*2490*], [#delta(22)],
       [84], [#name("KEINATH Thomas")], [#age(34)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2490*], [#delta(32)],
-      [85], [#name("HABESOHN Daniel")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2488*], [#delta(-3)],
+      [85], [#name("丹尼尔 哈贝松")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2488*], [#delta(-3)],
       [86], [#name("安德烈 加奇尼")], [#age(25)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2485*], [#delta(-19)],
       [87], [#name("MACHADO Carlos")], [#age(31)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2481*], [#delta(-25)],
       [88], [#name("基里尔 斯卡奇科夫")], [#age(24)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2478*], [#delta(-18)],

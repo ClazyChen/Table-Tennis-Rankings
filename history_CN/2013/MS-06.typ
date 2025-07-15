@@ -178,7 +178,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [126], [#name("夸德里 阿鲁纳")], [#age(25)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2446*], [#delta(21)],
       [127], [#name("DRINKHALL Paul")], [#age(23)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2442*], [#delta(7)],
-      [128], [#name("HABESOHN Daniel")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2440*], [#delta(28)],
+      [128], [#name("丹尼尔 哈贝松")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2440*], [#delta(28)],
       [129], [#name("KASAHARA Hiromitsu")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2440*], [#delta(6)],
       [130], [#name("MADRID Marcos")], [#age(27)], [#assoc("MEX")], [#right], [#shakehand], [#attack], [*2439*], [#delta(49)],
       [131], [#name("亚历山大 卡拉卡谢维奇")], [#age(38)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2435*], [#delta(7)],

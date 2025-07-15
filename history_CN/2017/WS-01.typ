@@ -179,7 +179,7 @@
       [126], [#name("CHENG Hsien-Tzu")], [#age(24)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2428*], [#delta(-1)],
       [127], [#name("JI Eunchae")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2427*], [#delta(-1)],
       [128], [#name("GALIC Alex")], [#age(23)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2427*], [#delta(-1)],
-      [129], [#name("MATELOVA Hana")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2427*], [#delta(0)],
+      [129], [#name("汉娜 马特洛娃")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2427*], [#delta(0)],
       [130], [#name("LAM Yee Lok")], [#age(21)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2427*], [#delta(-2)],
       [131], [#name("BAJOR Natalia")], [#age(20)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2426*], [#delta(-1)],
       [132], [#name("LIN Chia-Hui")], [#age(30)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2425*], [#delta(-1)],

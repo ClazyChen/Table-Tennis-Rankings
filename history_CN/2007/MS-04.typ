@@ -211,7 +211,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [151], [#name("GRIGOREV Artur")], [#age(21)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2205*], [#delta(0)],
-      [152], [#name("HABESOHN Daniel")], [#age(21)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2205*], [#delta(0)],
+      [152], [#name("丹尼尔 哈贝松")], [#age(21)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2205*], [#delta(0)],
       [153], [#name("PAPAGEORGIOU Konstantinos")], [#age(28)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2205*], [#delta(0)],
       [154], [#name("DURAN Marc")], [#age(21)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2204*], [#delta(0)],
       [155], [#name("REDJEP Ronald")], [#age(34)], [#assoc("CRO")], [#left], [#shakehand], [#attack], [*2203*], [#delta(0)],

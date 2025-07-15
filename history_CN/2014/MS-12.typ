@@ -49,7 +49,7 @@
       [32], [#name("西蒙 高兹")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2654*], [#delta(71)],
       [33], [#name("周恺")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2649*], [#delta(-2)],
       [34], [#name("吉村真晴")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2649*], [#delta(13)],
-      [35], [#name("WALTHER Ricardo")], [#age(23)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2649*], [#delta(-14)],
+      [35], [#name("里卡多 瓦尔特")], [#age(23)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2649*], [#delta(-14)],
       [36], [#name("松平健太")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2648*], [#delta(51)],
       [37], [#name("DRINKHALL Paul")], [#age(24)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2643*], [#delta(57)],
       [38], [#name("塩野真人")], [#age(28)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2641*], [#delta(-5)],
@@ -98,7 +98,7 @@
       [72], [#name("陈卫星")], [#age(42)], [#assoc("AUT")], [#right], [#shakehand], [#defense], [*2567*], [#delta(2)],
       [73], [#name("亚历山大 卡拉卡谢维奇")], [#age(39)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2565*], [#delta(2)],
       [74], [#name("MACHI Asuka")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2562*], [#delta(-24)],
-      [75], [#name("HABESOHN Daniel")], [#age(28)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2561*], [#delta(-14)],
+      [75], [#name("丹尼尔 哈贝松")], [#age(28)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2561*], [#delta(-14)],
     )
   )
 #pagebreak()
@@ -254,7 +254,7 @@
       [183], [#name("SALEH Ahmed")], [#age(35)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2414*], [#delta(2)],
       [184], [#name("BAGGALEY Andrew")], [#age(31)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2414*], [#delta(19)],
       [185], [#name("LAM Siu Hang")], [#age(18)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2414*], [#delta(64)],
-      [186], [#name("CASSIN Alexandre")], [#age(16)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2414*], [#delta(0)],
+      [186], [#name("亚历山大 卡辛")], [#age(16)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2414*], [#delta(0)],
       [187], [#name("马蒂亚斯 法尔克")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2413*], [#delta(-5)],
       [188], [#name("TREGLER Tomas")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2410*], [#delta(-19)],
       [189], [#name("AKERSTROM Fabian")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2408*], [#delta(9)],

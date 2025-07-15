@@ -193,7 +193,7 @@
       [140], [#name("UMEMURA Yuka")], [#age(17)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2429*], [#delta(-4)],
       [141], [#name("TIAN Yuan")], [#age(42)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2428*], [#delta(-4)],
       [142], [#name("LIN Chia-Hui")], [#age(30)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2425*], [#delta(-3)],
-      [143], [#name("MATELOVA Hana")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2421*], [#delta(-2)],
+      [143], [#name("汉娜 马特洛娃")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2421*], [#delta(-2)],
       [144], [#name("LIN Chia-Hsuan")], [#age(20)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2421*], [#delta(99)],
       [145], [#name("WU Yue")], [#age(27)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2420*], [#delta(26)],
       [146], [#name("LOEUILLETTE Stephanie")], [#age(25)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2420*], [#delta(-26)],

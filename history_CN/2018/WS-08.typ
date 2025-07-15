@@ -157,7 +157,7 @@
       [113], [#name("MADARASZ Dora")], [#age(25)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2489*], [#delta(2)],
       [114], [#name("KATO Kyoka")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2488*], [#delta(2)],
       [115], [#name("DODEAN Daniela")], [#age(30)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2486*], [#delta(3)],
-      [116], [#name("MATELOVA Hana")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2486*], [#delta(3)],
+      [116], [#name("汉娜 马特洛娃")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2486*], [#delta(3)],
       [117], [#name("ZUO Yue")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2482*], [#delta(3)],
       [118], [#name("早田希娜")], [#age(18)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2477*], [#delta(-65)],
       [119], [#name("TODOROVIC Andrea")], [#age(26)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2477*], [#delta(3)],
@@ -233,7 +233,7 @@
       [171], [#name("WANG Chen")], [#age(44)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2388*], [#delta(-2)],
       [172], [#name("SHCHERBATYKH Valeria")], [#age(20)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2387*], [#delta(-2)],
       [173], [#name("MALOBABIC Ivana")], [#age(38)], [#assoc("CRO")], [#right], [#shakehand], [#defense], [*2386*], [#delta(-1)],
-      [174], [#name("琳达 伯格斯特罗姆")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2385*], [#delta(-1)],
+      [174], [#name("琳达 伯格斯特隆")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2385*], [#delta(-1)],
       [175], [#name("BALINT Bernadett")], [#age(22)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2384*], [#delta(-1)],
     )
   )

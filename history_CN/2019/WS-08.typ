@@ -108,7 +108,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [76], [#name("琳达 伯格斯特罗姆")], [#age(24)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2576*], [#delta(-5)],
+      [76], [#name("琳达 伯格斯特隆")], [#age(24)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2576*], [#delta(-5)],
       [77], [#name("MADARASZ Dora")], [#age(26)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2569*], [#delta(2)],
       [78], [#name("小盐遥菜")], [#age(14)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2568*], [#delta(2)],
       [79], [#name("CHENG Hsien-Tzu")], [#age(26)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2566*], [#delta(-7)],
@@ -122,7 +122,7 @@
       [87], [#name("索菲亚 波尔卡诺娃")], [#age(25)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2553*], [#delta(1)],
       [88], [#name("李佼")], [#age(46)], [#assoc("NED")], [#left], [#penhold], [#attack], [*2552*], [#delta(2)],
       [89], [#name("NARUMOTO Ayami")], [#age(24)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2551*], [#delta(2)],
-      [90], [#name("MATELOVA Hana")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2544*], [#delta(-6)],
+      [90], [#name("汉娜 马特洛娃")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2544*], [#delta(-6)],
       [91], [#name("玛妮卡 巴特拉")], [#age(24)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2542*], [#delta(46)],
       [92], [#name("DOLGIKH Maria")], [#age(32)], [#assoc("RUS")], [#right], [#shakehand], [#defense], [*2538*], [#delta(1)],
       [93], [#name("张安")], [#age(23)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2535*], [#delta(1)],

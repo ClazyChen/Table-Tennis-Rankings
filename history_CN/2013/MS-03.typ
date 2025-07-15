@@ -122,7 +122,7 @@
       [87], [#name("吉田海伟")], [#age(32)], [#assoc("JPN")], [#right], [#penhold], [#attack], [*2504*], [#delta(-1)],
       [88], [#name("ZWICKL Daniel")], [#age(29)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2501*], [#delta(0)],
       [89], [#name("MONTEIRO Joao")], [#age(30)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2500*], [#delta(1)],
-      [90], [#name("HABESOHN Daniel")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2500*], [#delta(55)],
+      [90], [#name("丹尼尔 哈贝松")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2500*], [#delta(55)],
       [91], [#name("ACHANTA Sharath")], [#age(31)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2499*], [#delta(-28)],
       [92], [#name("LEGOUT Christophe")], [#age(40)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2497*], [#delta(36)],
       [93], [#name("卢文 菲鲁斯")], [#age(25)], [#assoc("GER")], [#right], [#shakehand], [#defense], [*2496*], [#delta(-1)],

@@ -181,7 +181,7 @@
       [128], [#name("PERGEL Szandra")], [#age(30)], [#assoc("HUN")], [#left], [#shakehand], [#attack], [*2461*], [#delta(59)],
       [129], [#name("ZAHARIA Alina")], [#age(21)], [#assoc("ROU")], [#right], [#shakehand], [#defense], [*2460*], [#delta(-20)],
       [130], [#name("SU Pei-Ling")], [#age(18)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2459*], [#delta(-14)],
-      [131], [#name("琳达 伯格斯特罗姆")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2456*], [#delta(-3)],
+      [131], [#name("琳达 伯格斯特隆")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2456*], [#delta(-3)],
       [132], [#name("NOSKOVA Yana")], [#age(24)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2455*], [#delta(5)],
       [133], [#name("YUAN Yuan")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2453*], [#delta(-7)],
       [134], [#name("NARUMOTO Ayami")], [#age(23)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2452*], [#delta(-7)],
@@ -200,7 +200,7 @@
       [147], [#name("GASNIER Laura")], [#age(25)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2433*], [#delta(0)],
       [148], [#name("LEE Ka Yee")], [#age(16)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2431*], [#delta(-15)],
       [149], [#name("邵杰妮")], [#age(24)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2426*], [#delta(-18)],
-      [150], [#name("MATELOVA Hana")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2425*], [#delta(-31)],
+      [150], [#name("汉娜 马特洛娃")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2425*], [#delta(-31)],
     )
   )
 #pagebreak()

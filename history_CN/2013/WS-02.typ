@@ -186,7 +186,7 @@
       [133], [#name("PRIVALOVA Alexandra")], [#age(26)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2343*], [#delta(12)],
       [134], [#name("张蔷")], [#age(19)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2341*], [#delta(-7)],
       [135], [#name("加藤美优")], [#age(14)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2338*], [#delta(-7)],
-      [136], [#name("MATELOVA Hana")], [#age(23)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2338*], [#delta(6)],
+      [136], [#name("汉娜 马特洛娃")], [#age(23)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2338*], [#delta(6)],
       [137], [#name("GASNIER Laura")], [#age(20)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2336*], [#delta(108)],
       [138], [#name("MATSUMOTO Yuki")], [#age(20)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2335*], [#delta(43)],
       [139], [#name("CHOI Jeongmin")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2330*], [#delta(-61)],
@@ -267,7 +267,7 @@
       [196], [#name("LI Karen")], [#age(36)], [#assoc("NZL")], [?], [?], [?], [*2232*], [#delta(1)],
       [197], [#name("DEDERKO Zhenhua")], [#age(36)], [#assoc("AUS")], [#right], [#shakehand], [#attack], [*2232*], [#delta(1)],
       [198], [#name("KITAOKA Eriko")], [#age(22)], [#assoc("JPN")], [?], [?], [?], [*2230*], [#delta(1)],
-      [199], [#name("RAKOVAC Lea")], [#age(17)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2230*], [#delta(-44)],
+      [199], [#name("莱娅 拉科瓦奇")], [#age(17)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2230*], [#delta(-44)],
       [200], [#name("LIU Na")], [#age(30)], [#assoc("IRL")], [?], [?], [?], [*2229*], [#delta(1)],
     )
   )

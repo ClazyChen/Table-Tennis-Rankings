@@ -213,7 +213,7 @@
       [151], [#name("MAEDA Miyu")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2302*], [#delta(13)],
       [152], [#name("AMBRUS Krisztina")], [#age(20)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2300*], [#delta(1)],
       [153], [#name("FETUKHINA Margarita")], [#age(24)], [#assoc("RUS")], [?], [?], [?], [*2299*], [#delta(1)],
-      [154], [#name("RAKOVAC Lea")], [#age(16)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2294*], [#delta(49)],
+      [154], [#name("莱娅 拉科瓦奇")], [#age(16)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2294*], [#delta(49)],
       [155], [#name("TROSMAN Nicole")], [#age(16)], [#assoc("ISR")], [#right], [#shakehand], [#attack], [*2293*], [#delta(-8)],
       [156], [#name("李佳燚")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2290*], [#delta(50)],
       [157], [#name("PROKHOROVA Yulia")], [#age(25)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2288*], [#delta(0)],

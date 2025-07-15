@@ -96,7 +96,7 @@
       [70], [#name("DRINKHALL Paul")], [#age(20)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2485*], [#delta(28)],
       [71], [#name("MACHADO Carlos")], [#age(30)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2485*], [#delta(-2)],
       [72], [#name("KUZMIN Fedor")], [#age(27)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2483*], [#delta(-20)],
-      [73], [#name("HABESOHN Daniel")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2480*], [#delta(-19)],
+      [73], [#name("丹尼尔 哈贝松")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2480*], [#delta(-19)],
       [74], [#name("金赫峰")], [#age(25)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2479*], [#delta(-21)],
       [75], [#name("丹羽孝希")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2478*], [#delta(2)],
     )

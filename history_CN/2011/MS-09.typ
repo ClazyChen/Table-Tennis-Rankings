@@ -86,7 +86,7 @@
       [60], [#name("RUBTSOV Igor")], [#age(31)], [#assoc("RUS")], [?], [?], [?], [*2543*], [#delta(-13)],
       [61], [#name("马克斯 弗雷塔斯")], [#age(23)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2542*], [#delta(-3)],
       [62], [#name("SALIFOU Abdel-Kader")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2540*], [#delta(27)],
-      [63], [#name("HABESOHN Daniel")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2540*], [#delta(22)],
+      [63], [#name("丹尼尔 哈贝松")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2540*], [#delta(22)],
       [64], [#name("谭瑞午")], [#age(28)], [#assoc("CRO")], [#left], [#shakehand], [#attack], [*2540*], [#delta(-5)],
       [65], [#name("GORAK Daniel")], [#age(28)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2540*], [#delta(-5)],
       [66], [#name("克里斯蒂安 苏斯")], [#age(26)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2538*], [#delta(-5)],

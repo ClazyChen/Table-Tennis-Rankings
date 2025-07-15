@@ -156,7 +156,7 @@
       [112], [#name("LOVAS Petra")], [#age(34)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2442*], [#delta(-17)],
       [113], [#name("STRBIKOVA Renata")], [#age(35)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2439*], [#delta(-20)],
       [114], [#name("LEE Dasom")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2436*], [#delta(-3)],
-      [115], [#name("RAKOVAC Lea")], [#age(18)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2431*], [#delta(81)],
+      [115], [#name("莱娅 拉科瓦奇")], [#age(18)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2431*], [#delta(81)],
       [116], [#name("PENKAVOVA Katerina")], [#age(27)], [#assoc("CZE")], [#left], [#shakehand], [#attack], [*2427*], [#delta(39)],
       [117], [#name("PROKHOROVA Yulia")], [#age(27)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2422*], [#delta(-4)],
       [118], [#name("GRUNDISCH Carole")], [#age(28)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2417*], [#delta(2)],
@@ -210,7 +210,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [151], [#name("MATELOVA Hana")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2353*], [#delta(6)],
+      [151], [#name("汉娜 马特洛娃")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2353*], [#delta(6)],
       [152], [#name("ISHIZUKA Miwako")], [#age(27)], [#assoc("JPN")], [?], [?], [?], [*2351*], [#delta(221)],
       [153], [#name("HAPONOVA Hanna")], [#age(29)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2351*], [#delta(-24)],
       [154], [#name("KANG Haneul")], [#age(19)], [#assoc("KOR")], [?], [?], [?], [*2350*], [#delta(-5)],

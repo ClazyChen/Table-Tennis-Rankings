@@ -48,7 +48,7 @@
       [31], [#name("西蒙 高兹")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2654*], [#delta(1)],
       [32], [#name("周恺")], [#age(19)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2649*], [#delta(1)],
       [33], [#name("吉村真晴")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2649*], [#delta(1)],
-      [34], [#name("WALTHER Ricardo")], [#age(24)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2649*], [#delta(1)],
+      [34], [#name("里卡多 瓦尔特")], [#age(24)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2649*], [#delta(1)],
       [35], [#name("松平健太")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2648*], [#delta(1)],
       [36], [#name("塩野真人")], [#age(29)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2641*], [#delta(2)],
       [37], [#name("詹斯 伦德奎斯特")], [#age(36)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2639*], [#delta(2)],
@@ -97,7 +97,7 @@
       [71], [#name("塞德里克 纽廷克")], [#age(22)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2567*], [#delta(0)],
       [72], [#name("陈卫星")], [#age(43)], [#assoc("AUT")], [#right], [#shakehand], [#defense], [*2567*], [#delta(0)],
       [73], [#name("亚历山大 卡拉卡谢维奇")], [#age(40)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2565*], [#delta(0)],
-      [74], [#name("HABESOHN Daniel")], [#age(29)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2561*], [#delta(1)],
+      [74], [#name("丹尼尔 哈贝松")], [#age(29)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2561*], [#delta(1)],
       [75], [#name("陈建安")], [#age(24)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2560*], [#delta(1)],
     )
   )
@@ -234,7 +234,7 @@
       [172], [#name("岸川圣也")], [#age(28)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2424*], [#delta(1)],
       [173], [#name("LEGOUT Christophe")], [#age(42)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2424*], [#delta(1)],
       [174], [#name("TAZOE Kenta")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2423*], [#delta(-55)],
-      [175], [#name("CASSIN Alexandre")], [#age(17)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2422*], [#delta(11)],
+      [175], [#name("亚历山大 卡辛")], [#age(17)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2422*], [#delta(11)],
     )
   )
 #pagebreak()
