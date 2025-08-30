@@ -75,7 +75,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [51], [#name("索菲亚 波尔卡诺娃")], [#age(27)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2575*], [#delta(10)],
-      [52], [#name("ABRAAMIAN Elizabet")], [#age(18)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2561*], [#delta(40)],
+      [52], [#name("伊丽莎白 阿布拉米安")], [#age(18)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2561*], [#delta(40)],
       [53], [#name("倪夏莲")], [#age(58)], [#assoc("LUX")], [#left], [#penhold], [#attack], [*2559*], [#delta(-9)],
       [54], [#name("琳达 伯格斯特隆")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2557*], [#delta(0)],
       [55], [#name("PESOTSKA Margaryta")], [#age(30)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2554*], [#delta(-13)],

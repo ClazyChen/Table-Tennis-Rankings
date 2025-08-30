@@ -260,7 +260,7 @@
       [189], [#name("JOUTI Eric")], [#age(27)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2420*], [#delta(0)],
       [190], [#name("RASMUSSEN Tobias")], [#age(25)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2420*], [#delta(0)],
       [191], [#name("BOULOUSSA Mehdi")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2419*], [#delta(-15)],
-      [192], [#name("BARDET Lilian")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2415*], [#delta(0)],
+      [192], [#name("力廉 巴德")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2415*], [#delta(0)],
       [193], [#name("OBESLO Michal")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2413*], [#delta(0)],
       [194], [#name("SURAVAJJULA Snehit")], [#age(21)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2411*], [#delta(-15)],
       [195], [#name("BAEK Kwangil")], [#age(28)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2409*], [#delta(0)],

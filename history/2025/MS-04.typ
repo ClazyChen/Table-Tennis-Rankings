@@ -265,7 +265,7 @@
       [194], [#name("CHOI Inhyeok")], [#age(25)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2480*], [#delta(61)],
       [195], [#name("WANG Eugene")], [#age(40)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2478*], [#delta(2)],
       [196], [#name("HAM Yu Song")], [#age(26)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2478*], [#delta(2)],
-      [197], [#name("BOURRASSAUD Florian")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2475*], [#delta(83)],
+      [197], [#name("BOURRASSAUD Florian")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2475*], [#delta(82)],
       [198], [#name("ALLEGRO Martin")], [#age(29)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2475*], [#delta(-7)],
       [199], [#name("ALAMIAN Nima")], [#age(33)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2473*], [#delta(0)],
       [200], [#name("ISHIY Vitor")], [#age(30)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2472*], [#delta(0)],

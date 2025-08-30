@@ -233,7 +233,7 @@
       [171], [#name("RASSENFOSSE Adrien")], [#age(19)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2414*], [#delta(2)],
       [172], [#name("OBESLO Michal")], [#age(33)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2413*], [#delta(2)],
       [173], [#name("TAO Wenzhang")], [#age(28)], [#assoc("USA")], [#right], [#penhold], [#attack], [*2412*], [#delta(35)],
-      [174], [#name("CHIRITA Iulian")], [#age(16)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2410*], [#delta(-2)],
+      [174], [#name("尤利安 奇里塔")], [#age(16)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2410*], [#delta(-2)],
       [175], [#name("BAEK Kwangil")], [#age(29)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2409*], [#delta(0)],
     )
   )
@@ -253,7 +253,7 @@
       [182], [#name("HO Kwan Kit")], [#age(25)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2402*], [#delta(0)],
       [183], [#name("GUNDUZ Ibrahim")], [#age(25)], [#assoc("TUR")], [#left], [#shakehand], [#attack], [*2399*], [#delta(2)],
       [184], [#name("HODAEI Amir Hossein")], [#age(24)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2396*], [#delta(2)],
-      [185], [#name("BARDET Lilian")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2392*], [#delta(2)],
+      [185], [#name("力廉 巴德")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2392*], [#delta(2)],
       [186], [#name("LAKATOS Tamas")], [#age(27)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2391*], [#delta(2)],
       [187], [#name("KOZUL Deni")], [#age(25)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2387*], [#delta(3)],
       [188], [#name("黄彦诚")], [#age(19)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2387*], [#delta(3)],

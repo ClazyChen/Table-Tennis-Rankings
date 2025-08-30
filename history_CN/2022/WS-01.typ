@@ -78,7 +78,7 @@
       [52], [#name("郑怡静")], [#age(30)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2610*], [#delta(-7)],
       [53], [#name("陈思羽")], [#age(29)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2581*], [#delta(1)],
       [54], [#name("张安")], [#age(26)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2563*], [#delta(1)],
-      [55], [#name("ABRAAMIAN Elizabet")], [#age(19)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2562*], [#delta(2)],
+      [55], [#name("伊丽莎白 阿布拉米安")], [#age(19)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2562*], [#delta(2)],
       [56], [#name("王 艾米")], [#age(20)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2558*], [#delta(-3)],
       [57], [#name("刘杨子")], [#age(20)], [#assoc("AUS")], [#right], [#shakehand], [#attack], [*2557*], [#delta(19)],
       [58], [#name("DE NUTTE Sarah")], [#age(30)], [#assoc("LUX")], [#right], [#shakehand], [#attack], [*2555*], [#delta(-2)],

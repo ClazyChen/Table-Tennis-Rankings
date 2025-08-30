@@ -80,7 +80,7 @@
       [54], [#name("陈思羽")], [#age(28)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2581*], [#delta(0)],
       [55], [#name("张安")], [#age(25)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2563*], [#delta(18)],
       [56], [#name("DE NUTTE Sarah")], [#age(29)], [#assoc("LUX")], [#right], [#shakehand], [#attack], [*2555*], [#delta(53)],
-      [57], [#name("ABRAAMIAN Elizabet")], [#age(18)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2551*], [#delta(5)],
+      [57], [#name("伊丽莎白 阿布拉米安")], [#age(18)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2551*], [#delta(5)],
       [58], [#name("LAY Jian Fang")], [#age(48)], [#assoc("AUS")], [#right], [#penhold], [#attack], [*2545*], [#delta(-3)],
       [59], [#name("李恩惠")], [#age(26)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2545*], [#delta(-3)],
       [60], [#name("BALAZOVA Barbora")], [#age(29)], [#assoc("SVK")], [#left], [#shakehand], [#attack], [*2539*], [#delta(60)],

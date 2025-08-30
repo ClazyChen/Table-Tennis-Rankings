@@ -257,7 +257,7 @@
       [186], [#name("RASMUSSEN Tobias")], [#age(25)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2420*], [#delta(6)],
       [187], [#name("GREBNEV Maksim")], [#age(19)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2418*], [#delta(7)],
       [188], [#name("PISTEJ Lubomir")], [#age(37)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2417*], [#delta(-10)],
-      [189], [#name("BARDET Lilian")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2415*], [#delta(52)],
+      [189], [#name("力廉 巴德")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2415*], [#delta(52)],
       [190], [#name("易卜拉欣 迪阿夫")], [#age(29)], [#assoc("SEN")], [#right], [#shakehand], [#attack], [*2414*], [#delta(-81)],
       [191], [#name("OBESLO Michal")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2413*], [#delta(2)],
       [192], [#name("艾利克斯 勒布伦")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2410*], [#delta(4)],

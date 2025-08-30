@@ -257,7 +257,7 @@
       [186], [#name("VERMAAS Kim")], [#age(24)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2296*], [#delta(4)],
       [187], [#name("LUPULESKU Izabela")], [#age(21)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2294*], [#delta(6)],
       [188], [#name("PASKAUSKIENE Ruta")], [#age(43)], [#assoc("LTU")], [#right], [#shakehand], [#attack], [*2293*], [#delta(6)],
-      [189], [#name("ABRAAMIAN Elizabet")], [#age(17)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2293*], [#delta(6)],
+      [189], [#name("伊丽莎白 阿布拉米安")], [#age(17)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2293*], [#delta(6)],
       [190], [#name("KLEE Sophia")], [#age(17)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2290*], [#delta(7)],
       [191], [#name("HARAC Ece")], [#age(18)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2288*], [#delta(7)],
       [192], [#name("JOKIC Tijana")], [#age(20)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2288*], [#delta(7)],

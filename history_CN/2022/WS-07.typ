@@ -245,7 +245,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [176], [#name("FONSECA Daniela")], [#age(20)], [#assoc("CUB")], [#left], [#shakehand], [#attack], [*2281*], [#delta(-6)],
-      [177], [#name("AOKI Sachi")], [#age(15)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2280*], [#delta(-5)],
+      [177], [#name("青木咲智")], [#age(15)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2280*], [#delta(-5)],
       [178], [#name("BERGAND Filippa")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2273*], [#delta(-15)],
       [179], [#name("CHOI Haeeun")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2272*], [#delta(-3)],
       [180], [#name("SCHREINER Franziska")], [#age(21)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2267*], [#delta(-6)],

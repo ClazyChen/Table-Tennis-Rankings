@@ -130,7 +130,7 @@
       [95], [#name("PISTEJ Lubomir")], [#age(40)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2582*], [#delta(45)],
       [96], [#name("神巧也")], [#age(31)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2580*], [#delta(1)],
       [97], [#name("MUTTI Matteo")], [#age(24)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2580*], [#delta(-25)],
-      [98], [#name("BARDET Lilian")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2577*], [#delta(73)],
+      [98], [#name("力廉 巴德")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2577*], [#delta(73)],
       [99], [#name("AKKUZU Can")], [#age(27)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2577*], [#delta(50)],
       [100], [#name("严升")], [#age(27)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2576*], [#delta(0)],
     )
@@ -153,7 +153,7 @@
       [109], [#name("LAKATOS Tamas")], [#age(29)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2554*], [#delta(4)],
       [110], [#name("蒂亚戈 阿波罗尼亚")], [#age(38)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2553*], [#delta(-6)],
       [111], [#name("贝内德克 奥拉")], [#age(33)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2553*], [#delta(-8)],
-      [112], [#name("黄彦诚")], [#age(21)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2552*], [#delta(154)],
+      [112], [#name("黄彦诚")], [#age(21)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2552*], [#delta(152)],
       [113], [#name("MATSUYAMA Yuki")], [#age(26)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2552*], [#delta(1)],
       [114], [#name("吴晙诚")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2551*], [#delta(-47)],
       [115], [#name("MONTEIRO Joao")], [#age(41)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2550*], [#delta(-9)],
@@ -186,7 +186,7 @@
       [133], [#name("LAM Siu Hang")], [#age(28)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2530*], [#delta(-55)],
       [134], [#name("孙杨")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2529*], [#delta(-1)],
       [135], [#name("孙正")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2529*], [#delta(-1)],
-      [136], [#name("CHAN Baldwin")], [#age(20)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2529*], [#delta(84)],
+      [136], [#name("陈颢桦")], [#age(20)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2529*], [#delta(84)],
       [137], [#name("汪洋")], [#age(30)], [#assoc("SVK")], [#right], [#shakehand], [#defense], [*2528*], [#delta(-50)],
       [138], [#name("GNANASEKARAN Sathiyan")], [#age(31)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2528*], [#delta(16)],
       [139], [#name("RUIZ Romain")], [#age(27)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2528*], [#delta(-24)],
@@ -268,6 +268,6 @@
       [197], [#name("SEYFRIED Joe")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2461*], [#delta(-4)],
       [198], [#name("LEVAJAC Dimitrije")], [#age(23)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2461*], [#delta(-69)],
       [199], [#name("ELBEIALI Mohamed")], [#age(36)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2458*], [#delta(-56)],
-      [200], [#name("CHIRITA Iulian")], [#age(18)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2458*], [#delta(-4)],
+      [200], [#name("尤利安 奇里塔")], [#age(18)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2458*], [#delta(-4)],
     )
   )

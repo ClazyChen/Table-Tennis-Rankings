@@ -268,6 +268,6 @@
       [197], [#name("AGUIRRE Marcelo")], [#age(28)], [#assoc("PAR")], [#left], [#shakehand], [#attack], [*2397*], [#delta(-67)],
       [198], [#name("KOZUL Deni")], [#age(24)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2396*], [#delta(2)],
       [199], [#name("PORET Thibault")], [#age(17)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2395*], [#delta(5)],
-      [200], [#name("BARDET Lilian")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2392*], [#delta(-8)],
+      [200], [#name("力廉 巴德")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2392*], [#delta(-8)],
     )
   )

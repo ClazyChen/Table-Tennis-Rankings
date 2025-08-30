@@ -218,7 +218,7 @@
       [156], [#name("BOULOUSSA Mehdi")], [#age(28)], [#assoc("ALG")], [#right], [#shakehand], [#attack], [*2471*], [#delta(37)],
       [157], [#name("AGUIRRE Marcelo")], [#age(30)], [#assoc("PAR")], [#left], [#shakehand], [#attack], [*2470*], [#delta(14)],
       [158], [#name("MOVILEANU Darius")], [#age(18)], [#assoc("ROU")], [#left], [#shakehand], [#attack], [*2470*], [#delta(0)],
-      [159], [#name("POLANSKY Tomas")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2469*], [#delta(67)],
+      [159], [#name("POLANSKY Tomas")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2469*], [#delta(65)],
       [160], [#name("BERTRAND Irvin")], [#age(23)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2469*], [#delta(-1)],
       [161], [#name("YEH Chih-Wei")], [#age(33)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2468*], [NEW],
       [162], [#name("LORENZO Santiago")], [#age(22)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2465*], [#delta(-18)],

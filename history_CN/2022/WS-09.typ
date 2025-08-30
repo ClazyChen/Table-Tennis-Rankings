@@ -231,7 +231,7 @@
       [169], [#name("朱思冰")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2287*], [#delta(-21)],
       [170], [#name("YAMADA Jessica")], [#age(33)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2287*], [#delta(-1)],
       [171], [#name("FONSECA Daniela")], [#age(20)], [#assoc("CUB")], [#left], [#shakehand], [#attack], [*2281*], [#delta(4)],
-      [172], [#name("AOKI Sachi")], [#age(15)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2280*], [#delta(4)],
+      [172], [#name("青木咲智")], [#age(15)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2280*], [#delta(4)],
       [173], [#name("LUPULESKU Izabela")], [#age(23)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2278*], [#delta(-13)],
       [174], [#name("安娜 赫西")], [#age(16)], [#assoc("WAL")], [#right], [#shakehand], [#attack], [*2277*], [#delta(-1)],
       [175], [#name("GOI Rui Xuan")], [#age(21)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2275*], [#delta(-4)],

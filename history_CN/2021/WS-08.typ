@@ -124,7 +124,7 @@
       [89], [#name("苏蒂尔塔 穆克吉")], [#age(26)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2463*], [#delta(0)],
       [90], [#name("SHCHERBATYKH Valeria")], [#age(23)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2462*], [#delta(0)],
       [91], [#name("伯纳黛特 斯佐科斯")], [#age(26)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2461*], [#delta(0)],
-      [92], [#name("ABRAAMIAN Elizabet")], [#age(18)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2457*], [#delta(26)],
+      [92], [#name("伊丽莎白 阿布拉米安")], [#age(18)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2457*], [#delta(26)],
       [93], [#name("高桥 布鲁娜")], [#age(21)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2456*], [#delta(-1)],
       [94], [#name("CIOBANU Irina")], [#age(26)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2455*], [#delta(-1)],
       [95], [#name("肖瑶茜")], [#age(27)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2453*], [#delta(-1)],

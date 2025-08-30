@@ -254,7 +254,7 @@
       [183], [#name("GUNDUZ Ibrahim")], [#age(25)], [#assoc("TUR")], [#left], [#shakehand], [#attack], [*2399*], [#delta(-21)],
       [184], [#name("HODAEI Amir Hossein")], [#age(24)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2396*], [#delta(60)],
       [185], [#name("KUBIK Maciej")], [#age(19)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2394*], [#delta(21)],
-      [186], [#name("BARDET Lilian")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2392*], [#delta(9)],
+      [186], [#name("力廉 巴德")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2392*], [#delta(9)],
       [187], [#name("LAKATOS Tamas")], [#age(27)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2391*], [#delta(-13)],
       [188], [#name("STOYANOV Niagol")], [#age(35)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2389*], [#delta(-31)],
       [189], [#name("KOZUL Deni")], [#age(25)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2387*], [#delta(2)],

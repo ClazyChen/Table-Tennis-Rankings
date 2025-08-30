@@ -244,7 +244,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [176], [#name("AOKI Sachi")], [#age(15)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2280*], [#delta(1)],
+      [176], [#name("青木咲智")], [#age(15)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2280*], [#delta(1)],
       [177], [#name("BERGAND Filippa")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2273*], [#delta(1)],
       [178], [#name("CHOI Haeeun")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2272*], [#delta(1)],
       [179], [#name("CHAU Wing Sze")], [#age(20)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2268*], [#delta(-13)],

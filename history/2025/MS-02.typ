@@ -163,7 +163,7 @@
       [119], [#name("ZHAO Zihao")], [#age(28)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2553*], [#delta(-2)],
       [120], [#name("MATSUYAMA Yuki")], [#age(27)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2552*], [#delta(-2)],
       [121], [#name("BERTELSMEIER Andre")], [#age(20)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2551*], [#delta(-2)],
-      [122], [#name("POLANSKY Tomas")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2546*], [#delta(266)],
+      [122], [#name("POLANSKY Tomas")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2546*], [#delta(263)],
       [123], [#name("DORR Esteban")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2545*], [#delta(-2)],
       [124], [#name("HACHARD Antoine")], [#age(31)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2545*], [#delta(-2)],
       [125], [#name("SALIFOU Abdel-Kader")], [#age(36)], [#assoc("BEN")], [#right], [#shakehand], [#attack], [*2545*], [#delta(-2)],

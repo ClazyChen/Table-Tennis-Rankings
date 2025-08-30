@@ -267,7 +267,7 @@
       [196], [#name("SUZUKI Hayate")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2444*], [#delta(3)],
       [197], [#name("WANG Eugene")], [#age(39)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2443*], [#delta(-118)],
       [198], [#name("BERTELSMEIER Andre")], [#age(19)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2440*], [#delta(23)],
-      [199], [#name("JEVTOVIC Marko")], [#age(37)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2439*], [#delta(56)],
+      [199], [#name("JEVTOVIC Marko")], [#age(37)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2439*], [#delta(55)],
       [200], [#name("ELBEIALI Mohamed")], [#age(36)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2439*], [#delta(-23)],
     )
   )

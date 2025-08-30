@@ -268,6 +268,6 @@
       [197], [#name("BAN Ivor")], [#age(19)], [#assoc("CRO")], [#left], [#shakehand], [#attack], [*2399*], [#delta(-8)],
       [198], [#name("HO Kwan Kit")], [#age(25)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2397*], [#delta(-8)],
       [199], [#name("BAEK Kwangil")], [#age(29)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2392*], [#delta(-16)],
-      [200], [#name("BARDET Lilian")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2392*], [#delta(-6)],
+      [200], [#name("力廉 巴德")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2392*], [#delta(-6)],
     )
   )

@@ -163,7 +163,7 @@
       [119], [#name("ANDRAS Csaba")], [#age(21)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2532*], [#delta(0)],
       [120], [#name("ALAMIAN Nima")], [#age(31)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2531*], [#delta(0)],
       [121], [#name("PICARD Vincent")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2528*], [#delta(-9)],
-      [122], [#name("PARK Gyeongtae")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2528*], [#delta(153)],
+      [122], [#name("PARK Gyeongtae")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2528*], [#delta(151)],
       [123], [#name("MONTEIRO Joao")], [#age(40)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2525*], [#delta(64)],
       [124], [#name("LAMBIET Florent")], [#age(28)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2522*], [#delta(-3)],
       [125], [#name("YOSHIYAMA Ryoichi")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2522*], [#delta(-2)],
@@ -258,7 +258,7 @@
       [187], [#name("ABDELAZIZ Youssef")], [#age(23)], [#assoc("EGY")], [#left], [#shakehand], [#attack], [*2437*], [#delta(-2)],
       [188], [#name("SONE Kakeru")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2434*], [#delta(0)],
       [189], [#name("MLADENOVIC Luka")], [#age(25)], [#assoc("LUX")], [#right], [#shakehand], [#attack], [*2434*], [#delta(-23)],
-      [190], [#name("MA Jinbao")], [#age(23)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2434*], [#delta(89)],
+      [190], [#name("MA Jinbao")], [#age(23)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2434*], [#delta(87)],
       [191], [#name("KOJIC Frane")], [#age(31)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2430*], [#delta(-2)],
       [192], [#name("JEVTOVIC Marko")], [#age(36)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2429*], [#delta(-2)],
       [193], [#name("CHOI Inhyeok")], [#age(23)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2426*], [#delta(-1)],
@@ -268,6 +268,6 @@
       [197], [#name("LORENZO Santiago")], [#age(22)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2418*], [#delta(-22)],
       [198], [#name("BAN Ivor")], [#age(20)], [#assoc("CRO")], [#left], [#shakehand], [#attack], [*2417*], [#delta(-3)],
       [199], [#name("CHANDRA Jeet")], [#age(23)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2416*], [#delta(-3)],
-      [200], [#name("AGUIRRE Marcelo")], [#age(30)], [#assoc("PAR")], [#left], [#shakehand], [#attack], [*2413*], [#delta(12)],
+      [200], [#name("AGUIRRE Marcelo")], [#age(30)], [#assoc("PAR")], [#left], [#shakehand], [#attack], [*2413*], [#delta(11)],
     )
   )

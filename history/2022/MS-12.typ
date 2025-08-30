@@ -264,10 +264,10 @@
       [193], [#name("AHMADIAN Amin")], [#age(21)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2400*], [#delta(4)],
       [194], [#name("MUTTI Matteo")], [#age(22)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2400*], [#delta(41)],
       [195], [#name("LIANG Jishan")], [#age(31)], [#assoc("USA")], [#left], [#shakehand], [#attack], [*2399*], [#delta(-2)],
-      [196], [#name("ALGUETTI Sharon")], [#age(21)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2398*], [#delta(16)],
-      [197], [#name("GRELA Artur")], [#age(22)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2397*], [#delta(56)],
-      [198], [#name("JOUTI Eric")], [#age(28)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2396*], [#delta(-19)],
-      [199], [#name("BURGOS Nicolas")], [#age(21)], [#assoc("CHI")], [#right], [#shakehand], [#attack], [*2395*], [#delta(-18)],
-      [200], [#name("KWAN Man Ho")], [#age(24)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2393*], [#delta(-14)],
+      [196], [#name("GRELA Artur")], [#age(22)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2397*], [#delta(57)],
+      [197], [#name("JOUTI Eric")], [#age(28)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2396*], [#delta(-18)],
+      [198], [#name("BURGOS Nicolas")], [#age(21)], [#assoc("CHI")], [#right], [#shakehand], [#attack], [*2395*], [#delta(-17)],
+      [199], [#name("KWAN Man Ho")], [#age(24)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2393*], [#delta(-13)],
+      [200], [#name("MOVILEANU Darius")], [#age(17)], [#assoc("ROU")], [#left], [#shakehand], [#attack], [*2390*], [#delta(-29)],
     )
   )

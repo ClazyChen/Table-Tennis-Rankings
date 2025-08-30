@@ -231,7 +231,7 @@
       [169], [#name("PAVLOVIC Andrea")], [#age(22)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2282*], [#delta(-2)],
       [170], [#name("FONSECA Daniela")], [#age(20)], [#assoc("CUB")], [#left], [#shakehand], [#attack], [*2281*], [#delta(-2)],
       [171], [#name("CAREY Charlotte")], [#age(26)], [#assoc("GBR")], [#left], [#shakehand], [#attack], [*2280*], [#delta(-2)],
-      [172], [#name("AOKI Sachi")], [#age(15)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2280*], [#delta(84)],
+      [172], [#name("青木咲智")], [#age(15)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2280*], [#delta(84)],
       [173], [#name("WEGRZYN Anna")], [#age(21)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2278*], [#delta(-2)],
       [174], [#name("SCHREINER Franziska")], [#age(21)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2275*], [#delta(-1)],
       [175], [#name("KUKULKOVA Tatiana")], [#age(22)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2273*], [#delta(-1)],

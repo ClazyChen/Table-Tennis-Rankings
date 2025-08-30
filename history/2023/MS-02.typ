@@ -176,7 +176,7 @@
     table(
       columns: 9,
       [\#], [Player],[Age], [Assoc.],  [Hand], [Grip], [Style], [Rating], [$Delta$],
-      [126], [#name("HO Kwan Kit")], [#age(26)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2511*], [#delta(85)],
+      [126], [#name("HO Kwan Kit")], [#age(26)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2511*], [#delta(84)],
       [127], [#name("CIFUENTES Horacio")], [#age(25)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2506*], [#delta(-7)],
       [128], [#name("THAKKAR Manav")], [#age(23)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2506*], [#delta(-9)],
       [129], [#name("ALAMIAN Nima")], [#age(31)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2506*], [#delta(19)],
@@ -200,7 +200,7 @@
       [147], [#name("OLAH Benedek")], [#age(32)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2473*], [#delta(-8)],
       [148], [#name("SONE Kakeru")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2471*], [#delta(-5)],
       [149], [#name("REMBERT Bastien")], [#age(23)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2471*], [#delta(-5)],
-      [150], [#name("ECSEKI Nandor")], [#age(27)], [#assoc("HUN")], [#left], [#shakehand], [#attack], [*2469*], [#delta(67)],
+      [150], [#name("ECSEKI Nandor")], [#age(27)], [#assoc("HUN")], [#left], [#shakehand], [#attack], [*2469*], [#delta(65)],
     )
   )
 #pagebreak()
@@ -263,11 +263,11 @@
       [192], [#name("POLANSKY Tomas")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2408*], [#delta(-1)],
       [193], [#name("PUTUNTICA Andrei")], [#age(24)], [#assoc("MDA")], [#left], [#shakehand], [#attack], [*2408*], [#delta(-1)],
       [194], [#name("BOULOUSSA Mehdi")], [#age(28)], [#assoc("ALG")], [#right], [#shakehand], [#attack], [*2407*], [#delta(-20)],
-      [195], [#name("SHAMS Navid")], [#age(18)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2404*], [#delta(114)],
+      [195], [#name("SHAMS Navid")], [#age(18)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2404*], [#delta(111)],
       [196], [#name("LANDRIEU Andrea")], [#age(27)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2401*], [#delta(-3)],
       [197], [#name("PETO Zsolt")], [#age(36)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2401*], [#delta(-3)],
       [198], [#name("AHMADIAN Amin")], [#age(22)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2400*], [#delta(-2)],
       [199], [#name("MUTTI Matteo")], [#age(23)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2400*], [#delta(-2)],
-      [200], [#name("ALGUETTI Sharon")], [#age(22)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2398*], [#delta(-2)],
+      [200], [#name("JOUTI Eric")], [#age(29)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2396*], [#delta(-1)],
     )
   )

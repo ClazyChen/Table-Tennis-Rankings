@@ -254,7 +254,7 @@
       [183], [#name("LABOSOVA Ema")], [#age(21)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2256*], [#delta(53)],
       [184], [#name("CHEN Chi-Shiuan")], [#age(17)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2255*], [#delta(175)],
       [185], [#name("WIELGOS Zuzanna")], [#age(17)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2254*], [#delta(19)],
-      [186], [#name("AOKI Sachi")], [#age(15)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2253*], [#delta(-14)],
+      [186], [#name("青木咲智")], [#age(15)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2253*], [#delta(-14)],
       [187], [#name("TENNISON Reeth")], [#age(27)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2253*], [#delta(0)],
       [188], [#name("WROBEL Wiktoria")], [#age(16)], [#assoc("POL")], [#right], [#shakehand], [#defense], [*2253*], [#delta(-2)],
       [189], [#name("面手凛")], [#age(15)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2252*], [#delta(11)],

@@ -88,7 +88,7 @@
       [62], [#name("佩特丽莎 索尔佳")], [#age(27)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2533*], [#delta(2)],
       [63], [#name("YOO Eunchong")], [#age(28)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2533*], [#delta(2)],
       [64], [#name("DIACONU Adina")], [#age(22)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2532*], [#delta(2)],
-      [65], [#name("ABRAAMIAN Elizabet")], [#age(18)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2530*], [#delta(-13)],
+      [65], [#name("伊丽莎白 阿布拉米安")], [#age(18)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2530*], [#delta(-13)],
       [66], [#name("伯纳黛特 斯佐科斯")], [#age(26)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2519*], [#delta(40)],
       [67], [#name("倪夏莲")], [#age(58)], [#assoc("LUX")], [#left], [#penhold], [#attack], [*2517*], [#delta(-14)],
       [68], [#name("LIU Hsing-Yin")], [#age(34)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2515*], [#delta(1)],

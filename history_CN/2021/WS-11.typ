@@ -85,7 +85,7 @@
       [59], [#name("琳达 伯格斯特隆")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2534*], [#delta(-5)],
       [60], [#name("佩特丽莎 索尔佳")], [#age(27)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2533*], [#delta(2)],
       [61], [#name("YOO Eunchong")], [#age(28)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2533*], [#delta(2)],
-      [62], [#name("ABRAAMIAN Elizabet")], [#age(18)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2526*], [#delta(3)],
+      [62], [#name("伊丽莎白 阿布拉米安")], [#age(18)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2526*], [#delta(3)],
       [63], [#name("阿德里安娜 迪亚兹")], [#age(21)], [#assoc("PUR")], [#right], [#shakehand], [#attack], [*2522*], [#delta(33)],
       [64], [#name("奥拉万 帕拉南")], [#age(24)], [#assoc("THA")], [#left], [#shakehand], [#attack], [*2520*], [#delta(-5)],
       [65], [#name("伯纳黛特 斯佐科斯")], [#age(26)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2519*], [#delta(1)],

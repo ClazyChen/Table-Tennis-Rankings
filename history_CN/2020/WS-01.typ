@@ -263,7 +263,7 @@
       [192], [#name("TOMANOVA Tamara")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2297*], [#delta(15)],
       [193], [#name("LUPULESKU Izabela")], [#age(21)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2294*], [#delta(-26)],
       [194], [#name("PASKAUSKIENE Ruta")], [#age(43)], [#assoc("LTU")], [#right], [#shakehand], [#attack], [*2293*], [#delta(15)],
-      [195], [#name("ABRAAMIAN Elizabet")], [#age(17)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2293*], [#delta(43)],
+      [195], [#name("伊丽莎白 阿布拉米安")], [#age(17)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2293*], [#delta(43)],
       [196], [#name("LUNG Lisa")], [#age(21)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2291*], [#delta(15)],
       [197], [#name("KLEE Sophia")], [#age(17)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2290*], [#delta(11)],
       [198], [#name("HARAC Ece")], [#age(18)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2288*], [#delta(1)],

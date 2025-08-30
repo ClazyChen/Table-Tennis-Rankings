@@ -153,7 +153,7 @@
       [109], [#name("LAKATOS Tamas")], [#age(29)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2554*], [#delta(4)],
       [110], [#name("APOLONIA Tiago")], [#age(38)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2553*], [#delta(-6)],
       [111], [#name("OLAH Benedek")], [#age(33)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2553*], [#delta(-8)],
-      [112], [#name("HUANG Yan-Cheng")], [#age(21)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2552*], [#delta(154)],
+      [112], [#name("HUANG Yan-Cheng")], [#age(21)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2552*], [#delta(152)],
       [113], [#name("MATSUYAMA Yuki")], [#age(26)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2552*], [#delta(1)],
       [114], [#name("OH Junsung")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2551*], [#delta(-47)],
       [115], [#name("MONTEIRO Joao")], [#age(41)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2550*], [#delta(-9)],

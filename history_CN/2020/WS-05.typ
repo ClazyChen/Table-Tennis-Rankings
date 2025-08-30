@@ -177,7 +177,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [126], [#name("LOEUILLETTE Stephanie")], [#age(28)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2371*], [#delta(0)],
-      [127], [#name("ABRAAMIAN Elizabet")], [#age(17)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2370*], [#delta(0)],
+      [127], [#name("伊丽莎白 阿布拉米安")], [#age(17)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2370*], [#delta(0)],
       [128], [#name("PLAIAN Tania")], [#age(19)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2368*], [#delta(0)],
       [129], [#name("GROFOVA Karin")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2363*], [#delta(0)],
       [130], [#name("万远")], [#age(23)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2363*], [#delta(0)],

@@ -165,7 +165,7 @@
       [121], [#name("ZAHARIA Elena")], [#age(16)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2380*], [#delta(1)],
       [122], [#name("HO Tin-Tin")], [#age(22)], [#assoc("GBR")], [#right], [#penhold], [#attack], [*2377*], [#delta(-14)],
       [123], [#name("ZHANG Sofia-Xuan")], [#age(21)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2377*], [#delta(18)],
-      [124], [#name("ABRAAMIAN Elizabet")], [#age(17)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2370*], [#delta(2)],
+      [124], [#name("伊丽莎白 阿布拉米安")], [#age(17)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2370*], [#delta(2)],
       [125], [#name("PLAIAN Tania")], [#age(19)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2368*], [#delta(2)],
     )
   )

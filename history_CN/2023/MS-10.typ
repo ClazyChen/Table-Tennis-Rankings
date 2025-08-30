@@ -63,7 +63,7 @@
       [46], [#name("卢文 菲鲁斯")], [#age(35)], [#assoc("GER")], [#right], [#shakehand], [#defense], [*2675*], [#delta(7)],
       [47], [#name("贝内迪克特 杜达")], [#age(29)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2672*], [#delta(38)],
       [48], [#name("曾蓓勋")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2670*], [#delta(-6)],
-      [49], [#name("BARDET Lilian")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2667*], [#delta(0)],
+      [49], [#name("力廉 巴德")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2667*], [#delta(0)],
       [50], [#name("安德斯 林德")], [#age(25)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2667*], [#delta(-14)],
     )
   )
@@ -199,7 +199,7 @@
       [146], [#name("ACHANTA Sharath")], [#age(41)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2501*], [#delta(-16)],
       [147], [#name("KANG Dongsoo")], [#age(29)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2501*], [#delta(-48)],
       [148], [#name("LIANG Guodong")], [#age(20)], [#assoc("CHN")], [#left], [#penhold], [#attack], [*2495*], [#delta(-3)],
-      [149], [#name("CHAN Baldwin")], [#age(19)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2494*], [#delta(-10)],
+      [149], [#name("陈颢桦")], [#age(19)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2494*], [#delta(-10)],
       [150], [#name("CARVALHO Diogo")], [#age(31)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2492*], [#delta(-2)],
     )
   )
@@ -256,7 +256,7 @@
       [185], [#name("MAJOROS Bence")], [#age(26)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2453*], [#delta(-15)],
       [186], [#name("LEVENKO Andreas")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2446*], [#delta(-37)],
       [187], [#name("ABDELAZIZ Youssef")], [#age(23)], [#assoc("EGY")], [#left], [#shakehand], [#attack], [*2446*], [#delta(0)],
-      [188], [#name("DESCHAMPS Hugo")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2444*], [#delta(38)],
+      [188], [#name("DESCHAMPS Hugo")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2444*], [#delta(37)],
       [189], [#name("MARTINKO Jiri")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2440*], [#delta(-22)],
       [190], [#name("ANGLES Enzo")], [#age(28)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2438*], [#delta(-10)],
       [191], [#name("REMBERT Bastien")], [#age(23)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2434*], [#delta(-9)],

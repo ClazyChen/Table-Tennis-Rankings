@@ -256,7 +256,7 @@
       [185], [#name("MAJOROS Bence")], [#age(26)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2453*], [#delta(-15)],
       [186], [#name("LEVENKO Andreas")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2446*], [#delta(-37)],
       [187], [#name("ABDELAZIZ Youssef")], [#age(23)], [#assoc("EGY")], [#left], [#shakehand], [#attack], [*2446*], [#delta(0)],
-      [188], [#name("DESCHAMPS Hugo")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2444*], [#delta(38)],
+      [188], [#name("DESCHAMPS Hugo")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2444*], [#delta(37)],
       [189], [#name("MARTINKO Jiri")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2440*], [#delta(-22)],
       [190], [#name("ANGLES Enzo")], [#age(28)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2438*], [#delta(-10)],
       [191], [#name("REMBERT Bastien")], [#age(23)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2434*], [#delta(-9)],

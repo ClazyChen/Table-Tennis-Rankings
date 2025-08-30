@@ -200,7 +200,7 @@
       [147], [#name("PRYSHCHEPA Ievgen")], [#age(38)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2486*], [#delta(-4)],
       [148], [#name("SEYFRIED Joe")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2484*], [#delta(28)],
       [149], [#name("KIM Donghyun")], [#age(29)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2481*], [#delta(-4)],
-      [150], [#name("JOUTI Eric")], [#age(29)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2477*], [#delta(104)],
+      [150], [#name("JOUTI Eric")], [#age(29)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2477*], [#delta(102)],
     )
   )
 #pagebreak()
@@ -221,7 +221,7 @@
       [159], [#name("HODAEI Amir Hossein")], [#age(25)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2466*], [#delta(-4)],
       [160], [#name("ROLLAND Jules")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2466*], [#delta(-34)],
       [161], [#name("LI Hsin-Yang")], [#age(23)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2464*], [#delta(-7)],
-      [162], [#name("PARK Gyuhyeon")], [#age(18)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2464*], [#delta(85)],
+      [162], [#name("PARK Gyuhyeon")], [#age(18)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2464*], [#delta(83)],
       [163], [#name("SODERLUND Hampus")], [#age(29)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2462*], [#delta(-6)],
       [164], [#name("JARVIS Tom")], [#age(24)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2462*], [#delta(-6)],
       [165], [#name("BERTRAND Irvin")], [#age(23)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2462*], [#delta(-6)],
@@ -267,7 +267,7 @@
       [196], [#name("KWAN Man Ho")], [#age(25)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2422*], [#delta(0)],
       [197], [#name("MATI Taiwo")], [#age(18)], [#assoc("NGR")], [#left], [#shakehand], [#attack], [*2422*], [#delta(-6)],
       [198], [#name("KUMAR Nikhil")], [#age(20)], [#assoc("USA")], [#left], [#shakehand], [#attack], [*2419*], [#delta(0)],
-      [199], [#name("CHANDRA Jeet")], [#age(23)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2416*], [#delta(31)],
+      [199], [#name("CHANDRA Jeet")], [#age(23)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2416*], [#delta(29)],
       [200], [#name("NG Pak Nam")], [#age(25)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2413*], [#delta(0)],
     )
   )

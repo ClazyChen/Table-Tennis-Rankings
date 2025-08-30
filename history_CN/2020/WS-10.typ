@@ -159,7 +159,7 @@
       [115], [#name("TOLIOU Aikaterini")], [#age(25)], [#assoc("GRE")], [#right], [#shakehand], [#defense], [*2389*], [#delta(-1)],
       [116], [#name("ZARIF Audrey")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2386*], [#delta(1)],
       [117], [#name("JEGER Mateja")], [#age(25)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2384*], [#delta(1)],
-      [118], [#name("ABRAAMIAN Elizabet")], [#age(17)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2383*], [#delta(6)],
+      [118], [#name("伊丽莎白 阿布拉米安")], [#age(17)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2383*], [#delta(6)],
       [119], [#name("LI Ching Wan")], [#age(26)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2382*], [#delta(0)],
       [120], [#name("ZHANG Sofia-Xuan")], [#age(21)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2381*], [#delta(3)],
       [121], [#name("ZAHARIA Elena")], [#age(16)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2380*], [#delta(0)],

@@ -268,6 +268,6 @@
       [197], [#name("HAM Yu Song")], [#age(26)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2473*], [#delta(4)],
       [198], [#name("PLETEA Cristian")], [#age(25)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2471*], [#delta(10)],
       [199], [#name("DE NODREST Leo")], [#age(25)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2468*], [#delta(10)],
-      [200], [#name("PANTOJA Miguel")], [#age(21)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2467*], [#delta(83)],
+      [200], [#name("PANTOJA Miguel")], [#age(21)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2467*], [#delta(82)],
     )
   )

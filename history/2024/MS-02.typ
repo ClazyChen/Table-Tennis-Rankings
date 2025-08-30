@@ -266,7 +266,7 @@
       [195], [#name("KOLODZIEJCZYK Maciej")], [#age(23)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2453*], [#delta(-11)],
       [196], [#name("LEVENKO Andreas")], [#age(26)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2451*], [#delta(-55)],
       [197], [#name("BOULOUSSA Mehdi")], [#age(29)], [#assoc("ALG")], [#right], [#shakehand], [#attack], [*2448*], [#delta(-27)],
-      [198], [#name("SHAMS Navid")], [#age(19)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2447*], [#delta(50)],
+      [198], [#name("SHAMS Navid")], [#age(19)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2447*], [#delta(49)],
       [199], [#name("SUZUKI Hayate")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2444*], [#delta(5)],
       [200], [#name("GIL Minseok")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2443*], [#delta(5)],
     )

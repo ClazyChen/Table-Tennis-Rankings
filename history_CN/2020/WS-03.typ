@@ -183,7 +183,7 @@
       [130], [#name("LI Ching Wan")], [#age(26)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2382*], [#delta(3)],
       [131], [#name("蒂娜 梅谢芙")], [#age(26)], [#assoc("EGY")], [#left], [#shakehand], [#attack], [*2377*], [#delta(-21)],
       [132], [#name("普利西卡 帕瓦德")], [#age(16)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2373*], [#delta(39)],
-      [133], [#name("ABRAAMIAN Elizabet")], [#age(17)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2370*], [#delta(56)],
+      [133], [#name("伊丽莎白 阿布拉米安")], [#age(17)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2370*], [#delta(56)],
       [134], [#name("ZAHARIA Elena")], [#age(16)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2367*], [#delta(1)],
       [135], [#name("万远")], [#age(23)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2363*], [#delta(-4)],
       [136], [#name("BOGDANOVA Nadezhda")], [#age(20)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2363*], [#delta(-13)],

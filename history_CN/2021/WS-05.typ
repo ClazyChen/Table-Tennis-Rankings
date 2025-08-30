@@ -159,7 +159,7 @@
       [115], [#name("DVORAK Galia")], [#age(33)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2388*], [#delta(-1)],
       [116], [#name("ZARIF Audrey")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2386*], [#delta(-1)],
       [117], [#name("JEGER Mateja")], [#age(26)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2384*], [#delta(-1)],
-      [118], [#name("ABRAAMIAN Elizabet")], [#age(18)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2383*], [#delta(-1)],
+      [118], [#name("伊丽莎白 阿布拉米安")], [#age(18)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2383*], [#delta(-1)],
       [119], [#name("LI Ching Wan")], [#age(27)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2382*], [#delta(0)],
       [120], [#name("ZHANG Sofia-Xuan")], [#age(22)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2381*], [#delta(0)],
       [121], [#name("MADARASZ Dora")], [#age(28)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2378*], [#delta(0)],

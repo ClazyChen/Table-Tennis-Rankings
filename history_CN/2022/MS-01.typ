@@ -263,7 +263,7 @@
       [192], [#name("KOZUL Deni")], [#age(25)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2396*], [#delta(6)],
       [193], [#name("PORET Thibault")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2395*], [#delta(6)],
       [194], [#name("米洛什 雷德齐姆斯基")], [#age(16)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2395*], [#delta(60)],
-      [195], [#name("BARDET Lilian")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2392*], [#delta(5)],
+      [195], [#name("力廉 巴德")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2392*], [#delta(5)],
       [196], [#name("LIANG Guodong")], [#age(19)], [#assoc("CHN")], [#left], [#penhold], [#attack], [*2386*], [#delta(8)],
       [197], [#name("ANDRAS Csaba")], [#age(20)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2384*], [#delta(-23)],
       [198], [#name("GOMEZ Gustavo")], [#age(28)], [#assoc("CHI")], [#right], [#shakehand], [#attack], [*2384*], [#delta(8)],
