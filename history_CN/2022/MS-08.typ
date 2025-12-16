@@ -254,7 +254,7 @@
       [183], [#name("BAEK Kwangil")], [#age(29)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2409*], [#delta(-4)],
       [184], [#name("PUTUNTICA Andrei")], [#age(23)], [#assoc("MDA")], [#left], [#shakehand], [#attack], [*2407*], [#delta(-4)],
       [185], [#name("ROSSI Carlo")], [#age(21)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2405*], [#delta(-2)],
-      [186], [#name("RASSENFOSSE Adrien")], [#age(19)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2403*], [#delta(-5)],
+      [186], [#name("阿德里安 拉森福斯")], [#age(19)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2403*], [#delta(-5)],
       [187], [#name("米洛什 雷德齐姆斯基")], [#age(16)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2402*], [#delta(-3)],
       [188], [#name("ELBEIALI Mohamed")], [#age(34)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2401*], [#delta(-2)],
       [189], [#name("BAN Ivor")], [#age(19)], [#assoc("CRO")], [#left], [#shakehand], [#attack], [*2399*], [#delta(-11)],

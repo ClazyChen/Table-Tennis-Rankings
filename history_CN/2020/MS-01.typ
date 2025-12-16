@@ -157,7 +157,7 @@
       [113], [#name("MACHADO Carlos")], [#age(40)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2545*], [#delta(6)],
       [114], [#name("SIRUCEK Pavel")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2544*], [#delta(6)],
       [115], [#name("斯特凡 菲格尔")], [#age(32)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2542*], [#delta(6)],
-      [116], [#name("SIDORENKO Vladimir")], [#age(18)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2537*], [#delta(-25)],
+      [116], [#name("弗拉基米尔 西多连科")], [#age(18)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2537*], [#delta(-25)],
       [117], [#name("阿尔瓦罗 罗布勒斯")], [#age(29)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2537*], [#delta(5)],
       [118], [#name("MATSUMOTO Cazuo")], [#age(35)], [#assoc("BRA")], [#left], [#penhold], [#attack], [*2536*], [#delta(5)],
       [119], [#name("亚历山大 卡拉卡谢维奇")], [#age(45)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2536*], [#delta(-30)],

@@ -82,7 +82,7 @@
       [56], [#name("BOBOCICA Mihai")], [#age(35)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2645*], [#delta(-3)],
       [57], [#name("帕特里克 弗朗西斯卡")], [#age(29)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2644*], [#delta(-22)],
       [58], [#name("西蒙 高兹")], [#age(27)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2642*], [#delta(-27)],
-      [59], [#name("SIDORENKO Vladimir")], [#age(19)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2636*], [#delta(-1)],
+      [59], [#name("弗拉基米尔 西多连科")], [#age(19)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2636*], [#delta(-1)],
       [60], [#name("SZOCS Hunor")], [#age(29)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2636*], [#delta(63)],
       [61], [#name("LEVENKO Andreas")], [#age(23)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2635*], [#delta(-16)],
       [62], [#name("奥维迪乌 伊奥内斯库")], [#age(32)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2635*], [#delta(66)],
@@ -233,7 +233,7 @@
       [171], [#name("AGUIRRE Marcelo")], [#age(28)], [#assoc("PAR")], [#left], [#shakehand], [#attack], [*2448*], [#delta(1)],
       [172], [#name("CAMPOS Jorge")], [#age(30)], [#assoc("CUB")], [#right], [#shakehand], [#attack], [*2446*], [#delta(2)],
       [173], [#name("PANG Koen")], [#age(19)], [#assoc("SGP")], [#left], [#shakehand], [#attack], [*2444*], [#delta(2)],
-      [174], [#name("RASSENFOSSE Adrien")], [#age(18)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2442*], [#delta(38)],
+      [174], [#name("阿德里安 拉森福斯")], [#age(18)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2442*], [#delta(38)],
       [175], [#name("TANIGAKI Yuma")], [#age(18)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2440*], [#delta(1)],
     )
   )

@@ -257,7 +257,7 @@
       [186], [#name("塞德里克 纽廷克")], [#age(25)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2456*], [#delta(3)],
       [187], [#name("SAMBE Kohei")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2456*], [#delta(-2)],
       [188], [#name("MINO Alberto")], [#age(28)], [#assoc("ECU")], [#right], [#shakehand], [#attack], [*2455*], [#delta(4)],
-      [189], [#name("SIDORENKO Vladimir")], [#age(16)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2453*], [#delta(69)],
+      [189], [#name("弗拉基米尔 西多连科")], [#age(16)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2453*], [#delta(69)],
       [190], [#name("TSUBOI Yuma")], [#age(21)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2452*], [#delta(-43)],
       [191], [#name("ISMAILOV Sadi")], [#age(22)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2450*], [#delta(-12)],
       [192], [#name("SEO Hyundeok")], [#age(27)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2448*], [#delta(2)],

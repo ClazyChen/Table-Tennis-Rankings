@@ -143,7 +143,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [101], [#name("ORT Kilian")], [#age(23)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2581*], [#delta(-3)],
-      [102], [#name("SIDORENKO Vladimir")], [#age(17)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2580*], [#delta(19)],
+      [102], [#name("弗拉基米尔 西多连科")], [#age(17)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2580*], [#delta(19)],
       [103], [#name("蒂亚戈 阿波罗尼亚")], [#age(33)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2580*], [#delta(76)],
       [104], [#name("廖振珽")], [#age(23)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2574*], [#delta(33)],
       [105], [#name("丹羽孝希")], [#age(25)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2569*], [#delta(-26)],

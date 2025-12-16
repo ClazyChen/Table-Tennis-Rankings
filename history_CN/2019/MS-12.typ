@@ -123,7 +123,7 @@
       [88], [#name("户上隼辅")], [#age(18)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2587*], [#delta(-31)],
       [89], [#name("亚历山大 卡拉卡谢维奇")], [#age(44)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2583*], [#delta(6)],
       [90], [#name("ORT Kilian")], [#age(23)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2581*], [#delta(6)],
-      [91], [#name("SIDORENKO Vladimir")], [#age(17)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2580*], [#delta(25)],
+      [91], [#name("弗拉基米尔 西多连科")], [#age(17)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2580*], [#delta(25)],
       [92], [#name("ANTHONY Amalraj")], [#age(33)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2577*], [#delta(77)],
       [93], [#name("克里斯坦 卡尔松")], [#age(28)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2577*], [#delta(-65)],
       [94], [#name("ZHANG Yudong")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2575*], [#delta(4)],

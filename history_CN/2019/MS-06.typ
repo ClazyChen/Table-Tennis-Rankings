@@ -234,7 +234,7 @@
       [172], [#name("JOUTI Eric")], [#age(25)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2495*], [#delta(37)],
       [173], [#name("SU Zhi")], [#age(18)], [#assoc("HKG")], [#right], [#penhold], [#attack], [*2494*], [#delta(-1)],
       [174], [#name("YEH Chih-Wei")], [#age(29)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2494*], [#delta(95)],
-      [175], [#name("SIDORENKO Vladimir")], [#age(17)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2492*], [#delta(8)],
+      [175], [#name("弗拉基米尔 西多连科")], [#age(17)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2492*], [#delta(8)],
     )
   )
 #pagebreak()

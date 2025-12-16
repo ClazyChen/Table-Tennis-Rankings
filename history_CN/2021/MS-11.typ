@@ -117,7 +117,7 @@
       [82], [#name("MENG Fanbo")], [#age(21)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2597*], [#delta(48)],
       [83], [#name("PRYSHCHEPA Ievgen")], [#age(36)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2595*], [#delta(-3)],
       [84], [#name("LAM Siu Hang")], [#age(25)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2595*], [#delta(-27)],
-      [85], [#name("SIDORENKO Vladimir")], [#age(19)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2594*], [#delta(-4)],
+      [85], [#name("弗拉基米尔 西多连科")], [#age(19)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2594*], [#delta(-4)],
       [86], [#name("基里尔 斯卡奇科夫")], [#age(34)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2593*], [#delta(-17)],
       [87], [#name("GREBNEV Maksim")], [#age(19)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2591*], [#delta(104)],
       [88], [#name("蒂亚戈 阿波罗尼亚")], [#age(35)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2591*], [#delta(-10)],

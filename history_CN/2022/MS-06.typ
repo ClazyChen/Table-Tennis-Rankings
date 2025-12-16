@@ -230,7 +230,7 @@
       [168], [#name("TANIGAKI Yuma")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2418*], [#delta(1)],
       [169], [#name("HAUG Borgar")], [#age(20)], [#assoc("NOR")], [#left], [#shakehand], [#attack], [*2416*], [#delta(2)],
       [170], [#name("JAIN Payas")], [#age(18)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2415*], [#delta(-10)],
-      [171], [#name("RASSENFOSSE Adrien")], [#age(19)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2414*], [#delta(2)],
+      [171], [#name("阿德里安 拉森福斯")], [#age(19)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2414*], [#delta(2)],
       [172], [#name("OBESLO Michal")], [#age(33)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2413*], [#delta(2)],
       [173], [#name("TAO Wenzhang")], [#age(28)], [#assoc("USA")], [#right], [#penhold], [#attack], [*2412*], [#delta(35)],
       [174], [#name("尤利安 奇里塔")], [#age(16)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2410*], [#delta(-2)],

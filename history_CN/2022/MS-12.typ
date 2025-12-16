@@ -159,7 +159,7 @@
       [115], [#name("吉村和弘")], [#age(26)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2513*], [#delta(0)],
       [116], [#name("神巧也")], [#age(29)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2512*], [#delta(-19)],
       [117], [#name("CIFUENTES Horacio")], [#age(24)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2506*], [#delta(-1)],
-      [118], [#name("RASSENFOSSE Adrien")], [#age(19)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2506*], [#delta(-14)],
+      [118], [#name("阿德里安 拉森福斯")], [#age(19)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2506*], [#delta(-14)],
       [119], [#name("PISTEJ Lubomir")], [#age(38)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2506*], [#delta(21)],
       [120], [#name("LORENZO Santiago")], [#age(21)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2506*], [#delta(-2)],
       [121], [#name("TSUBOI Gustavo")], [#age(37)], [#assoc("BRA")], [#left], [#shakehand], [#attack], [*2505*], [#delta(-1)],

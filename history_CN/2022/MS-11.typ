@@ -145,7 +145,7 @@
       [101], [#name("KUBIK Maciej")], [#age(19)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2543*], [#delta(10)],
       [102], [#name("REITSPIES David")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2540*], [#delta(2)],
       [103], [#name("ORT Kilian")], [#age(26)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2539*], [#delta(2)],
-      [104], [#name("RASSENFOSSE Adrien")], [#age(19)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2534*], [#delta(33)],
+      [104], [#name("阿德里安 拉森福斯")], [#age(19)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2534*], [#delta(33)],
       [105], [#name("艾曼纽 莱贝松")], [#age(34)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2533*], [#delta(-7)],
       [106], [#name("WU Jiaji")], [#age(27)], [#assoc("DOM")], [#right], [#penhold], [#attack], [*2532*], [#delta(4)],
       [107], [#name("安德斯 林德")], [#age(24)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2528*], [#delta(6)],

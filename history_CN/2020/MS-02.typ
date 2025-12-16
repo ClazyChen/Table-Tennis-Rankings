@@ -158,7 +158,7 @@
       [114], [#name("MACHADO Carlos")], [#age(40)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2545*], [#delta(-1)],
       [115], [#name("MONTEIRO Joao")], [#age(37)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2545*], [#delta(7)],
       [116], [#name("KHANIN Aleksandr")], [#age(22)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2541*], [#delta(-10)],
-      [117], [#name("SIDORENKO Vladimir")], [#age(18)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2537*], [#delta(-1)],
+      [117], [#name("弗拉基米尔 西多连科")], [#age(18)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2537*], [#delta(-1)],
       [118], [#name("MATSUMOTO Cazuo")], [#age(35)], [#assoc("BRA")], [#left], [#penhold], [#attack], [*2536*], [#delta(0)],
       [119], [#name("亚历山大 卡拉卡谢维奇")], [#age(45)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2536*], [#delta(0)],
       [120], [#name("WU Jiaji")], [#age(25)], [#assoc("DOM")], [#right], [#penhold], [#attack], [*2536*], [#delta(0)],

@@ -232,7 +232,7 @@
       [170], [#name("PLETEA Cristian")], [#age(22)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2417*], [#delta(-1)],
       [171], [#name("HAUG Borgar")], [#age(20)], [#assoc("NOR")], [#left], [#shakehand], [#attack], [*2416*], [#delta(-1)],
       [172], [#name("尤利安 奇里塔")], [#age(16)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2414*], [#delta(30)],
-      [173], [#name("RASSENFOSSE Adrien")], [#age(19)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2414*], [#delta(-2)],
+      [173], [#name("阿德里安 拉森福斯")], [#age(19)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2414*], [#delta(-2)],
       [174], [#name("OBESLO Michal")], [#age(33)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2413*], [#delta(-2)],
       [175], [#name("BAEK Kwangil")], [#age(29)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2409*], [#delta(-2)],
     )

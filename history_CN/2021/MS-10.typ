@@ -113,7 +113,7 @@
       [78], [#name("蒂亚戈 阿波罗尼亚")], [#age(35)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2600*], [#delta(25)],
       [79], [#name("卡纳克 贾哈")], [#age(21)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2597*], [#delta(3)],
       [80], [#name("PRYSHCHEPA Ievgen")], [#age(36)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2595*], [#delta(-6)],
-      [81], [#name("SIDORENKO Vladimir")], [#age(19)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2594*], [#delta(-13)],
+      [81], [#name("弗拉基米尔 西多连科")], [#age(19)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2594*], [#delta(-13)],
       [82], [#name("LEVENKO Andreas")], [#age(23)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2593*], [#delta(-7)],
       [83], [#name("诺沙迪 阿拉米扬")], [#age(30)], [#assoc("IRI")], [#left], [#shakehand], [#attack], [*2591*], [#delta(-25)],
       [84], [#name("丹羽孝希")], [#age(27)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2589*], [#delta(-5)],

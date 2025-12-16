@@ -91,7 +91,7 @@
       [65], [#name("HWANG Minha")], [#age(22)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2621*], [#delta(3)],
       [66], [#name("亚历山大 希巴耶夫")], [#age(31)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2618*], [#delta(-23)],
       [67], [#name("帕特里克 弗朗西斯卡")], [#age(29)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2609*], [#delta(-10)],
-      [68], [#name("SIDORENKO Vladimir")], [#age(19)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2607*], [#delta(-9)],
+      [68], [#name("弗拉基米尔 西多连科")], [#age(19)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2607*], [#delta(-9)],
       [69], [#name("PARK Chan-Hyeok")], [#age(26)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2606*], [#delta(0)],
       [70], [#name("阿尔瓦罗 罗布勒斯")], [#age(30)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2606*], [#delta(18)],
       [71], [#name("徐瑛彬")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2605*], [#delta(-1)],

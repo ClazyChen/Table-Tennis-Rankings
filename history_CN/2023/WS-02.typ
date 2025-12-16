@@ -246,7 +246,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [176], [#name("青木咲智")], [#age(16)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2291*], [#delta(0)],
       [177], [#name("吴咏琳")], [#age(20)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2290*], [#delta(-30)],
-      [178], [#name("WONG Hoi Tung")], [#age(18)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2290*], [#delta(58)],
+      [178], [#name("WONG Hoi Tung")], [#age(18)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2290*], [#delta(57)],
       [179], [#name("MONFARDINI Gaia")], [#age(22)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2288*], [#delta(-2)],
       [180], [#name("朱思冰")], [#age(23)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2287*], [#delta(-2)],
       [181], [#name("YAMADA Jessica")], [#age(34)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2287*], [#delta(-2)],

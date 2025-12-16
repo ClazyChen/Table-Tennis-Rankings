@@ -162,7 +162,7 @@
       [118], [#name("KANG Dongsoo")], [#age(25)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2537*], [#delta(6)],
       [119], [#name("塞德里克 纽廷克")], [#age(26)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2536*], [#delta(-42)],
       [120], [#name("ROLLAND Jules")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2536*], [#delta(37)],
-      [121], [#name("SIDORENKO Vladimir")], [#age(17)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2535*], [#delta(41)],
+      [121], [#name("弗拉基米尔 西多连科")], [#age(17)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2535*], [#delta(41)],
       [122], [#name("MACHI Asuka")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2535*], [#delta(50)],
       [123], [#name("邱党")], [#age(23)], [#assoc("GER")], [#right], [#penhold], [#attack], [*2530*], [#delta(2)],
       [124], [#name("YU Heyi")], [#age(19)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2529*], [#delta(-16)],

@@ -257,7 +257,7 @@
       [186], [#name("ROSSI Carlo")], [#age(21)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2400*], [#delta(1)],
       [187], [#name("LANDRIEU Andrea")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2398*], [#delta(1)],
       [188], [#name("米洛什 雷德齐姆斯基")], [#age(16)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2398*], [#delta(5)],
-      [189], [#name("RASSENFOSSE Adrien")], [#age(19)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2397*], [#delta(33)],
+      [189], [#name("阿德里安 拉森福斯")], [#age(19)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2397*], [#delta(33)],
       [190], [#name("KENJAEV Zokhid")], [#age(30)], [#assoc("UZB")], [#right], [#shakehand], [#attack], [*2397*], [#delta(-1)],
       [191], [#name("KOZUL Deni")], [#age(25)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2396*], [#delta(-1)],
       [192], [#name("BOULOUSSA Mehdi")], [#age(27)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2395*], [#delta(-1)],

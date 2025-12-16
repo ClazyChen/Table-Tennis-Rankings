@@ -195,7 +195,7 @@
       [142], [#name("TREGLER Tomas")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2525*], [#delta(16)],
       [143], [#name("PLETEA Cristian")], [#age(19)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2525*], [#delta(18)],
       [144], [#name("乔纳森 格罗斯")], [#age(27)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2524*], [#delta(-16)],
-      [145], [#name("SIDORENKO Vladimir")], [#age(17)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2523*], [#delta(142)],
+      [145], [#name("弗拉基米尔 西多连科")], [#age(17)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2523*], [#delta(142)],
       [146], [#name("GHOSH Soumyajit")], [#age(26)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2523*], [#delta(-6)],
       [147], [#name("AFANADOR Brian")], [#age(22)], [#assoc("PUR")], [#right], [#shakehand], [#attack], [*2520*], [#delta(-5)],
       [148], [#name("木造勇人")], [#age(20)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2519*], [#delta(-16)],

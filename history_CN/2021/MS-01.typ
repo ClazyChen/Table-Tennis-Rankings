@@ -82,7 +82,7 @@
       [56], [#name("PERSSON Jon")], [#age(35)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2656*], [#delta(0)],
       [57], [#name("森园政崇")], [#age(26)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2655*], [#delta(0)],
       [58], [#name("马克斯 弗雷塔斯")], [#age(33)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2652*], [#delta(0)],
-      [59], [#name("SIDORENKO Vladimir")], [#age(19)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2649*], [#delta(0)],
+      [59], [#name("弗拉基米尔 西多连科")], [#age(19)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2649*], [#delta(0)],
       [60], [#name("DRINKHALL Paul")], [#age(31)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2648*], [#delta(0)],
       [61], [#name("SAI Linwei")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2646*], [#delta(0)],
       [62], [#name("诺沙迪 阿拉米扬")], [#age(30)], [#assoc("IRI")], [#left], [#shakehand], [#attack], [*2645*], [#delta(0)],
@@ -266,7 +266,7 @@
       [195], [#name("BAEK Kwangil")], [#age(28)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2409*], [#delta(-2)],
       [196], [#name("HMAM Adam")], [#age(27)], [#assoc("TUN")], [#right], [#shakehand], [#attack], [*2406*], [#delta(-2)],
       [197], [#name("博扬 托基奇")], [#age(40)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2405*], [#delta(-2)],
-      [198], [#name("RASSENFOSSE Adrien")], [#age(18)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2404*], [#delta(-2)],
+      [198], [#name("阿德里安 拉森福斯")], [#age(18)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2404*], [#delta(-2)],
       [199], [#name("陈垣宇")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2402*], [#delta(-2)],
       [200], [#name("BURGOS Nicolas")], [#age(20)], [#assoc("CHI")], [#right], [#shakehand], [#attack], [*2398*], [#delta(-2)],
     )

@@ -221,7 +221,7 @@
       [159], [#name("LEVENKO Andreas")], [#age(21)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2487*], [#delta(11)],
       [160], [#name("KOJIC Frane")], [#age(27)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2484*], [#delta(11)],
       [161], [#name("篠塚大登")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2482*], [#delta(34)],
-      [162], [#name("SIDORENKO Vladimir")], [#age(17)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2482*], [#delta(4)],
+      [162], [#name("弗拉基米尔 西多连科")], [#age(17)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2482*], [#delta(4)],
       [163], [#name("CHOI Deokhwa")], [#age(24)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2482*], [#delta(9)],
       [164], [#name("亚历山大 卡拉卡谢维奇")], [#age(44)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2481*], [#delta(9)],
       [165], [#name("ISHIY Vitor")], [#age(24)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2481*], [#delta(9)],

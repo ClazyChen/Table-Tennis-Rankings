@@ -120,7 +120,7 @@
       [85], [#name("赵大成")], [#age(18)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2593*], [#delta(-15)],
       [86], [#name("ANTHONY Amalraj")], [#age(34)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2592*], [#delta(-2)],
       [87], [#name("冯翊新")], [#age(17)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2590*], [#delta(59)],
-      [88], [#name("SIDORENKO Vladimir")], [#age(18)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2590*], [#delta(29)],
+      [88], [#name("弗拉基米尔 西多连科")], [#age(18)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2590*], [#delta(29)],
       [89], [#name("SZUDI Adam")], [#age(24)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2588*], [#delta(47)],
       [90], [#name("哈米特 德赛")], [#age(27)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2584*], [#delta(-3)],
       [91], [#name("特鲁斯 莫雷加德")], [#age(18)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2584*], [#delta(-8)],

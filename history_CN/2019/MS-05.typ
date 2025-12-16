@@ -251,7 +251,7 @@
       [180], [#name("SEO Hyundeok")], [#age(28)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2484*], [#delta(-4)],
       [181], [#name("PLATONOV Pavel")], [#age(36)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2480*], [#delta(18)],
       [182], [#name("阿德里安 克里桑")], [#age(39)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2477*], [#delta(-3)],
-      [183], [#name("SIDORENKO Vladimir")], [#age(17)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2474*], [#delta(-38)],
+      [183], [#name("弗拉基米尔 西多连科")], [#age(17)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2474*], [#delta(-38)],
       [184], [#name("MINO Alberto")], [#age(29)], [#assoc("ECU")], [#right], [#shakehand], [#attack], [*2469*], [#delta(-34)],
       [185], [#name("SZOCS Hunor")], [#age(27)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2469*], [#delta(-3)],
       [186], [#name("廖振珽")], [#age(23)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2466*], [#delta(-2)],

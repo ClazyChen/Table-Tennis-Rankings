@@ -261,7 +261,7 @@
       [190], [#name("KENJAEV Zokhid")], [#age(30)], [#assoc("UZB")], [#right], [#shakehand], [#attack], [*2397*], [#delta(6)],
       [191], [#name("AGUIRRE Marcelo")], [#age(29)], [#assoc("PAR")], [#left], [#shakehand], [#attack], [*2397*], [#delta(6)],
       [192], [#name("KOZUL Deni")], [#age(25)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2396*], [#delta(6)],
-      [193], [#name("PORET Thibault")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2395*], [#delta(6)],
+      [193], [#name("迪博 泊雷特")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2395*], [#delta(6)],
       [194], [#name("米洛什 雷德齐姆斯基")], [#age(16)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2395*], [#delta(60)],
       [195], [#name("力廉 巴德")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2392*], [#delta(5)],
       [196], [#name("LIANG Guodong")], [#age(19)], [#assoc("CHN")], [#left], [#penhold], [#attack], [*2386*], [#delta(8)],

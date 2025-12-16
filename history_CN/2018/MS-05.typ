@@ -262,7 +262,7 @@
       [191], [#name("卡纳克 贾哈")], [#age(18)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2461*], [#delta(-99)],
       [192], [#name("PUTUNTICA Andrei")], [#age(19)], [#assoc("MDA")], [#left], [#shakehand], [#attack], [*2458*], [#delta(8)],
       [193], [#name("BROSSIER Benjamin")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2458*], [#delta(-29)],
-      [194], [#name("SIDORENKO Vladimir")], [#age(16)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2457*], [#delta(-5)],
+      [194], [#name("弗拉基米尔 西多连科")], [#age(16)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2457*], [#delta(-5)],
       [195], [#name("塞德里克 纽廷克")], [#age(25)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2456*], [#delta(-9)],
       [196], [#name("FLORITZ Philipp")], [#age(27)], [#assoc("BUL")], [#right], [#shakehand], [#attack], [*2455*], [#delta(-28)],
       [197], [#name("MINO Alberto")], [#age(28)], [#assoc("ECU")], [#right], [#shakehand], [#attack], [*2455*], [#delta(-9)],

@@ -225,7 +225,7 @@
       [163], [#name("SU Zhi")], [#age(18)], [#assoc("HKG")], [#right], [#penhold], [#attack], [*2494*], [#delta(10)],
       [164], [#name("阿尔瓦罗 罗布勒斯")], [#age(28)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2494*], [#delta(3)],
       [165], [#name("贝内德克 奥拉")], [#age(28)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2492*], [#delta(-64)],
-      [166], [#name("SIDORENKO Vladimir")], [#age(17)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2492*], [#delta(9)],
+      [166], [#name("弗拉基米尔 西多连科")], [#age(17)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2492*], [#delta(9)],
       [167], [#name("AKKUZU Can")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2490*], [#delta(-87)],
       [168], [#name("丹尼尔 哈贝松")], [#age(33)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2490*], [#delta(-90)],
       [169], [#name("TAZOE Kenta")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2487*], [#delta(11)],

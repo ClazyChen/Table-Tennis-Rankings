@@ -263,7 +263,7 @@
       [192], [#name("POLANSKY Tomas")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2408*], [#delta(-1)],
       [193], [#name("PUTUNTICA Andrei")], [#age(24)], [#assoc("MDA")], [#left], [#shakehand], [#attack], [*2408*], [#delta(-1)],
       [194], [#name("BOULOUSSA Mehdi")], [#age(28)], [#assoc("ALG")], [#right], [#shakehand], [#attack], [*2407*], [#delta(-20)],
-      [195], [#name("SHAMS Navid")], [#age(18)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2404*], [#delta(111)],
+      [195], [#name("SHAMS Navid")], [#age(18)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2404*], [#delta(110)],
       [196], [#name("LANDRIEU Andrea")], [#age(27)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2401*], [#delta(-3)],
       [197], [#name("PETO Zsolt")], [#age(36)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2401*], [#delta(-3)],
       [198], [#name("AHMADIAN Amin")], [#age(22)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2400*], [#delta(-2)],

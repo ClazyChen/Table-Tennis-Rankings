@@ -81,7 +81,7 @@
       [55], [#name("PERSSON Jon")], [#age(35)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2656*], [#delta(0)],
       [56], [#name("森园政崇")], [#age(26)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2655*], [#delta(0)],
       [57], [#name("马克斯 弗雷塔斯")], [#age(33)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2652*], [#delta(0)],
-      [58], [#name("SIDORENKO Vladimir")], [#age(19)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2649*], [#delta(0)],
+      [58], [#name("弗拉基米尔 西多连科")], [#age(19)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2649*], [#delta(0)],
       [59], [#name("DRINKHALL Paul")], [#age(31)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2648*], [#delta(0)],
       [60], [#name("SAI Linwei")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2646*], [#delta(0)],
       [61], [#name("诺沙迪 阿拉米扬")], [#age(30)], [#assoc("IRI")], [#left], [#shakehand], [#attack], [*2645*], [#delta(0)],

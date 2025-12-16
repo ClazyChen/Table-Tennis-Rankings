@@ -190,7 +190,7 @@
       [137], [#name("YOKOTANI Jo")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2486*], [#delta(-20)],
       [138], [#name("BERTRAND Irvin")], [#age(22)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2486*], [#delta(-4)],
       [139], [#name("MATSUYAMA Yuki")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2485*], [#delta(-11)],
-      [140], [#name("RASSENFOSSE Adrien")], [#age(19)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2484*], [#delta(46)],
+      [140], [#name("阿德里安 拉森福斯")], [#age(19)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2484*], [#delta(46)],
       [141], [#name("MINO Alberto")], [#age(32)], [#assoc("ECU")], [#right], [#shakehand], [#attack], [*2484*], [#delta(-6)],
       [142], [#name("曹巍")], [#age(23)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2483*], [#delta(-5)],
       [143], [#name("KIM Donghyun")], [#age(28)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2481*], [#delta(-5)],

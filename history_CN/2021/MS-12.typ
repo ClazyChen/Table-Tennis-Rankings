@@ -149,7 +149,7 @@
       [105], [#name("PRYSHCHEPA Ievgen")], [#age(36)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2543*], [#delta(-22)],
       [106], [#name("SZUDI Adam")], [#age(25)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2543*], [#delta(15)],
       [107], [#name("贝内德克 奥拉")], [#age(30)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2542*], [#delta(-47)],
-      [108], [#name("SIDORENKO Vladimir")], [#age(19)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2542*], [#delta(-23)],
+      [108], [#name("弗拉基米尔 西多连科")], [#age(19)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2542*], [#delta(-23)],
       [109], [#name("ISHIY Vitor")], [#age(26)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2541*], [#delta(1)],
       [110], [#name("托米斯拉夫 普卡")], [#age(25)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2540*], [#delta(99)],
       [111], [#name("巴斯蒂安 斯蒂格")], [#age(40)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2538*], [#delta(1)],
@@ -267,7 +267,7 @@
       [196], [#name("KENJAEV Zokhid")], [#age(29)], [#assoc("UZB")], [#right], [#shakehand], [#attack], [*2397*], [#delta(-18)],
       [197], [#name("AGUIRRE Marcelo")], [#age(28)], [#assoc("PAR")], [#left], [#shakehand], [#attack], [*2397*], [#delta(-67)],
       [198], [#name("KOZUL Deni")], [#age(24)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2396*], [#delta(2)],
-      [199], [#name("PORET Thibault")], [#age(17)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2395*], [#delta(5)],
+      [199], [#name("迪博 泊雷特")], [#age(17)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2395*], [#delta(5)],
       [200], [#name("力廉 巴德")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2392*], [#delta(-8)],
     )
   )

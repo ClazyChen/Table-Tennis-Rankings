@@ -230,7 +230,7 @@
       [168], [#name("TANIGAKI Yuma")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2418*], [#delta(1)],
       [169], [#name("PLETEA Cristian")], [#age(22)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2417*], [#delta(9)],
       [170], [#name("HAUG Borgar")], [#age(20)], [#assoc("NOR")], [#left], [#shakehand], [#attack], [*2416*], [#delta(1)],
-      [171], [#name("RASSENFOSSE Adrien")], [#age(19)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2414*], [#delta(18)],
+      [171], [#name("阿德里安 拉森福斯")], [#age(19)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2414*], [#delta(18)],
       [172], [#name("OBESLO Michal")], [#age(33)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2413*], [#delta(3)],
       [173], [#name("BAEK Kwangil")], [#age(29)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2409*], [#delta(3)],
       [174], [#name("ANDRAS Csaba")], [#age(20)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2409*], [#delta(-2)],
