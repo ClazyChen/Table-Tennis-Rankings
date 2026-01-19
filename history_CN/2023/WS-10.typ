@@ -217,7 +217,7 @@
       [155], [#name("NAGYVARADI Mercedes")], [#age(29)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2369*], [#delta(13)],
       [156], [#name("YOON Hyobin")], [#age(25)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2369*], [#delta(-27)],
       [157], [#name("WIELGOS Zuzanna")], [#age(18)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2368*], [#delta(-54)],
-      [158], [#name("RYU Hanna")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2368*], [#delta(-12)],
+      [158], [#name("柳韩娜")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2368*], [#delta(-12)],
       [159], [#name("李皓晴")], [#age(31)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2366*], [#delta(0)],
       [160], [#name("WANG Yi-Ju")], [#age(29)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2366*], [#delta(-13)],
       [161], [#name("TOLIOU Aikaterini")], [#age(28)], [#assoc("GRE")], [#right], [#shakehand], [#defense], [*2366*], [#delta(10)],
@@ -233,7 +233,7 @@
       [171], [#name("ALHODABY Mariam")], [#age(23)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2338*], [#delta(15)],
       [172], [#name("MONFARDINI Gaia")], [#age(22)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2336*], [#delta(12)],
       [173], [#name("李多恩")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2329*], [#delta(-18)],
-      [174], [#name("DING Yijie")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2327*], [#delta(-10)],
+      [174], [#name("丁怡婕")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2327*], [#delta(-10)],
       [175], [#name("LEE Hoi Man")], [#age(20)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2325*], [#delta(-6)],
     )
   )

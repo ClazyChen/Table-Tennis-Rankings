@@ -183,7 +183,7 @@
       [130], [#name("KOLISH Anastasia")], [#age(20)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2356*], [#delta(-1)],
       [131], [#name("DOBREVA Polina")], [#age(29)], [#assoc("BUL")], [#right], [#shakehand], [#attack], [*2355*], [#delta(-1)],
       [132], [#name("MANTZ Chantal")], [#age(25)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2355*], [#delta(-12)],
-      [133], [#name("RYU Hanna")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(-1)],
+      [133], [#name("柳韩娜")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(-1)],
       [134], [#name("张本美和")], [#age(13)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2353*], [#delta(-1)],
       [135], [#name("GAUTHIER Lucie")], [#age(21)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2351*], [#delta(30)],
       [136], [#name("乔治娜 波塔")], [#age(36)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2349*], [#delta(0)],

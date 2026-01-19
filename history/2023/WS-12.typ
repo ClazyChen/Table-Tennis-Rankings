@@ -230,7 +230,7 @@
       [168], [#name("HO Tin-Tin")], [#age(25)], [#assoc("ENG")], [#right], [#penhold], [#attack], [*2356*], [#delta(-6)],
       [169], [#name("WIELGOS Zuzanna")], [#age(18)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2356*], [#delta(-11)],
       [170], [#name("ZHOU Jingyi")], [#age(18)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2356*], [#delta(27)],
-      [171], [#name("MARCHETTI Nathalie")], [#age(27)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2350*], [#delta(56)],
+      [171], [#name("MARCHETTI Nathalie")], [#age(27)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2350*], [#delta(57)],
       [172], [#name("ZHANG Sofia-Xuan")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2349*], [#delta(-3)],
       [173], [#name("LAVROVA Anastassiya")], [#age(28)], [#assoc("KAZ")], [#right], [#shakehand], [#attack], [*2348*], [#delta(-28)],
       [174], [#name("HOCHART Leana")], [#age(15)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2348*], [#delta(33)],

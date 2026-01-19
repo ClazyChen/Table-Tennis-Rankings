@@ -210,7 +210,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [151], [#name("SEYFRIED Joe")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2511*], [#delta(-22)],
+      [151], [#name("乔 赛弗里德")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2511*], [#delta(-22)],
       [152], [#name("帕特里克 鲍姆")], [#age(31)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2510*], [#delta(-3)],
       [153], [#name("BAGGALEY Andrew")], [#age(35)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2510*], [#delta(-3)],
       [154], [#name("阿德里安 克里桑")], [#age(38)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2510*], [#delta(-3)],

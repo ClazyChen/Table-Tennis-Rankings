@@ -179,7 +179,7 @@
       [126], [#name("ZAHARIA Elena")], [#age(18)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2372*], [#delta(-5)],
       [127], [#name("JEE Minhyung")], [#age(35)], [#assoc("AUS")], [#right], [#shakehand], [#attack], [*2371*], [#delta(-11)],
       [128], [#name("MEN Shuohan")], [#age(22)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2367*], [#delta(-20)],
-      [129], [#name("RYU Hanna")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(-6)],
+      [129], [#name("柳韩娜")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(-6)],
       [130], [#name("PLAIAN Tania")], [#age(21)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2362*], [#delta(3)],
       [131], [#name("SEVCIKOVA Marketa")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#defense], [*2362*], [#delta(55)],
       [132], [#name("KHETKHUAN Tamolwan")], [#age(25)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2361*], [#delta(-6)],

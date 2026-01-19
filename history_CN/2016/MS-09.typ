@@ -246,7 +246,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [176], [#name("AKERSTROM Fabian")], [#age(28)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2434*], [#delta(7)],
       [177], [#name("PLETEA Cristian")], [#age(16)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2434*], [#delta(86)],
-      [178], [#name("SEYFRIED Joe")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2434*], [#delta(6)],
+      [178], [#name("乔 赛弗里德")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2434*], [#delta(6)],
       [179], [#name("JOUTI Eric")], [#age(22)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2433*], [#delta(6)],
       [180], [#name("KOJIC Frane")], [#age(24)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2432*], [#delta(6)],
       [181], [#name("YANG Heng-Wei")], [#age(19)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2431*], [#delta(6)],

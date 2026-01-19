@@ -253,7 +253,7 @@
       [182], [#name("ELBEIALI Mohamed")], [#age(28)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2438*], [#delta(-10)],
       [183], [#name("REED Daniel")], [#age(27)], [#assoc("ENG")], [?], [?], [?], [*2437*], [#delta(-10)],
       [184], [#name("LORENTZ Romain")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2435*], [#delta(53)],
-      [185], [#name("SEYFRIED Joe")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2434*], [#delta(-7)],
+      [185], [#name("乔 赛弗里德")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2434*], [#delta(-7)],
       [186], [#name("詹斯 伦德奎斯特")], [#age(37)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2433*], [#delta(-62)],
       [187], [#name("尼马 阿拉米安")], [#age(24)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2433*], [#delta(-33)],
       [188], [#name("BAIBULDIN Andrei")], [#age(30)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2431*], [#delta(-47)],

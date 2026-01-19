@@ -244,7 +244,7 @@
     table(
       columns: 9,
       [\#], [Player],[Age], [Assoc.],  [Hand], [Grip], [Style], [Rating], [$Delta$],
-      [176], [#name("OKANO Shunsuke")], [#age(21)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2458*], [#delta(249)],
+      [176], [#name("OKANO Shunsuke")], [#age(21)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2458*], [#delta(252)],
       [177], [#name("KULCZYCKI Samuel")], [#age(23)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2458*], [#delta(5)],
       [178], [#name("SALIFOU Abdel-Kader")], [#age(36)], [#assoc("BEN")], [#right], [#shakehand], [#attack], [*2457*], [#delta(5)],
       [179], [#name("HAUG Borgar")], [#age(23)], [#assoc("NOR")], [#left], [#shakehand], [#attack], [*2457*], [#delta(-27)],

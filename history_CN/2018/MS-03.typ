@@ -195,7 +195,7 @@
       [142], [#name("SZOCS Hunor")], [#age(26)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2517*], [#delta(-1)],
       [143], [#name("HACHARD Antoine")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2514*], [#delta(-1)],
       [144], [#name("KONG Lingxuan")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2513*], [#delta(-1)],
-      [145], [#name("SEYFRIED Joe")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2511*], [#delta(-1)],
+      [145], [#name("乔 赛弗里德")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2511*], [#delta(-1)],
       [146], [#name("BAGGALEY Andrew")], [#age(35)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2510*], [#delta(0)],
       [147], [#name("TSUBOI Yuma")], [#age(21)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2510*], [#delta(0)],
       [148], [#name("安德斯 林德")], [#age(20)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2508*], [#delta(0)],

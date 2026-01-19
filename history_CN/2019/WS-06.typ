@@ -230,7 +230,7 @@
       [168], [#name("玛妮卡 巴特拉")], [#age(24)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2415*], [#delta(-3)],
       [169], [#name("GROFOVA Karin")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2414*], [#delta(-3)],
       [170], [#name("HAPONOVA Hanna")], [#age(34)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2414*], [#delta(3)],
-      [171], [#name("RYU Hanna")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2413*], [#delta(-4)],
+      [171], [#name("柳韩娜")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2413*], [#delta(-4)],
       [172], [#name("DEGRAEF Margo")], [#age(21)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2411*], [#delta(82)],
       [173], [#name("NOSKOVA Yana")], [#age(25)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2409*], [#delta(-34)],
       [174], [#name("HUANG Yu-Wen")], [#age(23)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2408*], [#delta(-49)],

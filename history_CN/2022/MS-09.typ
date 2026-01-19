@@ -218,7 +218,7 @@
       [156], [#name("BOULOUSSA Mehdi")], [#age(27)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2459*], [#delta(-30)],
       [157], [#name("汤姆 贾维斯")], [#age(23)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2459*], [#delta(3)],
       [158], [#name("ALTO Gaston")], [#age(37)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2458*], [#delta(-7)],
-      [159], [#name("QUAN Kaiyuan")], [#age(21)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2456*], [NEW],
+      [159], [#name("全开源")], [#age(21)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2456*], [NEW],
       [160], [#name("安德斯 林德")], [#age(24)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2454*], [#delta(-10)],
       [161], [#name("KIM Taehyun")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2453*], [#delta(84)],
       [162], [#name("PANG Koen")], [#age(20)], [#assoc("SGP")], [#left], [#shakehand], [#attack], [*2452*], [#delta(-14)],

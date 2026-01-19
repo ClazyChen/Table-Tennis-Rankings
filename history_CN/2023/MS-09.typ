@@ -97,7 +97,7 @@
       [71], [#name("及川瑞基")], [#age(26)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2624*], [#delta(23)],
       [72], [#name("塞德里克 纽廷克")], [#age(30)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2620*], [#delta(26)],
       [73], [#name("ROLLAND Jules")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2618*], [#delta(-11)],
-      [74], [#name("AIDA Satoshi")], [#age(30)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2617*], [#delta(-2)],
+      [74], [#name("英田理志")], [#age(30)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2617*], [#delta(-2)],
       [75], [#name("安德烈 加奇尼")], [#age(37)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2617*], [#delta(-2)],
     )
   )
@@ -150,7 +150,7 @@
       [106], [#name("AKKUZU Can")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2547*], [#delta(-36)],
       [107], [#name("罗伯特 加尔多斯")], [#age(44)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2546*], [#delta(-18)],
       [108], [#name("PISTEJ Lubomir")], [#age(39)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2545*], [#delta(-31)],
-      [109], [#name("SEYFRIED Joe")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2544*], [#delta(-3)],
+      [109], [#name("乔 赛弗里德")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2544*], [#delta(-3)],
       [110], [#name("温瑞博")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2542*], [#delta(-2)],
       [111], [#name("特里斯坦 弗洛雷")], [#age(28)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2541*], [#delta(-18)],
       [112], [#name("黄彦诚")], [#age(20)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2539*], [#delta(-5)],

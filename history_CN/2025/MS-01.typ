@@ -150,7 +150,7 @@
       [106], [#name("迪博 泊雷特")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2538*], [#delta(-5)],
       [107], [#name("塞德里克 纽廷克")], [#age(32)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2536*], [#delta(0)],
       [108], [#name("BERTRAND Irvin")], [#age(25)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2535*], [#delta(0)],
-      [109], [#name("SEYFRIED Joe")], [#age(27)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2533*], [#delta(0)],
+      [109], [#name("乔 赛弗里德")], [#age(27)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2533*], [#delta(0)],
       [110], [#name("MONTEIRO Joao")], [#age(42)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2531*], [#delta(0)],
       [111], [#name("孙正")], [#age(23)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2529*], [#delta(0)],
       [112], [#name("MINO Alberto")], [#age(35)], [#assoc("ECU")], [#right], [#shakehand], [#attack], [*2529*], [#delta(0)],
@@ -190,7 +190,7 @@
       [137], [#name("ZELJKO Filip")], [#age(29)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2493*], [#delta(4)],
       [138], [#name("李和宸")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2493*], [#delta(4)],
       [139], [#name("SGOUROPOULOS Ioannis")], [#age(25)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2493*], [#delta(4)],
-      [140], [#name("AIDA Satoshi")], [#age(32)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2492*], [#delta(4)],
+      [140], [#name("英田理志")], [#age(32)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2492*], [#delta(4)],
       [141], [#name("KUBIK Maciej")], [#age(22)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2491*], [#delta(4)],
       [142], [#name("YOKOTANI Jo")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2491*], [#delta(4)],
       [143], [#name("BOBOCICA Mihai")], [#age(39)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2491*], [#delta(4)],
@@ -233,7 +233,7 @@
       [171], [#name("DESCHAMPS Hugo")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2450*], [#delta(2)],
       [172], [#name("陈俊菘")], [#age(20)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2449*], [#delta(2)],
       [173], [#name("SZUDI Adam")], [#age(29)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2449*], [#delta(2)],
-      [174], [#name("QUAN Kaiyuan")], [#age(24)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2449*], [#delta(2)],
+      [174], [#name("全开源")], [#age(24)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2449*], [#delta(2)],
       [175], [#name("MUTTI Matteo")], [#age(25)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2448*], [#delta(2)],
     )
   )

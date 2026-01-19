@@ -234,7 +234,7 @@
       [172], [#name("CHOI Haeeun")], [#age(17)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2357*], [#delta(7)],
       [173], [#name("DE NUTTE Sarah")], [#age(27)], [#assoc("LUX")], [#right], [#shakehand], [#attack], [*2355*], [#delta(31)],
       [174], [#name("MANTZ Chantal")], [#age(23)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2355*], [#delta(4)],
-      [175], [#name("RYU Hanna")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(7)],
+      [175], [#name("柳韩娜")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(7)],
     )
   )
 #pagebreak()

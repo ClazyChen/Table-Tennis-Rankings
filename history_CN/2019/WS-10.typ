@@ -250,7 +250,7 @@
       [179], [#name("CHOI Haeeun")], [#age(17)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2357*], [#delta(7)],
       [180], [#name("ALTINKAYA Sibel")], [#age(26)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2356*], [#delta(76)],
       [181], [#name("BALINT Bernadett")], [#age(23)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2356*], [#delta(0)],
-      [182], [#name("RYU Hanna")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(-8)],
+      [182], [#name("柳韩娜")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(-8)],
       [183], [#name("MAKSUTI Aneta")], [#age(24)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2354*], [#delta(15)],
       [184], [#name("SILVA Yadira")], [#age(34)], [#assoc("MEX")], [#right], [#shakehand], [#attack], [*2351*], [#delta(16)],
       [185], [#name("WANG Chen")], [#age(45)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2351*], [#delta(0)],

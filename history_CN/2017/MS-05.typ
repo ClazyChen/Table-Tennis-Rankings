@@ -162,7 +162,7 @@
       [118], [#name("神巧也")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2533*], [#delta(-5)],
       [119], [#name("SAKAI Asuka")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2532*], [#delta(21)],
       [120], [#name("PISTEJ Lubomir")], [#age(33)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2531*], [#delta(-9)],
-      [121], [#name("SEYFRIED Joe")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2529*], [#delta(230)],
+      [121], [#name("乔 赛弗里德")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2529*], [#delta(230)],
       [122], [#name("ANTHONY Amalraj")], [#age(31)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2527*], [#delta(74)],
       [123], [#name("MATSUMOTO Cazuo")], [#age(32)], [#assoc("BRA")], [#left], [#penhold], [#attack], [*2526*], [#delta(-4)],
       [124], [#name("ARVIDSSON Simon")], [#age(27)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2526*], [#delta(-4)],

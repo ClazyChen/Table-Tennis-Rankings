@@ -217,7 +217,7 @@
       [155], [#name("TAKAMI Masaki")], [#age(18)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2482*], [#delta(-33)],
       [156], [#name("GNANASEKARAN Sathiyan")], [#age(24)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2482*], [#delta(0)],
       [157], [#name("STOYANOV Niagol")], [#age(30)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2479*], [#delta(57)],
-      [158], [#name("SEYFRIED Joe")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2479*], [#delta(-9)],
+      [158], [#name("乔 赛弗里德")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2479*], [#delta(-9)],
       [159], [#name("NORDBERG Hampus")], [#age(30)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2478*], [#delta(-42)],
       [160], [#name("PENG Wang-Wei")], [#age(21)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2477*], [#delta(-19)],
       [161], [#name("RANEFUR Elias")], [#age(21)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2477*], [#delta(65)],

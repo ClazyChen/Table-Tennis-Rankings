@@ -226,7 +226,7 @@
       [164], [#name("LAM Yee Lok")], [#age(23)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2417*], [#delta(-3)],
       [165], [#name("玛妮卡 巴特拉")], [#age(24)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2415*], [#delta(-49)],
       [166], [#name("GROFOVA Karin")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2414*], [#delta(126)],
-      [167], [#name("RYU Hanna")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2413*], [#delta(-5)],
+      [167], [#name("柳韩娜")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2413*], [#delta(-5)],
       [168], [#name("BRATEYKO Solomiya")], [#age(20)], [#assoc("UKR")], [#left], [#shakehand], [#attack], [*2413*], [#delta(20)],
       [169], [#name("TAILAKOVA Mariia")], [#age(18)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2407*], [#delta(-3)],
       [170], [#name("UMEMURA Yuka")], [#age(19)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2406*], [#delta(-7)],

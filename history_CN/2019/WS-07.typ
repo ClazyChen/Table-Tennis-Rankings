@@ -218,7 +218,7 @@
       [156], [#name("GROFOVA Karin")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2414*], [#delta(13)],
       [157], [#name("MAK Tze Wing")], [#age(21)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2414*], [#delta(-20)],
       [158], [#name("LEE Ka Yee")], [#age(17)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2413*], [#delta(33)],
-      [159], [#name("RYU Hanna")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2413*], [#delta(12)],
+      [159], [#name("柳韩娜")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2413*], [#delta(12)],
       [160], [#name("DEGRAEF Margo")], [#age(21)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2411*], [#delta(12)],
       [161], [#name("HUANG Yu-Wen")], [#age(23)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2408*], [#delta(13)],
       [162], [#name("NOSKOVA Yana")], [#age(25)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2408*], [#delta(11)],

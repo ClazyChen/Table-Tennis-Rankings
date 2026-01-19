@@ -219,7 +219,7 @@
       [157], [#name("LIN Chia-Hsuan")], [#age(22)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2417*], [#delta(-1)],
       [158], [#name("LAM Yee Lok")], [#age(23)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2417*], [#delta(-1)],
       [159], [#name("琳达 伯格斯特隆")], [#age(24)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2415*], [#delta(-1)],
-      [160], [#name("RYU Hanna")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2413*], [#delta(105)],
+      [160], [#name("柳韩娜")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2413*], [#delta(105)],
       [161], [#name("BALINT Bernadett")], [#age(23)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2412*], [#delta(-2)],
       [162], [#name("KAMATH Archana")], [#age(19)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2411*], [#delta(55)],
       [163], [#name("DVORAK Galia")], [#age(31)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2411*], [#delta(-3)],

@@ -253,7 +253,7 @@
       [182], [#name("LUPULESKU Izabela")], [#age(25)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2318*], [#delta(-17)],
       [183], [#name("AUEAWIRIYAYOTHIN Wanwisa")], [#age(20)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2317*], [#delta(5)],
       [184], [#name("DARI Helga")], [#age(22)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2317*], [#delta(5)],
-      [185], [#name("LIU Ru-Yun")], [#age(18)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2313*], [#delta(46)],
+      [185], [#name("LIU Ru-Yun")], [#age(18)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2313*], [#delta(47)],
       [186], [#name("HUANG Yu-Jie")], [#age(21)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2313*], [#delta(4)],
       [187], [#name("FONSECA Daniela")], [#age(22)], [#assoc("CUB")], [#left], [#shakehand], [#attack], [*2310*], [#delta(4)],
       [188], [#name("MAKSUTI Aneta")], [#age(29)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2310*], [#delta(4)],
@@ -266,8 +266,8 @@
       [195], [#name("BRZYSKA Anna")], [#age(19)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2298*], [#delta(-8)],
       [196], [#name("MATIUNINA Veronika")], [#age(18)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2293*], [#delta(2)],
       [197], [#name("ZHU Ziyu")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2293*], [#delta(2)],
-      [198], [#name("HARAC Ece")], [#age(22)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2292*], [#delta(65)],
+      [198], [#name("HARAC Ece")], [#age(22)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2292*], [#delta(66)],
       [199], [#name("LYNE Karen")], [#age(22)], [#assoc("MAS")], [#left], [#shakehand], [#attack], [*2292*], [#delta(1)],
-      [200], [#name("ARLIA Nicole")], [#age(19)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2291*], [#delta(25)],
+      [200], [#name("ARLIA Nicole")], [#age(19)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2291*], [#delta(26)],
     )
   )

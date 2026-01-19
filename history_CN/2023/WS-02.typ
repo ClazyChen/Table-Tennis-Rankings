@@ -185,7 +185,7 @@
       [132], [#name("ZHANG Sofia-Xuan")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2368*], [#delta(33)],
       [133], [#name("KIM Seongjin")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2368*], [#delta(-2)],
       [134], [#name("KUKULKOVA Tatiana")], [#age(23)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2366*], [#delta(25)],
-      [135], [#name("RYU Hanna")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(-3)],
+      [135], [#name("柳韩娜")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(-3)],
       [136], [#name("HUANG Yu-Wen")], [#age(27)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2366*], [#delta(-3)],
       [137], [#name("VIVARELLI Debora")], [#age(30)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2364*], [#delta(-35)],
       [138], [#name("苏蒂尔塔 穆克吉")], [#age(28)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2364*], [#delta(-4)],

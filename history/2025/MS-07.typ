@@ -262,7 +262,7 @@
       [191], [#name("MUTTI Matteo")], [#age(25)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2437*], [#delta(3)],
       [192], [#name("VERDONSCHOT Wim")], [#age(20)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2436*], [#delta(-80)],
       [193], [#name("KESHAVARZI Amirmahdi")], [#age(20)], [#assoc("IRI")], [#right], [#shakehand], [#defense], [*2434*], [#delta(-1)],
-      [194], [#name("IWAIDA Shunto")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2433*], [#delta(170)],
+      [194], [#name("IWAIDA Shunto")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2433*], [#delta(171)],
       [195], [#name("DRINKHALL Paul")], [#age(35)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2433*], [#delta(-14)],
       [196], [#name("SUN Yang")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2432*], [#delta(1)],
       [197], [#name("MINO Alberto")], [#age(35)], [#assoc("ECU")], [#right], [#shakehand], [#attack], [*2432*], [#delta(-6)],

@@ -166,7 +166,7 @@
       [122], [#name("蒂娜 梅谢芙")], [#age(28)], [#assoc("EGY")], [#left], [#shakehand], [#attack], [*2371*], [#delta(-36)],
       [123], [#name("GHORPADE Yashaswini")], [#age(18)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2369*], [#delta(1)],
       [124], [#name("MEN Shuohan")], [#age(22)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2367*], [#delta(1)],
-      [125], [#name("RYU Hanna")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(1)],
+      [125], [#name("柳韩娜")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(1)],
     )
   )
 #pagebreak()

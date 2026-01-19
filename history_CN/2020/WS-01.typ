@@ -211,7 +211,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [151], [#name("MADARASZ Dora")], [#age(27)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2355*], [#delta(7)],
-      [152], [#name("RYU Hanna")], [#age(18)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(12)],
+      [152], [#name("柳韩娜")], [#age(18)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(12)],
       [153], [#name("MAKSUTI Aneta")], [#age(25)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2354*], [#delta(12)],
       [154], [#name("苏蒂尔塔 穆克吉")], [#age(25)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2354*], [#delta(48)],
       [155], [#name("PFEFER Laura")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2354*], [#delta(11)],

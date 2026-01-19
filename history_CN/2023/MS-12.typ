@@ -149,7 +149,7 @@
       [105], [#name("MENG Fanbo")], [#age(23)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2554*], [#delta(-14)],
       [106], [#name("MATSUYAMA Yuki")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2552*], [#delta(1)],
       [107], [#name("廖振珽")], [#age(27)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2551*], [#delta(2)],
-      [108], [#name("AIDA Satoshi")], [#age(30)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2550*], [#delta(-9)],
+      [108], [#name("英田理志")], [#age(30)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2550*], [#delta(-9)],
       [109], [#name("THAKKAR Manav")], [#age(23)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2548*], [#delta(1)],
       [110], [#name("阿德里安 拉森福斯")], [#age(20)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2548*], [#delta(-9)],
       [111], [#name("黄友政")], [#age(18)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2548*], [#delta(-9)],
@@ -166,7 +166,7 @@
       [122], [#name("里卡多 瓦尔特")], [#age(32)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2529*], [#delta(-1)],
       [123], [#name("孙正")], [#age(21)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2529*], [#delta(-1)],
       [124], [#name("滨田一辉")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2528*], [#delta(-1)],
-      [125], [#name("SEYFRIED Joe")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2526*], [#delta(-13)],
+      [125], [#name("乔 赛弗里德")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2526*], [#delta(-13)],
     )
   )
 #pagebreak()

@@ -129,7 +129,7 @@
       [94], [#name("黄友政")], [#age(19)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2572*], [#delta(-2)],
       [95], [#name("陈建安")], [#age(33)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2571*], [#delta(-2)],
       [96], [#name("凯 斯图姆珀")], [#age(22)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2571*], [#delta(-2)],
-      [97], [#name("AIDA Satoshi")], [#age(31)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2570*], [#delta(-1)],
+      [97], [#name("英田理志")], [#age(31)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2570*], [#delta(-1)],
       [98], [#name("MOVILEANU Darius")], [#age(19)], [#assoc("ROU")], [#left], [#shakehand], [#attack], [*2568*], [#delta(107)],
       [99], [#name("廖振珽")], [#age(28)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2564*], [#delta(0)],
       [100], [#name("利亚姆 皮切福德")], [#age(31)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2563*], [#delta(-50)],
@@ -164,7 +164,7 @@
       [120], [#name("LI Hsin-Yang")], [#age(24)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2517*], [#delta(2)],
       [121], [#name("MENG Fanbo")], [#age(24)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2512*], [#delta(5)],
       [122], [#name("ANDRAS Csaba")], [#age(22)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2512*], [#delta(2)],
-      [123], [#name("SEYFRIED Joe")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2510*], [#delta(-2)],
+      [123], [#name("乔 赛弗里德")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2510*], [#delta(-2)],
       [124], [#name("卢卡 姆拉德诺维奇")], [#age(26)], [#assoc("LUX")], [#right], [#shakehand], [#attack], [*2506*], [#delta(-5)],
       [125], [#name("DE NODREST Leo")], [#age(24)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2504*], [#delta(-19)],
     )

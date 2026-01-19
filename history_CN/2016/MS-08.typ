@@ -252,7 +252,7 @@
       [181], [#name("BOBOCICA Mihai")], [#age(30)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2435*], [#delta(1)],
       [182], [#name("丹尼尔 哈贝松")], [#age(30)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2435*], [#delta(1)],
       [183], [#name("AKERSTROM Fabian")], [#age(28)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2434*], [#delta(1)],
-      [184], [#name("SEYFRIED Joe")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2434*], [#delta(-19)],
+      [184], [#name("乔 赛弗里德")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2434*], [#delta(-19)],
       [185], [#name("JOUTI Eric")], [#age(22)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2433*], [#delta(0)],
       [186], [#name("KOJIC Frane")], [#age(24)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2432*], [#delta(0)],
       [187], [#name("YANG Heng-Wei")], [#age(19)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2431*], [#delta(0)],

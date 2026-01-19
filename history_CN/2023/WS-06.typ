@@ -200,7 +200,7 @@
       [147], [#name("GHOSH Swastika")], [#age(20)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2359*], [#delta(1)],
       [148], [#name("李多恩")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2357*], [#delta(2)],
       [149], [#name("STEFANOVA Nikoleta")], [#age(39)], [#assoc("ITA")], [#left], [#shakehand], [#attack], [*2357*], [#delta(2)],
-      [150], [#name("RYU Hanna")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(2)],
+      [150], [#name("柳韩娜")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(2)],
     )
   )
 #pagebreak()
@@ -219,7 +219,7 @@
       [157], [#name("克里斯蒂娜 卡尔伯格")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2346*], [#delta(-14)],
       [158], [#name("CHEN Ying-Chen")], [#age(24)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2342*], [#delta(1)],
       [159], [#name("BLASKOVA Zdena")], [#age(22)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2342*], [#delta(1)],
-      [160], [#name("DING Yijie")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2340*], [#delta(1)],
+      [160], [#name("丁怡婕")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2340*], [#delta(1)],
       [161], [#name("KHETKHUAN Tamolwan")], [#age(26)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2338*], [#delta(2)],
       [162], [#name("KAMATH Archana")], [#age(23)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2334*], [#delta(3)],
       [163], [#name("叶伊恬")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2330*], [#delta(-6)],

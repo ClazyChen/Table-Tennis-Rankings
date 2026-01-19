@@ -218,7 +218,7 @@
       [156], [#name("LIN Chia-Hsuan")], [#age(22)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2417*], [#delta(1)],
       [157], [#name("LAM Yee Lok")], [#age(23)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2417*], [#delta(1)],
       [158], [#name("WU Yue")], [#age(29)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2416*], [#delta(40)],
-      [159], [#name("RYU Hanna")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2413*], [#delta(1)],
+      [159], [#name("柳韩娜")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2413*], [#delta(1)],
       [160], [#name("陈熠")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2410*], [#delta(4)],
       [161], [#name("KAMATH Archana")], [#age(19)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2407*], [#delta(1)],
       [162], [#name("UMEMURA Yuka")], [#age(19)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2406*], [#delta(3)],

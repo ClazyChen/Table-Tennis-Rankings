@@ -199,7 +199,7 @@
       [146], [#name("MOYLAND Sally")], [#age(16)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2375*], [#delta(3)],
       [147], [#name("WIELGOS Zuzanna")], [#age(18)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2373*], [#delta(8)],
       [148], [#name("ARAPOVIC Hana")], [#age(19)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2373*], [#delta(31)],
-      [149], [#name("RYU Hanna")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2372*], [#delta(-26)],
+      [149], [#name("柳韩娜")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2372*], [#delta(-26)],
       [150], [#name("NAGYVARADI Mercedes")], [#age(29)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2369*], [#delta(21)],
     )
   )
@@ -226,7 +226,7 @@
       [164], [#name("MONFARDINI Gaia")], [#age(22)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2346*], [#delta(-37)],
       [165], [#name("LYNE Karen")], [#age(21)], [#assoc("MAS")], [#left], [#shakehand], [#attack], [*2346*], [#delta(-4)],
       [166], [#name("LI Ching Wan")], [#age(29)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2344*], [#delta(-31)],
-      [167], [#name("DING Yijie")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2343*], [#delta(-2)],
+      [167], [#name("丁怡婕")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2343*], [#delta(-2)],
       [168], [#name("BALINT Bernadett")], [#age(27)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2342*], [#delta(51)],
       [169], [#name("KHETKHUAN Tamolwan")], [#age(26)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2338*], [#delta(-3)],
       [170], [#name("LUPULESKU Izabela")], [#age(24)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2338*], [#delta(39)],

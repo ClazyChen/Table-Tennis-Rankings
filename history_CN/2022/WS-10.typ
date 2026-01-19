@@ -176,7 +176,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [126], [#name("RYU Hanna")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(3)],
+      [126], [#name("柳韩娜")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(3)],
       [127], [#name("MIGOT Marie")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2364*], [#delta(-6)],
       [128], [#name("苏蒂尔塔 穆克吉")], [#age(27)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2364*], [#delta(-4)],
       [129], [#name("SEVCIKOVA Marketa")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#defense], [*2362*], [#delta(2)],

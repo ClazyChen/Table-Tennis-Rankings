@@ -182,7 +182,7 @@
       [129], [#name("VORONINA Vlada")], [#age(17)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2359*], [#delta(21)],
       [130], [#name("万远")], [#age(24)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2356*], [#delta(-4)],
       [131], [#name("KOLISH Anastasia")], [#age(20)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2356*], [#delta(-4)],
-      [132], [#name("RYU Hanna")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(-4)],
+      [132], [#name("柳韩娜")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(-4)],
       [133], [#name("张本美和")], [#age(13)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2353*], [#delta(-4)],
       [134], [#name("PARTYKA Natalia")], [#age(32)], [#assoc("POL")], [#left], [#shakehand], [#attack], [*2353*], [#delta(-20)],
       [135], [#name("SUNG Rachel")], [#age(17)], [#assoc("USA")], [#left], [#shakehand], [#attack], [*2350*], [#delta(-4)],

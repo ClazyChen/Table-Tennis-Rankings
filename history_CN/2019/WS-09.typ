@@ -233,7 +233,7 @@
       [171], [#name("LEE Ka Yee")], [#age(17)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2367*], [#delta(-23)],
       [172], [#name("KIM Haeun")], [#age(22)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2364*], [#delta(10)],
       [173], [#name("KUO Chia-Yun")], [#age(21)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2364*], [#delta(10)],
-      [174], [#name("RYU Hanna")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2360*], [#delta(11)],
+      [174], [#name("柳韩娜")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2360*], [#delta(11)],
       [175], [#name("SOLJA Amelie")], [#age(29)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2359*], [#delta(-38)],
     )
   )

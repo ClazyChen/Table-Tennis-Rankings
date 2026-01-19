@@ -181,7 +181,7 @@
       [128], [#name("KAMATH Archana")], [#age(20)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2360*], [#delta(40)],
       [129], [#name("万远")], [#age(23)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2360*], [#delta(0)],
       [130], [#name("KOLISH Anastasia")], [#age(19)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2356*], [#delta(1)],
-      [131], [#name("RYU Hanna")], [#age(18)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(1)],
+      [131], [#name("柳韩娜")], [#age(18)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(1)],
       [132], [#name("张本美和")], [#age(12)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2353*], [#delta(1)],
       [133], [#name("SUNG Rachel")], [#age(16)], [#assoc("USA")], [#left], [#shakehand], [#attack], [*2350*], [#delta(1)],
       [134], [#name("克里斯蒂娜 卡尔伯格")], [#age(20)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2350*], [#delta(1)],

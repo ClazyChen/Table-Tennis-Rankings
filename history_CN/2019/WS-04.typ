@@ -221,7 +221,7 @@
       [159], [#name("ZHANG Binyue")], [#age(19)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2420*], [#delta(-2)],
       [160], [#name("CHIU Ssu-Hua")], [#age(23)], [#assoc("TPE")], [#right], [#shakehand], [#defense], [*2418*], [#delta(-2)],
       [161], [#name("LAM Yee Lok")], [#age(23)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2417*], [#delta(-1)],
-      [162], [#name("RYU Hanna")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2413*], [#delta(-1)],
+      [162], [#name("柳韩娜")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2413*], [#delta(-1)],
       [163], [#name("UMEMURA Yuka")], [#age(19)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2406*], [#delta(1)],
       [164], [#name("布里特 伊尔兰德")], [#age(25)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2406*], [#delta(1)],
       [165], [#name("SURJAN Sabina")], [#age(19)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2405*], [#delta(34)],

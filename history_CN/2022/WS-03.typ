@@ -177,7 +177,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [126], [#name("汉娜 高达")], [#age(15)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2355*], [#delta(3)],
-      [127], [#name("RYU Hanna")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(3)],
+      [127], [#name("柳韩娜")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(3)],
       [128], [#name("ZARIF Audrey")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2353*], [#delta(3)],
       [129], [#name("DYMYTRENKO Anastasiya")], [#age(20)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2349*], [#delta(3)],
       [130], [#name("王添艺")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2348*], [#delta(3)],

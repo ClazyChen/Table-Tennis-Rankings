@@ -182,7 +182,7 @@
       [129], [#name("TRIGOLOS Daria")], [#age(21)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2358*], [#delta(0)],
       [130], [#name("万远")], [#age(23)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2356*], [#delta(0)],
       [131], [#name("KOLISH Anastasia")], [#age(19)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2356*], [#delta(0)],
-      [132], [#name("RYU Hanna")], [#age(18)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(0)],
+      [132], [#name("柳韩娜")], [#age(18)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(0)],
       [133], [#name("张本美和")], [#age(12)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2353*], [#delta(0)],
       [134], [#name("LUNG Lisa")], [#age(21)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2352*], [#delta(0)],
       [135], [#name("SUNG Rachel")], [#age(16)], [#assoc("USA")], [#left], [#shakehand], [#attack], [*2350*], [#delta(0)],

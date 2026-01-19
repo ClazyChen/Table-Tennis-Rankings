@@ -131,7 +131,7 @@
       [96], [#name("吉村和弘")], [#age(27)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2576*], [#delta(-5)],
       [97], [#name("马金宝")], [#age(23)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2575*], [#delta(81)],
       [98], [#name("陈建安")], [#age(32)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2571*], [#delta(36)],
-      [99], [#name("AIDA Satoshi")], [#age(30)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2561*], [#delta(14)],
+      [99], [#name("英田理志")], [#age(30)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2561*], [#delta(14)],
       [100], [#name("李尚洙")], [#age(33)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2560*], [#delta(-26)],
     )
   )
@@ -153,7 +153,7 @@
       [109], [#name("廖振珽")], [#age(27)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2551*], [#delta(47)],
       [110], [#name("THAKKAR Manav")], [#age(23)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2551*], [#delta(-10)],
       [111], [#name("罗伯特 加尔多斯")], [#age(44)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2551*], [#delta(-28)],
-      [112], [#name("SEYFRIED Joe")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2547*], [#delta(-7)],
+      [112], [#name("乔 赛弗里德")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2547*], [#delta(-7)],
       [113], [#name("埃斯特班 多尔")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2542*], [#delta(-15)],
       [114], [#name("DE NODREST Leo")], [#age(23)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2540*], [#delta(-2)],
       [115], [#name("高承睿")], [#age(19)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2539*], [#delta(-11)],

@@ -180,7 +180,7 @@
       [127], [#name("牛冠凯")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2537*], [#delta(40)],
       [128], [#name("NG Pak Nam")], [#age(20)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2533*], [#delta(-3)],
       [129], [#name("PAPAGEORGIOU Konstantinos")], [#age(39)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2533*], [#delta(-3)],
-      [130], [#name("SEYFRIED Joe")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2529*], [#delta(-2)],
+      [130], [#name("乔 赛弗里德")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2529*], [#delta(-2)],
       [131], [#name("BERGLUND Simon")], [#age(21)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2528*], [#delta(-2)],
       [132], [#name("CARVALHO Diogo")], [#age(26)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2527*], [#delta(-2)],
       [133], [#name("TAZOE Kenta")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2525*], [#delta(-2)],

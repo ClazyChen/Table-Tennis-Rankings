@@ -179,7 +179,7 @@
       [126], [#name("汉娜 高达")], [#age(14)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2359*], [#delta(-8)],
       [127], [#name("SU Pei-Ling")], [#age(21)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2356*], [#delta(2)],
       [128], [#name("DOBREVA Polina")], [#age(29)], [#assoc("BUL")], [#right], [#shakehand], [#attack], [*2355*], [#delta(3)],
-      [129], [#name("RYU Hanna")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(4)],
+      [129], [#name("柳韩娜")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(4)],
       [130], [#name("ZARIF Audrey")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2353*], [#delta(-36)],
       [131], [#name("张本美和")], [#age(13)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2353*], [#delta(3)],
       [132], [#name("王添艺")], [#age(19)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2348*], [#delta(5)],

@@ -179,7 +179,7 @@
       [126], [#name("WONG Xin Ru")], [#age(21)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2375*], [#delta(-6)],
       [127], [#name("ARAPOVIC Hana")], [#age(18)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2371*], [#delta(-11)],
       [128], [#name("蒂娜 梅谢芙")], [#age(28)], [#assoc("EGY")], [#left], [#shakehand], [#attack], [*2371*], [#delta(-6)],
-      [129], [#name("RYU Hanna")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(-4)],
+      [129], [#name("柳韩娜")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(-4)],
       [130], [#name("HUANG Yu-Wen")], [#age(26)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2366*], [#delta(32)],
       [131], [#name("SINGEORZAN Ioana")], [#age(18)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2365*], [#delta(2)],
       [132], [#name("苏蒂尔塔 穆克吉")], [#age(27)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2364*], [#delta(-5)],

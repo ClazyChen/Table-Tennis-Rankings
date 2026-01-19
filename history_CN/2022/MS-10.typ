@@ -224,7 +224,7 @@
       [162], [#name("松岛辉空")], [#age(15)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2452*], [#delta(3)],
       [163], [#name("CAMPOS Jorge")], [#age(31)], [#assoc("CUB")], [#right], [#shakehand], [#attack], [*2450*], [#delta(3)],
       [164], [#name("PEREIRA Andy")], [#age(33)], [#assoc("CUB")], [#left], [#shakehand], [#attack], [*2450*], [#delta(3)],
-      [165], [#name("QUAN Kaiyuan")], [#age(21)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2450*], [#delta(-6)],
+      [165], [#name("全开源")], [#age(21)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2450*], [#delta(-6)],
       [166], [#name("DEVOS Laurens")], [#age(22)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2450*], [#delta(-21)],
       [167], [#name("DE NODREST Leo")], [#age(22)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2448*], [#delta(-12)],
       [168], [#name("SIPOS Rares")], [#age(22)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2448*], [#delta(-41)],

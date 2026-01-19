@@ -413,7 +413,7 @@ ZHANG Xiangyu, 张翔宇
 HURSEY Anna, 安娜 赫西
 CHA Su Yong, 嵯水影
 NOMURA Moe, 野村萌
-Ryu Hanna, 柳韩娜
+RYU Hanna, 柳韩娜
 LEE Daeun, 李多恩
 TAKAMORI Mao, 高森爱央
 WU Jia-En, 巫嘉恩
@@ -426,3 +426,24 @@ CHAN Baldwin, 陈颢桦
 PORET Thibault, 迪博 泊雷特
 RASSENFOSSE Adrien, 阿德里安 拉森福斯
 SIDORENKO Vladimir, 弗拉基米尔 西多连科
+SEYFRIED Joe, 乔 赛弗里德
+AIDA Satoshi, 英田理志
+HUNG Jing-Kai, 洪敬恺
+QUAN Kaiyuan, 全开源
+IWAIDA Shunto, 岩井田骏斗
+ZHOU Guanhong, 周冠宏
+YU Haiyang, 于海洋
+FASO Danilo, 达尼洛 法索
+HUANG Xunan, 黄旭男
+IGARASHI Fumiya, 五十岚史弥
+KIM Seongji, 金成珍
+TAKEYA Misuz, 竹谷美凉
+KIMURA Kasumi, 木村香纯
+DING Yijie, 丁怡婕
+CHEN Min-Hsin, 陈旻鑫
+ISHIDA Kokomi, 石田心美
+MURAMATSU Cocona, 村松心菜
+LIU Ziling, 刘子菱
+YANG Huize, 杨惠泽
+ZHAO Wangqi, 赵王琪
+JIANG Yiyi, 姜依依

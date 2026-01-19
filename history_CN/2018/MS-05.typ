@@ -156,7 +156,7 @@
       [112], [#name("ROBINOT Alexandre")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2557*], [#delta(-13)],
       [113], [#name("ORT Kilian")], [#age(22)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2555*], [#delta(14)],
       [114], [#name("GERELL Par")], [#age(36)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2554*], [#delta(-1)],
-      [115], [#name("SEYFRIED Joe")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2553*], [#delta(-30)],
+      [115], [#name("乔 赛弗里德")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2553*], [#delta(-30)],
       [116], [#name("WALKER Samuel")], [#age(23)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2552*], [#delta(-2)],
       [117], [#name("金珉锡")], [#age(26)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2552*], [#delta(-2)],
       [118], [#name("ANTHONY Amalraj")], [#age(32)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2548*], [#delta(0)],

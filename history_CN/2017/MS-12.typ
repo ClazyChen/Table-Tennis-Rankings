@@ -178,7 +178,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [126], [#name("PAPAGEORGIOU Konstantinos")], [#age(38)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2533*], [#delta(-6)],
       [127], [#name("徐海东")], [#age(17)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2532*], [#delta(-4)],
-      [128], [#name("SEYFRIED Joe")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2529*], [#delta(59)],
+      [128], [#name("乔 赛弗里德")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2529*], [#delta(59)],
       [129], [#name("BERGLUND Simon")], [#age(20)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2528*], [#delta(159)],
       [130], [#name("CARVALHO Diogo")], [#age(25)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2527*], [#delta(-4)],
       [131], [#name("TAZOE Kenta")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2525*], [#delta(-69)],

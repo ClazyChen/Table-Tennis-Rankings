@@ -164,7 +164,7 @@
       [120], [#name("MALOBABIC Ivana")], [#age(43)], [#assoc("CRO")], [#right], [#shakehand], [#defense], [*2416*], [#delta(-1)],
       [121], [#name("小盐悠菜")], [#age(15)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2414*], [#delta(16)],
       [122], [#name("LEE Seungeun")], [#age(16)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2414*], [#delta(8)],
-      [123], [#name("RYU Hanna")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2414*], [#delta(27)],
+      [123], [#name("柳韩娜")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2414*], [#delta(27)],
       [124], [#name("CHANG Li Sian Alice")], [#age(23)], [#assoc("MAS")], [#right], [#shakehand], [#defense], [*2414*], [#delta(-4)],
       [125], [#name("SCHREINER Franziska")], [#age(22)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2413*], [#delta(-19)],
     )
@@ -224,7 +224,7 @@
       [162], [#name("BAJOR Natalia")], [#age(26)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2345*], [#delta(-8)],
       [163], [#name("CHEN Ying-Chen")], [#age(24)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2342*], [#delta(-5)],
       [164], [#name("BLASKOVA Zdena")], [#age(22)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2342*], [#delta(-5)],
-      [165], [#name("DING Yijie")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2340*], [#delta(-5)],
+      [165], [#name("丁怡婕")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2340*], [#delta(-5)],
       [166], [#name("KHETKHUAN Tamolwan")], [#age(26)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2338*], [#delta(-5)],
       [167], [#name("叶伊恬")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2331*], [#delta(-4)],
       [168], [#name("ZHANG Sofia-Xuan")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2326*], [#delta(-3)],

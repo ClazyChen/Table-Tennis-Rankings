@@ -253,7 +253,7 @@
       [182], [#name("KIM Haeun")], [#age(22)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2364*], [#delta(15)],
       [183], [#name("KUO Chia-Yun")], [#age(21)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2364*], [#delta(15)],
       [184], [#name("HO Tin-Tin")], [#age(21)], [#assoc("GBR")], [#right], [#penhold], [#attack], [*2363*], [#delta(9)],
-      [185], [#name("RYU Hanna")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2360*], [#delta(-26)],
+      [185], [#name("柳韩娜")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2360*], [#delta(-26)],
       [186], [#name("LI Ching Wan")], [#age(25)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2359*], [#delta(3)],
       [187], [#name("TOLIOU Aikaterini")], [#age(24)], [#assoc("GRE")], [#right], [#shakehand], [#defense], [*2359*], [#delta(12)],
       [188], [#name("KATO Chiaki")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2357*], [#delta(12)],

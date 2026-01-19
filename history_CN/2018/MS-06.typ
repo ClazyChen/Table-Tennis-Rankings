@@ -179,7 +179,7 @@
       [126], [#name("HACHARD Antoine")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2544*], [#delta(-21)],
       [127], [#name("户上隼辅")], [#age(17)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2542*], [#delta(-5)],
       [128], [#name("向鹏")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2540*], [#delta(147)],
-      [129], [#name("SEYFRIED Joe")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2536*], [#delta(-14)],
+      [129], [#name("乔 赛弗里德")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2536*], [#delta(-14)],
       [130], [#name("WU Jiaji")], [#age(23)], [#assoc("DOM")], [#right], [#penhold], [#attack], [*2534*], [#delta(-1)],
       [131], [#name("HO Kwan Kit")], [#age(21)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2533*], [#delta(-66)],
       [132], [#name("YU Heyi")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2532*], [#delta(-5)],

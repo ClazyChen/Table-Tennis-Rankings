@@ -261,7 +261,7 @@
       [190], [#name("PLETEA Cristian")], [#age(16)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2433*], [#delta(-14)],
       [191], [#name("BAIBULDIN Andrei")], [#age(30)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2431*], [#delta(-3)],
       [192], [#name("RYUZAKI Tonin")], [#age(18)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2431*], [#delta(-3)],
-      [193], [#name("SEYFRIED Joe")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2430*], [#delta(-8)],
+      [193], [#name("乔 赛弗里德")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2430*], [#delta(-8)],
       [194], [#name("RECH DALDOSSO Marco")], [#age(24)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2430*], [#delta(-4)],
       [195], [#name("CHERNOV Konstantin")], [#age(19)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2429*], [#delta(-4)],
       [196], [#name("MIUCHI Kentaro")], [#age(27)], [#assoc("JPN")], [?], [?], [?], [*2428*], [#delta(-3)],

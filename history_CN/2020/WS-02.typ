@@ -195,7 +195,7 @@
       [142], [#name("KAZANTSEVA Kristina")], [#age(19)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2359*], [#delta(6)],
       [143], [#name("KOLISH Anastasia")], [#age(19)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2358*], [#delta(6)],
       [144], [#name("BLASKOVA Zdena")], [#age(19)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2355*], [#delta(6)],
-      [145], [#name("RYU Hanna")], [#age(18)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(7)],
+      [145], [#name("柳韩娜")], [#age(18)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(7)],
       [146], [#name("MAKSUTI Aneta")], [#age(25)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2354*], [#delta(7)],
       [147], [#name("PFEFER Laura")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2354*], [#delta(8)],
       [148], [#name("WEGRZYN Katarzyna")], [#age(19)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2351*], [#delta(8)],

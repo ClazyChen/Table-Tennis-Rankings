@@ -117,7 +117,7 @@
       [82], [#name("OUAICHE Stephane")], [#age(25)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2599*], [#delta(-8)],
       [83], [#name("奥维迪乌 伊奥内斯库")], [#age(29)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2596*], [#delta(23)],
       [84], [#name("大岛祐哉")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2595*], [#delta(-28)],
-      [85], [#name("SEYFRIED Joe")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2595*], [#delta(60)],
+      [85], [#name("乔 赛弗里德")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2595*], [#delta(60)],
       [86], [#name("江天一")], [#age(30)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2593*], [#delta(37)],
       [87], [#name("WANG Zengyi")], [#age(35)], [#assoc("POL")], [#right], [#penhold], [#attack], [*2586*], [#delta(5)],
       [88], [#name("MONTEIRO Joao")], [#age(35)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2584*], [#delta(-30)],

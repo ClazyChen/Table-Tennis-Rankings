@@ -214,7 +214,7 @@
       [152], [#name("松岛辉空")], [#age(15)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2452*], [#delta(5)],
       [153], [#name("MEISSNER Cedric")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2451*], [#delta(1)],
       [154], [#name("PEREIRA Andy")], [#age(33)], [#assoc("CUB")], [#left], [#shakehand], [#attack], [*2450*], [#delta(5)],
-      [155], [#name("QUAN Kaiyuan")], [#age(21)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2450*], [#delta(5)],
+      [155], [#name("全开源")], [#age(21)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2450*], [#delta(5)],
       [156], [#name("DEVOS Laurens")], [#age(22)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2450*], [#delta(5)],
       [157], [#name("AGUIRRE Marcelo")], [#age(29)], [#assoc("PAR")], [#left], [#shakehand], [#attack], [*2450*], [#delta(25)],
       [158], [#name("DE NODREST Leo")], [#age(22)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2448*], [#delta(5)],

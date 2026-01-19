@@ -223,7 +223,7 @@
       [161], [#name("YU Hsiu-Ting")], [#age(18)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2360*], [#delta(22)],
       [162], [#name("KAZANTSEVA Kristina")], [#age(18)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2359*], [#delta(65)],
       [163], [#name("CHOI Haeeun")], [#age(17)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2357*], [#delta(9)],
-      [164], [#name("RYU Hanna")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(11)],
+      [164], [#name("柳韩娜")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(11)],
       [165], [#name("MAKSUTI Aneta")], [#age(24)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2354*], [#delta(11)],
       [166], [#name("PFEFER Laura")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2354*], [#delta(20)],
       [167], [#name("LUPULESKU Izabela")], [#age(20)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2352*], [#delta(12)],

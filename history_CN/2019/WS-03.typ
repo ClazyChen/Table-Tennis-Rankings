@@ -220,7 +220,7 @@
       [158], [#name("CHIU Ssu-Hua")], [#age(23)], [#assoc("TPE")], [#right], [#shakehand], [#defense], [*2418*], [#delta(-3)],
       [159], [#name("SHCHERBATYKH Valeria")], [#age(21)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2417*], [#delta(6)],
       [160], [#name("LAM Yee Lok")], [#age(23)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2417*], [#delta(-3)],
-      [161], [#name("RYU Hanna")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2413*], [#delta(-2)],
+      [161], [#name("柳韩娜")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2413*], [#delta(-2)],
       [162], [#name("TAILAKOVA Mariia")], [#age(18)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2411*], [#delta(-52)],
       [163], [#name("WU Yue")], [#age(29)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2409*], [#delta(-5)],
       [164], [#name("UMEMURA Yuka")], [#age(19)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2406*], [#delta(-2)],

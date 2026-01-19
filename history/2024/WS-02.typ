@@ -244,7 +244,7 @@
     table(
       columns: 9,
       [\#], [Player],[Age], [Assoc.],  [Hand], [Grip], [Style], [Rating], [$Delta$],
-      [176], [#name("MANI Nithya")], [#age(21)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2332*], [#delta(61)],
+      [176], [#name("MANI Nithya")], [#age(21)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2332*], [#delta(62)],
       [177], [#name("JEGER Mateja")], [#age(29)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2330*], [#delta(-2)],
       [178], [#name("SCHREINER Franziska")], [#age(23)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2325*], [#delta(2)],
       [179], [#name("TAKAHASHI Giulia")], [#age(19)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2322*], [#delta(13)],
@@ -261,7 +261,7 @@
       [190], [#name("LAVROVA Anastassiya")], [#age(29)], [#assoc("KAZ")], [#right], [#shakehand], [#attack], [*2305*], [#delta(0)],
       [191], [#name("RILISKYTE Kornelija")], [#age(21)], [#assoc("LTU")], [#right], [#shakehand], [#attack], [*2304*], [#delta(0)],
       [192], [#name("SIM Hyunju")], [#age(25)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2302*], [#delta(1)],
-      [193], [#name("GUO Jiangshan")], [#age(25)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2301*], [#delta(166)],
+      [193], [#name("GUO Jiangshan")], [#age(25)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2301*], [#delta(167)],
       [194], [#name("KLEE Sophia")], [#age(21)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2300*], [#delta(22)],
       [195], [#name("MEN Shuohan")], [#age(24)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2298*], [#delta(-1)],
       [196], [#name("KUKULKOVA Tatiana")], [#age(24)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2294*], [#delta(-53)],

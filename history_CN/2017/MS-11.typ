@@ -255,7 +255,7 @@
       [184], [#name("BRODD Viktor")], [#age(27)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2454*], [#delta(1)],
       [185], [#name("JANCARIK Lubomir")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2452*], [#delta(-30)],
       [186], [#name("安宰贤")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2451*], [#delta(1)],
-      [187], [#name("SEYFRIED Joe")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2451*], [#delta(-15)],
+      [187], [#name("乔 赛弗里德")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2451*], [#delta(-15)],
       [188], [#name("YU Heyi")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2450*], [#delta(0)],
       [189], [#name("LAMBIET Florent")], [#age(22)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2448*], [#delta(1)],
       [190], [#name("ZATOWKA Patryk")], [#age(20)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2447*], [#delta(32)],

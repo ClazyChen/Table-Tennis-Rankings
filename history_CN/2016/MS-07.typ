@@ -224,7 +224,7 @@
       [162], [#name("FLORAS Robert")], [#age(24)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2456*], [#delta(0)],
       [163], [#name("CHIANG Hung-Chieh")], [#age(27)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2455*], [#delta(-40)],
       [164], [#name("PETO Zsolt")], [#age(29)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2454*], [#delta(-1)],
-      [165], [#name("SEYFRIED Joe")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2451*], [#delta(86)],
+      [165], [#name("乔 赛弗里德")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2451*], [#delta(86)],
       [166], [#name("HIRANO Yuki")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2450*], [#delta(-2)],
       [167], [#name("ISHIY Vitor")], [#age(21)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2450*], [#delta(108)],
       [168], [#name("宇田幸矢")], [#age(15)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2450*], [#delta(85)],

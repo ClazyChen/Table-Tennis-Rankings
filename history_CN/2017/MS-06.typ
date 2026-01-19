@@ -158,7 +158,7 @@
       [114], [#name("OBESLO Michal")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2533*], [#delta(24)],
       [115], [#name("SAKAI Asuka")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2532*], [#delta(4)],
       [116], [#name("PISTEJ Lubomir")], [#age(33)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2531*], [#delta(4)],
-      [117], [#name("SEYFRIED Joe")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2529*], [#delta(4)],
+      [117], [#name("乔 赛弗里德")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2529*], [#delta(4)],
       [118], [#name("ANDERSSON Harald")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2524*], [#delta(-32)],
       [119], [#name("WALKER Samuel")], [#age(22)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2524*], [#delta(71)],
       [120], [#name("德米特里 佩罗普科夫")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2523*], [#delta(8)],

@@ -182,7 +182,7 @@
       [129], [#name("MOYLAND Sally")], [#age(16)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2371*], [#delta(37)],
       [130], [#name("GHORPADE Yashaswini")], [#age(19)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2371*], [#delta(24)],
       [131], [#name("KIM Seongjin")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2368*], [#delta(56)],
-      [132], [#name("RYU Hanna")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(-3)],
+      [132], [#name("柳韩娜")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(-3)],
       [133], [#name("HUANG Yu-Wen")], [#age(27)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2366*], [#delta(-3)],
       [134], [#name("苏蒂尔塔 穆克吉")], [#age(28)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2364*], [#delta(-2)],
       [135], [#name("KHETKHUAN Tamolwan")], [#age(26)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2361*], [#delta(-2)],

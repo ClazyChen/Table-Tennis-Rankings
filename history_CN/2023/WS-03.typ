@@ -187,7 +187,7 @@
       [134], [#name("MOYLAND Sally")], [#age(16)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2371*], [#delta(-5)],
       [135], [#name("GHORPADE Yashaswini")], [#age(19)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2371*], [#delta(-5)],
       [136], [#name("WONG Xin Ru")], [#age(22)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2371*], [#delta(-15)],
-      [137], [#name("RYU Hanna")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(-2)],
+      [137], [#name("柳韩娜")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(-2)],
       [138], [#name("HUANG Yu-Wen")], [#age(27)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2366*], [#delta(-2)],
       [139], [#name("GHOSH Swastika")], [#age(20)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2365*], [#delta(-30)],
       [140], [#name("苏蒂尔塔 穆克吉")], [#age(28)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2364*], [#delta(-2)],

@@ -231,7 +231,7 @@
       [169], [#name("GUNDUZ Ibrahim")], [#age(20)], [#assoc("TUR")], [#left], [#shakehand], [#attack], [*2470*], [#delta(81)],
       [170], [#name("哈米特 德赛")], [#age(24)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2470*], [#delta(-31)],
       [171], [#name("FLORITZ Philipp")], [#age(26)], [#assoc("BUL")], [#right], [#shakehand], [#attack], [*2470*], [#delta(2)],
-      [172], [#name("SEYFRIED Joe")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2470*], [#delta(-14)],
+      [172], [#name("乔 赛弗里德")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2470*], [#delta(-14)],
       [173], [#name("FERTIKOWSKI Pawel")], [#age(27)], [#assoc("POL")], [#left], [#shakehand], [#attack], [*2469*], [#delta(-1)],
       [174], [#name("GAVLAS Antonin")], [#age(32)], [#assoc("CZE")], [#left], [#shakehand], [#attack], [*2469*], [#delta(-37)],
       [175], [#name("GORAK Daniel")], [#age(34)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2465*], [#delta(-9)],

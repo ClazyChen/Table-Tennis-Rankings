@@ -130,7 +130,7 @@
       [95], [#name("SAI Linwei")], [#age(24)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2572*], [#delta(2)],
       [96], [#name("奥维迪乌 伊奥内斯库")], [#age(34)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2570*], [#delta(-4)],
       [97], [#name("奥马尔 阿萨尔")], [#age(32)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2569*], [#delta(-13)],
-      [98], [#name("AIDA Satoshi")], [#age(30)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2569*], [#delta(12)],
+      [98], [#name("英田理志")], [#age(30)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2569*], [#delta(12)],
       [99], [#name("ACHANTA Sharath")], [#age(41)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2568*], [#delta(0)],
       [100], [#name("基里尔 格拉西缅科")], [#age(27)], [#assoc("KAZ")], [#right], [#shakehand], [#attack], [*2567*], [#delta(-6)],
     )
@@ -232,7 +232,7 @@
       [170], [#name("迪博 泊雷特")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2454*], [#delta(-2)],
       [171], [#name("LAKATOS Tamas")], [#age(28)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2454*], [#delta(-1)],
       [172], [#name("ANGLES Enzo")], [#age(28)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2451*], [#delta(-34)],
-      [173], [#name("QUAN Kaiyuan")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2450*], [#delta(-1)],
+      [173], [#name("全开源")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2450*], [#delta(-1)],
       [174], [#name("安德斯 林德")], [#age(25)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2448*], [#delta(-38)],
       [175], [#name("AGUIRRE Marcelo")], [#age(30)], [#assoc("PAR")], [#left], [#shakehand], [#attack], [*2448*], [#delta(-20)],
     )
@@ -244,7 +244,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [176], [#name("SEYFRIED Joe")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2447*], [#delta(-9)],
+      [176], [#name("乔 赛弗里德")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2447*], [#delta(-9)],
       [177], [#name("POLANSKY Tomas")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2446*], [#delta(-20)],
       [178], [#name("LI Hon Ming")], [#age(27)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2444*], [#delta(63)],
       [179], [#name("KOJIC Frane")], [#age(31)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2439*], [#delta(-18)],

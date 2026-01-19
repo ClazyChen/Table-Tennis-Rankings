@@ -234,7 +234,7 @@
       [172], [#name("MOYLAND Sally")], [#age(17)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2353*], [#delta(-9)],
       [173], [#name("CHEN Chi-Shiuan")], [#age(19)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2351*], [#delta(-11)],
       [174], [#name("MATOS Ines")], [#age(20)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2349*], [#delta(-4)],
-      [175], [#name("KIM Seoyun")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2348*], [#delta(91)],
+      [175], [#name("KIM Seoyun")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2348*], [#delta(92)],
     )
   )
 #pagebreak()

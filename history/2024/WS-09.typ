@@ -231,7 +231,7 @@
       [169], [#name("WEGRZYN Katarzyna")], [#age(23)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2348*], [#delta(-32)],
       [170], [#name("MOYLAND Sally")], [#age(17)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2346*], [#delta(2)],
       [171], [#name("KLEE Sophia")], [#age(21)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2340*], [#delta(19)],
-      [172], [#name("TODOROVIC Andrea")], [#age(32)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2340*], [#delta(72)],
+      [172], [#name("TODOROVIC Andrea")], [#age(32)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2340*], [#delta(73)],
       [173], [#name("TOKIC Sara")], [#age(18)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2340*], [#delta(6)],
       [174], [#name("WANI Sayali")], [#age(18)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2340*], [#delta(3)],
       [175], [#name("SAINI Suhana")], [#age(18)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2338*], [#delta(6)],

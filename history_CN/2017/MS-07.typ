@@ -199,7 +199,7 @@
       [146], [#name("WALKER Samuel")], [#age(22)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2497*], [#delta(-27)],
       [147], [#name("阿尔瓦罗 罗布勒斯")], [#age(26)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2496*], [#delta(-41)],
       [148], [#name("汪洋")], [#age(23)], [#assoc("SVK")], [#right], [#shakehand], [#defense], [*2496*], [#delta(-77)],
-      [149], [#name("SEYFRIED Joe")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2496*], [#delta(-32)],
+      [149], [#name("乔 赛弗里德")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2496*], [#delta(-32)],
       [150], [#name("LAKEEV Vasily")], [#age(33)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2495*], [#delta(-1)],
     )
   )

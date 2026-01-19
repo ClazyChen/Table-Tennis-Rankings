@@ -164,7 +164,7 @@
       [120], [#name("LAM Yee Lok")], [#age(26)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2373*], [#delta(5)],
       [121], [#name("ZAHARIA Elena")], [#age(18)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2372*], [#delta(17)],
       [122], [#name("MADARASZ Dora")], [#age(29)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2371*], [#delta(33)],
-      [123], [#name("RYU Hanna")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(5)],
+      [123], [#name("柳韩娜")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(5)],
       [124], [#name("斯丽贾 阿库拉")], [#age(24)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2365*], [#delta(-4)],
       [125], [#name("SURJAN Sabina")], [#age(22)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2363*], [#delta(-11)],
     )

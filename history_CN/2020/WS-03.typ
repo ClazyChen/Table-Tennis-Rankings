@@ -189,7 +189,7 @@
       [136], [#name("BOGDANOVA Nadezhda")], [#age(20)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2363*], [#delta(-13)],
       [137], [#name("SOLJA Amelie")], [#age(30)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2362*], [#delta(28)],
       [138], [#name("KAZANTSEVA Kristina")], [#age(19)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2361*], [#delta(4)],
-      [139], [#name("RYU Hanna")], [#age(18)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(6)],
+      [139], [#name("柳韩娜")], [#age(18)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(6)],
       [140], [#name("张本美和")], [#age(12)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2353*], [#delta(92)],
       [141], [#name("SUNG Rachel")], [#age(16)], [#assoc("USA")], [#left], [#shakehand], [#attack], [*2350*], [#delta(8)],
       [142], [#name("SAWETTABUT Jinnipa")], [#age(20)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2350*], [#delta(75)],

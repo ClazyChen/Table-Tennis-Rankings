@@ -178,7 +178,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [126], [#name("HO Tin-Tin")], [#age(24)], [#assoc("GBR")], [#right], [#penhold], [#attack], [*2368*], [#delta(-3)],
       [127], [#name("PLAIAN Tania")], [#age(21)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2366*], [#delta(-8)],
-      [128], [#name("RYU Hanna")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(-4)],
+      [128], [#name("柳韩娜")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(-4)],
       [129], [#name("TOMANOVSKA Katerina")], [#age(27)], [#assoc("CZE")], [#left], [#shakehand], [#attack], [*2363*], [#delta(16)],
       [130], [#name("KHETKHUAN Tamolwan")], [#age(25)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2361*], [#delta(-4)],
       [131], [#name("LUTZ Camille")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2357*], [#delta(-6)],

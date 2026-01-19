@@ -164,7 +164,7 @@
       [120], [#name("BRATEYKO Solomiya")], [#age(23)], [#assoc("UKR")], [#left], [#shakehand], [#attack], [*2372*], [#delta(0)],
       [121], [#name("MADARASZ Dora")], [#age(29)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2370*], [#delta(55)],
       [122], [#name("HO Tin-Tin")], [#age(24)], [#assoc("GBR")], [#right], [#penhold], [#attack], [*2368*], [#delta(-1)],
-      [123], [#name("RYU Hanna")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(4)],
+      [123], [#name("柳韩娜")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(4)],
       [124], [#name("ZAHARIA Elena")], [#age(18)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2364*], [#delta(-47)],
       [125], [#name("KHETKHUAN Tamolwan")], [#age(25)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2361*], [NEW],
     )

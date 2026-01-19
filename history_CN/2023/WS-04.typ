@@ -190,7 +190,7 @@
       [137], [#name("SUNG Rachel")], [#age(19)], [#assoc("USA")], [#left], [#shakehand], [#attack], [*2373*], [#delta(-6)],
       [138], [#name("HUANG Hsin")], [#age(28)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2373*], [#delta(-6)],
       [139], [#name("MOYLAND Sally")], [#age(16)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2371*], [#delta(-5)],
-      [140], [#name("RYU Hanna")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(-3)],
+      [140], [#name("柳韩娜")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2366*], [#delta(-3)],
       [141], [#name("克里斯蒂娜 卡尔伯格")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2366*], [#delta(-30)],
       [142], [#name("HUANG Yu-Wen")], [#age(27)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2366*], [#delta(-4)],
       [143], [#name("CHEN Ying-Chen")], [#age(24)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2362*], [NEW],

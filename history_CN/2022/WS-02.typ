@@ -180,7 +180,7 @@
       [127], [#name("CHASSELIN Pauline")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2361*], [#delta(-2)],
       [128], [#name("SU Pei-Ling")], [#age(22)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2356*], [#delta(-1)],
       [129], [#name("汉娜 高达")], [#age(15)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2355*], [#delta(0)],
-      [130], [#name("RYU Hanna")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(0)],
+      [130], [#name("柳韩娜")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2354*], [#delta(0)],
       [131], [#name("ZARIF Audrey")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2353*], [#delta(0)],
       [132], [#name("DYMYTRENKO Anastasiya")], [#age(20)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2349*], [#delta(0)],
       [133], [#name("王添艺")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2348*], [#delta(0)],

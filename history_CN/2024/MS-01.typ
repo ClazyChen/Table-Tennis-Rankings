@@ -132,7 +132,7 @@
       [97], [#name("黄友政")], [#age(19)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2572*], [#delta(14)],
       [98], [#name("马金宝")], [#age(24)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2572*], [#delta(0)],
       [99], [#name("陈建安")], [#age(33)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2571*], [#delta(0)],
-      [100], [#name("AIDA Satoshi")], [#age(31)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2570*], [#delta(8)],
+      [100], [#name("英田理志")], [#age(31)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2570*], [#delta(8)],
     )
   )
 #pagebreak()
@@ -166,7 +166,7 @@
       [122], [#name("KUBIK Maciej")], [#age(21)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2519*], [#delta(-1)],
       [123], [#name("YANG Tzu-Yi")], [#age(28)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2518*], [#delta(7)],
       [124], [#name("LI Hsin-Yang")], [#age(24)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2517*], [#delta(7)],
-      [125], [#name("SEYFRIED Joe")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2516*], [#delta(0)],
+      [125], [#name("乔 赛弗里德")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2516*], [#delta(0)],
     )
   )
 #pagebreak()
