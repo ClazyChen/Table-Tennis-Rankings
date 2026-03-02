@@ -227,7 +227,7 @@
       [165], [#name("VITSEK Ivan")], [#age(36)], [#assoc("HUN")], [#left], [#shakehand], [#attack], [*2045*], [#delta(-2)],
       [166], [#name("KIM Hyok Bong")], [#age(20)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2042*], [#delta(172)],
       [167], [#name("YOON Jaeyoung")], [#age(22)], [#assoc("KOR")], [?], [?], [?], [*2041*], [#delta(-3)],
-      [168], [#name("ROBERTSON Adam")], [#age(21)], [#assoc("WAL")], [?], [?], [?], [*2038*], [#delta(-2)],
+      [168], [#name("ROBERTSON Adam")], [#age(21)], [#assoc("WAL")], [?], [?], [?], [*2038*], [#delta(-3)],
       [169], [#name("BALL Andreas")], [#age(21)], [#assoc("GER")], [?], [?], [?], [*2037*], [#delta(-2)],
       [170], [#name("STENBERG Mattias")], [#age(29)], [#assoc("SWE")], [?], [?], [?], [*2036*], [#delta(-2)],
       [171], [#name("KONECNY Tomas")], [#age(20)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2036*], [#delta(-2)],
@@ -244,7 +244,7 @@
     table(
       columns: 9,
       [\#], [Player],[Age], [Assoc.],  [Hand], [Grip], [Style], [Rating], [$Delta$],
-      [176], [#name("BAUM Patrick")], [#age(18)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2020*], [#delta(-11)],
+      [176], [#name("BAUM Patrick")], [#age(18)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2020*], [#delta(-10)],
       [177], [#name("JIANG Weizhong")], [#age(37)], [#assoc("CRO")], [?], [?], [?], [*2019*], [#delta(-3)],
       [178], [#name("FETH Stefan")], [#age(25)], [#assoc("GER")], [?], [?], [?], [*2019*], [#delta(-8)],
       [179], [#name("LAKEEV Vasily")], [#age(21)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2017*], [#delta(-4)],

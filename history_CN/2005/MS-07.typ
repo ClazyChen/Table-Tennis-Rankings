@@ -230,7 +230,7 @@
       [168], [#name("ROBERTSON Adam")], [#age(21)], [#assoc("WAL")], [?], [?], [?], [*2049*], [#delta(2)],
       [169], [#name("ZHUANG David")], [#age(42)], [#assoc("USA")], [?], [?], [?], [*2049*], [#delta(2)],
       [170], [#name("VAINULA Vallot")], [#age(27)], [#assoc("EST")], [#right], [#shakehand], [#attack], [*2049*], [#delta(2)],
-      [171], [#name("HABESOHN Daniel")], [#age(19)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2047*], [#delta(140)],
+      [171], [#name("丹尼尔 哈贝松")], [#age(19)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2047*], [#delta(140)],
       [172], [#name("OLLIVIER Brice")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2046*], [#delta(1)],
       [173], [#name("帕特里克 鲍姆")], [#age(18)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2046*], [#delta(2)],
       [174], [#name("VITSEK Ivan")], [#age(36)], [#assoc("HUN")], [#left], [#shakehand], [#attack], [*2045*], [#delta(0)],

@@ -264,7 +264,7 @@
       [193], [#name("GIANNINI Antonio")], [#age(29)], [#assoc("VEN")], [#left], [#shakehand], [#attack], [*1966*], [#delta(1)],
       [194], [#name("BAHUAUD Jerome")], [#age(21)], [#assoc("FRA")], [?], [?], [?], [*1965*], [#delta(1)],
       [195], [#name("MURAMORI Minoru")], [#age(19)], [#assoc("JPN")], [?], [?], [?], [*1961*], [#delta(-42)],
-      [196], [#name("HABESOHN Daniel")], [#age(18)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*1958*], [#delta(1)],
+      [196], [#name("丹尼尔 哈贝松")], [#age(18)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*1958*], [#delta(1)],
       [197], [#name("SORENSEN Mads")], [#age(28)], [#assoc("DEN")], [?], [?], [?], [*1956*], [#delta(1)],
       [198], [#name("JAKAB Janos")], [#age(18)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*1950*], [#delta(14)],
       [199], [#name("RUBTSOV Igor")], [#age(24)], [#assoc("RUS")], [?], [?], [?], [*1950*], [#delta(0)],

@@ -268,6 +268,6 @@
       [197], [#name("VASILJEVS Sandijs")], [#age(32)], [#assoc("LAT")], [#right], [#shakehand], [#attack], [*1967*], [#delta(-6)],
       [198], [#name("MATSUMOTO Cazuo")], [#age(19)], [#assoc("BRA")], [#left], [#penhold], [#attack], [*1967*], [#delta(-6)],
       [199], [#name("GIANNINI Antonio")], [#age(29)], [#assoc("VEN")], [#left], [#shakehand], [#attack], [*1966*], [#delta(-6)],
-      [200], [#name("HABESOHN Daniel")], [#age(18)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*1965*], [#delta(-4)],
+      [200], [#name("丹尼尔 哈贝松")], [#age(18)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*1965*], [#delta(-4)],
     )
   )

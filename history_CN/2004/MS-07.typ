@@ -263,7 +263,7 @@
       [192], [#name("BAHUAUD Jerome")], [#age(21)], [#assoc("FRA")], [?], [?], [?], [*1965*], [#delta(-5)],
       [193], [#name("DOAN Kien Quoc")], [#age(25)], [#assoc("VIE")], [#left], [#shakehand], [#attack], [*1963*], [#delta(-5)],
       [194], [#name("MARKOVIC Rade")], [#age(29)], [#assoc("SRB")], [#right], [#penhold], [#attack], [*1962*], [#delta(-5)],
-      [195], [#name("HABESOHN Daniel")], [#age(18)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*1958*], [#delta(65)],
+      [195], [#name("丹尼尔 哈贝松")], [#age(18)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*1958*], [#delta(65)],
       [196], [#name("SORENSEN Mads")], [#age(28)], [#assoc("DEN")], [?], [?], [?], [*1956*], [#delta(-6)],
       [197], [#name("RUBTSOV Igor")], [#age(24)], [#assoc("RUS")], [?], [?], [?], [*1950*], [#delta(-6)],
       [198], [#name("SARGSYAN Davit")], [#age(26)], [#assoc("ARM")], [?], [?], [?], [*1949*], [#delta(-6)],

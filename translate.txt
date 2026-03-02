@@ -319,7 +319,7 @@ WANG Eugene, 王臻
 PUCAR Tomislav, 托米斯拉夫 普卡
 KAUFMANN Annett, 安妮特 考夫曼
 YOKOI Sakura, 横井咲樱
-BERGSTROM Linda, 琳达 伯格斯特罗姆
+BERGSTROM Linda, 琳达 伯格斯特隆
 EERLAND Britt, 布里特 伊尔兰德
 PARANANG Orawan, 奥拉万 帕拉南
 KORBEL Petr, 彼得 科贝尔
@@ -374,8 +374,76 @@ PARK Gyuhyeon, 朴圭贤
 OLAH Benedek, 贝内德克 奥拉
 REDZIMSKI Milosz, 米洛什 雷德齐姆斯基
 HUANG Yan-Cheng, 黄彦诚
-CHEN Baldwin, 陈颢桦
 YAN Sheng, 严升
 CHANG Yu-An, 张宇安
 SUN Zheng, 孙正
 LIU Yebo, 刘夜泊
+WANG Tianyi, 王添艺
+ZHU Qihui, 祝启慧
+OJIO Yuna, 小盐悠菜
+WAN Yuan, 万远
+HU Yi, 胡一
+YAO Ruixuan, 姚睿轩
+MENDE Rin, 面手凛
+AKAE Kaho, 赤江夏星
+KUO Guan-Hong, 郭冠宏
+LI Hechen, 李和宸
+JARVIS Tom, 汤姆 贾维斯
+ROBLES Alvaro, 阿尔瓦罗 罗布勒斯
+FARAJI Benyamin, 本雅明 法拉吉
+BAE Hwan, 裴焕
+IIZUKA Leonardo, 莱奥纳多 饭冢
+MATSUSHIMA Miku, 松岛美空
+RAKOVAC Lea, 莱娅 拉科瓦奇
+MATELOVA Hana, 汉娜 马特洛娃
+YEH Yi-Tian, 叶伊恬
+PARK Gahyeon, 朴佳贤
+BERTELSMEIER Andre, 安德烈 贝特尔斯迈尔
+COTON Flavien, 弗拉维安 科顿
+HABESOHN Daniel, 丹尼尔 哈贝松
+WALTHER Ricardo, 里卡多 瓦尔特
+CASSIN Alexandre, 亚历山大 卡辛
+DORR Esteban, 埃斯特班 多尔
+CHEN Junsong, 陈俊菘
+KAWAKAMI Ryuusei, 川上流星
+YOSHIYAMA Kazuki, 吉山和希
+OMODA Kotomi, 面田采巳
+ZHU Ziyu, 朱梓予
+ZHANG Xiangyu, 张翔宇
+HURSEY Anna, 安娜 赫西
+CHA Su Yong, 嵯水影
+NOMURA Moe, 野村萌
+RYU Hanna, 柳韩娜
+LEE Daeun, 李多恩
+TAKAMORI Mao, 高森爱央
+WU Jia-En, 巫嘉恩
+AOKI Sachi, 青木咲智
+ABRAAMIAN Elizabet, 伊丽莎白 阿布拉米安
+SU Tsz Tung, 苏籽童
+BARDET Lilian, 力廉 巴德
+CHIRITA Iulian, 尤利安 奇里塔
+CHAN Baldwin, 陈颢桦
+PORET Thibault, 迪博 泊雷特
+RASSENFOSSE Adrien, 阿德里安 拉森福斯
+SIDORENKO Vladimir, 弗拉基米尔 西多连科
+SEYFRIED Joe, 乔 赛弗里德
+AIDA Satoshi, 英田理志
+HUNG Jing-Kai, 洪敬恺
+QUAN Kaiyuan, 全开源
+IWAIDA Shunto, 岩井田骏斗
+ZHOU Guanhong, 周冠宏
+YU Haiyang, 于海洋
+FASO Danilo, 达尼洛 法索
+HUANG Xunan, 黄旭男
+IGARASHI Fumiya, 五十岚史弥
+KIM Seongji, 金成珍
+TAKEYA Misuz, 竹谷美凉
+KIMURA Kasumi, 木村香纯
+DING Yijie, 丁怡婕
+CHEN Min-Hsin, 陈旻鑫
+ISHIDA Kokomi, 石田心美
+MURAMATSU Cocona, 村松心菜
+LIU Ziling, 刘子菱
+YANG Huize, 杨惠泽
+ZHAO Wangqi, 赵王琪
+JIANG Yiyi, 姜依依

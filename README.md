@@ -9,8 +9,6 @@ All rankings use Typst, which you can easily convert to pdf files.
 
 This repository includes men's singles ranking and women's singles ranking. You can see the changes of top players in the past twenty years: from Wang Liqin, Ma Lin, Wang Hao, Zhang Jike, Ma Long, Fan Zhendong to Wang Chuqin; from Zhang Yining, Guo Yue, Li Xiaoxia, Ding Ning, Liu Shiwen, Chen Meng to Sun Yingsha.
 
-For detailed description of the algorithm and latest rankings, please refer to introduction.pdf.
-
 You are welcome to provide suggestions for improving the algorithm model or the display form of the ranking.
 
 <h1>How to use</h1>
