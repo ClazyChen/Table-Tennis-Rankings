@@ -192,7 +192,7 @@
       [139], [#name("SOLJA Amelie")], [#age(34)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2401*], [#delta(-1)],
       [140], [#name("DIACONU Adina")], [#age(25)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2400*], [#delta(-17)],
       [141], [#name("BRATEYKO Solomiya")], [#age(25)], [#assoc("UKR")], [#left], [#shakehand], [#attack], [*2399*], [#delta(-2)],
-      [142], [#name("HEO Yerim")], [#age(14)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2393*], [#delta(177)],
+      [142], [#name("HEO Yerim")], [#age(14)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2393*], [#delta(179)],
       [143], [#name("陈沂芊")], [#age(22)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2390*], [#delta(-15)],
       [144], [#name("杨惠泽")], [#age(14)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2390*], [#delta(45)],
       [145], [#name("BRZYSKA Anna")], [#age(19)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2390*], [#delta(80)],

@@ -254,7 +254,7 @@
       [183], [#name("HOCHART Leana")], [#age(16)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2332*], [#delta(-14)],
       [184], [#name("PAVLOVIC Andrea")], [#age(24)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2329*], [#delta(81)],
       [185], [#name("KLEE Sophia")], [#age(21)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2325*], [#delta(-9)],
-      [186], [#name("BADAWY Farida")], [#age(20)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2324*], [#delta(110)],
+      [186], [#name("BADAWY Farida")], [#age(20)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2324*], [#delta(111)],
       [187], [#name("ALEXANDRE Bruna")], [#age(29)], [#assoc("BRA")], [#left], [#shakehand], [#attack], [*2324*], [#delta(-5)],
       [188], [#name("KHETKHUAN Tamolwan")], [#age(27)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2324*], [#delta(-4)],
       [189], [#name("EARLEY Sophie")], [#age(18)], [#assoc("IRL")], [#right], [#shakehand], [#attack], [*2321*], [#delta(0)],

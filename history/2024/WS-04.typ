@@ -183,7 +183,7 @@
       [130], [#name("PARK Gahyeon")], [#age(17)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2413*], [#delta(0)],
       [131], [#name("SAWETTABUT Jinnipa")], [#age(24)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2409*], [#delta(-19)],
       [132], [#name("BRATEYKO Solomiya")], [#age(25)], [#assoc("UKR")], [#left], [#shakehand], [#attack], [*2409*], [#delta(11)],
-      [133], [#name("ROY Krittwika")], [#age(30)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2408*], [#delta(146)],
+      [133], [#name("ROY Krittwika")], [#age(30)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2408*], [#delta(147)],
       [134], [#name("SUNG Rachel")], [#age(20)], [#assoc("USA")], [#left], [#shakehand], [#attack], [*2407*], [#delta(-1)],
       [135], [#name("CHANG Li Sian Alice")], [#age(24)], [#assoc("MAS")], [#right], [#shakehand], [#defense], [*2406*], [#delta(-1)],
       [136], [#name("KUKULKOVA Tatiana")], [#age(24)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2403*], [#delta(43)],

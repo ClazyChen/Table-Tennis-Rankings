@@ -230,7 +230,7 @@
       [168], [#name("TAKEYA Misuzu")], [#age(15)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2345*], [#delta(-1)],
       [169], [#name("ZHANG Sofia-Xuan")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2344*], [#delta(-20)],
       [170], [#name("LUTZ Charlotte")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2344*], [#delta(-34)],
-      [171], [#name("VIVARELLI Debora")], [#age(30)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2342*], [#delta(123)],
+      [171], [#name("VIVARELLI Debora")], [#age(30)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2342*], [#delta(124)],
       [172], [#name("ALHODABY Mariam")], [#age(23)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2338*], [#delta(-1)],
       [173], [#name("MONFARDINI Gaia")], [#age(22)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2335*], [#delta(-1)],
       [174], [#name("SOLJA Amelie")], [#age(33)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2331*], [#delta(-4)],

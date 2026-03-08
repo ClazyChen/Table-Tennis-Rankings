@@ -224,7 +224,7 @@
       [162], [#name("LYNE Karen")], [#age(22)], [#assoc("MAS")], [#left], [#shakehand], [#attack], [*2355*], [#delta(36)],
       [163], [#name("RAKOVAC Lea")], [#age(28)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2354*], [#delta(-40)],
       [164], [#name("DYMYTRENKO Anastasiya")], [#age(22)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2350*], [#delta(68)],
-      [165], [#name("MATOS Ines")], [#age(20)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2349*], [#delta(134)],
+      [165], [#name("MATOS Ines")], [#age(20)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2349*], [#delta(135)],
       [166], [#name("TODOROVIC Andrea")], [#age(32)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2349*], [#delta(-10)],
       [167], [#name("TAKEYA Misuzu")], [#age(16)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2349*], [#delta(0)],
       [168], [#name("WIELGOS Zuzanna")], [#age(19)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2342*], [#delta(-38)],
@@ -244,7 +244,7 @@
     table(
       columns: 9,
       [\#], [Player],[Age], [Assoc.],  [Hand], [Grip], [Style], [Rating], [$Delta$],
-      [176], [#name("ALEXANDRE Bruna")], [#age(29)], [#assoc("BRA")], [#left], [#shakehand], [#attack], [*2327*], [#delta(106)],
+      [176], [#name("ALEXANDRE Bruna")], [#age(29)], [#assoc("BRA")], [#left], [#shakehand], [#attack], [*2327*], [#delta(107)],
       [177], [#name("COSSIO Arantxa")], [#age(20)], [#assoc("MEX")], [#right], [#shakehand], [#attack], [*2324*], [#delta(49)],
       [178], [#name("KHETKHUAN Tamolwan")], [#age(27)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2324*], [#delta(2)],
       [179], [#name("KUKULKOVA Tatiana")], [#age(24)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2323*], [#delta(17)],
