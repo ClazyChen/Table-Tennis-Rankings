@@ -266,7 +266,7 @@
       [195], [#name("SIM Hyunju")], [#age(25)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2302*], [#delta(-5)],
       [196], [#name("JEGER Mateja")], [#age(29)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2302*], [#delta(20)],
       [197], [#name("GUO Jiangshan")], [#age(25)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2301*], [#delta(-6)],
-      [198], [#name("ZHAO Wangqi")], [#age(14)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2300*], [#delta(52)],
+      [198], [#name("ZHAO Wangqi")], [#age(14)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2300*], [#delta(54)],
       [199], [#name("MEN Shuohan")], [#age(24)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2298*], [#delta(-5)],
       [200], [#name("VIGNJEVIC Dragana")], [#age(25)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2297*], [#delta(1)],
     )

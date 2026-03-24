@@ -266,7 +266,7 @@
       [195], [#name("BRZYSKA Anna")], [#age(19)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2298*], [#delta(-8)],
       [196], [#name("MATIUNINA Veronika")], [#age(18)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2293*], [#delta(2)],
       [197], [#name("ZHU Ziyu")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2293*], [#delta(2)],
-      [198], [#name("HARAC Ece")], [#age(22)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2292*], [#delta(66)],
+      [198], [#name("HARAC Ece")], [#age(22)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2292*], [#delta(67)],
       [199], [#name("LYNE Karen")], [#age(22)], [#assoc("MAS")], [#left], [#shakehand], [#attack], [*2292*], [#delta(1)],
       [200], [#name("ARLIA Nicole")], [#age(19)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2291*], [#delta(26)],
     )

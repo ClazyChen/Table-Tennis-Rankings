@@ -132,7 +132,7 @@
       [97], [#name("莱奥纳多 饭冢")], [#age(19)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2558*], [#delta(-3)],
       [98], [#name("MATSUYAMA Yuki")], [#age(27)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2552*], [#delta(-2)],
       [99], [#name("安德烈 贝特尔斯迈尔")], [#age(20)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2551*], [#delta(-2)],
-      [100], [#name("POLANSKY Tomas")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2546*], [#delta(198)],
+      [100], [#name("POLANSKY Tomas")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2546*], [#delta(199)],
     )
   )
 #pagebreak()

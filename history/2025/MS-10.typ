@@ -234,7 +234,7 @@
       [172], [#name("PLETEA Cristian")], [#age(25)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2461*], [#delta(-9)],
       [173], [#name("STUMPER Kay")], [#age(23)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2458*], [#delta(-12)],
       [174], [#name("ACHANTA Sharath")], [#age(43)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2458*], [#delta(5)],
-      [175], [#name("OKANO Shunsuke")], [#age(21)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2458*], [#delta(248)],
+      [175], [#name("OKANO Shunsuke")], [#age(21)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2458*], [#delta(250)],
     )
   )
 #pagebreak()
@@ -267,7 +267,7 @@
       [196], [#name("GOMEZ Gustavo")], [#age(31)], [#assoc("CHI")], [#right], [#shakehand], [#attack], [*2439*], [#delta(-38)],
       [197], [#name("PAL Akash")], [#age(24)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2437*], [#delta(9)],
       [198], [#name("STOYANOV Niagol")], [#age(38)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2437*], [#delta(-36)],
-      [199], [#name("PRADHIVADHI Abhinandh")], [#age(17)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2437*], [#delta(143)],
+      [199], [#name("PRADHIVADHI Abhinandh")], [#age(17)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2437*], [#delta(144)],
       [200], [#name("VILARDELL Albert")], [#age(23)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2434*], [#delta(11)],
     )
   )

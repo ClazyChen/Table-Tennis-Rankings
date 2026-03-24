@@ -259,7 +259,7 @@
       [188], [#name("SIRUCEK Pavel")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2436*], [#delta(-1)],
       [189], [#name("LI Yan Jun")], [#age(21)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2434*], [#delta(-1)],
       [190], [#name("VERDONSCHOT Wim")], [#age(19)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2434*], [#delta(27)],
-      [191], [#name("KIM Woojin")], [#age(23)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2431*], [#delta(68)],
+      [191], [#name("KIM Woojin")], [#age(23)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2431*], [#delta(69)],
       [192], [#name("WONG Qi Shen")], [#age(21)], [#assoc("MAS")], [#left], [#shakehand], [#attack], [*2429*], [#delta(-2)],
       [193], [#name("KWAN Man Ho")], [#age(26)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2426*], [#delta(-18)],
       [194], [#name("AFANADOR Brian")], [#age(27)], [#assoc("PUR")], [#right], [#shakehand], [#attack], [*2424*], [#delta(35)],

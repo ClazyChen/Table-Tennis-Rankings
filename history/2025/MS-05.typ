@@ -261,7 +261,7 @@
       [190], [#name("KIM Daewoo")], [#age(26)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2440*], [#delta(-4)],
       [191], [#name("BERGLUND Simon")], [#age(28)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2438*], [#delta(-4)],
       [192], [#name("KESHAVARZI Amirmahdi")], [#age(20)], [#assoc("IRI")], [#right], [#shakehand], [#defense], [*2434*], [#delta(-2)],
-      [193], [#name("BERZOSA Daniel")], [#age(19)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2434*], [#delta(106)],
+      [193], [#name("BERZOSA Daniel")], [#age(19)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2434*], [#delta(107)],
       [194], [#name("NARANJO Angel")], [#age(21)], [#assoc("PUR")], [#right], [#shakehand], [#attack], [*2430*], [#delta(46)],
       [195], [#name("MUTTI Matteo")], [#age(25)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2430*], [#delta(-3)],
       [196], [#name("CIFUENTES Horacio")], [#age(27)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2429*], [#delta(-29)],

@@ -226,7 +226,7 @@
       [164], [#name("FARAJI Benyamin")], [#age(16)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2471*], [#delta(2)],
       [165], [#name("MENG Fanbo")], [#age(25)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2470*], [#delta(-27)],
       [166], [#name("ROLLAND Jules")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2467*], [#delta(-53)],
-      [167], [#name("BETELU Remi")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#defense], [*2467*], [#delta(106)],
+      [167], [#name("BETELU Remi")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#defense], [*2467*], [#delta(107)],
       [168], [#name("ELBEIALI Mohamed")], [#age(37)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2467*], [#delta(36)],
       [169], [#name("HODAEI Amir Hossein")], [#age(27)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2466*], [#delta(-6)],
       [170], [#name("YOKOTANI Jo")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2464*], [#delta(-6)],

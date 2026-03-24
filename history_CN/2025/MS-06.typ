@@ -265,7 +265,7 @@
       [194], [#name("LAFFINEUR Louis")], [#age(21)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2422*], [#delta(4)],
       [195], [#name("PICCOLIN Jordy")], [#age(28)], [#assoc("ITA")], [#left], [#shakehand], [#attack], [*2421*], [#delta(4)],
       [196], [#name("孙杨")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2421*], [#delta(4)],
-      [197], [#name("CHOI Jiwook")], [#age(18)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2421*], [#delta(73)],
+      [197], [#name("CHOI Jiwook")], [#age(18)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2421*], [#delta(74)],
       [198], [#name("GIL Minseok")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2421*], [#delta(3)],
       [199], [#name("AFANADOR Brian")], [#age(28)], [#assoc("PUR")], [#right], [#shakehand], [#attack], [*2419*], [#delta(57)],
       [200], [#name("奥维迪乌 伊奥内斯库")], [#age(36)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2419*], [#delta(-65)],

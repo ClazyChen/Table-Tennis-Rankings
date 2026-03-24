@@ -176,7 +176,7 @@
     table(
       columns: 9,
       [\#], [Player],[Age], [Assoc.],  [Hand], [Grip], [Style], [Rating], [$Delta$],
-      [126], [#name("KAWAKAMI Ryuusei")], [#age(16)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2511*], [#delta(147)],
+      [126], [#name("KAWAKAMI Ryuusei")], [#age(16)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2511*], [#delta(148)],
       [127], [#name("KOZUL Deni")], [#age(28)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2510*], [#delta(107)],
       [128], [#name("QUAN Kaiyuan")], [#age(24)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2509*], [#delta(1)],
       [129], [#name("RUIZ Romain")], [#age(28)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2508*], [#delta(1)],
@@ -261,7 +261,7 @@
       [190], [#name("MUTTI Matteo")], [#age(25)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2437*], [#delta(3)],
       [191], [#name("VERDONSCHOT Wim")], [#age(20)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2436*], [#delta(-80)],
       [192], [#name("KESHAVARZI Amirmahdi")], [#age(20)], [#assoc("IRI")], [#right], [#shakehand], [#defense], [*2434*], [#delta(-1)],
-      [193], [#name("IWAIDA Shunto")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2433*], [#delta(168)],
+      [193], [#name("IWAIDA Shunto")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2433*], [#delta(170)],
       [194], [#name("DRINKHALL Paul")], [#age(35)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2433*], [#delta(-14)],
       [195], [#name("SUN Yang")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2432*], [#delta(1)],
       [196], [#name("MINO Alberto")], [#age(35)], [#assoc("ECU")], [#right], [#shakehand], [#attack], [*2432*], [#delta(-6)],

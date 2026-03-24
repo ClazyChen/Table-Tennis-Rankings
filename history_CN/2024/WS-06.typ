@@ -264,7 +264,7 @@
       [193], [#name("MAKSUTI Aneta")], [#age(29)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2310*], [#delta(-3)],
       [194], [#name("DYMYTRENKO Anastasiya")], [#age(22)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2307*], [#delta(-22)],
       [195], [#name("BALINT Bernadett")], [#age(28)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2307*], [#delta(-4)],
-      [196], [#name("PENG Yu-Han")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2305*], [#delta(44)],
+      [196], [#name("PENG Yu-Han")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2305*], [#delta(46)],
       [197], [#name("SIM Hyunju")], [#age(25)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2302*], [#delta(-2)],
       [198], [#name("GUO Jiangshan")], [#age(25)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2301*], [#delta(-1)],
       [199], [#name("赵王琪")], [#age(14)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2300*], [#delta(-1)],

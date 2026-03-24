@@ -176,7 +176,7 @@
     table(
       columns: 9,
       [\#], [Player],[Age], [Assoc.],  [Hand], [Grip], [Style], [Rating], [$Delta$],
-      [126], [#name("PLETEA Cristian")], [#age(25)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2512*], [#delta(136)],
+      [126], [#name("PLETEA Cristian")], [#age(25)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2512*], [#delta(137)],
       [127], [#name("ROSSI Carlo")], [#age(24)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2511*], [#delta(69)],
       [128], [#name("RASSENFOSSE Adrien")], [#age(22)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2510*], [#delta(-20)],
       [129], [#name("PISTEJ Lubomir")], [#age(41)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2509*], [#delta(-12)],
@@ -257,7 +257,7 @@
       [186], [#name("SIRUCEK Pavel")], [#age(33)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2436*], [#delta(1)],
       [187], [#name("BAE Hwan")], [#age(20)], [#assoc("AUS")], [#right], [#shakehand], [#attack], [*2436*], [#delta(22)],
       [188], [#name("MUTTI Matteo")], [#age(25)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2435*], [#delta(-12)],
-      [189], [#name("KESHAVARZI Amirmahdi")], [#age(20)], [#assoc("IRI")], [#right], [#shakehand], [#defense], [*2434*], [#delta(121)],
+      [189], [#name("KESHAVARZI Amirmahdi")], [#age(20)], [#assoc("IRI")], [#right], [#shakehand], [#defense], [*2434*], [#delta(122)],
       [190], [#name("MOVILEANU Darius")], [#age(20)], [#assoc("ROU")], [#left], [#shakehand], [#attack], [*2430*], [#delta(-56)],
       [191], [#name("WONG Qi Shen")], [#age(22)], [#assoc("MAS")], [#left], [#shakehand], [#attack], [*2429*], [#delta(0)],
       [192], [#name("STOYANOV Niagol")], [#age(38)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2429*], [#delta(-15)],
@@ -267,7 +267,7 @@
       [196], [#name("LAFFINEUR Louis")], [#age(21)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2422*], [#delta(-3)],
       [197], [#name("PICCOLIN Jordy")], [#age(28)], [#assoc("ITA")], [#left], [#shakehand], [#attack], [*2421*], [#delta(-2)],
       [198], [#name("TEODORO Guilherme")], [#age(24)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2421*], [#delta(26)],
-      [199], [#name("MLADENOVIC Luka")], [#age(27)], [#assoc("LUX")], [#right], [#shakehand], [#attack], [*2420*], [#delta(65)],
+      [199], [#name("MLADENOVIC Luka")], [#age(27)], [#assoc("LUX")], [#right], [#shakehand], [#attack], [*2420*], [#delta(66)],
       [200], [#name("SANCHI Francisco")], [#age(26)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2419*], [#delta(-3)],
     )
   )

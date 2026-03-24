@@ -263,7 +263,7 @@
       [192], [#name("LAMBIET Florent")], [#age(31)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2451*], [#delta(0)],
       [193], [#name("BOULOUSSA Mehdi")], [#age(31)], [#assoc("ALG")], [#right], [#shakehand], [#attack], [*2451*], [#delta(10)],
       [194], [#name("MEISSNER Cedric")], [#age(26)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2451*], [#delta(29)],
-      [195], [#name("GIOVANNETTI Tommaso")], [#age(23)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2446*], [#delta(144)],
+      [195], [#name("GIOVANNETTI Tommaso")], [#age(23)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2446*], [#delta(145)],
       [196], [#name("ISHIY Vitor")], [#age(31)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2444*], [#delta(-2)],
       [197], [#name("KIM Byunghyeon")], [#age(26)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2443*], [#delta(-1)],
       [198], [#name("TANIGAKI Yuma")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2442*], [#delta(0)],
