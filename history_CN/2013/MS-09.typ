@@ -216,7 +216,7 @@
       [154], [#name("西蒙 高兹")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2411*], [#delta(-35)],
       [155], [#name("FEJER-KONNERTH Zoltan")], [#age(35)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2410*], [#delta(2)],
       [156], [#name("SAKAI Asuka")], [#age(17)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2409*], [#delta(34)],
-      [157], [#name("JANCARIK Lubomir")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2409*], [#delta(-18)],
+      [157], [#name("卢博米尔 杨恰日克")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2409*], [#delta(-18)],
       [158], [#name("REED Daniel")], [#age(24)], [#assoc("ENG")], [?], [?], [?], [*2407*], [#delta(0)],
       [159], [#name("DEVOS Robin")], [#age(19)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2403*], [#delta(2)],
       [160], [#name("神巧也")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2401*], [#delta(2)],

@@ -182,7 +182,7 @@
       [129], [#name("CARVALHO Diogo")], [#age(30)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2492*], [#delta(1)],
       [130], [#name("米洛什 雷德齐姆斯基")], [#age(16)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2491*], [#delta(4)],
       [131], [#name("PLETEA Cristian")], [#age(22)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2490*], [#delta(46)],
-      [132], [#name("JANCARIK Lubomir")], [#age(35)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2490*], [#delta(0)],
+      [132], [#name("卢博米尔 杨恰日克")], [#age(35)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2490*], [#delta(0)],
       [133], [#name("ISHIY Vitor")], [#age(27)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2487*], [#delta(2)],
       [134], [#name("贝内德克 奥拉")], [#age(31)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2487*], [#delta(2)],
       [135], [#name("YOKOTANI Jo")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2486*], [#delta(2)],

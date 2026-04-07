@@ -117,7 +117,7 @@
       [82], [#name("罗伯特 加尔多斯")], [#age(37)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2580*], [#delta(-64)],
       [83], [#name("林高远")], [#age(21)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2580*], [#delta(0)],
       [84], [#name("利亚姆 皮切福德")], [#age(23)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2574*], [#delta(0)],
-      [85], [#name("JANCARIK Lubomir")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2573*], [#delta(0)],
+      [85], [#name("卢博米尔 杨恰日克")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2573*], [#delta(0)],
       [86], [#name("GERALDO Joao")], [#age(21)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2571*], [#delta(0)],
       [87], [#name("阿德里安 马特内")], [#age(29)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2566*], [#delta(-35)],
       [88], [#name("KIM Minhyeok")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2565*], [#delta(-1)],

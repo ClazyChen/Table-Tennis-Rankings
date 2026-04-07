@@ -224,7 +224,7 @@
       [162], [#name("OLEJNIK Martin")], [#age(36)], [#assoc("CZE")], [?], [?], [?], [*2244*], [#delta(-2)],
       [163], [#name("CHOU Tung-Yu")], [#age(21)], [#assoc("TPE")], [?], [?], [?], [*2239*], [#delta(-1)],
       [164], [#name("SIMONCIK Josef")], [#age(28)], [#assoc("CZE")], [?], [?], [?], [*2236*], [#delta(0)],
-      [165], [#name("JANCARIK Lubomir")], [#age(21)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2236*], [#delta(-45)],
+      [165], [#name("卢博米尔 杨恰日克")], [#age(21)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2236*], [#delta(-45)],
       [166], [#name("KUZMIN Fedor")], [#age(25)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2234*], [#delta(-1)],
       [167], [#name("ZHUANG David")], [#age(45)], [#assoc("USA")], [?], [?], [?], [*2230*], [#delta(-1)],
       [168], [#name("MATSUMOTO Cazuo")], [#age(23)], [#assoc("BRA")], [#left], [#penhold], [#attack], [*2224*], [#delta(9)],

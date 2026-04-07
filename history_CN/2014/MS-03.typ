@@ -142,7 +142,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [101], [#name("JANCARIK Lubomir")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2493*], [#delta(-3)],
+      [101], [#name("卢博米尔 杨恰日克")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2493*], [#delta(-3)],
       [102], [#name("KIM Kyungmin")], [#age(25)], [#assoc("KOR")], [?], [?], [?], [*2493*], [#delta(-3)],
       [103], [#name("STERNBERG Kasper")], [#age(25)], [#assoc("DEN")], [#right], [#shakehand], [#attack], [*2491*], [#delta(33)],
       [104], [#name("KIM Donghyun")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2490*], [#delta(31)],

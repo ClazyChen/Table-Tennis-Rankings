@@ -182,7 +182,7 @@
       [129], [#name("黄彦诚")], [#age(19)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2495*], [#delta(-2)],
       [130], [#name("CARVALHO Diogo")], [#age(30)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2492*], [#delta(1)],
       [131], [#name("PISTEJ Lubomir")], [#age(38)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2492*], [#delta(60)],
-      [132], [#name("JANCARIK Lubomir")], [#age(35)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2490*], [#delta(-25)],
+      [132], [#name("卢博米尔 杨恰日克")], [#age(35)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2490*], [#delta(-25)],
       [133], [#name("PICARD Vincent")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2490*], [#delta(-12)],
       [134], [#name("米洛什 雷德齐姆斯基")], [#age(16)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2489*], [#delta(53)],
       [135], [#name("ISHIY Vitor")], [#age(27)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2487*], [#delta(-5)],

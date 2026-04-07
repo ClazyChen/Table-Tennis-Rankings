@@ -180,7 +180,7 @@
       [127], [#name("PISTEJ Lubomir")], [#age(27)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2390*], [#delta(-15)],
       [128], [#name("JEVTOVIC Marko")], [#age(24)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2388*], [#delta(-3)],
       [129], [#name("LI Kewei")], [#age(31)], [#assoc("MLT")], [?], [?], [?], [*2388*], [#delta(-2)],
-      [130], [#name("JANCARIK Lubomir")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2383*], [#delta(-2)],
+      [130], [#name("卢博米尔 杨恰日克")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2383*], [#delta(-2)],
       [131], [#name("OYA Hidetoshi")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2381*], [#delta(-2)],
       [132], [#name("帕特里克 弗朗西斯卡")], [#age(19)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2380*], [#delta(-33)],
       [133], [#name("FERTIKOWSKI Pawel")], [#age(21)], [#assoc("POL")], [#left], [#shakehand], [#attack], [*2379*], [#delta(-3)],

@@ -230,7 +230,7 @@
       [168], [#name("GORAK Daniel")], [#age(34)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2474*], [#delta(-12)],
       [169], [#name("MAJOROS Bence")], [#age(20)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2473*], [#delta(0)],
       [170], [#name("CHO Eonrae")], [#age(31)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2471*], [#delta(1)],
-      [171], [#name("JANCARIK Lubomir")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2470*], [#delta(1)],
+      [171], [#name("卢博米尔 杨恰日克")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2470*], [#delta(1)],
       [172], [#name("VLASOV Grigory")], [#age(33)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2469*], [#delta(-38)],
       [173], [#name("LANDRIEU Andrea")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2468*], [#delta(2)],
       [174], [#name("FLORITZ Philipp")], [#age(26)], [#assoc("BUL")], [#right], [#shakehand], [#attack], [*2468*], [#delta(91)],

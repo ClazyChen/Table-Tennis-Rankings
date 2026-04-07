@@ -121,7 +121,7 @@
       [86], [#name("FAZEKAS Peter")], [#age(26)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2369*], [#delta(0)],
       [87], [#name("FEJER-KONNERTH Zoltan")], [#age(29)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2365*], [#delta(49)],
       [88], [#name("陈卫星")], [#age(35)], [#assoc("AUT")], [#right], [#shakehand], [#defense], [*2362*], [#delta(-35)],
-      [89], [#name("JANCARIK Lubomir")], [#age(20)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2361*], [#delta(-2)],
+      [89], [#name("卢博米尔 杨恰日克")], [#age(20)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2361*], [#delta(-2)],
       [90], [#name("OLEJNIK Martin")], [#age(35)], [#assoc("CZE")], [?], [?], [?], [*2348*], [#delta(1)],
       [91], [#name("GORAK Daniel")], [#age(24)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2346*], [#delta(64)],
       [92], [#name("REDJEP Ronald")], [#age(34)], [#assoc("CRO")], [#left], [#shakehand], [#attack], [*2345*], [#delta(1)],

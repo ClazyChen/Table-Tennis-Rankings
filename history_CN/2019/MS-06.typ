@@ -255,7 +255,7 @@
       [184], [#name("TSUBOI Yuma")], [#age(22)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2477*], [#delta(-24)],
       [185], [#name("WALKER Samuel")], [#age(24)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2476*], [#delta(-48)],
       [186], [#name("SZOCS Hunor")], [#age(27)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2475*], [#delta(-1)],
-      [187], [#name("JANCARIK Lubomir")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2474*], [#delta(-22)],
+      [187], [#name("卢博米尔 杨恰日克")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2474*], [#delta(-22)],
       [188], [#name("PETO Zsolt")], [#age(32)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2473*], [#delta(-47)],
       [189], [#name("SZUDI Adam")], [#age(23)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2471*], [#delta(39)],
       [190], [#name("AHMADIAN Amin")], [#age(18)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2469*], [#delta(248)],

@@ -229,7 +229,7 @@
       [167], [#name("梁柱恩")], [#age(35)], [#assoc("HKG")], [#right], [#penhold], [#attack], [*2438*], [#delta(-11)],
       [168], [#name("SODERLUND Hampus")], [#age(20)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2437*], [#delta(-11)],
       [169], [#name("BUROV Viacheslav")], [#age(29)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2434*], [#delta(-10)],
-      [170], [#name("JANCARIK Lubomir")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2434*], [#delta(-8)],
+      [170], [#name("卢博米尔 杨恰日克")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2434*], [#delta(-8)],
       [171], [#name("AKKUZU Can")], [#age(17)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2432*], [#delta(-8)],
       [172], [#name("KOLAREK Tomislav")], [#age(26)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2431*], [#delta(-30)],
       [173], [#name("GERALDO Joao")], [#age(19)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2430*], [#delta(-32)],

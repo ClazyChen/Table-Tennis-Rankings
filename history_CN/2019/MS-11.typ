@@ -248,7 +248,7 @@
       [177], [#name("ROLLAND Jules")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2457*], [#delta(-44)],
       [178], [#name("JOUTI Eric")], [#age(25)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2457*], [#delta(36)],
       [179], [#name("NG Pak Nam")], [#age(21)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2454*], [#delta(13)],
-      [180], [#name("JANCARIK Lubomir")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2453*], [#delta(-6)],
+      [180], [#name("卢博米尔 杨恰日克")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2453*], [#delta(-6)],
       [181], [#name("AFANADOR Brian")], [#age(22)], [#assoc("PUR")], [#right], [#shakehand], [#attack], [*2452*], [#delta(1)],
       [182], [#name("MINO Alberto")], [#age(29)], [#assoc("ECU")], [#right], [#shakehand], [#attack], [*2452*], [#delta(26)],
       [183], [#name("ISMAILOV Sadi")], [#age(23)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2451*], [#delta(-3)],

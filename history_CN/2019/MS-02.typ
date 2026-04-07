@@ -191,7 +191,7 @@
       [138], [#name("尼马 阿拉米安")], [#age(27)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2526*], [#delta(-2)],
       [139], [#name("SU Zhi")], [#age(18)], [#assoc("HKG")], [#right], [#penhold], [#attack], [*2526*], [#delta(17)],
       [140], [#name("HACHARD Antoine")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2525*], [#delta(-3)],
-      [141], [#name("JANCARIK Lubomir")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2523*], [#delta(-36)],
+      [141], [#name("卢博米尔 杨恰日克")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2523*], [#delta(-36)],
       [142], [#name("GHOSH Soumyajit")], [#age(26)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2523*], [#delta(-2)],
       [143], [#name("安德斯 林德")], [#age(21)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2521*], [#delta(-1)],
       [144], [#name("SEREDA Peter")], [#age(35)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2517*], [#delta(0)],

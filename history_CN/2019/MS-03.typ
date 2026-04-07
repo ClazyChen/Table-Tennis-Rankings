@@ -250,7 +250,7 @@
       [179], [#name("CIFUENTES Horacio")], [#age(21)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2480*], [#delta(1)],
       [180], [#name("LEVENKO Andreas")], [#age(21)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2479*], [#delta(25)],
       [181], [#name("SIPOS Rares")], [#age(19)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2478*], [#delta(-24)],
-      [182], [#name("JANCARIK Lubomir")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2478*], [#delta(-41)],
+      [182], [#name("卢博米尔 杨恰日克")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2478*], [#delta(-41)],
       [183], [#name("JOUTI Eric")], [#age(25)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2474*], [#delta(-4)],
       [184], [#name("IVONIN Denis")], [#age(20)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2471*], [#delta(-12)],
       [185], [#name("江天一")], [#age(31)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2471*], [#delta(-3)],

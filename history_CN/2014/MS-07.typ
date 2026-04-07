@@ -159,7 +159,7 @@
       [115], [#name("TOSIC Roko")], [#age(35)], [#assoc("CRO")], [#left], [#shakehand], [#attack], [*2488*], [#delta(-4)],
       [116], [#name("张钰")], [#age(33)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2484*], [#delta(-22)],
       [117], [#name("DIDUKH Oleksandr")], [#age(32)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2482*], [#delta(-4)],
-      [118], [#name("JANCARIK Lubomir")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2476*], [#delta(-2)],
+      [118], [#name("卢博米尔 杨恰日克")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2476*], [#delta(-2)],
       [119], [#name("HACHARD Antoine")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2475*], [#delta(82)],
       [120], [#name("MACHI Asuka")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2474*], [#delta(-14)],
       [121], [#name("NOROOZI Afshin")], [#age(29)], [#assoc("IRI")], [#left], [#shakehand], [#attack], [*2473*], [#delta(-4)],

@@ -185,7 +185,7 @@
       [132], [#name("ANDRAS Csaba")], [#age(22)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2512*], [#delta(5)],
       [133], [#name("利亚姆 皮切福德")], [#age(31)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2511*], [#delta(5)],
       [134], [#name("朴康贤")], [#age(28)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2511*], [#delta(5)],
-      [135], [#name("JANCARIK Lubomir")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2510*], [#delta(26)],
+      [135], [#name("卢博米尔 杨恰日克")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2510*], [#delta(26)],
       [136], [#name("KANG Dongsoo")], [#age(30)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2508*], [#delta(-30)],
       [137], [#name("DRINKHALL Paul")], [#age(34)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2507*], [#delta(-14)],
       [138], [#name("BERTRAND Irvin")], [#age(24)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2501*], [#delta(4)],

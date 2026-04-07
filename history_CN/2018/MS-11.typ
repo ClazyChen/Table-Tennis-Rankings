@@ -115,7 +115,7 @@
       [80], [#name("松平健太")], [#age(27)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2608*], [#delta(1)],
       [81], [#name("王臻")], [#age(33)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2608*], [#delta(1)],
       [82], [#name("宇田幸矢")], [#age(17)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2607*], [#delta(86)],
-      [83], [#name("JANCARIK Lubomir")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2606*], [#delta(0)],
+      [83], [#name("卢博米尔 杨恰日克")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2606*], [#delta(0)],
       [84], [#name("罗伯特 加尔多斯")], [#age(39)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2606*], [#delta(0)],
       [85], [#name("卢文 菲鲁斯")], [#age(30)], [#assoc("GER")], [#right], [#shakehand], [#defense], [*2603*], [#delta(1)],
       [86], [#name("GERALDO Joao")], [#age(23)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2602*], [#delta(1)],

@@ -86,7 +86,7 @@
       [60], [#name("塞德里克 纽廷克")], [#age(30)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2630*], [#delta(5)],
       [61], [#name("高承睿")], [#age(19)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2630*], [#delta(63)],
       [62], [#name("弗拉迪斯拉夫 乌尔苏")], [#age(22)], [#assoc("MDA")], [#left], [#shakehand], [#attack], [*2627*], [#delta(4)],
-      [63], [#name("JANCARIK Lubomir")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2625*], [#delta(24)],
+      [63], [#name("卢博米尔 杨恰日克")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2625*], [#delta(24)],
       [64], [#name("阿尔瓦罗 罗布勒斯")], [#age(32)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2622*], [#delta(4)],
       [65], [#name("篠塚大登")], [#age(20)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2620*], [#delta(-12)],
       [66], [#name("郭勇")], [#age(17)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2618*], [#delta(-7)],

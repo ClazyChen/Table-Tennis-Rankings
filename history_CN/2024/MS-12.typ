@@ -184,7 +184,7 @@
       [131], [#name("PANG Koen")], [#age(22)], [#assoc("SGP")], [#left], [#shakehand], [#attack], [*2508*], [#delta(-4)],
       [132], [#name("孙杨")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2508*], [#delta(1)],
       [133], [#name("SIPOS Rares")], [#age(24)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2507*], [#delta(-30)],
-      [134], [#name("JANCARIK Lubomir")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2507*], [#delta(1)],
+      [134], [#name("卢博米尔 杨恰日克")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2507*], [#delta(1)],
       [135], [#name("PICARD Vincent")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2503*], [#delta(-12)],
       [136], [#name("OUAICHE Stephane")], [#age(31)], [#assoc("ALG")], [#left], [#shakehand], [#attack], [*2501*], [#delta(1)],
       [137], [#name("ALLEGRO Martin")], [#age(28)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2500*], [#delta(28)],

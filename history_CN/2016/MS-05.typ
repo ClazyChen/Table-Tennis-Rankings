@@ -117,7 +117,7 @@
       [82], [#name("TAKAKIWA Taku")], [#age(28)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2588*], [#delta(37)],
       [83], [#name("奥维迪乌 伊奥内斯库")], [#age(27)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2588*], [#delta(-5)],
       [84], [#name("LI Hu")], [#age(28)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2587*], [#delta(-18)],
-      [85], [#name("JANCARIK Lubomir")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2582*], [#delta(97)],
+      [85], [#name("卢博米尔 杨恰日克")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2582*], [#delta(97)],
       [86], [#name("罗伯特 加尔多斯")], [#age(37)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2580*], [#delta(-23)],
       [87], [#name("VLASOV Grigory")], [#age(32)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2580*], [#delta(2)],
       [88], [#name("林高远")], [#age(21)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2580*], [#delta(-6)],

@@ -83,7 +83,7 @@
       [57], [#name("LAM Siu Hang")], [#age(25)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2649*], [#delta(21)],
       [58], [#name("GERALDO Joao")], [#age(26)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2648*], [#delta(14)],
       [59], [#name("SAI Linwei")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2646*], [#delta(-3)],
-      [60], [#name("JANCARIK Lubomir")], [#age(34)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2645*], [#delta(-3)],
+      [60], [#name("卢博米尔 杨恰日克")], [#age(34)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2645*], [#delta(-3)],
       [61], [#name("BOBOCICA Mihai")], [#age(35)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2645*], [#delta(-2)],
       [62], [#name("安德烈 加奇尼")], [#age(35)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2638*], [#delta(78)],
       [63], [#name("SZOCS Hunor")], [#age(29)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2636*], [#delta(-2)],

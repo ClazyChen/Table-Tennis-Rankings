@@ -143,7 +143,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [101], [#name("CANTERO Jesus")], [#age(36)], [#assoc("ESP")], [#right], [#penhold], [#attack], [*2568*], [#delta(-4)],
-      [102], [#name("JANCARIK Lubomir")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2565*], [#delta(4)],
+      [102], [#name("卢博米尔 杨恰日克")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2565*], [#delta(4)],
       [103], [#name("徐海东")], [#age(18)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2564*], [#delta(-5)],
       [104], [#name("阿尔瓦罗 罗布勒斯")], [#age(27)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2562*], [#delta(12)],
       [105], [#name("HACHARD Antoine")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2562*], [#delta(17)],

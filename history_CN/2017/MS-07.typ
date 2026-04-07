@@ -232,7 +232,7 @@
       [170], [#name("詹斯 伦德奎斯特")], [#age(38)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2465*], [#delta(6)],
       [171], [#name("BRODD Viktor")], [#age(27)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2465*], [#delta(7)],
       [172], [#name("MACHADO Carlos")], [#age(37)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2461*], [#delta(-26)],
-      [173], [#name("JANCARIK Lubomir")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2460*], [#delta(-2)],
+      [173], [#name("卢博米尔 杨恰日克")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2460*], [#delta(-2)],
       [174], [#name("朴康贤")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2460*], [#delta(7)],
       [175], [#name("SAMBE Kohei")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2460*], [#delta(-34)],
     )

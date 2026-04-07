@@ -146,7 +146,7 @@
       [102], [#name("贝内德克 奥拉")], [#age(28)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2572*], [#delta(7)],
       [103], [#name("MACHI Asuka")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2571*], [#delta(0)],
       [104], [#name("田中佑汰")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2569*], [#delta(-12)],
-      [105], [#name("JANCARIK Lubomir")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2568*], [#delta(-1)],
+      [105], [#name("卢博米尔 杨恰日克")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2568*], [#delta(-1)],
       [106], [#name("MATSUDAIRA Kenji")], [#age(30)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2566*], [#delta(-1)],
       [107], [#name("帕纳吉奥迪斯 吉奥尼斯")], [#age(39)], [#assoc("GRE")], [#right], [#shakehand], [#defense], [*2566*], [#delta(-1)],
       [108], [#name("阿尔瓦罗 罗布勒斯")], [#age(28)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2563*], [#delta(-1)],

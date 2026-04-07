@@ -259,7 +259,7 @@
       [188], [#name("邱党")], [#age(21)], [#assoc("GER")], [#right], [#penhold], [#attack], [*2445*], [#delta(14)],
       [189], [#name("CANTERO Jesus")], [#age(35)], [#assoc("ESP")], [#right], [#penhold], [#attack], [*2443*], [#delta(-28)],
       [190], [#name("ABIODUN Bode")], [#age(37)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2442*], [#delta(7)],
-      [191], [#name("JANCARIK Lubomir")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2441*], [#delta(-6)],
+      [191], [#name("卢博米尔 杨恰日克")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2441*], [#delta(-6)],
       [192], [#name("JOUTI Eric")], [#age(23)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2440*], [#delta(-15)],
       [193], [#name("YANG Xinyu")], [#age(16)], [#assoc("AZE")], [#right], [#shakehand], [#attack], [*2438*], [#delta(7)],
       [194], [#name("CHOE Il")], [#age(24)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2438*], [#delta(7)],

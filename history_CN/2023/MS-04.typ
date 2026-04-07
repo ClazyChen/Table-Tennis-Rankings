@@ -119,7 +119,7 @@
       [84], [#name("奥马尔 阿萨尔")], [#age(32)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2587*], [#delta(-26)],
       [85], [#name("严升")], [#age(26)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2586*], [#delta(0)],
       [86], [#name("曾蓓勋")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2585*], [#delta(0)],
-      [87], [#name("JANCARIK Lubomir")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2584*], [#delta(-14)],
+      [87], [#name("卢博米尔 杨恰日克")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2584*], [#delta(-14)],
       [88], [#name("MEISSNER Cedric")], [#age(23)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2584*], [#delta(-1)],
       [89], [#name("THAKKAR Manav")], [#age(23)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2583*], [#delta(-1)],
       [90], [#name("雅罗斯列夫 扎姆登科")], [#age(35)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2582*], [#delta(-21)],

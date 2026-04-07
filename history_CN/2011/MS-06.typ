@@ -166,7 +166,7 @@
       [122], [#name("LI Kewei")], [#age(31)], [#assoc("MLT")], [?], [?], [?], [*2388*], [#delta(7)],
       [123], [#name("ACHANTA Sharath")], [#age(29)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2386*], [#delta(-38)],
       [124], [#name("KUZMIN Fedor")], [#age(28)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2385*], [#delta(-56)],
-      [125], [#name("JANCARIK Lubomir")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2383*], [#delta(5)],
+      [125], [#name("卢博米尔 杨恰日克")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2383*], [#delta(5)],
     )
   )
 #pagebreak()

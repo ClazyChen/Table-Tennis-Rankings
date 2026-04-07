@@ -119,7 +119,7 @@
       [84], [#name("马克斯 弗雷塔斯")], [#age(19)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2376*], [#delta(0)],
       [85], [#name("TUGWELL Finn")], [#age(31)], [#assoc("DEN")], [?], [?], [?], [*2371*], [#delta(1)],
       [86], [#name("FAZEKAS Peter")], [#age(26)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2369*], [#delta(2)],
-      [87], [#name("JANCARIK Lubomir")], [#age(20)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2361*], [#delta(2)],
+      [87], [#name("卢博米尔 杨恰日克")], [#age(20)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2361*], [#delta(2)],
       [88], [#name("SAKAMOTO Ryusuke")], [#age(23)], [#assoc("JPN")], [?], [?], [?], [*2360*], [#delta(2)],
       [89], [#name("SVENSSON Robert")], [#age(24)], [#assoc("SWE")], [?], [?], [?], [*2358*], [#delta(3)],
       [90], [#name("OYA Hidetoshi")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2348*], [#delta(-5)],

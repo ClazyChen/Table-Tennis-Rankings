@@ -130,7 +130,7 @@
       [95], [#name("CHENG Jingqi")], [#age(20)], [#assoc("CHN")], [?], [?], [?], [*2499*], [#delta(0)],
       [96], [#name("MACHI Asuka")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2498*], [#delta(0)],
       [97], [#name("TSUBOI Gustavo")], [#age(29)], [#assoc("BRA")], [#left], [#shakehand], [#attack], [*2495*], [#delta(0)],
-      [98], [#name("JANCARIK Lubomir")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2493*], [#delta(19)],
+      [98], [#name("卢博米尔 杨恰日克")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2493*], [#delta(19)],
       [99], [#name("KIM Kyungmin")], [#age(25)], [#assoc("KOR")], [?], [?], [?], [*2493*], [#delta(-1)],
       [100], [#name("MONTEIRO Joao")], [#age(31)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2493*], [#delta(-1)],
     )

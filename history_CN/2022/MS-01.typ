@@ -121,7 +121,7 @@
       [86], [#name("SZOCS Hunor")], [#age(30)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2570*], [#delta(3)],
       [87], [#name("神巧也")], [#age(29)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2570*], [#delta(3)],
       [88], [#name("HWANG Minha")], [#age(23)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2562*], [#delta(5)],
-      [89], [#name("JANCARIK Lubomir")], [#age(35)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2562*], [#delta(5)],
+      [89], [#name("卢博米尔 杨恰日克")], [#age(35)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2562*], [#delta(5)],
       [90], [#name("刘夜泊")], [#age(21)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2562*], [#delta(5)],
       [91], [#name("MENG Fanbo")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2559*], [#delta(-14)],
       [92], [#name("PANG Koen")], [#age(20)], [#assoc("SGP")], [#left], [#shakehand], [#attack], [*2558*], [#delta(4)],

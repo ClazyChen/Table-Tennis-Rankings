@@ -118,7 +118,7 @@
       [83], [#name("爱德华 约内斯库")], [#age(20)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2594*], [#delta(22)],
       [84], [#name("安德烈 加奇尼")], [#age(38)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2594*], [#delta(-20)],
       [85], [#name("MONTEIRO Joao")], [#age(41)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2593*], [#delta(-3)],
-      [86], [#name("JANCARIK Lubomir")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2591*], [#delta(16)],
+      [86], [#name("卢博米尔 杨恰日克")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2591*], [#delta(16)],
       [87], [#name("马金宝")], [#age(24)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2581*], [#delta(-1)],
       [88], [#name("赵胜敏")], [#age(26)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2579*], [#delta(0)],
       [89], [#name("GERALDO Joao")], [#age(29)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2579*], [#delta(12)],

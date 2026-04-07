@@ -233,7 +233,7 @@
       [171], [#name("NG Pak Nam")], [#age(19)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2469*], [#delta(-1)],
       [172], [#name("FERTIKOWSKI Pawel")], [#age(27)], [#assoc("POL")], [#left], [#shakehand], [#attack], [*2469*], [#delta(-34)],
       [173], [#name("FLORITZ Philipp")], [#age(26)], [#assoc("BUL")], [#right], [#shakehand], [#attack], [*2468*], [#delta(-2)],
-      [174], [#name("JANCARIK Lubomir")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2468*], [#delta(2)],
+      [174], [#name("卢博米尔 杨恰日克")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2468*], [#delta(2)],
       [175], [#name("KOZUL Deni")], [#age(20)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2464*], [#delta(23)],
     )
   )

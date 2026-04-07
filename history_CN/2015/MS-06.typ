@@ -191,7 +191,7 @@
       [138], [#name("LASHIN Elsayed")], [#age(35)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2470*], [#delta(-6)],
       [139], [#name("LEGOUT Christophe")], [#age(42)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2468*], [#delta(3)],
       [140], [#name("TAKAKIWA Taku")], [#age(27)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2465*], [#delta(4)],
-      [141], [#name("JANCARIK Lubomir")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2465*], [#delta(106)],
+      [141], [#name("卢博米尔 杨恰日克")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2465*], [#delta(106)],
       [142], [#name("阿德里安 克里桑")], [#age(35)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2464*], [#delta(-17)],
       [143], [#name("PETO Zsolt")], [#age(28)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2462*], [#delta(-4)],
       [144], [#name("朴康贤")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2460*], [#delta(3)],

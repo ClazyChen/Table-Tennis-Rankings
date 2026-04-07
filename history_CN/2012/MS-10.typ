@@ -261,7 +261,7 @@
       [190], [#name("HACHARD Antoine")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2340*], [#delta(-6)],
       [191], [#name("LEE Junsang")], [#age(22)], [#assoc("KOR")], [?], [?], [?], [*2339*], [#delta(-6)],
       [192], [#name("KIM Nam Chol")], [#age(24)], [#assoc("PRK")], [?], [?], [?], [*2338*], [#delta(-6)],
-      [193], [#name("JANCARIK Lubomir")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2338*], [#delta(12)],
+      [193], [#name("卢博米尔 杨恰日克")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2338*], [#delta(12)],
       [194], [#name("KIM Taehoon")], [#age(26)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2337*], [#delta(-6)],
       [195], [#name("LI Ahmet")], [#age(21)], [#assoc("TUR")], [#left], [#shakehand], [#attack], [*2336*], [#delta(-38)],
       [196], [#name("TOKIYOSHI Yuichi")], [#age(27)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2336*], [#delta(-21)],

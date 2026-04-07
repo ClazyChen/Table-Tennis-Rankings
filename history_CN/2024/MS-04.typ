@@ -157,7 +157,7 @@
       [113], [#name("ZELJKO Filip")], [#age(28)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2542*], [#delta(19)],
       [114], [#name("KOZUL Deni")], [#age(27)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2542*], [#delta(33)],
       [115], [#name("MOVILEANU Darius")], [#age(19)], [#assoc("ROU")], [#left], [#shakehand], [#attack], [*2541*], [#delta(-17)],
-      [116], [#name("JANCARIK Lubomir")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2541*], [#delta(-30)],
+      [116], [#name("卢博米尔 杨恰日克")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2541*], [#delta(-30)],
       [117], [#name("朴康贤")], [#age(28)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2536*], [#delta(-4)],
       [118], [#name("赵胜敏")], [#age(26)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2536*], [#delta(-30)],
       [119], [#name("KUBIK Maciej")], [#age(21)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2532*], [#delta(80)],

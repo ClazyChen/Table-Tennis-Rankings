@@ -244,7 +244,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [176], [#name("JANCARIK Lubomir")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2460*], [#delta(-3)],
+      [176], [#name("卢博米尔 杨恰日克")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2460*], [#delta(-3)],
       [177], [#name("SAMBE Kohei")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2460*], [#delta(-2)],
       [178], [#name("宇田幸矢")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2459*], [#delta(-34)],
       [179], [#name("TORIOLA Segun")], [#age(43)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2456*], [#delta(-2)],

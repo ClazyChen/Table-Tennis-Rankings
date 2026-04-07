@@ -220,7 +220,7 @@
       [158], [#name("KWAN Man Ho")], [#age(26)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2471*], [#delta(43)],
       [159], [#name("PEREZ Juan")], [#age(22)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2468*], [#delta(28)],
       [160], [#name("安德烈 加奇尼")], [#age(38)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2466*], [#delta(-24)],
-      [161], [#name("JANCARIK Lubomir")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2465*], [#delta(-45)],
+      [161], [#name("卢博米尔 杨恰日克")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2465*], [#delta(-45)],
       [162], [#name("SIPOS Rares")], [#age(24)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2465*], [#delta(-20)],
       [163], [#name("SHAH Manush")], [#age(23)], [#assoc("IND")], [#left], [#shakehand], [#attack], [*2464*], [#delta(4)],
       [164], [#name("乔 赛弗里德")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2463*], [#delta(-2)],

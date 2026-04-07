@@ -144,7 +144,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [101], [#name("基里尔 斯卡奇科夫")], [#age(21)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2367*], [#delta(38)],
       [102], [#name("MONTEIRO Joao")], [#age(25)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2364*], [#delta(-27)],
-      [103], [#name("JANCARIK Lubomir")], [#age(21)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2362*], [#delta(116)],
+      [103], [#name("卢博米尔 杨恰日克")], [#age(21)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2362*], [#delta(116)],
       [104], [#name("SALEH Ahmed")], [#age(29)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2360*], [#delta(-5)],
       [105], [#name("TAMMINEN Timo")], [#age(20)], [#assoc("FIN")], [?], [?], [?], [*2359*], [#delta(-5)],
       [106], [#name("TAKAKIWA Taku")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2359*], [#delta(3)],

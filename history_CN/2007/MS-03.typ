@@ -148,7 +148,7 @@
       [104], [#name("CIOTI Constantin")], [#age(24)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2292*], [#delta(5)],
       [105], [#name("詹斯 伦德奎斯特")], [#age(28)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2289*], [#delta(-41)],
       [106], [#name("PLACHY Josef")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2287*], [#delta(4)],
-      [107], [#name("JANCARIK Lubomir")], [#age(20)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2285*], [#delta(4)],
+      [107], [#name("卢博米尔 杨恰日克")], [#age(20)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2285*], [#delta(4)],
       [108], [#name("基里尔 斯卡奇科夫")], [#age(20)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2284*], [#delta(58)],
       [109], [#name("CHTCHETININE Evgueni")], [#age(37)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2281*], [#delta(-32)],
       [110], [#name("MACHADO Carlos")], [#age(27)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2279*], [#delta(2)],

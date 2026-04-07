@@ -214,7 +214,7 @@
       [152], [#name("ANDERSSON Harald")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2493*], [#delta(-4)],
       [153], [#name("BROSSIER Benjamin")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2489*], [#delta(-62)],
       [154], [#name("KIM Minhyeok")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2485*], [#delta(0)],
-      [155], [#name("JANCARIK Lubomir")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2484*], [#delta(19)],
+      [155], [#name("卢博米尔 杨恰日克")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2484*], [#delta(19)],
       [156], [#name("CANTERO Jesus")], [#age(35)], [#assoc("ESP")], [#right], [#penhold], [#attack], [*2484*], [#delta(-43)],
       [157], [#name("卡纳克 贾哈")], [#age(17)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2481*], [#delta(10)],
       [158], [#name("STOYANOV Niagol")], [#age(30)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2479*], [#delta(-1)],

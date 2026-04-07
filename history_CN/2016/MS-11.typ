@@ -244,7 +244,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [176], [#name("JANCARIK Lubomir")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2442*], [#delta(73)],
+      [176], [#name("卢博米尔 杨恰日克")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2442*], [#delta(73)],
       [177], [#name("ELBEIALI Mohamed")], [#age(28)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2441*], [#delta(5)],
       [178], [#name("LI Ahmet")], [#age(25)], [#assoc("TUR")], [#left], [#shakehand], [#attack], [*2441*], [#delta(-23)],
       [179], [#name("MAJOROS Bence")], [#age(19)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2441*], [#delta(41)],

@@ -116,7 +116,7 @@
       [81], [#name("TUGWELL Finn")], [#age(31)], [#assoc("DEN")], [?], [?], [?], [*2371*], [#delta(92)],
       [82], [#name("LIU Zhongze")], [#age(19)], [#assoc("SGP")], [?], [?], [?], [*2370*], [#delta(-3)],
       [83], [#name("FAZEKAS Peter")], [#age(26)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2369*], [#delta(47)],
-      [84], [#name("JANCARIK Lubomir")], [#age(20)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2361*], [#delta(28)],
+      [84], [#name("卢博米尔 杨恰日克")], [#age(20)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2361*], [#delta(28)],
       [85], [#name("SVENSSON Robert")], [#age(24)], [#assoc("SWE")], [?], [?], [?], [*2358*], [#delta(56)],
       [86], [#name("CAI Xiaoli")], [#age(28)], [#assoc("SGP")], [?], [?], [?], [*2353*], [#delta(168)],
       [87], [#name("OLEJNIK Martin")], [#age(35)], [#assoc("CZE")], [?], [?], [?], [*2348*], [#delta(-2)],

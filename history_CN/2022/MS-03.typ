@@ -119,7 +119,7 @@
       [84], [#name("神巧也")], [#age(29)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2570*], [#delta(2)],
       [85], [#name("ANGLES Enzo")], [#age(27)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2565*], [#delta(2)],
       [86], [#name("HWANG Minha")], [#age(23)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2562*], [#delta(2)],
-      [87], [#name("JANCARIK Lubomir")], [#age(35)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2562*], [#delta(2)],
+      [87], [#name("卢博米尔 杨恰日克")], [#age(35)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2562*], [#delta(2)],
       [88], [#name("刘夜泊")], [#age(21)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2562*], [#delta(2)],
       [89], [#name("GERALDO Joao")], [#age(27)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2561*], [#delta(2)],
       [90], [#name("SZUDI Adam")], [#age(26)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2561*], [#delta(2)],

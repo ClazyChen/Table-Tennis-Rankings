@@ -227,7 +227,7 @@
       [165], [#name("FILIMON Andrei")], [#age(35)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2352*], [#delta(0)],
       [166], [#name("LAGOGIANNIS Konstantinos")], [#age(31)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2351*], [#delta(0)],
       [167], [#name("SVENSSON Robert")], [#age(29)], [#assoc("SWE")], [?], [?], [?], [*2350*], [#delta(0)],
-      [168], [#name("JANCARIK Lubomir")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2350*], [#delta(0)],
+      [168], [#name("卢博米尔 杨恰日克")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2350*], [#delta(0)],
       [169], [#name("VLASOV Grigory")], [#age(28)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2350*], [#delta(0)],
       [170], [#name("尚坤")], [#age(22)], [#assoc("CHN")], [?], [?], [?], [*2348*], [#delta(0)],
       [171], [#name("KIM Song Nam")], [#age(20)], [#assoc("PRK")], [?], [?], [?], [*2342*], [#delta(2)],

@@ -115,7 +115,7 @@
       [80], [#name("力廉 巴德")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2600*], [#delta(-8)],
       [81], [#name("WOO Hyeonggyu")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2599*], [#delta(3)],
       [82], [#name("阿尔瓦罗 罗布勒斯")], [#age(33)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2597*], [#delta(0)],
-      [83], [#name("JANCARIK Lubomir")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2596*], [#delta(-9)],
+      [83], [#name("卢博米尔 杨恰日克")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2596*], [#delta(-9)],
       [84], [#name("木造勇人")], [#age(25)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2596*], [#delta(-4)],
       [85], [#name("黄彦诚")], [#age(21)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2596*], [#delta(1)],
       [86], [#name("吉山僚一")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2595*], [#delta(8)],

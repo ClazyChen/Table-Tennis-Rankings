@@ -256,7 +256,7 @@
       [185], [#name("MUTTI Leonardo")], [#age(25)], [#assoc("ITA")], [#left], [#shakehand], [#attack], [*2432*], [#delta(49)],
       [186], [#name("YOKOTANI Jo")], [#age(18)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2432*], [#delta(-26)],
       [187], [#name("HO Kwan Kit")], [#age(23)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2431*], [#delta(-35)],
-      [188], [#name("JANCARIK Lubomir")], [#age(33)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2431*], [#delta(-14)],
+      [188], [#name("卢博米尔 杨恰日克")], [#age(33)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2431*], [#delta(-14)],
       [189], [#name("JOUTI Eric")], [#age(26)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2431*], [#delta(-52)],
       [190], [#name("AHMADIAN Amin")], [#age(19)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2421*], [#delta(7)],
       [191], [#name("KLEIN Dennis")], [#age(23)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2420*], [#delta(47)],

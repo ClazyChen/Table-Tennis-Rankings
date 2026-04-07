@@ -63,7 +63,7 @@
       [46], [#name("WANG Zengyi")], [#age(33)], [#assoc("POL")], [#right], [#penhold], [#attack], [*2643*], [#delta(1)],
       [47], [#name("寇磊")], [#age(29)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2643*], [#delta(1)],
       [48], [#name("村松雄斗")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2642*], [#delta(1)],
-      [49], [#name("JANCARIK Lubomir")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2640*], [#delta(1)],
+      [49], [#name("卢博米尔 杨恰日克")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2640*], [#delta(1)],
       [50], [#name("詹斯 伦德奎斯特")], [#age(37)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2640*], [#delta(1)],
     )
   )

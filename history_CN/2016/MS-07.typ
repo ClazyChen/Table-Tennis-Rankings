@@ -113,7 +113,7 @@
       [78], [#name("王楚钦")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2590*], [#delta(-3)],
       [79], [#name("高宁")], [#age(34)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2584*], [#delta(-23)],
       [80], [#name("ACHANTA Sharath")], [#age(34)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2583*], [#delta(0)],
-      [81], [#name("JANCARIK Lubomir")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2582*], [#delta(1)],
+      [81], [#name("卢博米尔 杨恰日克")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2582*], [#delta(1)],
       [82], [#name("罗伯特 加尔多斯")], [#age(37)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2580*], [#delta(2)],
       [83], [#name("贝内迪克特 杜达")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2579*], [#delta(-2)],
       [84], [#name("ROBINOT Quentin")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2579*], [#delta(23)],

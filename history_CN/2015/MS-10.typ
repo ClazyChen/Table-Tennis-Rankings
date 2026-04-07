@@ -228,7 +228,7 @@
       [166], [#name("RANEFUR Elias")], [#age(19)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2445*], [#delta(-28)],
       [167], [#name("基里尔 斯卡奇科夫")], [#age(28)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2442*], [#delta(4)],
       [168], [#name("WANG Zengyi")], [#age(32)], [#assoc("POL")], [#right], [#penhold], [#attack], [*2440*], [#delta(-9)],
-      [169], [#name("JANCARIK Lubomir")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2440*], [#delta(17)],
+      [169], [#name("卢博米尔 杨恰日克")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2440*], [#delta(17)],
       [170], [#name("PARK Chan-Hyeok")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2439*], [#delta(-5)],
       [171], [#name("米凯尔 梅兹")], [#age(34)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2439*], [#delta(-5)],
       [172], [#name("托米斯拉夫 普卡")], [#age(19)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2438*], [#delta(67)],

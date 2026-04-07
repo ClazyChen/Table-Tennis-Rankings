@@ -185,7 +185,7 @@
       [132], [#name("KANG Dongsoo")], [#age(30)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2508*], [#delta(5)],
       [133], [#name("孙杨")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2508*], [#delta(-7)],
       [134], [#name("MENG Fanbo")], [#age(24)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2507*], [#delta(-16)],
-      [135], [#name("JANCARIK Lubomir")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2507*], [#delta(-22)],
+      [135], [#name("卢博米尔 杨恰日克")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2507*], [#delta(-22)],
       [136], [#name("阿德里安 拉森福斯")], [#age(21)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2501*], [#delta(8)],
       [137], [#name("OUAICHE Stephane")], [#age(31)], [#assoc("ALG")], [#left], [#shakehand], [#attack], [*2501*], [#delta(2)],
       [138], [#name("罗伯特 加尔多斯")], [#age(45)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2499*], [#delta(-63)],

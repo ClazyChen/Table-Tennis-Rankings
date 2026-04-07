@@ -160,7 +160,7 @@
       [116], [#name("GHOSH Soumyajit")], [#age(20)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2471*], [#delta(-14)],
       [117], [#name("TSUBOI Gustavo")], [#age(28)], [#assoc("BRA")], [#left], [#shakehand], [#attack], [*2469*], [#delta(-40)],
       [118], [#name("陈卫星")], [#age(41)], [#assoc("AUT")], [#right], [#shakehand], [#defense], [*2467*], [#delta(-5)],
-      [119], [#name("JANCARIK Lubomir")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2467*], [#delta(70)],
+      [119], [#name("卢博米尔 杨恰日克")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2467*], [#delta(70)],
       [120], [#name("吉村真晴")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2467*], [#delta(-6)],
       [121], [#name("KIM Nam Chol")], [#age(25)], [#assoc("PRK")], [?], [?], [?], [*2465*], [#delta(59)],
       [122], [#name("KULPA Konrad")], [#age(19)], [#assoc("POL")], [#left], [#shakehand], [#attack], [*2461*], [#delta(-2)],

@@ -265,7 +265,7 @@
       [194], [#name("FERTIKOWSKI Pawel")], [#age(22)], [#assoc("POL")], [#left], [#shakehand], [#attack], [*2324*], [#delta(-6)],
       [195], [#name("MACHI Asuka")], [#age(18)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2323*], [#delta(14)],
       [196], [#name("ANGLES Enzo")], [#age(17)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2323*], [#delta(-1)],
-      [197], [#name("JANCARIK Lubomir")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2319*], [#delta(-29)],
+      [197], [#name("卢博米尔 杨恰日克")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2319*], [#delta(-29)],
       [198], [#name("TSE Ka Chun")], [#age(26)], [#assoc("HKG")], [?], [?], [?], [*2317*], [#delta(9)],
       [199], [#name("JUZBASIC Ivan")], [#age(32)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2317*], [#delta(-7)],
       [200], [#name("GOLEBIOWSKI Mateusz")], [#age(22)], [#assoc("POL")], [?], [?], [?], [*2316*], [#delta(-6)],

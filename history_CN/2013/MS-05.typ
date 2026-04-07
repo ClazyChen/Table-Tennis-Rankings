@@ -130,7 +130,7 @@
       [95], [#name("LEGOUT Christophe")], [#age(40)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2497*], [#delta(-1)],
       [96], [#name("卢文 菲鲁斯")], [#age(25)], [#assoc("GER")], [#right], [#shakehand], [#defense], [*2496*], [#delta(-1)],
       [97], [#name("LIU Song")], [#age(41)], [#assoc("ARG")], [?], [?], [?], [*2496*], [#delta(-1)],
-      [98], [#name("JANCARIK Lubomir")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2489*], [#delta(0)],
+      [98], [#name("卢博米尔 杨恰日克")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2489*], [#delta(0)],
       [99], [#name("艾曼纽 莱贝松")], [#age(25)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2488*], [#delta(22)],
       [100], [#name("奥维迪乌 伊奥内斯库")], [#age(24)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2487*], [#delta(-1)],
     )

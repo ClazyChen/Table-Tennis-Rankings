@@ -143,7 +143,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [101], [#name("GERALDO Joao")], [#age(29)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2560*], [#delta(-45)],
-      [102], [#name("JANCARIK Lubomir")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2556*], [#delta(-19)],
+      [102], [#name("卢博米尔 杨恰日克")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2556*], [#delta(-19)],
       [103], [#name("米洛什 雷德齐姆斯基")], [#age(18)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2556*], [#delta(16)],
       [104], [#name("MATSUYAMA Yuki")], [#age(26)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2552*], [#delta(1)],
       [105], [#name("爱德华 约内斯库")], [#age(20)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2550*], [#delta(-10)],

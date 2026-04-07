@@ -180,7 +180,7 @@
       [127], [#name("KUZMIN Fedor")], [#age(28)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2385*], [#delta(-3)],
       [128], [#name("西蒙 高兹")], [#age(17)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2384*], [#delta(52)],
       [129], [#name("HENZELL William")], [#age(29)], [#assoc("AUS")], [#right], [#shakehand], [#attack], [*2383*], [#delta(1)],
-      [130], [#name("JANCARIK Lubomir")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2383*], [#delta(-5)],
+      [130], [#name("卢博米尔 杨恰日克")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2383*], [#delta(-5)],
       [131], [#name("JEVTOVIC Marko")], [#age(24)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2381*], [#delta(-4)],
       [132], [#name("FERTIKOWSKI Pawel")], [#age(21)], [#assoc("POL")], [#left], [#shakehand], [#attack], [*2379*], [#delta(-4)],
       [133], [#name("BENTSEN Allan")], [#age(43)], [#assoc("DEN")], [?], [?], [?], [*2375*], [#delta(-4)],

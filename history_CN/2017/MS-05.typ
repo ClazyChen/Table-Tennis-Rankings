@@ -231,7 +231,7 @@
       [169], [#name("MAJOROS Bence")], [#age(20)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2473*], [#delta(-34)],
       [170], [#name("POLANSKY Tomas")], [#age(19)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2472*], [#delta(-56)],
       [171], [#name("CHO Eonrae")], [#age(31)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2471*], [#delta(-6)],
-      [172], [#name("JANCARIK Lubomir")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2470*], [#delta(66)],
+      [172], [#name("卢博米尔 杨恰日克")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2470*], [#delta(66)],
       [173], [#name("LEVENKO Andreas")], [#age(19)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2469*], [#delta(47)],
       [174], [#name("LORENTZ Romain")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2467*], [#delta(98)],
       [175], [#name("LANDRIEU Andrea")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2467*], [#delta(-21)],

@@ -98,7 +98,7 @@
       [72], [#name("HENZELL William")], [#age(27)], [#assoc("AUS")], [#right], [#shakehand], [#attack], [*2447*], [#delta(-3)],
       [73], [#name("RI Chol Guk")], [#age(24)], [#assoc("PRK")], [?], [?], [?], [*2446*], [#delta(-3)],
       [74], [#name("塩野真人")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2442*], [#delta(-3)],
-      [75], [#name("JANCARIK Lubomir")], [#age(22)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2437*], [#delta(-3)],
+      [75], [#name("卢博米尔 杨恰日克")], [#age(22)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2437*], [#delta(-3)],
     )
   )
 #pagebreak()

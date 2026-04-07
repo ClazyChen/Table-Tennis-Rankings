@@ -194,7 +194,7 @@
       [141], [#name("LEGOUT Christophe")], [#age(42)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2468*], [#delta(2)],
       [142], [#name("PISTEJ Lubomir")], [#age(31)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2467*], [#delta(2)],
       [143], [#name("王楚钦")], [#age(15)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2465*], [#delta(34)],
-      [144], [#name("JANCARIK Lubomir")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2465*], [#delta(1)],
+      [144], [#name("卢博米尔 杨恰日克")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2465*], [#delta(1)],
       [145], [#name("PETO Zsolt")], [#age(28)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2462*], [#delta(1)],
       [146], [#name("朴康贤")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2460*], [#delta(1)],
       [147], [#name("BAIBULDIN Andrei")], [#age(29)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2459*], [#delta(2)],

@@ -153,7 +153,7 @@
       [109], [#name("PLACHY Josef")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2287*], [#delta(-3)],
       [110], [#name("马克斯 弗雷塔斯")], [#age(19)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2287*], [#delta(69)],
       [111], [#name("TOSIC Roko")], [#age(28)], [#assoc("CRO")], [#left], [#shakehand], [#attack], [*2286*], [#delta(-38)],
-      [112], [#name("JANCARIK Lubomir")], [#age(20)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2285*], [#delta(-5)],
+      [112], [#name("卢博米尔 杨恰日克")], [#age(20)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2285*], [#delta(-5)],
       [113], [#name("基里尔 斯卡奇科夫")], [#age(20)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2284*], [#delta(-5)],
       [114], [#name("CHTCHETININE Evgueni")], [#age(37)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2281*], [#delta(-5)],
       [115], [#name("MACHADO Carlos")], [#age(27)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2279*], [#delta(-5)],

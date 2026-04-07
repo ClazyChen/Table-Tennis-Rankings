@@ -251,7 +251,7 @@
       [180], [#name("DIDUKH Oleksandr")], [#age(28)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2228*], [#delta(-3)],
       [181], [#name("VLASOV Grigory")], [#age(26)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2225*], [#delta(-3)],
       [182], [#name("HORVAT Mitja")], [#age(32)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2222*], [#delta(-3)],
-      [183], [#name("JANCARIK Lubomir")], [#age(23)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2221*], [#delta(-3)],
+      [183], [#name("卢博米尔 杨恰日克")], [#age(23)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2221*], [#delta(-3)],
       [184], [#name("ZEIMYS Kestutis")], [#age(22)], [#assoc("LTU")], [#right], [#shakehand], [#attack], [*2219*], [#delta(-3)],
       [185], [#name("SONG Hongyuan")], [#age(17)], [#assoc("CHN")], [?], [?], [?], [*2219*], [#delta(215)],
       [186], [#name("OBESLO Michal")], [#age(21)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2217*], [#delta(-4)],

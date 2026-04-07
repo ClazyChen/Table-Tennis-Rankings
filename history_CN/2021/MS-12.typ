@@ -126,7 +126,7 @@
       [91], [#name("田中佑汰")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2567*], [#delta(1)],
       [92], [#name("阿尔瓦罗 罗布勒斯")], [#age(30)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2566*], [#delta(8)],
       [93], [#name("HWANG Minha")], [#age(22)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2562*], [#delta(-28)],
-      [94], [#name("JANCARIK Lubomir")], [#age(34)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2562*], [#delta(-37)],
+      [94], [#name("卢博米尔 杨恰日克")], [#age(34)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2562*], [#delta(-37)],
       [95], [#name("刘夜泊")], [#age(20)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2562*], [#delta(3)],
       [96], [#name("PANG Koen")], [#age(19)], [#assoc("SGP")], [#left], [#shakehand], [#attack], [*2558*], [#delta(102)],
       [97], [#name("丹羽孝希")], [#age(27)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2558*], [#delta(-8)],

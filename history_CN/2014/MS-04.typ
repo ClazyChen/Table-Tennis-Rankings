@@ -193,7 +193,7 @@
       [140], [#name("奥维迪乌 伊奥内斯库")], [#age(25)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2445*], [#delta(26)],
       [141], [#name("MONTEIRO Thiago")], [#age(33)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2442*], [#delta(1)],
       [142], [#name("CHEN Feng")], [#age(20)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2442*], [#delta(-2)],
-      [143], [#name("JANCARIK Lubomir")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2442*], [#delta(-42)],
+      [143], [#name("卢博米尔 杨恰日克")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2442*], [#delta(-42)],
       [144], [#name("PATTANTYUS Adam")], [#age(36)], [#assoc("HUN")], [#right], [#shakehand], [#defense], [*2442*], [#delta(25)],
       [145], [#name("LAKEEV Vasily")], [#age(30)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2440*], [#delta(-11)],
       [146], [#name("HENZELL William")], [#age(32)], [#assoc("AUS")], [#right], [#shakehand], [#attack], [*2440*], [#delta(-5)],

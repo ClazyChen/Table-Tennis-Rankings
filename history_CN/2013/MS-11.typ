@@ -257,7 +257,7 @@
       [186], [#name("XIN Zhaoxu")], [#age(18)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2378*], [#delta(-6)],
       [187], [#name("HIRANO Yuki")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2378*], [#delta(-6)],
       [188], [#name("WU Chih-Chi")], [#age(27)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2375*], [#delta(-5)],
-      [189], [#name("JANCARIK Lubomir")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2375*], [#delta(-33)],
+      [189], [#name("卢博米尔 杨恰日克")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2375*], [#delta(-33)],
       [190], [#name("KANG Donghoon")], [#age(26)], [#assoc("KOR")], [?], [?], [?], [*2373*], [#delta(-6)],
       [191], [#name("RECH DALDOSSO Marco")], [#age(21)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2372*], [#delta(68)],
       [192], [#name("雅罗斯列夫 扎姆登科")], [#age(25)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2371*], [#delta(-7)],

@@ -98,7 +98,7 @@
       [72], [#name("梁俨苧")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2620*], [#delta(-28)],
       [73], [#name("刘夜泊")], [#age(22)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2619*], [#delta(-3)],
       [74], [#name("斯蒂芬 门格尔")], [#age(35)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2612*], [#delta(-1)],
-      [75], [#name("JANCARIK Lubomir")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2608*], [#delta(55)],
+      [75], [#name("卢博米尔 杨恰日克")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2608*], [#delta(55)],
     )
   )
 #pagebreak()

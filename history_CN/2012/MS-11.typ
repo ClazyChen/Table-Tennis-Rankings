@@ -126,7 +126,7 @@
       [91], [#name("TOSIC Roko")], [#age(33)], [#assoc("CRO")], [#left], [#shakehand], [#attack], [*2490*], [#delta(2)],
       [92], [#name("何志文")], [#age(50)], [#assoc("ESP")], [#left], [#penhold], [#attack], [*2488*], [#delta(-8)],
       [93], [#name("王臻")], [#age(27)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2487*], [#delta(2)],
-      [94], [#name("JANCARIK Lubomir")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2484*], [#delta(99)],
+      [94], [#name("卢博米尔 杨恰日克")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2484*], [#delta(99)],
       [95], [#name("利亚姆 皮切福德")], [#age(19)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2484*], [#delta(68)],
       [96], [#name("SIMONCIK Josef")], [#age(32)], [#assoc("CZE")], [?], [?], [?], [*2481*], [#delta(3)],
       [97], [#name("彼得 科贝尔")], [#age(41)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2479*], [#delta(13)],

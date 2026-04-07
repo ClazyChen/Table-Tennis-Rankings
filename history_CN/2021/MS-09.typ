@@ -80,7 +80,7 @@
       [54], [#name("马克斯 弗雷塔斯")], [#age(33)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2653*], [#delta(-28)],
       [55], [#name("TSUBOI Gustavo")], [#age(36)], [#assoc("BRA")], [#left], [#shakehand], [#attack], [*2647*], [#delta(17)],
       [56], [#name("SAI Linwei")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2646*], [#delta(-2)],
-      [57], [#name("JANCARIK Lubomir")], [#age(34)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2645*], [#delta(-23)],
+      [57], [#name("卢博米尔 杨恰日克")], [#age(34)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2645*], [#delta(-23)],
       [58], [#name("诺沙迪 阿拉米扬")], [#age(30)], [#assoc("IRI")], [#left], [#shakehand], [#attack], [*2645*], [#delta(-3)],
       [59], [#name("BOBOCICA Mihai")], [#age(35)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2645*], [#delta(-3)],
       [60], [#name("基里尔 格拉西缅科")], [#age(25)], [#assoc("KAZ")], [#right], [#shakehand], [#attack], [*2638*], [#delta(16)],

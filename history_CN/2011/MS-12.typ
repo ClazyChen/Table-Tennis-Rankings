@@ -182,7 +182,7 @@
       [129], [#name("彼得 科贝尔")], [#age(40)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2393*], [#delta(3)],
       [130], [#name("MATSUMOTO Cazuo")], [#age(26)], [#assoc("BRA")], [#left], [#penhold], [#attack], [*2391*], [#delta(25)],
       [131], [#name("DIDUKH Oleksandr")], [#age(29)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2390*], [#delta(2)],
-      [132], [#name("JANCARIK Lubomir")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2389*], [#delta(3)],
+      [132], [#name("卢博米尔 杨恰日克")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2389*], [#delta(3)],
       [133], [#name("LI Kewei")], [#age(31)], [#assoc("MLT")], [?], [?], [?], [*2388*], [#delta(3)],
       [134], [#name("村松雄斗")], [#age(15)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2384*], [#delta(75)],
       [135], [#name("HUNG Tzu-Hsiang")], [#age(17)], [#assoc("TPE")], [#right], [#penhold], [#attack], [*2383*], [#delta(-14)],

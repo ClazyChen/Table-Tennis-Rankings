@@ -253,7 +253,7 @@
       [182], [#name("YANG Heng-Wei")], [#age(20)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2456*], [#delta(1)],
       [183], [#name("卡纳克 贾哈")], [#age(17)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2454*], [#delta(-26)],
       [184], [#name("BRODD Viktor")], [#age(27)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2454*], [#delta(1)],
-      [185], [#name("JANCARIK Lubomir")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2452*], [#delta(-30)],
+      [185], [#name("卢博米尔 杨恰日克")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2452*], [#delta(-30)],
       [186], [#name("安宰贤")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2451*], [#delta(1)],
       [187], [#name("乔 赛弗里德")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2451*], [#delta(-15)],
       [188], [#name("YU Heyi")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2450*], [#delta(0)],

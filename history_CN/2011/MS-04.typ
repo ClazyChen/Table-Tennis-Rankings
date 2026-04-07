@@ -178,7 +178,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [126], [#name("CANTERO Jesus")], [#age(29)], [#assoc("ESP")], [#right], [#penhold], [#attack], [*2388*], [#delta(-26)],
       [127], [#name("LI Kewei")], [#age(31)], [#assoc("MLT")], [?], [?], [?], [*2388*], [#delta(-4)],
-      [128], [#name("JANCARIK Lubomir")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2383*], [#delta(-1)],
+      [128], [#name("卢博米尔 杨恰日克")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2383*], [#delta(-1)],
       [129], [#name("OYA Hidetoshi")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2381*], [#delta(-1)],
       [130], [#name("FERTIKOWSKI Pawel")], [#age(21)], [#assoc("POL")], [#left], [#shakehand], [#attack], [*2379*], [#delta(0)],
       [131], [#name("VANG Bora")], [#age(24)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2375*], [#delta(-11)],

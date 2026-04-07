@@ -149,7 +149,7 @@
       [105], [#name("KANG Dongsoo")], [#age(28)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2535*], [#delta(3)],
       [106], [#name("SGOUROPOULOS Ioannis")], [#age(22)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2535*], [#delta(22)],
       [107], [#name("WU Jiaji")], [#age(27)], [#assoc("DOM")], [#right], [#penhold], [#attack], [*2532*], [#delta(3)],
-      [108], [#name("JANCARIK Lubomir")], [#age(35)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2529*], [#delta(-21)],
+      [108], [#name("卢博米尔 杨恰日克")], [#age(35)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2529*], [#delta(-21)],
       [109], [#name("ANGLES Enzo")], [#age(27)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2526*], [#delta(-24)],
       [110], [#name("冯翊新")], [#age(19)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2526*], [#delta(-7)],
       [111], [#name("KULCZYCKI Samuel")], [#age(20)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2524*], [#delta(-5)],

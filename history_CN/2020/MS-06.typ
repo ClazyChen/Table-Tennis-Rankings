@@ -248,7 +248,7 @@
       [177], [#name("DEVOS Robin")], [#age(26)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2431*], [#delta(0)],
       [178], [#name("JOUTI Eric")], [#age(26)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2431*], [#delta(0)],
       [179], [#name("THAKKAR Manav")], [#age(20)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2430*], [#delta(0)],
-      [180], [#name("JANCARIK Lubomir")], [#age(33)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2428*], [#delta(0)],
+      [180], [#name("卢博米尔 杨恰日克")], [#age(33)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2428*], [#delta(0)],
       [181], [#name("HO Kwan Kit")], [#age(23)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2427*], [#delta(0)],
       [182], [#name("凯 斯图姆珀")], [#age(18)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2427*], [#delta(0)],
       [183], [#name("ANDRAS Csaba")], [#age(18)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2421*], [#delta(0)],

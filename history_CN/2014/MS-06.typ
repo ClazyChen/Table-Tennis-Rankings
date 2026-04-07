@@ -157,7 +157,7 @@
       [113], [#name("DIDUKH Oleksandr")], [#age(32)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2482*], [#delta(7)],
       [114], [#name("SEO Hyundeok")], [#age(23)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2478*], [#delta(9)],
       [115], [#name("HIRANO Yuki")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2476*], [#delta(4)],
-      [116], [#name("JANCARIK Lubomir")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2476*], [#delta(30)],
+      [116], [#name("卢博米尔 杨恰日克")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2476*], [#delta(30)],
       [117], [#name("NOROOZI Afshin")], [#age(29)], [#assoc("IRI")], [#left], [#shakehand], [#attack], [*2473*], [#delta(134)],
       [118], [#name("KEINATH Thomas")], [#age(37)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2470*], [#delta(-24)],
       [119], [#name("KIM Donghyun")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2470*], [#delta(5)],

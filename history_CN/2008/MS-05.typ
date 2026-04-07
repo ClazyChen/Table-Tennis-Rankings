@@ -161,7 +161,7 @@
       [117], [#name("KOSOWSKI Jakub")], [#age(26)], [#assoc("POL")], [?], [?], [?], [*2321*], [#delta(-1)],
       [118], [#name("LIM Jaehyun")], [#age(23)], [#assoc("KOR")], [?], [?], [?], [*2319*], [#delta(-1)],
       [119], [#name("MACHADO Carlos")], [#age(28)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2315*], [#delta(-1)],
-      [120], [#name("JANCARIK Lubomir")], [#age(21)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2313*], [#delta(-67)],
+      [120], [#name("卢博米尔 杨恰日克")], [#age(21)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2313*], [#delta(-67)],
       [121], [#name("AKERSTROM Fabian")], [#age(20)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2312*], [#delta(-2)],
       [122], [#name("吴尚垠")], [#age(31)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2306*], [#delta(-2)],
       [123], [#name("SEREDA Peter")], [#age(24)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2304*], [#delta(-2)],

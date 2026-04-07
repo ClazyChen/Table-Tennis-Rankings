@@ -96,7 +96,7 @@
       [70], [#name("汪洋")], [#age(29)], [#assoc("SVK")], [#right], [#shakehand], [#defense], [*2613*], [#delta(-3)],
       [71], [#name("斯蒂芬 门格尔")], [#age(35)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2612*], [#delta(3)],
       [72], [#name("AKKUZU Can")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2610*], [#delta(-11)],
-      [73], [#name("JANCARIK Lubomir")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2608*], [#delta(2)],
+      [73], [#name("卢博米尔 杨恰日克")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2608*], [#delta(2)],
       [74], [#name("曹巍")], [#age(24)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2607*], [#delta(22)],
       [75], [#name("孙闻")], [#age(26)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2604*], [#delta(1)],
     )

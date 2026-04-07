@@ -231,7 +231,7 @@
       [169], [#name("VLASOV Grigory")], [#age(25)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2214*], [#delta(1)],
       [170], [#name("NEKHVEDOVICH Vitaly")], [#age(34)], [#assoc("BLR")], [?], [?], [?], [*2213*], [#delta(1)],
       [171], [#name("RAMIREZ Jose Miguel")], [#age(26)], [#assoc("GUA")], [#right], [#shakehand], [#attack], [*2212*], [#delta(1)],
-      [172], [#name("JANCARIK Lubomir")], [#age(22)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2209*], [#delta(-69)],
+      [172], [#name("卢博米尔 杨恰日克")], [#age(22)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2209*], [#delta(-69)],
       [173], [#name("PAPAGEORGIOU Konstantinos")], [#age(30)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2207*], [#delta(0)],
       [174], [#name("ROBERTSON Adam")], [#age(25)], [#assoc("WAL")], [?], [?], [?], [*2207*], [#delta(0)],
       [175], [#name("VRABLIK Jiri")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2206*], [#delta(0)],

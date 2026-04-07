@@ -254,7 +254,7 @@
       [183], [#name("BUROV Viacheslav")], [#age(30)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2423*], [#delta(-7)],
       [184], [#name("KANG Wi Hun")], [#age(26)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2422*], [#delta(131)],
       [185], [#name("侯英超")], [#age(35)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2420*], [#delta(6)],
-      [186], [#name("JANCARIK Lubomir")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2418*], [#delta(-42)],
+      [186], [#name("卢博米尔 杨恰日克")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2418*], [#delta(-42)],
       [187], [#name("木造勇人")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2416*], [#delta(9)],
       [188], [#name("HENZELL William")], [#age(33)], [#assoc("AUS")], [#right], [#shakehand], [#attack], [*2415*], [#delta(10)],
       [189], [#name("MUTTI Leonardo")], [#age(20)], [#assoc("ITA")], [#left], [#shakehand], [#attack], [*2412*], [#delta(-25)],

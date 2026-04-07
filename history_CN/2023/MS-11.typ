@@ -108,7 +108,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [76], [#name("JANCARIK Lubomir")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2608*], [#delta(-10)],
+      [76], [#name("卢博米尔 杨恰日克")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2608*], [#delta(-10)],
       [77], [#name("吉山僚一")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2606*], [#delta(40)],
       [78], [#name("木造勇人")], [#age(24)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2604*], [#delta(-1)],
       [79], [#name("LAKATOS Tamas")], [#age(28)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2602*], [#delta(0)],

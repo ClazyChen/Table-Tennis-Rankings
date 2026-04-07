@@ -154,7 +154,7 @@
       [110], [#name("KOZUL Deni")], [#age(27)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2542*], [#delta(-6)],
       [111], [#name("ACHANTA Sharath")], [#age(42)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2540*], [#delta(-6)],
       [112], [#name("乔 赛弗里德")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2539*], [#delta(68)],
-      [113], [#name("JANCARIK Lubomir")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2538*], [#delta(-21)],
+      [113], [#name("卢博米尔 杨恰日克")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2538*], [#delta(-21)],
       [114], [#name("孙正")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2529*], [#delta(-3)],
       [115], [#name("蒂亚戈 阿波罗尼亚")], [#age(38)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2527*], [#delta(-2)],
       [116], [#name("托米斯拉夫 普卡")], [#age(28)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2527*], [#delta(-2)],

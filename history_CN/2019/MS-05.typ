@@ -224,7 +224,7 @@
       [162], [#name("RANEFUR Elias")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2507*], [#delta(-3)],
       [163], [#name("CARVALHO Diogo")], [#age(27)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2504*], [#delta(-1)],
       [164], [#name("SODERLUND Hampus")], [#age(25)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2502*], [#delta(0)],
-      [165], [#name("JANCARIK Lubomir")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2501*], [#delta(18)],
+      [165], [#name("卢博米尔 杨恰日克")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2501*], [#delta(18)],
       [166], [#name("阿尔瓦罗 罗布勒斯")], [#age(28)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2500*], [#delta(-85)],
       [167], [#name("BUROV Viacheslav")], [#age(34)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2497*], [#delta(-2)],
       [168], [#name("MATSUYAMA Yuki")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2496*], [#delta(-1)],

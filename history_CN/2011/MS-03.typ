@@ -177,7 +177,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [126], [#name("斯特凡 菲格尔")], [#age(23)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2384*], [#delta(-11)],
-      [127], [#name("JANCARIK Lubomir")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2383*], [#delta(-30)],
+      [127], [#name("卢博米尔 杨恰日克")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2383*], [#delta(-30)],
       [128], [#name("OYA Hidetoshi")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2381*], [#delta(-1)],
       [129], [#name("HUANG Sheng-Sheng")], [#age(24)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2381*], [#delta(-1)],
       [130], [#name("FERTIKOWSKI Pawel")], [#age(21)], [#assoc("POL")], [#left], [#shakehand], [#attack], [*2380*], [#delta(-18)],

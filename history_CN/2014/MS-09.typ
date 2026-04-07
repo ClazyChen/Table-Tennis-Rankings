@@ -221,7 +221,7 @@
       [159], [#name("BUROV Viacheslav")], [#age(29)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2434*], [#delta(66)],
       [160], [#name("赵胜敏")], [#age(16)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2434*], [#delta(-9)],
       [161], [#name("塞德里克 纽廷克")], [#age(21)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2433*], [#delta(47)],
-      [162], [#name("JANCARIK Lubomir")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2433*], [#delta(-43)],
+      [162], [#name("卢博米尔 杨恰日克")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2433*], [#delta(-43)],
       [163], [#name("AKKUZU Can")], [#age(17)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2432*], [#delta(15)],
       [164], [#name("FLORAS Robert")], [#age(22)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2427*], [#delta(7)],
       [165], [#name("WU Chih-Chi")], [#age(28)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2425*], [#delta(-8)],

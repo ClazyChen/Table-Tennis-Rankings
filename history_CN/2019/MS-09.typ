@@ -183,7 +183,7 @@
       [130], [#name("BUROV Viacheslav")], [#age(34)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2521*], [#delta(-32)],
       [131], [#name("LEVENKO Andreas")], [#age(21)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2521*], [#delta(28)],
       [132], [#name("BERTRAND Irvin")], [#age(19)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2520*], [#delta(77)],
-      [133], [#name("JANCARIK Lubomir")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2518*], [#delta(71)],
+      [133], [#name("卢博米尔 杨恰日克")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2518*], [#delta(71)],
       [134], [#name("安德烈 加奇尼")], [#age(33)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2517*], [#delta(-41)],
       [135], [#name("SEREDA Peter")], [#age(35)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2517*], [#delta(6)],
       [136], [#name("CHEN Diogo")], [#age(23)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2516*], [#delta(6)],

@@ -252,7 +252,7 @@
       [181], [#name("冯翊新")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2445*], [#delta(-15)],
       [182], [#name("OBESLO Michal")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2444*], [#delta(9)],
       [183], [#name("STOYANOV Niagol")], [#age(32)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2443*], [#delta(-28)],
-      [184], [#name("JANCARIK Lubomir")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2442*], [#delta(-4)],
+      [184], [#name("卢博米尔 杨恰日克")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2442*], [#delta(-4)],
       [185], [#name("TANIGAKI Yuma")], [#age(16)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2440*], [#delta(50)],
       [186], [#name("SZUDI Adam")], [#age(23)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2439*], [#delta(-24)],
       [187], [#name("GERALDO Joao")], [#age(24)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2438*], [#delta(-28)],

@@ -196,7 +196,7 @@
       [143], [#name("RUMGAY Gavin")], [#age(23)], [#assoc("SCO")], [#right], [#shakehand], [#attack], [*2234*], [#delta(27)],
       [144], [#name("HUANG Sheng-Sheng")], [#age(20)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2233*], [#delta(-5)],
       [145], [#name("OLLIVIER Brice")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2233*], [#delta(-5)],
-      [146], [#name("JANCARIK Lubomir")], [#age(20)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2232*], [#delta(-60)],
+      [146], [#name("卢博米尔 杨恰日克")], [#age(20)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2232*], [#delta(-60)],
       [147], [#name("DIDUKH Oleksandr")], [#age(25)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2232*], [#delta(50)],
       [148], [#name("RUBTSOV Igor")], [#age(27)], [#assoc("RUS")], [?], [?], [?], [*2231*], [#delta(77)],
       [149], [#name("UTOCHKIN Artem")], [#age(18)], [#assoc("RUS")], [?], [?], [?], [*2231*], [#delta(57)],

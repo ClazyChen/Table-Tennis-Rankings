@@ -166,7 +166,7 @@
       [122], [#name("艾曼纽 莱贝松")], [#age(23)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2392*], [#delta(-2)],
       [123], [#name("LI Kewei")], [#age(31)], [#assoc("MLT")], [?], [?], [?], [*2388*], [#delta(-1)],
       [124], [#name("KUZMIN Fedor")], [#age(28)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2385*], [#delta(0)],
-      [125], [#name("JANCARIK Lubomir")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2383*], [#delta(0)],
+      [125], [#name("卢博米尔 杨恰日克")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2383*], [#delta(0)],
     )
   )
 #pagebreak()

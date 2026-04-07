@@ -85,7 +85,7 @@
       [59], [#name("贝内迪克特 杜达")], [#age(24)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2649*], [#delta(-6)],
       [60], [#name("PLETEA Cristian")], [#age(18)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2647*], [#delta(72)],
       [61], [#name("汪洋")], [#age(24)], [#assoc("SVK")], [#right], [#shakehand], [#defense], [*2646*], [#delta(1)],
-      [62], [#name("JANCARIK Lubomir")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2641*], [#delta(40)],
+      [62], [#name("卢博米尔 杨恰日克")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2641*], [#delta(40)],
       [63], [#name("及川瑞基")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2638*], [#delta(-17)],
       [64], [#name("詹斯 伦德奎斯特")], [#age(39)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2636*], [#delta(4)],
       [65], [#name("特鲁斯 莫雷加德")], [#age(16)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2633*], [#delta(-2)],

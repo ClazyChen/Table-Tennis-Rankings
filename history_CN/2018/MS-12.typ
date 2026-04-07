@@ -145,7 +145,7 @@
       [101], [#name("汪洋")], [#age(24)], [#assoc("SVK")], [#right], [#shakehand], [#defense], [*2574*], [#delta(-25)],
       [102], [#name("SAKAI Asuka")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2573*], [#delta(2)],
       [103], [#name("MACHI Asuka")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2571*], [#delta(4)],
-      [104], [#name("JANCARIK Lubomir")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2568*], [#delta(-21)],
+      [104], [#name("卢博米尔 杨恰日克")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2568*], [#delta(-21)],
       [105], [#name("MATSUDAIRA Kenji")], [#age(29)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2566*], [#delta(15)],
       [106], [#name("帕纳吉奥迪斯 吉奥尼斯")], [#age(38)], [#assoc("GRE")], [#right], [#shakehand], [#defense], [*2566*], [#delta(31)],
       [107], [#name("阿尔瓦罗 罗布勒斯")], [#age(27)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2563*], [#delta(5)],

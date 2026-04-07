@@ -89,7 +89,7 @@
       [63], [#name("宇田幸矢")], [#age(22)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2633*], [#delta(3)],
       [64], [#name("神巧也")], [#age(30)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2632*], [#delta(4)],
       [65], [#name("冯翊新")], [#age(20)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2631*], [#delta(-22)],
-      [66], [#name("JANCARIK Lubomir")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2629*], [#delta(22)],
+      [66], [#name("卢博米尔 杨恰日克")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2629*], [#delta(22)],
       [67], [#name("曹巍")], [#age(24)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2628*], [#delta(32)],
       [68], [#name("牛冠凯")], [#age(21)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2627*], [#delta(-4)],
       [69], [#name("利亚姆 皮切福德")], [#age(30)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2625*], [#delta(-2)],

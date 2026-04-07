@@ -180,7 +180,7 @@
       [127], [#name("RUIZ Romain")], [#age(28)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2508*], [#delta(3)],
       [128], [#name("孙杨")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2508*], [#delta(4)],
       [129], [#name("SIPOS Rares")], [#age(25)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2507*], [#delta(4)],
-      [130], [#name("JANCARIK Lubomir")], [#age(38)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2507*], [#delta(4)],
+      [130], [#name("卢博米尔 杨恰日克")], [#age(38)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2507*], [#delta(4)],
       [131], [#name("MOVILEANU Darius")], [#age(20)], [#assoc("ROU")], [#left], [#shakehand], [#attack], [*2504*], [#delta(-11)],
       [132], [#name("PICARD Vincent")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2503*], [#delta(3)],
       [133], [#name("YIU Kwan To")], [#age(21)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2503*], [#delta(9)],

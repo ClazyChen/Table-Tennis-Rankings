@@ -76,7 +76,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [51], [#name("岸川圣也")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2522*], [#delta(-9)],
       [52], [#name("安德烈 加奇尼")], [#age(22)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2521*], [#delta(-3)],
-      [53], [#name("JANCARIK Lubomir")], [#age(21)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2515*], [#delta(166)],
+      [53], [#name("卢博米尔 杨恰日克")], [#age(21)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2515*], [#delta(166)],
       [54], [#name("特林科 基恩")], [#age(37)], [#assoc("NED")], [#left], [#shakehand], [#attack], [*2512*], [#delta(27)],
       [55], [#name("松平健太")], [#age(17)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2510*], [#delta(-7)],
       [56], [#name("LEGOUT Christophe")], [#age(35)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2504*], [#delta(38)],

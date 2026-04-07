@@ -80,7 +80,7 @@
       [54], [#name("亚历山大 希巴耶夫")], [#age(31)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2650*], [#delta(16)],
       [55], [#name("特鲁斯 莫雷加德")], [#age(19)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2647*], [#delta(-9)],
       [56], [#name("SAI Linwei")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2646*], [#delta(3)],
-      [57], [#name("JANCARIK Lubomir")], [#age(34)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2645*], [#delta(3)],
+      [57], [#name("卢博米尔 杨恰日克")], [#age(34)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2645*], [#delta(3)],
       [58], [#name("BOBOCICA Mihai")], [#age(35)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2645*], [#delta(3)],
       [59], [#name("安德烈 加奇尼")], [#age(35)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2638*], [#delta(3)],
       [60], [#name("贝内德克 奥拉")], [#age(30)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2634*], [#delta(-17)],

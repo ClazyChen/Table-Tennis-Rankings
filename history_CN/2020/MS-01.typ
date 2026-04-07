@@ -255,7 +255,7 @@
       [184], [#name("OBESLO Michal")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2444*], [#delta(-2)],
       [185], [#name("LEVENKO Andreas")], [#age(22)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2443*], [#delta(-7)],
       [186], [#name("LAKATOS Tamas")], [#age(25)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2443*], [#delta(40)],
-      [187], [#name("JANCARIK Lubomir")], [#age(33)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2442*], [#delta(-3)],
+      [187], [#name("卢博米尔 杨恰日克")], [#age(33)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2442*], [#delta(-3)],
       [188], [#name("TANIGAKI Yuma")], [#age(17)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2440*], [#delta(-3)],
       [189], [#name("SZUDI Adam")], [#age(24)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2439*], [#delta(-3)],
       [190], [#name("奥拉吉德 奥莫塔约")], [#age(25)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2436*], [#delta(-2)],

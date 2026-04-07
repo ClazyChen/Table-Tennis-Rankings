@@ -82,7 +82,7 @@
       [56], [#name("汪洋")], [#age(24)], [#assoc("SVK")], [#right], [#shakehand], [#defense], [*2646*], [#delta(3)],
       [57], [#name("卢文 菲鲁斯")], [#age(30)], [#assoc("GER")], [#right], [#shakehand], [#defense], [*2645*], [#delta(3)],
       [58], [#name("特鲁斯 莫雷加德")], [#age(16)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2645*], [#delta(9)],
-      [59], [#name("JANCARIK Lubomir")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2641*], [#delta(4)],
+      [59], [#name("卢博米尔 杨恰日克")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2641*], [#delta(4)],
       [60], [#name("里卡多 瓦尔特")], [#age(27)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2638*], [#delta(-17)],
       [61], [#name("詹斯 伦德奎斯特")], [#age(39)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2636*], [#delta(4)],
       [62], [#name("ANGLES Enzo")], [#age(23)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2633*], [#delta(36)],

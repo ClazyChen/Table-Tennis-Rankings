@@ -148,7 +148,7 @@
       [104], [#name("ALLEGRO Martin")], [#age(26)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2546*], [#delta(2)],
       [105], [#name("PERSSON Jon")], [#age(36)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2542*], [#delta(-23)],
       [106], [#name("ORT Kilian")], [#age(26)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2539*], [#delta(2)],
-      [107], [#name("JANCARIK Lubomir")], [#age(35)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2537*], [#delta(-2)],
+      [107], [#name("卢博米尔 杨恰日克")], [#age(35)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2537*], [#delta(-2)],
       [108], [#name("CIFUENTES Horacio")], [#age(24)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2536*], [#delta(-6)],
       [109], [#name("REMBERT Bastien")], [#age(22)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2535*], [#delta(1)],
       [110], [#name("罗伯特 加尔多斯")], [#age(43)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2534*], [#delta(-1)],

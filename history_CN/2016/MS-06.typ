@@ -114,7 +114,7 @@
       [79], [#name("GERALDO Joao")], [#age(21)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2586*], [#delta(-26)],
       [80], [#name("ACHANTA Sharath")], [#age(34)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2584*], [#delta(-4)],
       [81], [#name("贝内迪克特 杜达")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2583*], [#delta(-14)],
-      [82], [#name("JANCARIK Lubomir")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2582*], [#delta(3)],
+      [82], [#name("卢博米尔 杨恰日克")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2582*], [#delta(3)],
       [83], [#name("MACHI Asuka")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2581*], [#delta(-10)],
       [84], [#name("罗伯特 加尔多斯")], [#age(37)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2580*], [#delta(2)],
       [85], [#name("林高远")], [#age(21)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2580*], [#delta(3)],

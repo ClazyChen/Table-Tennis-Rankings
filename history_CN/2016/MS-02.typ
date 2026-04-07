@@ -117,7 +117,7 @@
       [82], [#name("特里斯坦 弗洛雷")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2581*], [#delta(-21)],
       [83], [#name("林高远")], [#age(21)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2580*], [#delta(-3)],
       [84], [#name("利亚姆 皮切福德")], [#age(23)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2574*], [#delta(-15)],
-      [85], [#name("JANCARIK Lubomir")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2573*], [#delta(-36)],
+      [85], [#name("卢博米尔 杨恰日克")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2573*], [#delta(-36)],
       [86], [#name("GERALDO Joao")], [#age(21)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2571*], [#delta(20)],
       [87], [#name("KIM Minhyeok")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2565*], [#delta(-14)],
       [88], [#name("江天一")], [#age(28)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2565*], [#delta(-1)],

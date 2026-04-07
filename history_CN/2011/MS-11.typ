@@ -185,7 +185,7 @@
       [132], [#name("彼得 科贝尔")], [#age(40)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2393*], [#delta(-55)],
       [133], [#name("DIDUKH Oleksandr")], [#age(29)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2390*], [#delta(-18)],
       [134], [#name("CHEN Feng")], [#age(17)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2390*], [#delta(-6)],
-      [135], [#name("JANCARIK Lubomir")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2389*], [#delta(-6)],
+      [135], [#name("卢博米尔 杨恰日克")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2389*], [#delta(-6)],
       [136], [#name("LI Kewei")], [#age(31)], [#assoc("MLT")], [?], [?], [?], [*2388*], [#delta(-6)],
       [137], [#name("HENZELL William")], [#age(29)], [#assoc("AUS")], [#right], [#shakehand], [#attack], [*2387*], [#delta(-11)],
       [138], [#name("FERTIKOWSKI Pawel")], [#age(21)], [#assoc("POL")], [#left], [#shakehand], [#attack], [*2379*], [#delta(-5)],

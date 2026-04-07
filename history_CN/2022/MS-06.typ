@@ -150,7 +150,7 @@
       [106], [#name("SGOUROPOULOS Ioannis")], [#age(22)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2535*], [#delta(0)],
       [107], [#name("WU Jiaji")], [#age(27)], [#assoc("DOM")], [#right], [#penhold], [#attack], [*2532*], [#delta(0)],
       [108], [#name("YOKOTANI Jo")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2531*], [#delta(56)],
-      [109], [#name("JANCARIK Lubomir")], [#age(35)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2529*], [#delta(-1)],
+      [109], [#name("卢博米尔 杨恰日克")], [#age(35)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2529*], [#delta(-1)],
       [110], [#name("PICARD Vincent")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2527*], [#delta(52)],
       [111], [#name("冯翊新")], [#age(19)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2526*], [#delta(-1)],
       [112], [#name("KULCZYCKI Samuel")], [#age(20)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2524*], [#delta(-1)],

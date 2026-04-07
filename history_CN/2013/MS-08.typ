@@ -189,7 +189,7 @@
       [136], [#name("HIELSCHER Lars")], [#age(34)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2431*], [#delta(3)],
       [137], [#name("PERSSON Jon")], [#age(27)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2431*], [#delta(3)],
       [138], [#name("KANG Dongsoo")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2431*], [#delta(3)],
-      [139], [#name("JANCARIK Lubomir")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2430*], [#delta(3)],
+      [139], [#name("卢博米尔 杨恰日克")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2430*], [#delta(3)],
       [140], [#name("KOJIC Frane")], [#age(21)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2430*], [#delta(3)],
       [141], [#name("KEINATH Thomas")], [#age(36)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2428*], [#delta(3)],
       [142], [#name("LASAN Sas")], [#age(42)], [#assoc("SLO")], [#right], [#shakehand], [#defense], [*2428*], [#delta(3)],

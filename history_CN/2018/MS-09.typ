@@ -82,7 +82,7 @@
       [56], [#name("吉村和弘")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2664*], [#delta(-14)],
       [57], [#name("吉村真晴")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2662*], [#delta(-32)],
       [58], [#name("艾曼纽 莱贝松")], [#age(30)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2660*], [#delta(-12)],
-      [59], [#name("JANCARIK Lubomir")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2657*], [#delta(0)],
+      [59], [#name("卢博米尔 杨恰日克")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2657*], [#delta(0)],
       [60], [#name("朴康贤")], [#age(22)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2657*], [#delta(70)],
       [61], [#name("丹羽孝希")], [#age(24)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2643*], [#delta(5)],
       [62], [#name("托米斯拉夫 普卡")], [#age(22)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2642*], [#delta(22)],

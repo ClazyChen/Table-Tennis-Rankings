@@ -200,7 +200,7 @@
       [147], [#name("TSUBOI Yuma")], [#age(21)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2510*], [#delta(0)],
       [148], [#name("安德斯 林德")], [#age(20)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2508*], [#delta(0)],
       [149], [#name("BRODD Viktor")], [#age(28)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2508*], [#delta(0)],
-      [150], [#name("JANCARIK Lubomir")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2507*], [#delta(0)],
+      [150], [#name("卢博米尔 杨恰日克")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2507*], [#delta(0)],
     )
   )
 #pagebreak()

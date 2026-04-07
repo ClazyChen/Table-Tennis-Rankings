@@ -118,7 +118,7 @@
       [83], [#name("吉田海伟")], [#age(26)], [#assoc("JPN")], [#right], [#penhold], [#attack], [*2370*], [#delta(32)],
       [84], [#name("FAZEKAS Peter")], [#age(26)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2369*], [#delta(2)],
       [85], [#name("陈卫星")], [#age(35)], [#assoc("AUT")], [#right], [#shakehand], [#defense], [*2362*], [#delta(3)],
-      [86], [#name("JANCARIK Lubomir")], [#age(20)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2361*], [#delta(3)],
+      [86], [#name("卢博米尔 杨恰日克")], [#age(20)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2361*], [#delta(3)],
       [87], [#name("OLEJNIK Martin")], [#age(35)], [#assoc("CZE")], [?], [?], [?], [*2348*], [#delta(3)],
       [88], [#name("ROSSKOPF Jorg")], [#age(38)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2347*], [#delta(-22)],
       [89], [#name("REDJEP Ronald")], [#age(34)], [#assoc("CRO")], [#left], [#shakehand], [#attack], [*2345*], [#delta(3)],

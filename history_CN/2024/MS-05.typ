@@ -157,7 +157,7 @@
       [113], [#name("PANG Koen")], [#age(22)], [#assoc("SGP")], [#left], [#shakehand], [#attack], [*2547*], [#delta(-15)],
       [114], [#name("汪洋")], [#age(30)], [#assoc("SVK")], [#right], [#shakehand], [#defense], [*2544*], [#delta(29)],
       [115], [#name("LAM Siu Hang")], [#age(28)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2541*], [#delta(31)],
-      [116], [#name("JANCARIK Lubomir")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2534*], [#delta(0)],
+      [116], [#name("卢博米尔 杨恰日克")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2534*], [#delta(0)],
       [117], [#name("诺沙迪 阿拉米扬")], [#age(33)], [#assoc("IRI")], [#left], [#shakehand], [#attack], [*2532*], [#delta(-52)],
       [118], [#name("英田理志")], [#age(31)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2531*], [#delta(-23)],
       [119], [#name("罗伯特 加尔多斯")], [#age(45)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2530*], [#delta(-10)],

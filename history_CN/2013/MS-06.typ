@@ -185,7 +185,7 @@
       [132], [#name("尚坤")], [#age(23)], [#assoc("CHN")], [?], [?], [?], [*2431*], [#delta(10)],
       [133], [#name("HIELSCHER Lars")], [#age(34)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2431*], [#delta(10)],
       [134], [#name("OYA Hidetoshi")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2431*], [#delta(10)],
-      [135], [#name("JANCARIK Lubomir")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2430*], [#delta(-37)],
+      [135], [#name("卢博米尔 杨恰日克")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2430*], [#delta(-37)],
       [136], [#name("KOJIC Frane")], [#age(21)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2430*], [#delta(10)],
       [137], [#name("LASAN Sas")], [#age(42)], [#assoc("SLO")], [#right], [#shakehand], [#defense], [*2428*], [#delta(39)],
       [138], [#name("JEVTOVIC Marko")], [#age(26)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2428*], [#delta(-30)],

@@ -129,7 +129,7 @@
       [94], [#name("卡林尼科斯 格林卡")], [#age(39)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2427*], [#delta(3)],
       [95], [#name("SIRUCEK Pavel")], [#age(19)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2427*], [#delta(73)],
       [96], [#name("PISTEJ Lubomir")], [#age(27)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2421*], [#delta(5)],
-      [97], [#name("JANCARIK Lubomir")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2421*], [#delta(162)],
+      [97], [#name("卢博米尔 杨恰日克")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2421*], [#delta(162)],
       [98], [#name("安德烈 加奇尼")], [#age(25)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2421*], [#delta(0)],
       [99], [#name("亚历山大 希巴耶夫")], [#age(21)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2421*], [#delta(37)],
       [100], [#name("德米特里 佩罗普科夫")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2420*], [#delta(-39)],

@@ -115,7 +115,7 @@
       [80], [#name("SALIFOU Abdel-Kader")], [#age(32)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2591*], [#delta(0)],
       [81], [#name("冯翊新")], [#age(18)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2590*], [#delta(0)],
       [82], [#name("王臻")], [#age(36)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2587*], [#delta(0)],
-      [83], [#name("JANCARIK Lubomir")], [#age(34)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2587*], [#delta(0)],
+      [83], [#name("卢博米尔 杨恰日克")], [#age(34)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2587*], [#delta(0)],
       [84], [#name("陈建安")], [#age(30)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2585*], [#delta(0)],
       [85], [#name("LAMBIET Florent")], [#age(26)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2584*], [#delta(0)],
       [86], [#name("哈米特 德赛")], [#age(28)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2584*], [#delta(0)],

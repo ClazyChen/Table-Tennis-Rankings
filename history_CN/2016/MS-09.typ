@@ -212,7 +212,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [151], [#name("MIKUTIS Tomas")], [#age(23)], [#assoc("LTU")], [#right], [#shakehand], [#defense], [*2458*], [#delta(10)],
       [152], [#name("FLORAS Robert")], [#age(24)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2456*], [#delta(10)],
-      [153], [#name("JANCARIK Lubomir")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2456*], [#delta(-72)],
+      [153], [#name("卢博米尔 杨恰日克")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2456*], [#delta(-72)],
       [154], [#name("尼马 阿拉米安")], [#age(24)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2455*], [#delta(-31)],
       [155], [#name("CHIANG Hung-Chieh")], [#age(27)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2455*], [#delta(8)],
       [156], [#name("PETO Zsolt")], [#age(29)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2454*], [#delta(8)],

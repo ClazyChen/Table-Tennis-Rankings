@@ -178,7 +178,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [126], [#name("CARVALHO Diogo")], [#age(30)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2492*], [#delta(3)],
       [127], [#name("PLETEA Cristian")], [#age(22)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2490*], [#delta(4)],
-      [128], [#name("JANCARIK Lubomir")], [#age(35)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2490*], [#delta(4)],
+      [128], [#name("卢博米尔 杨恰日克")], [#age(35)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2490*], [#delta(4)],
       [129], [#name("贝内德克 奥拉")], [#age(31)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2487*], [#delta(5)],
       [130], [#name("BERTRAND Irvin")], [#age(22)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2486*], [#delta(6)],
       [131], [#name("力廉 巴德")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2483*], [#delta(7)],

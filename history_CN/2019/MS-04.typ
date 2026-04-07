@@ -251,7 +251,7 @@
       [180], [#name("PISTEJ Lubomir")], [#age(35)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2473*], [#delta(-71)],
       [181], [#name("ELBEIALI Mohamed")], [#age(31)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2471*], [#delta(46)],
       [182], [#name("SZOCS Hunor")], [#age(27)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2469*], [#delta(-9)],
-      [183], [#name("JANCARIK Lubomir")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2467*], [#delta(-1)],
+      [183], [#name("卢博米尔 杨恰日克")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2467*], [#delta(-1)],
       [184], [#name("廖振珽")], [#age(23)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2466*], [#delta(44)],
       [185], [#name("KANG Dongsoo")], [#age(25)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2465*], [#delta(3)],
       [186], [#name("TAKAMI Masaki")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2465*], [#delta(3)],

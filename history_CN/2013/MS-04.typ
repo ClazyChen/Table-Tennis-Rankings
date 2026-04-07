@@ -130,7 +130,7 @@
       [95], [#name("卢文 菲鲁斯")], [#age(25)], [#assoc("GER")], [#right], [#shakehand], [#defense], [*2496*], [#delta(-2)],
       [96], [#name("LIU Song")], [#age(41)], [#assoc("ARG")], [?], [?], [?], [*2496*], [#delta(-2)],
       [97], [#name("CHEN Feng")], [#age(19)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2492*], [#delta(-2)],
-      [98], [#name("JANCARIK Lubomir")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2489*], [#delta(-2)],
+      [98], [#name("卢博米尔 杨恰日克")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2489*], [#delta(-2)],
       [99], [#name("奥维迪乌 伊奥内斯库")], [#age(24)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2487*], [#delta(-2)],
       [100], [#name("OYA Hidetoshi")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2485*], [#delta(-2)],
     )

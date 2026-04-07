@@ -48,7 +48,7 @@
       [31], [#name("林钟勋")], [#age(24)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2712*], [#delta(-2)],
       [32], [#name("向鹏")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2709*], [#delta(-2)],
       [33], [#name("邱党")], [#age(25)], [#assoc("GER")], [#right], [#penhold], [#attack], [*2708*], [#delta(-1)],
-      [34], [#name("JANCARIK Lubomir")], [#age(34)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2707*], [#delta(49)],
+      [34], [#name("卢博米尔 杨恰日克")], [#age(34)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2707*], [#delta(49)],
       [35], [#name("孙闻")], [#age(24)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2706*], [#delta(-2)],
       [36], [#name("庄智渊")], [#age(40)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2706*], [#delta(-2)],
       [37], [#name("达科 约奇克")], [#age(23)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2703*], [#delta(-10)],

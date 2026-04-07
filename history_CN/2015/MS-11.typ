@@ -45,7 +45,7 @@
       [28], [#name("帕纳吉奥迪斯 吉奥尼斯")], [#age(35)], [#assoc("GRE")], [#right], [#shakehand], [#defense], [*2698*], [#delta(30)],
       [29], [#name("李廷佑")], [#age(31)], [#assoc("KOR")], [#left], [#penhold], [#attack], [*2696*], [#delta(0)],
       [30], [#name("丹羽孝希")], [#age(21)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2689*], [#delta(-6)],
-      [31], [#name("JANCARIK Lubomir")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2688*], [#delta(138)],
+      [31], [#name("卢博米尔 杨恰日克")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2688*], [#delta(138)],
       [32], [#name("MONTEIRO Joao")], [#age(32)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2687*], [#delta(22)],
       [33], [#name("李尚洙")], [#age(25)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2685*], [#delta(10)],
       [34], [#name("吉田海伟")], [#age(34)], [#assoc("JPN")], [#right], [#penhold], [#attack], [*2677*], [#delta(-2)],

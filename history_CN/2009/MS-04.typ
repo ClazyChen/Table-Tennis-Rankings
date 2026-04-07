@@ -160,7 +160,7 @@
       [116], [#name("WU Chih-Chi")], [#age(23)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2353*], [#delta(0)],
       [117], [#name("SEREDA Peter")], [#age(25)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2350*], [#delta(31)],
       [118], [#name("马克斯 弗雷塔斯")], [#age(21)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2346*], [#delta(-37)],
-      [119], [#name("JANCARIK Lubomir")], [#age(22)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2344*], [#delta(-44)],
+      [119], [#name("卢博米尔 杨恰日克")], [#age(22)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2344*], [#delta(-44)],
       [120], [#name("TREGLER Tomas")], [#age(19)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2344*], [#delta(134)],
       [121], [#name("DIDUKH Oleksandr")], [#age(27)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2344*], [#delta(4)],
       [122], [#name("DOAN Kien Quoc")], [#age(30)], [#assoc("VIE")], [#left], [#shakehand], [#attack], [*2342*], [#delta(-7)],

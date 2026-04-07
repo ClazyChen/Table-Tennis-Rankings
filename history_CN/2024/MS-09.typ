@@ -124,7 +124,7 @@
       [89], [#name("乔纳森 格罗斯")], [#age(32)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2562*], [#delta(-71)],
       [90], [#name("PISTEJ Lubomir")], [#age(40)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2556*], [#delta(-2)],
       [91], [#name("LAKATOS Tamas")], [#age(29)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2554*], [#delta(5)],
-      [92], [#name("JANCARIK Lubomir")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2553*], [#delta(45)],
+      [92], [#name("卢博米尔 杨恰日克")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2553*], [#delta(45)],
       [93], [#name("贝内德克 奥拉")], [#age(33)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2553*], [#delta(5)],
       [94], [#name("MATSUYAMA Yuki")], [#age(26)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2552*], [#delta(6)],
       [95], [#name("ISHIY Vitor")], [#age(29)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2551*], [#delta(12)],

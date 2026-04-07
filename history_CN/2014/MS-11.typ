@@ -225,7 +225,7 @@
       [163], [#name("SODERLUND Hampus")], [#age(20)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2437*], [#delta(5)],
       [164], [#name("BUROV Viacheslav")], [#age(29)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2434*], [#delta(5)],
       [165], [#name("NOROOZI Afshin")], [#age(29)], [#assoc("IRI")], [#left], [#shakehand], [#attack], [*2434*], [#delta(-26)],
-      [166], [#name("JANCARIK Lubomir")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2434*], [#delta(4)],
+      [166], [#name("卢博米尔 杨恰日克")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2434*], [#delta(4)],
       [167], [#name("KOLAREK Tomislav")], [#age(26)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2431*], [#delta(5)],
       [168], [#name("GERALDO Joao")], [#age(19)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2430*], [#delta(5)],
       [169], [#name("TREGLER Tomas")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2429*], [#delta(5)],

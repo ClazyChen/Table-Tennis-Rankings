@@ -231,7 +231,7 @@
       [169], [#name("洪敬恺")], [#age(18)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2459*], [#delta(-53)],
       [170], [#name("MENG Fanbo")], [#age(25)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2454*], [#delta(15)],
       [171], [#name("ACHANTA Sharath")], [#age(43)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2452*], [#delta(-15)],
-      [172], [#name("JANCARIK Lubomir")], [#age(38)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2451*], [#delta(9)],
+      [172], [#name("卢博米尔 杨恰日克")], [#age(38)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2451*], [#delta(9)],
       [173], [#name("SZUDI Adam")], [#age(29)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2449*], [#delta(1)],
       [174], [#name("全开源")], [#age(24)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2449*], [#delta(1)],
       [175], [#name("ANTHONY Amalraj")], [#age(39)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2447*], [#delta(3)],

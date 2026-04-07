@@ -154,7 +154,7 @@
       [110], [#name("阿德里安 马特内")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2468*], [#delta(-37)],
       [111], [#name("乔纳森 格罗斯")], [#age(20)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2467*], [#delta(72)],
       [112], [#name("LIVENTSOV Alexey")], [#age(31)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2465*], [#delta(-29)],
-      [113], [#name("JANCARIK Lubomir")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2462*], [#delta(-19)],
+      [113], [#name("卢博米尔 杨恰日克")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2462*], [#delta(-19)],
       [114], [#name("让 米歇尔 赛弗")], [#age(43)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2461*], [#delta(-10)],
       [115], [#name("塩野真人")], [#age(26)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2460*], [#delta(-9)],
       [116], [#name("CHTCHETININE Evgueni")], [#age(42)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2458*], [#delta(-8)],

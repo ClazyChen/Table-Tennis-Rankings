@@ -86,7 +86,7 @@
       [60], [#name("卢文 菲鲁斯")], [#age(30)], [#assoc("GER")], [#right], [#shakehand], [#defense], [*2645*], [#delta(-12)],
       [61], [#name("西蒙 高兹")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2644*], [#delta(13)],
       [62], [#name("廖振珽")], [#age(22)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2641*], [#delta(4)],
-      [63], [#name("JANCARIK Lubomir")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2641*], [#delta(-1)],
+      [63], [#name("卢博米尔 杨恰日克")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2641*], [#delta(-1)],
       [64], [#name("森园政崇")], [#age(23)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2637*], [#delta(-10)],
       [65], [#name("詹斯 伦德奎斯特")], [#age(39)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2636*], [#delta(-1)],
       [66], [#name("丹尼尔 哈贝松")], [#age(32)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2633*], [#delta(-15)],

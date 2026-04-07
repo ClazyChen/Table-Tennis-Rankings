@@ -250,7 +250,7 @@
       [179], [#name("PRYSHCHEPA Ievgen")], [#age(31)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2439*], [#delta(98)],
       [180], [#name("ELBEIALI Mohamed")], [#age(28)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2438*], [#delta(-4)],
       [181], [#name("REED Daniel")], [#age(27)], [#assoc("ENG")], [?], [?], [?], [*2437*], [#delta(-4)],
-      [182], [#name("JANCARIK Lubomir")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2436*], [#delta(-97)],
+      [182], [#name("卢博米尔 杨恰日克")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2436*], [#delta(-97)],
       [183], [#name("SZUDI Adam")], [#age(20)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2436*], [#delta(70)],
       [184], [#name("JOUTI Eric")], [#age(22)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2435*], [#delta(-3)],
       [185], [#name("SIRUCEK Pavel")], [#age(24)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2434*], [#delta(90)],

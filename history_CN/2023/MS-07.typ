@@ -159,7 +159,7 @@
       [115], [#name("阿德里安 拉森福斯")], [#age(20)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2532*], [#delta(0)],
       [116], [#name("ANDRAS Csaba")], [#age(21)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2532*], [#delta(1)],
       [117], [#name("LAMBIET Florent")], [#age(28)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2530*], [#delta(27)],
-      [118], [#name("JANCARIK Lubomir")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2530*], [#delta(0)],
+      [118], [#name("卢博米尔 杨恰日克")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2530*], [#delta(0)],
       [119], [#name("塞德里克 纽廷克")], [#age(30)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2527*], [#delta(-6)],
       [120], [#name("汪洋")], [#age(29)], [#assoc("SVK")], [#right], [#shakehand], [#defense], [*2524*], [#delta(-1)],
       [121], [#name("CIFUENTES Horacio")], [#age(25)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2522*], [#delta(0)],

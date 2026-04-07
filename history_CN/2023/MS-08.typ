@@ -120,7 +120,7 @@
       [85], [#name("DE NODREST Leo")], [#age(23)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2574*], [#delta(70)],
       [86], [#name("廖振珽")], [#age(27)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2574*], [#delta(100)],
       [87], [#name("GNANASEKARAN Sathiyan")], [#age(30)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2569*], [#delta(19)],
-      [88], [#name("JANCARIK Lubomir")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2567*], [#delta(30)],
+      [88], [#name("卢博米尔 杨恰日克")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2567*], [#delta(30)],
       [89], [#name("罗伯特 加尔多斯")], [#age(44)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2566*], [#delta(19)],
       [90], [#name("艾曼纽 莱贝松")], [#age(35)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2562*], [#delta(14)],
       [91], [#name("KANG Dongsoo")], [#age(29)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2560*], [#delta(22)],

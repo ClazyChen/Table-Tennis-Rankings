@@ -152,7 +152,7 @@
       [108], [#name("SCHLICHTER Jorg")], [#age(24)], [#assoc("GER")], [?], [?], [?], [*2297*], [#delta(46)],
       [109], [#name("CIOTI Constantin")], [#age(24)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2292*], [#delta(-5)],
       [110], [#name("PLACHY Josef")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2287*], [#delta(-29)],
-      [111], [#name("JANCARIK Lubomir")], [#age(20)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2285*], [#delta(168)],
+      [111], [#name("卢博米尔 杨恰日克")], [#age(20)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2285*], [#delta(168)],
       [112], [#name("MACHADO Carlos")], [#age(27)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2279*], [#delta(-6)],
       [113], [#name("蒂亚戈 阿波罗尼亚")], [#age(21)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2279*], [#delta(68)],
       [114], [#name("LASHIN Elsayed")], [#age(27)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2278*], [#delta(-5)],

@@ -233,7 +233,7 @@
       [171], [#name("SZOCS Hunor")], [#age(28)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2471*], [#delta(-18)],
       [172], [#name("奥拉吉德 奥莫塔约")], [#age(25)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2470*], [#delta(18)],
       [173], [#name("安德斯 林德")], [#age(22)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2469*], [#delta(-3)],
-      [174], [#name("JANCARIK Lubomir")], [#age(33)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2468*], [#delta(13)],
+      [174], [#name("卢博米尔 杨恰日克")], [#age(33)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2468*], [#delta(13)],
       [175], [#name("KATSMAN Lev")], [#age(19)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2467*], [#delta(-2)],
     )
   )

@@ -233,7 +233,7 @@
       [171], [#name("KONECNY Tomas")], [#age(34)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2484*], [#delta(35)],
       [172], [#name("CHOI Deokhwa")], [#age(24)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2482*], [#delta(-5)],
       [173], [#name("MADRID Marcos")], [#age(33)], [#assoc("MEX")], [#right], [#shakehand], [#attack], [*2480*], [#delta(-67)],
-      [174], [#name("JANCARIK Lubomir")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2480*], [#delta(-41)],
+      [174], [#name("卢博米尔 杨恰日克")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2480*], [#delta(-41)],
       [175], [#name("LI Hsin-Yang")], [#age(19)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2478*], [#delta(-7)],
     )
   )

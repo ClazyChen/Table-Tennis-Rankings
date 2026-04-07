@@ -147,7 +147,7 @@
       [103], [#name("朴康贤")], [#age(22)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2561*], [#delta(6)],
       [104], [#name("KIM Minhyeok")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2560*], [#delta(59)],
       [105], [#name("博扬 托基奇")], [#age(37)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2560*], [#delta(-32)],
-      [106], [#name("JANCARIK Lubomir")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2559*], [#delta(44)],
+      [106], [#name("卢博米尔 杨恰日克")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2559*], [#delta(44)],
       [107], [#name("KANG Dongsoo")], [#age(24)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2559*], [#delta(3)],
       [108], [#name("ZHAI Yujia")], [#age(23)], [#assoc("DEN")], [#right], [#shakehand], [#attack], [*2559*], [#delta(-62)],
       [109], [#name("MAJOROS Bence")], [#age(21)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2557*], [#delta(-21)],

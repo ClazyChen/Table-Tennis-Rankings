@@ -187,7 +187,7 @@
       [134], [#name("凯 斯图姆珀")], [#age(22)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2512*], [#delta(-27)],
       [135], [#name("利亚姆 皮切福德")], [#age(31)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2511*], [#delta(-2)],
       [136], [#name("朴康贤")], [#age(28)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2511*], [#delta(-2)],
-      [137], [#name("JANCARIK Lubomir")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2510*], [#delta(-2)],
+      [137], [#name("卢博米尔 杨恰日克")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2510*], [#delta(-2)],
       [138], [#name("RUIZ Romain")], [#age(27)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2508*], [#delta(-16)],
       [139], [#name("KANG Dongsoo")], [#age(30)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2508*], [#delta(-3)],
       [140], [#name("DRINKHALL Paul")], [#age(34)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2507*], [#delta(-3)],

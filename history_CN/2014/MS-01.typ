@@ -158,7 +158,7 @@
       [114], [#name("VLASOV Grigory")], [#age(30)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2474*], [#delta(-1)],
       [115], [#name("PAPAGEORGIOU Konstantinos")], [#age(35)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2473*], [#delta(0)],
       [116], [#name("陈卫星")], [#age(42)], [#assoc("AUT")], [#right], [#shakehand], [#defense], [*2467*], [#delta(2)],
-      [117], [#name("JANCARIK Lubomir")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2467*], [#delta(2)],
+      [117], [#name("卢博米尔 杨恰日克")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2467*], [#delta(2)],
       [118], [#name("吉村真晴")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2467*], [#delta(2)],
       [119], [#name("克里斯坦 卡尔松")], [#age(23)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2466*], [#delta(-22)],
       [120], [#name("KIM Nam Chol")], [#age(26)], [#assoc("PRK")], [?], [?], [?], [*2465*], [#delta(1)],

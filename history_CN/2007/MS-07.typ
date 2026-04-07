@@ -121,7 +121,7 @@
       [86], [#name("TUGWELL Finn")], [#age(31)], [#assoc("DEN")], [?], [?], [?], [*2371*], [#delta(-5)],
       [87], [#name("CHANG Yen-Shu")], [#age(28)], [#assoc("TPE")], [?], [?], [?], [*2369*], [#delta(38)],
       [88], [#name("FAZEKAS Peter")], [#age(26)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2369*], [#delta(-5)],
-      [89], [#name("JANCARIK Lubomir")], [#age(20)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2361*], [#delta(-5)],
+      [89], [#name("卢博米尔 杨恰日克")], [#age(20)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2361*], [#delta(-5)],
       [90], [#name("SAKAMOTO Ryusuke")], [#age(23)], [#assoc("JPN")], [?], [?], [?], [*2360*], [#delta(41)],
       [91], [#name("KIM Junghoon")], [#age(25)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2358*], [#delta(39)],
       [92], [#name("SVENSSON Robert")], [#age(24)], [#assoc("SWE")], [?], [?], [?], [*2358*], [#delta(-7)],

@@ -159,7 +159,7 @@
       [115], [#name("阿德里安 拉森福斯")], [#age(20)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2532*], [#delta(-41)],
       [116], [#name("WU Jiaji")], [#age(28)], [#assoc("DOM")], [#right], [#penhold], [#attack], [*2532*], [#delta(4)],
       [117], [#name("ANDRAS Csaba")], [#age(21)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2532*], [#delta(4)],
-      [118], [#name("JANCARIK Lubomir")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2530*], [#delta(-55)],
+      [118], [#name("卢博米尔 杨恰日克")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2530*], [#delta(-55)],
       [119], [#name("汪洋")], [#age(29)], [#assoc("SVK")], [#right], [#shakehand], [#defense], [*2524*], [#delta(-13)],
       [120], [#name("PENG Wang-Wei")], [#age(27)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2524*], [#delta(5)],
       [121], [#name("CIFUENTES Horacio")], [#age(25)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2522*], [#delta(1)],

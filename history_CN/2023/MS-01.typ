@@ -180,7 +180,7 @@
       [127], [#name("MONTEIRO Joao")], [#age(40)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2498*], [#delta(-1)],
       [128], [#name("KULCZYCKI Samuel")], [#age(21)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2493*], [#delta(-1)],
       [129], [#name("CARVALHO Diogo")], [#age(31)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2492*], [#delta(0)],
-      [130], [#name("JANCARIK Lubomir")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2490*], [#delta(0)],
+      [130], [#name("卢博米尔 杨恰日克")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2490*], [#delta(0)],
       [131], [#name("PLETEA Cristian")], [#age(23)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2488*], [#delta(0)],
       [132], [#name("安宰贤")], [#age(24)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2488*], [#delta(0)],
       [133], [#name("BERTRAND Irvin")], [#age(23)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2486*], [#delta(0)],

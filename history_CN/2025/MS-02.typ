@@ -249,7 +249,7 @@
       [178], [#name("ANTHONY Amalraj")], [#age(39)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2447*], [#delta(1)],
       [179], [#name("BERGLUND Simon")], [#age(28)], [#assoc("SWE")], [#left], [#shakehand], [#attack], [*2447*], [#delta(1)],
       [180], [#name("SUZUKI Hayate")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2446*], [#delta(1)],
-      [181], [#name("JANCARIK Lubomir")], [#age(38)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2444*], [#delta(-51)],
+      [181], [#name("卢博米尔 杨恰日克")], [#age(38)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2444*], [#delta(-51)],
       [182], [#name("TSUBOI Gustavo")], [#age(40)], [#assoc("BRA")], [#left], [#shakehand], [#attack], [*2443*], [#delta(1)],
       [183], [#name("LAM Siu Hang")], [#age(29)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2442*], [#delta(3)],
       [184], [#name("SHAMS Navid")], [#age(20)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2441*], [#delta(-23)],

@@ -120,7 +120,7 @@
       [85], [#name("亚历山大 卡辛")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2601*], [#delta(-4)],
       [86], [#name("PARK Chan-Hyeok")], [#age(28)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2600*], [#delta(-4)],
       [87], [#name("哈米特 德赛")], [#age(30)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2590*], [#delta(-8)],
-      [88], [#name("JANCARIK Lubomir")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2582*], [#delta(0)],
+      [88], [#name("卢博米尔 杨恰日克")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2582*], [#delta(0)],
       [89], [#name("YANG Tzu-Yi")], [#age(27)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2578*], [#delta(32)],
       [90], [#name("ALLEGRO Martin")], [#age(27)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2577*], [#delta(39)],
       [91], [#name("斯蒂芬 门格尔")], [#age(35)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2574*], [#delta(-15)],

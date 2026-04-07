@@ -110,7 +110,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [76], [#name("HUANG Sheng-Sheng")], [#age(26)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2517*], [#delta(31)],
       [77], [#name("MATSUDAIRA Kenji")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2516*], [#delta(27)],
-      [78], [#name("JANCARIK Lubomir")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2516*], [#delta(36)],
+      [78], [#name("卢博米尔 杨恰日克")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2516*], [#delta(36)],
       [79], [#name("CHO Eonrae")], [#age(27)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2516*], [#delta(-3)],
       [80], [#name("VANG Bora")], [#age(26)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2512*], [#delta(-2)],
       [81], [#name("吉田雅己")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2511*], [#delta(-2)],

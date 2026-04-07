@@ -97,7 +97,7 @@
       [71], [#name("奥维迪乌 伊奥内斯库")], [#age(34)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2618*], [#delta(55)],
       [72], [#name("力廉 巴德")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2616*], [#delta(-16)],
       [73], [#name("雅克布 迪亚斯")], [#age(28)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2615*], [#delta(-15)],
-      [74], [#name("JANCARIK Lubomir")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2615*], [#delta(2)],
+      [74], [#name("卢博米尔 杨恰日克")], [#age(36)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2615*], [#delta(2)],
       [75], [#name("弗拉迪斯拉夫 乌尔苏")], [#age(22)], [#assoc("MDA")], [#left], [#shakehand], [#attack], [*2612*], [#delta(-2)],
     )
   )
