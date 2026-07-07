@@ -266,8 +266,8 @@
       [195], [#name("SAINI Suhana")], [#age(17)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2297*], [#delta(-8)],
       [196], [#name("TODOROVIC Andrea")], [#age(31)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2294*], [#delta(-5)],
       [197], [#name("ZHU Ziyu")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2293*], [#delta(-9)],
-      [198], [#name("UESAWA Anne")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2289*], [NEW],
-      [199], [#name("TENNISON Reeth")], [#age(28)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2288*], [#delta(1)],
-      [200], [#name("YAMADA Jessica")], [#age(34)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2287*], [#delta(-5)],
+      [198], [#name("XIANG Junlin")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(-9)],
+      [199], [#name("UESAWA Anne")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2289*], [NEW],
+      [200], [#name("TENNISON Reeth")], [#age(28)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2288*], [#delta(0)],
     )
   )

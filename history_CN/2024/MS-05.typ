@@ -232,7 +232,7 @@
       [170], [#name("ELBEIALI Mohamed")], [#age(36)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2444*], [#delta(-11)],
       [171], [#name("王臻")], [#age(39)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2443*], [#delta(1)],
       [172], [#name("ROSSI Carlo")], [#age(23)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2442*], [#delta(40)],
-      [173], [#name("LIM Yunoh")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2441*], [#delta(154)],
+      [173], [#name("LIM Yunoh")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2441*], [#delta(155)],
       [174], [#name("VILARDELL Albert")], [#age(22)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2441*], [#delta(22)],
       [175], [#name("YOKOTANI Jo")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2441*], [#delta(8)],
     )
@@ -263,11 +263,11 @@
       [192], [#name("ERIKSSON Anders")], [#age(28)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2415*], [#delta(1)],
       [193], [#name("AMATO Antonino")], [#age(25)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2415*], [#delta(-13)],
       [194], [#name("SHAMS Navid")], [#age(19)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2415*], [#delta(-26)],
-      [195], [#name("SGOUROPOULOS Ioannis")], [#age(24)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2412*], [#delta(-41)],
-      [196], [#name("MAJOROS Bence")], [#age(27)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2411*], [#delta(-8)],
-      [197], [#name("PEREIRA Andy")], [#age(35)], [#assoc("CUB")], [#left], [#shakehand], [#attack], [*2411*], [#delta(-18)],
-      [198], [#name("DEVOS Laurens")], [#age(24)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2411*], [#delta(53)],
-      [199], [#name("吉山和希")], [#age(17)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2408*], [#delta(1)],
-      [200], [#name("KOURAICHI Alexis")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2407*], [#delta(103)],
+      [195], [#name("PARK Gyeongtae")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2414*], [#delta(-33)],
+      [196], [#name("SGOUROPOULOS Ioannis")], [#age(24)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2412*], [#delta(-42)],
+      [197], [#name("MAJOROS Bence")], [#age(27)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2411*], [#delta(-9)],
+      [198], [#name("PEREIRA Andy")], [#age(35)], [#assoc("CUB")], [#left], [#shakehand], [#attack], [*2411*], [#delta(-19)],
+      [199], [#name("DEVOS Laurens")], [#age(24)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2411*], [#delta(52)],
+      [200], [#name("吉山和希")], [#age(17)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2408*], [#delta(0)],
     )
   )

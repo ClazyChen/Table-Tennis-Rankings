@@ -248,7 +248,7 @@
       [177], [#name("MLADENOVIC Luka")], [#age(26)], [#assoc("LUX")], [#right], [#shakehand], [#attack], [*2447*], [#delta(-2)],
       [178], [#name("SIRUCEK Pavel")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2444*], [#delta(-2)],
       [179], [#name("SUZUKI Hayate")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2444*], [#delta(-2)],
-      [180], [#name("YOSHIYAMA Kazuki")], [#age(17)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2444*], [#delta(24)],
+      [180], [#name("YOSHIYAMA Kazuki")], [#age(17)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2444*], [#delta(25)],
       [181], [#name("MINO Alberto")], [#age(34)], [#assoc("ECU")], [#right], [#shakehand], [#attack], [*2443*], [#delta(-2)],
       [182], [#name("ISTRATE Andrei")], [#age(19)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2442*], [#delta(2)],
       [183], [#name("AGUIRRE Marcelo")], [#age(31)], [#assoc("PAR")], [#left], [#shakehand], [#attack], [*2442*], [#delta(-3)],
