@@ -40,14 +40,14 @@
     table(
       columns: 9,
       [\#], [Player],[Age], [Assoc.],  [Hand], [Grip], [Style], [Rating], [$Delta$],
-      [26], [#name("JEON Jihee")], [#age(23)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2673*], [#delta(-1)],
+      [26], [#name("JEON Jihee")], [#age(23)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2673*], [#delta(-1)],
       [27], [#name("DOO Hoi Kem")], [#age(19)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2670*], [#delta(9)],
       [28], [#name("SOLJA Petrissa")], [#age(21)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2668*], [#delta(-12)],
       [29], [#name("GU Ruochen")], [#age(21)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2667*], [#delta(-2)],
       [30], [#name("HU Melek")], [#age(26)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2663*], [#delta(35)],
       [31], [#name("WAKAMIYA Misako")], [#age(26)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2659*], [#delta(49)],
       [32], [#name("ZHANG Qiang")], [#age(21)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2655*], [#delta(-1)],
-      [33], [#name("YANG Ha Eun")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2655*], [#delta(-12)],
+      [33], [#name("YANG Ha Eun")], [#age(21)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2655*], [#delta(-12)],
       [34], [#name("SUH Hyo Won")], [#age(28)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2650*], [#delta(41)],
       [35], [#name("LI Fen")], [#age(39)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2650*], [#delta(-2)],
       [36], [#name("HIRANO Miu")], [#age(15)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2647*], [#delta(-4)],
@@ -97,7 +97,7 @@
       [71], [#name("PAVLOVICH Viktoria")], [#age(37)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2530*], [#delta(5)],
       [72], [#name("YU Fu")], [#age(37)], [#assoc("POR")], [#right], [#penhold], [#attack], [*2529*], [#delta(-20)],
       [73], [#name("MATSUZAWA Marina")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2522*], [#delta(4)],
-      [74], [#name("KIM Song I")], [#age(21)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2518*], [#delta(4)],
+      [74], [#name("KIM Song I")], [#age(21)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2518*], [#delta(4)],
       [75], [#name("POLCANOVA Sofia")], [#age(21)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2516*], [#delta(-14)],
     )
   )

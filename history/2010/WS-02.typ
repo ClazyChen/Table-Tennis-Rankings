@@ -121,7 +121,7 @@
       [86], [#name("HU Melek")], [#age(21)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2336*], [#delta(-3)],
       [87], [#name("HAN Hye Song")], [#age(22)], [#assoc("PRK")], [?], [?], [?], [*2333*], [#delta(-3)],
       [88], [#name("YU Kwok See")], [#age(24)], [#assoc("HKG")], [?], [?], [?], [*2331*], [#delta(-3)],
-      [89], [#name("YANG Ha Eun")], [#age(16)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2330*], [#delta(1)],
+      [89], [#name("YANG Ha Eun")], [#age(16)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2330*], [#delta(1)],
       [90], [#name("PESOTSKA Margaryta")], [#age(19)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2327*], [#delta(-13)],
       [91], [#name("CECHOVA Dana")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2324*], [#delta(-4)],
       [92], [#name("FADEEVA Oxana")], [#age(35)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2323*], [#delta(-4)],

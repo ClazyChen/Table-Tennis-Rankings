@@ -158,7 +158,7 @@
       [114], [#name("SZYMANSKA Antonina")], [#age(26)], [#assoc("POL")], [?], [?], [?], [*2225*], [#delta(-1)],
       [115], [#name("GATINSKA Katalina")], [#age(39)], [#assoc("BUL")], [?], [?], [?], [*2224*], [#delta(-1)],
       [116], [#name("SOLJA Amelie")], [#age(19)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2221*], [#delta(-1)],
-      [117], [#name("YANG Ha Eun")], [#age(15)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2218*], [#delta(-1)],
+      [117], [#name("YANG Ha Eun")], [#age(15)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2218*], [#delta(-1)],
       [118], [#name("PETTERSSON Malin")], [#age(18)], [#assoc("SWE")], [?], [?], [?], [*2217*], [#delta(-1)],
       [119], [#name("ZHANG Mo")], [#age(20)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2214*], [#delta(-1)],
       [120], [#name("LI Bin")], [#age(21)], [#assoc("HUN")], [?], [?], [?], [*2212*], [#delta(-1)],

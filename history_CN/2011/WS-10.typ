@@ -24,7 +24,7 @@
       [16], [#name("常晨晨")], [#age(25)], [#assoc("CHN")], [?], [?], [?], [*2699*], [#delta(-1)],
       [17], [#name("王越古")], [#age(31)], [#assoc("SGP")], [?], [?], [?], [*2682*], [#delta(9)],
       [18], [#name("KIM Jong")], [#age(22)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2669*], [#delta(2)],
-      [19], [#name("田志希")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2669*], [#delta(2)],
+      [19], [#name("田志希")], [#age(19)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2669*], [#delta(2)],
       [20], [#name("文炫晶")], [#age(27)], [#assoc("KOR")], [?], [?], [?], [*2666*], [#delta(2)],
       [21], [#name("帖雅娜")], [#age(32)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2665*], [#delta(-9)],
       [22], [#name("藤井宽子")], [#age(29)], [#assoc("JPN")], [?], [?], [?], [*2644*], [#delta(-4)],
@@ -63,7 +63,7 @@
       [46], [#name("金景娥")], [#age(34)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2536*], [#delta(-3)],
       [47], [#name("徐孝元")], [#age(24)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2535*], [#delta(-3)],
       [48], [#name("李佼")], [#age(38)], [#assoc("NED")], [#left], [#penhold], [#attack], [*2532*], [#delta(3)],
-      [49], [#name("梁夏银")], [#age(17)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2528*], [#delta(7)],
+      [49], [#name("梁夏银")], [#age(17)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2528*], [#delta(7)],
       [50], [#name("陈梦")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2526*], [#delta(-4)],
     )
   )
@@ -226,7 +226,7 @@
       [164], [#name("TIMINA Yana")], [#age(36)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2205*], [#delta(1)],
       [165], [#name("SILVA Ligia")], [#age(30)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2204*], [#delta(35)],
       [166], [#name("HAPONOVA Hanna")], [#age(26)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2203*], [#delta(1)],
-      [167], [#name("金宋依")], [#age(17)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2203*], [#delta(1)],
+      [167], [#name("金宋依")], [#age(17)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2203*], [#delta(1)],
       [168], [#name("KREKINA Svetlana")], [#age(30)], [#assoc("RUS")], [?], [?], [?], [*2202*], [#delta(1)],
       [169], [#name("MAEDA Miyu")], [#age(15)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2201*], [#delta(1)],
       [170], [#name("浜本由惟")], [#age(13)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2201*], [#delta(-8)],

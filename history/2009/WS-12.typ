@@ -76,7 +76,7 @@
       [\#], [Player],[Age], [Assoc.],  [Hand], [Grip], [Style], [Rating], [$Delta$],
       [51], [#name("TOTH Krisztina")], [#age(35)], [#assoc("HUN")], [?], [?], [?], [*2464*], [#delta(44)],
       [52], [#name("KUZMINA Elena")], [#age(20)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2463*], [#delta(-3)],
-      [53], [#name("YANG Ha Eun")], [#age(15)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2461*], [#delta(-7)],
+      [53], [#name("YANG Ha Eun")], [#age(15)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2461*], [#delta(-7)],
       [54], [#name("MU Zi")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2460*], [#delta(-4)],
       [55], [#name("YAMANASHI Yuri")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2455*], [#delta(-4)],
       [56], [#name("STRBIKOVA Renata")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2448*], [#delta(-1)],

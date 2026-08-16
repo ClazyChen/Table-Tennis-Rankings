@@ -11,7 +11,7 @@
       [3], [#name("ZHU Yuling")], [#age(21)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2952*], [#delta(1)],
       [4], [#name("MU Zi")], [#age(27)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2947*], [#delta(1)],
       [5], [#name("CHEN Meng")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2944*], [#delta(1)],
-      [6], [#name("KIM Song I")], [#age(22)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2881*], [#delta(13)],
+      [6], [#name("KIM Song I")], [#age(22)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2881*], [#delta(13)],
       [7], [#name("WU Yang")], [#age(24)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2846*], [#delta(1)],
       [8], [#name("ISHIKAWA Kasumi")], [#age(23)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2836*], [#delta(7)],
       [9], [#name("HU Limei")], [#age(21)], [#assoc("CHN")], [#right], [#penhold], [#defense], [*2826*], [#delta(1)],
@@ -30,7 +30,7 @@
       [22], [#name("ZHOU Yihan")], [#age(22)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2727*], [#delta(22)],
       [23], [#name("LI Jie")], [#age(32)], [#assoc("NED")], [#right], [#shakehand], [#defense], [*2720*], [#delta(-11)],
       [24], [#name("LIU Gaoyang")], [#age(20)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2711*], [#delta(5)],
-      [25], [#name("JEON Jihee")], [#age(24)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2701*], [#delta(8)],
+      [25], [#name("JEON Jihee")], [#age(24)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2701*], [#delta(8)],
     )
   )
 #pagebreak()
@@ -131,7 +131,7 @@
       [96], [#name("KUMAHARA Luca")], [#age(21)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2461*], [#delta(8)],
       [97], [#name("STRBIKOVA Renata")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2461*], [#delta(6)],
       [98], [#name("TASHIRO Saki")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2459*], [#delta(7)],
-      [99], [#name("YANG Ha Eun")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2458*], [#delta(-11)],
+      [99], [#name("YANG Ha Eun")], [#age(22)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2458*], [#delta(-11)],
       [100], [#name("JUNG Yumi")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2458*], [#delta(6)],
     )
   )

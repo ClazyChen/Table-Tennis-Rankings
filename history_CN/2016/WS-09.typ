@@ -11,7 +11,7 @@
       [3], [#name("朱雨玲")], [#age(21)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2952*], [#delta(1)],
       [4], [#name("木子")], [#age(27)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2947*], [#delta(1)],
       [5], [#name("陈梦")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2944*], [#delta(1)],
-      [6], [#name("金宋依")], [#age(22)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2881*], [#delta(13)],
+      [6], [#name("金宋依")], [#age(22)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2881*], [#delta(13)],
       [7], [#name("武杨")], [#age(24)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2846*], [#delta(1)],
       [8], [#name("石川佳纯")], [#age(23)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2836*], [#delta(7)],
       [9], [#name("胡丽梅")], [#age(21)], [#assoc("CHN")], [#right], [#penhold], [#defense], [*2826*], [#delta(1)],
@@ -30,7 +30,7 @@
       [22], [#name("ZHOU Yihan")], [#age(22)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2727*], [#delta(22)],
       [23], [#name("李洁")], [#age(32)], [#assoc("NED")], [#right], [#shakehand], [#defense], [*2720*], [#delta(-11)],
       [24], [#name("刘高阳")], [#age(20)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2711*], [#delta(5)],
-      [25], [#name("田志希")], [#age(24)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2701*], [#delta(8)],
+      [25], [#name("田志希")], [#age(24)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2701*], [#delta(8)],
     )
   )
 #pagebreak()
@@ -131,7 +131,7 @@
       [96], [#name("KUMAHARA Luca")], [#age(21)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2461*], [#delta(8)],
       [97], [#name("STRBIKOVA Renata")], [#age(37)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2461*], [#delta(6)],
       [98], [#name("TASHIRO Saki")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2459*], [#delta(7)],
-      [99], [#name("梁夏银")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2458*], [#delta(-11)],
+      [99], [#name("梁夏银")], [#age(22)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2458*], [#delta(-11)],
       [100], [#name("JUNG Yumi")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2458*], [#delta(6)],
     )
   )

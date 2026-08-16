@@ -122,7 +122,7 @@
       [87], [#name("CECHOVA Dana")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2324*], [#delta(1)],
       [88], [#name("FADEEVA Oxana")], [#age(35)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2323*], [#delta(1)],
       [89], [#name("MIAO Miao")], [#age(29)], [#assoc("AUS")], [?], [?], [?], [*2323*], [#delta(1)],
-      [90], [#name("梁夏银")], [#age(16)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2321*], [#delta(-37)],
+      [90], [#name("梁夏银")], [#age(16)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2321*], [#delta(-37)],
       [91], [#name("森田美咲")], [#age(18)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2318*], [#delta(17)],
       [92], [#name("BOLLMEIER Nadine")], [#age(29)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2304*], [#delta(0)],
       [93], [#name("BILENKO Tetyana")], [#age(27)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2302*], [#delta(0)],

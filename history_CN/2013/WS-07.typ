@@ -22,7 +22,7 @@
       [14], [#name("李晓丹")], [#age(23)], [#assoc("CHN")], [?], [?], [?], [*2694*], [#delta(1)],
       [15], [#name("姜华珺")], [#age(29)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2663*], [#delta(-1)],
       [16], [#name("李明顺")], [#age(21)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2661*], [#delta(2)],
-      [17], [#name("梁夏银")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2657*], [#delta(3)],
+      [17], [#name("梁夏银")], [#age(19)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2657*], [#delta(3)],
       [18], [#name("单晓娜")], [#age(30)], [#assoc("GER")], [#right], [#penhold], [#attack], [*2646*], [#delta(22)],
       [19], [#name("福原爱")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2644*], [#delta(34)],
       [20], [#name("维多利亚 帕芙洛维奇")], [#age(35)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2640*], [#delta(-4)],
@@ -51,7 +51,7 @@
       [34], [#name("LANG Kristin")], [#age(28)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2579*], [#delta(1)],
       [35], [#name("LIU Xi")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2577*], [#delta(141)],
       [36], [#name("李佼")], [#age(40)], [#assoc("NED")], [#left], [#penhold], [#attack], [*2569*], [#delta(-13)],
-      [37], [#name("田志希")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2567*], [#delta(1)],
+      [37], [#name("田志希")], [#age(21)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2567*], [#delta(1)],
       [38], [#name("吴佳多")], [#age(36)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2559*], [#delta(-10)],
       [39], [#name("PESOTSKA Margaryta")], [#age(22)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2555*], [#delta(5)],
       [40], [#name("NG Wing Nam")], [#age(21)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2553*], [#delta(62)],
@@ -131,7 +131,7 @@
       [96], [#name("STEFANOVA Nikoleta")], [#age(29)], [#assoc("ITA")], [#left], [#shakehand], [#attack], [*2417*], [#delta(13)],
       [97], [#name("帖雅娜")], [#age(34)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2416*], [#delta(-2)],
       [98], [#name("伊藤美诚")], [#age(13)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2415*], [#delta(29)],
-      [99], [#name("金宋依")], [#age(19)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2414*], [#delta(-2)],
+      [99], [#name("金宋依")], [#age(19)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2414*], [#delta(-2)],
       [100], [#name("ZHOU Xintong")], [#age(20)], [#assoc("CHN")], [?], [?], [?], [*2412*], [#delta(464)],
     )
   )

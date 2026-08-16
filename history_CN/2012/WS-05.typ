@@ -27,7 +27,7 @@
       [19], [#name("李晓丹")], [#age(22)], [#assoc("CHN")], [?], [?], [?], [*2687*], [#delta(-1)],
       [20], [#name("石川佳纯")], [#age(19)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2682*], [#delta(1)],
       [21], [#name("平野早矢香")], [#age(27)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2671*], [#delta(12)],
-      [22], [#name("梁夏银")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2670*], [#delta(64)],
+      [22], [#name("梁夏银")], [#age(18)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2670*], [#delta(64)],
       [23], [#name("文炫晶")], [#age(28)], [#assoc("KOR")], [?], [?], [?], [*2666*], [#delta(-4)],
       [24], [#name("李佼")], [#age(39)], [#assoc("NED")], [#left], [#penhold], [#attack], [*2657*], [#delta(17)],
       [25], [#name("维多利亚 帕芙洛维奇")], [#age(34)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2644*], [#delta(2)],
@@ -63,7 +63,7 @@
       [46], [#name("LANG Kristin")], [#age(27)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2563*], [#delta(29)],
       [47], [#name("SONG Maeum")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2558*], [#delta(-4)],
       [48], [#name("孙蓓蓓")], [#age(28)], [#assoc("SGP")], [?], [?], [?], [*2556*], [#delta(-16)],
-      [49], [#name("田志希")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2540*], [#delta(-1)],
+      [49], [#name("田志希")], [#age(20)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2540*], [#delta(-1)],
       [50], [#name("于梦雨")], [#age(23)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2539*], [#delta(-11)],
     )
   )

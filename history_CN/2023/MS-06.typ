@@ -198,7 +198,7 @@
       [145], [#name("YEH Chih-Wei")], [#age(33)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2476*], [#delta(10)],
       [146], [#name("ISHIY Vitor")], [#age(28)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2475*], [#delta(5)],
       [147], [#name("SONE Kakeru")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2471*], [#delta(10)],
-      [148], [#name("KIM Taehyun")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2471*], [#delta(10)],
+      [148], [#name("KIM Taehyun")], [#age(20)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2471*], [#delta(10)],
       [149], [#name("尼马 阿拉米安")], [#age(31)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2470*], [#delta(-1)],
       [150], [#name("ELBEIALI Mohamed")], [#age(35)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2470*], [#delta(59)],
     )

@@ -74,7 +74,7 @@
     table(
       columns: 9,
       [\#], [Player],[Age], [Assoc.],  [Hand], [Grip], [Style], [Rating], [$Delta$],
-      [51], [#name("YANG Ha Eun")], [#age(15)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2469*], [#delta(66)],
+      [51], [#name("YANG Ha Eun")], [#age(15)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2469*], [#delta(66)],
       [52], [#name("KUZMINA Elena")], [#age(20)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2463*], [#delta(-3)],
       [53], [#name("MU Zi")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2460*], [#delta(-3)],
       [54], [#name("YAMANASHI Yuri")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2455*], [#delta(-10)],

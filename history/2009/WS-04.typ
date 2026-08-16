@@ -249,7 +249,7 @@
       [178], [#name("DOMANIKU Besire")], [#age(37)], [#assoc("KOS")], [#right], [#shakehand], [#attack], [*2053*], [#delta(-4)],
       [179], [#name("BOGDANOVA Baiba")], [#age(22)], [#assoc("LAT")], [#right], [#shakehand], [#attack], [*2053*], [#delta(-4)],
       [180], [#name("ALI Meral Ildiz")], [#age(22)], [#assoc("TUR")], [?], [?], [?], [*2053*], [#delta(-38)],
-      [181], [#name("YANG Ha Eun")], [#age(15)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2051*], [#delta(-4)],
+      [181], [#name("YANG Ha Eun")], [#age(15)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2051*], [#delta(-4)],
       [182], [#name("SOLJA Petrissa")], [#age(15)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2046*], [#delta(53)],
       [183], [#name("KIM Sujin")], [#age(25)], [#assoc("KOR")], [?], [?], [?], [*2045*], [#delta(-5)],
       [184], [#name("FILI Christina")], [#age(30)], [#assoc("GRE")], [?], [?], [?], [*2042*], [#delta(-5)],

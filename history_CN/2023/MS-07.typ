@@ -211,7 +211,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [151], [#name("SONE Kakeru")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2471*], [#delta(-4)],
-      [152], [#name("KIM Taehyun")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2471*], [#delta(-4)],
+      [152], [#name("KIM Taehyun")], [#age(20)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2471*], [#delta(-4)],
       [153], [#name("尼马 阿拉米安")], [#age(31)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2470*], [#delta(-4)],
       [154], [#name("ELBEIALI Mohamed")], [#age(35)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2470*], [#delta(-4)],
       [155], [#name("DE NODREST Leo")], [#age(23)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2468*], [#delta(-49)],

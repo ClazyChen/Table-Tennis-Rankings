@@ -219,7 +219,7 @@
       [157], [#name("SUZUKI Hayate")], [#age(18)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2457*], [#delta(23)],
       [158], [#name("PRYSHCHEPA Ievgen")], [#age(37)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2457*], [#delta(-14)],
       [159], [#name("MEISSNER Cedric")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2456*], [#delta(-45)],
-      [160], [#name("KIM Taehyun")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2453*], [#delta(1)],
+      [160], [#name("KIM Taehyun")], [#age(19)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2453*], [#delta(1)],
       [161], [#name("MONTEIRO Joao")], [#age(39)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2452*], [#delta(2)],
       [162], [#name("松岛辉空")], [#age(15)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2452*], [#delta(3)],
       [163], [#name("CAMPOS Jorge")], [#age(31)], [#assoc("CUB")], [#right], [#shakehand], [#attack], [*2450*], [#delta(3)],

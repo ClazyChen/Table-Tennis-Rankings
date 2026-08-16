@@ -11,7 +11,7 @@
       [3], [#name("木子")], [#age(27)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2947*], [#delta(1)],
       [4], [#name("朱雨玲")], [#age(21)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2942*], [#delta(-1)],
       [5], [#name("陈梦")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2935*], [#delta(0)],
-      [6], [#name("金宋依")], [#age(22)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2881*], [#delta(0)],
+      [6], [#name("金宋依")], [#age(22)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2881*], [#delta(0)],
       [7], [#name("武杨")], [#age(24)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2846*], [#delta(0)],
       [8], [#name("石川佳纯")], [#age(23)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2836*], [#delta(0)],
       [9], [#name("胡丽梅")], [#age(21)], [#assoc("CHN")], [#right], [#penhold], [#defense], [*2826*], [#delta(0)],
@@ -29,7 +29,7 @@
       [21], [#name("ZHOU Yihan")], [#age(22)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2716*], [#delta(1)],
       [22], [#name("刘高阳")], [#age(20)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2711*], [#delta(2)],
       [23], [#name("平野美宇")], [#age(16)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2710*], [#delta(-4)],
-      [24], [#name("田志希")], [#age(24)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2701*], [#delta(1)],
+      [24], [#name("田志希")], [#age(24)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2701*], [#delta(1)],
       [25], [#name("刘佳")], [#age(34)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2701*], [#delta(1)],
     )
   )
@@ -55,7 +55,7 @@
       [38], [#name("倪夏莲")], [#age(53)], [#assoc("LUX")], [#left], [#penhold], [#attack], [*2650*], [#delta(-1)],
       [39], [#name("李皓晴")], [#age(24)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2649*], [#delta(-6)],
       [40], [#name("石垣优香")], [#age(27)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2643*], [#delta(-9)],
-      [41], [#name("梁夏银")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2642*], [#delta(58)],
+      [41], [#name("梁夏银")], [#age(22)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2642*], [#delta(58)],
       [42], [#name("帖雅娜")], [#age(37)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2634*], [#delta(-1)],
       [43], [#name("维多利亚 帕芙洛维奇")], [#age(38)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2634*], [#delta(-4)],
       [44], [#name("陈思羽")], [#age(23)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2627*], [#delta(-15)],

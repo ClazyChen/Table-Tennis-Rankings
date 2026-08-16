@@ -30,7 +30,7 @@
       [22], [#name("姜华珺")], [#age(29)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2619*], [#delta(3)],
       [23], [#name("LANG Kristin")], [#age(28)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2617*], [#delta(11)],
       [24], [#name("福原爱")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2616*], [#delta(8)],
-      [25], [#name("梁夏银")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2616*], [#delta(-2)],
+      [25], [#name("梁夏银")], [#age(19)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2616*], [#delta(-2)],
     )
   )
 #pagebreak()
@@ -41,7 +41,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [26], [#name("单晓娜")], [#age(30)], [#assoc("GER")], [#right], [#penhold], [#attack], [*2615*], [#delta(-11)],
-      [27], [#name("田志希")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2606*], [#delta(10)],
+      [27], [#name("田志希")], [#age(21)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2606*], [#delta(10)],
       [28], [#name("韩莹")], [#age(30)], [#assoc("GER")], [#right], [#shakehand], [#defense], [*2605*], [#delta(-1)],
       [29], [#name("车晓曦")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2602*], [#delta(-1)],
       [30], [#name("若宫三纱子")], [#age(24)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2600*], [#delta(27)],
@@ -79,7 +79,7 @@
       [53], [#name("LI Xue")], [#age(28)], [#assoc("FRA")], [#right], [#shakehand], [#defense], [*2523*], [#delta(6)],
       [54], [#name("吴佳多")], [#age(36)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2521*], [#delta(-16)],
       [55], [#name("CHOI Moonyoung")], [#age(27)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2520*], [#delta(-14)],
-      [56], [#name("金宋依")], [#age(19)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2518*], [#delta(37)],
+      [56], [#name("金宋依")], [#age(19)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2518*], [#delta(37)],
       [57], [#name("DODEAN Daniela")], [#age(25)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2512*], [#delta(-5)],
       [58], [#name("BARTHEL Zhenqi")], [#age(26)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2510*], [#delta(-15)],
       [59], [#name("KIM Jong")], [#age(24)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2509*], [#delta(-1)],

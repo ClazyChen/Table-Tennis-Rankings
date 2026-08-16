@@ -76,7 +76,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [51], [#name("克里斯蒂娜 托特")], [#age(35)], [#assoc("HUN")], [?], [?], [?], [*2464*], [#delta(44)],
       [52], [#name("KUZMINA Elena")], [#age(20)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2463*], [#delta(-3)],
-      [53], [#name("梁夏银")], [#age(15)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2461*], [#delta(-7)],
+      [53], [#name("梁夏银")], [#age(15)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2461*], [#delta(-7)],
       [54], [#name("木子")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2460*], [#delta(-4)],
       [55], [#name("YAMANASHI Yuri")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2455*], [#delta(-4)],
       [56], [#name("STRBIKOVA Renata")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2448*], [#delta(-1)],

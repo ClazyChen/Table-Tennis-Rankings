@@ -26,11 +26,11 @@
       [18], [#name("福原爱")], [#age(27)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2698*], [#delta(-2)],
       [19], [#name("王曼昱")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2696*], [#delta(-1)],
       [20], [#name("车晓曦")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2696*], [#delta(-1)],
-      [21], [#name("梁夏银")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2690*], [#delta(22)],
+      [21], [#name("梁夏银")], [#age(21)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2690*], [#delta(22)],
       [22], [#name("李佼")], [#age(42)], [#assoc("NED")], [#left], [#penhold], [#attack], [*2686*], [#delta(6)],
       [23], [#name("刘高阳")], [#age(19)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2675*], [#delta(1)],
       [24], [#name("BILENKO Tetyana")], [#age(32)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2671*], [#delta(25)],
-      [25], [#name("田志希")], [#age(23)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2671*], [#delta(-3)],
+      [25], [#name("田志希")], [#age(23)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2671*], [#delta(-3)],
     )
   )
 #pagebreak()
@@ -110,7 +110,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [76], [#name("维多利亚 帕芙洛维奇")], [#age(37)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2530*], [#delta(-6)],
       [77], [#name("MATSUZAWA Marina")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2522*], [#delta(-4)],
-      [78], [#name("金宋依")], [#age(21)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2518*], [#delta(-2)],
+      [78], [#name("金宋依")], [#age(21)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2518*], [#delta(-2)],
       [79], [#name("伯纳黛特 斯佐科斯")], [#age(20)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2517*], [#delta(0)],
       [80], [#name("若宫三纱子")], [#age(26)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2517*], [#delta(-39)],
       [81], [#name("LIN Ye")], [#age(19)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2515*], [#delta(-4)],

@@ -217,7 +217,7 @@
       [155], [#name("YEH Chih-Wei")], [#age(33)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2476*], [#delta(4)],
       [156], [#name("MOVILEANU Darius")], [#age(18)], [#assoc("ROU")], [#left], [#shakehand], [#attack], [*2472*], [#delta(0)],
       [157], [#name("SONE Kakeru")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2471*], [#delta(-4)],
-      [158], [#name("KIM Taehyun")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2471*], [#delta(22)],
+      [158], [#name("KIM Taehyun")], [#age(20)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2471*], [#delta(22)],
       [159], [#name("DIAW Ibrahima")], [#age(31)], [#assoc("SEN")], [#right], [#shakehand], [#attack], [*2466*], [#delta(86)],
       [160], [#name("LORENZO Santiago")], [#age(22)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2465*], [#delta(0)],
       [161], [#name("LI Hsin-Yang")], [#age(23)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2464*], [#delta(1)],

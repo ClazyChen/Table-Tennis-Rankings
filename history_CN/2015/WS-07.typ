@@ -40,14 +40,14 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [26], [#name("田志希")], [#age(23)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2673*], [#delta(-1)],
+      [26], [#name("田志希")], [#age(23)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2673*], [#delta(-1)],
       [27], [#name("杜凯琹")], [#age(19)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2670*], [#delta(9)],
       [28], [#name("佩特丽莎 索尔佳")], [#age(21)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2668*], [#delta(-12)],
       [29], [#name("GU Ruochen")], [#age(21)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2667*], [#delta(-2)],
       [30], [#name("侯美玲")], [#age(26)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2663*], [#delta(35)],
       [31], [#name("若宫三纱子")], [#age(26)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2659*], [#delta(49)],
       [32], [#name("张蔷")], [#age(21)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2655*], [#delta(-1)],
-      [33], [#name("梁夏银")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2655*], [#delta(-12)],
+      [33], [#name("梁夏银")], [#age(21)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2655*], [#delta(-12)],
       [34], [#name("徐孝元")], [#age(28)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2650*], [#delta(41)],
       [35], [#name("李芬")], [#age(39)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2650*], [#delta(-2)],
       [36], [#name("平野美宇")], [#age(15)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2647*], [#delta(-4)],
@@ -97,7 +97,7 @@
       [71], [#name("维多利亚 帕芙洛维奇")], [#age(37)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2530*], [#delta(5)],
       [72], [#name("傅玉")], [#age(37)], [#assoc("POR")], [#right], [#penhold], [#attack], [*2529*], [#delta(-20)],
       [73], [#name("MATSUZAWA Marina")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2522*], [#delta(4)],
-      [74], [#name("金宋依")], [#age(21)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2518*], [#delta(4)],
+      [74], [#name("金宋依")], [#age(21)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2518*], [#delta(4)],
       [75], [#name("索菲亚 波尔卡诺娃")], [#age(21)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2516*], [#delta(-14)],
     )
   )

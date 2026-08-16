@@ -23,7 +23,7 @@
       [15], [#name("HU Melek")], [#age(27)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2738*], [#delta(1)],
       [16], [#name("CHE Xiaoxi")], [#age(23)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2736*], [#delta(1)],
       [17], [#name("WANG Manyu")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2729*], [#delta(9)],
-      [18], [#name("JEON Jihee")], [#age(24)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2729*], [#delta(15)],
+      [18], [#name("JEON Jihee")], [#age(24)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2729*], [#delta(15)],
       [19], [#name("MIKHAILOVA Polina")], [#age(30)], [#assoc("RUS")], [#right], [#shakehand], [#defense], [*2728*], [#delta(1)],
       [20], [#name("FUKUHARA Ai")], [#age(28)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2726*], [#delta(-7)],
       [21], [#name("RI Myong Sun")], [#age(24)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2721*], [#delta(1)],
@@ -79,7 +79,7 @@
       [53], [#name("POTA Georgina")], [#age(31)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2594*], [#delta(-2)],
       [54], [#name("ISHIGAKI Yuka")], [#age(27)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2594*], [#delta(-2)],
       [55], [#name("PARK Youngsook")], [#age(28)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2589*], [#delta(-1)],
-      [56], [#name("KIM Song I")], [#age(22)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2588*], [#delta(-1)],
+      [56], [#name("KIM Song I")], [#age(22)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2588*], [#delta(-1)],
       [57], [#name("KATO Miyu")], [#age(17)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2584*], [#delta(2)],
       [58], [#name("NG Wing Nam")], [#age(24)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2583*], [#delta(2)],
       [59], [#name("SUH Hyo Won")], [#age(29)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2581*], [#delta(-3)],
@@ -97,7 +97,7 @@
       [71], [#name("MATSUZAWA Marina")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2544*], [#delta(3)],
       [72], [#name("SHAO Jieni")], [#age(22)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2544*], [#delta(-19)],
       [73], [#name("WANG Chen")], [#age(42)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2536*], [#delta(2)],
-      [74], [#name("YANG Ha Eun")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2531*], [#delta(-8)],
+      [74], [#name("YANG Ha Eun")], [#age(22)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2531*], [#delta(-8)],
       [75], [#name("WANG Yidi")], [#age(19)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2529*], [#delta(90)],
     )
   )

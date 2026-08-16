@@ -218,7 +218,7 @@
       [156], [#name("JOUTI Eric")], [#age(29)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2477*], [#delta(-9)],
       [157], [#name("CHIRITA Iulian")], [#age(17)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2474*], [#delta(8)],
       [158], [#name("SHAH Manush")], [#age(22)], [#assoc("IND")], [#left], [#shakehand], [#attack], [*2474*], [#delta(70)],
-      [159], [#name("KIM Taehyun")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2472*], [#delta(-7)],
+      [159], [#name("KIM Taehyun")], [#age(20)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2472*], [#delta(-7)],
       [160], [#name("MLADENOVIC Luka")], [#age(25)], [#assoc("LUX")], [#right], [#shakehand], [#attack], [*2471*], [#delta(66)],
       [161], [#name("ELBEIALI Mohamed")], [#age(35)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2470*], [#delta(-7)],
       [162], [#name("LI Hsin-Yang")], [#age(23)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2464*], [#delta(-4)],

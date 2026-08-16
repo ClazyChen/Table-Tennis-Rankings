@@ -26,11 +26,11 @@
       [18], [#name("FUKUHARA Ai")], [#age(27)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2698*], [#delta(-2)],
       [19], [#name("WANG Manyu")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2696*], [#delta(-1)],
       [20], [#name("CHE Xiaoxi")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2696*], [#delta(-1)],
-      [21], [#name("YANG Ha Eun")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2690*], [#delta(22)],
+      [21], [#name("YANG Ha Eun")], [#age(21)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2690*], [#delta(22)],
       [22], [#name("LI Jiao")], [#age(42)], [#assoc("NED")], [#left], [#penhold], [#attack], [*2686*], [#delta(6)],
       [23], [#name("LIU Gaoyang")], [#age(19)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2675*], [#delta(1)],
       [24], [#name("BILENKO Tetyana")], [#age(32)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2671*], [#delta(25)],
-      [25], [#name("JEON Jihee")], [#age(23)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2671*], [#delta(-3)],
+      [25], [#name("JEON Jihee")], [#age(23)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2671*], [#delta(-3)],
     )
   )
 #pagebreak()
@@ -110,7 +110,7 @@
       [\#], [Player],[Age], [Assoc.],  [Hand], [Grip], [Style], [Rating], [$Delta$],
       [76], [#name("PAVLOVICH Viktoria")], [#age(37)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2530*], [#delta(-6)],
       [77], [#name("MATSUZAWA Marina")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2522*], [#delta(-4)],
-      [78], [#name("KIM Song I")], [#age(21)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2518*], [#delta(-2)],
+      [78], [#name("KIM Song I")], [#age(21)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2518*], [#delta(-2)],
       [79], [#name("SZOCS Bernadette")], [#age(20)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2517*], [#delta(0)],
       [80], [#name("WAKAMIYA Misako")], [#age(26)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2517*], [#delta(-39)],
       [81], [#name("LIN Ye")], [#age(19)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2515*], [#delta(-4)],

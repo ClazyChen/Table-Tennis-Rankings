@@ -14,3 +14,14 @@ You are welcome to provide suggestions for improving the algorithm model or the 
 <h1>How to use</h1>
 
 The new version for this repository is written by Julia (you should install Jupyter Notebook first). The codes are provided in `ccelo.ipynb` with detailed comments.
+
+<h1>Notice</h1>
+
+**In August 2026, ITTF blocked direct access to match data via JSON format. Frequent GET-URL requests will trigger 429 rate-limit penalties.**
+
+As a networking engineer, I fully understand many fans are dissatisfied with the current world rankings and want to scrape ITTF data for statistics, which has put heavy load on ITTF's servers.
+
+Around the WTT Champions Yokohama 2026, I implemented certain workarounds for the 429 restrictions. However, I'm not sure whether these workarounds will survive the next update ahead of the WTT Swedish Smash 2026.
+
+For this reason, I've NOT pushed the latest crawler code to the repository. It will be uploaded once I verify that the workaround remains functional. The crawler code currently in the repository is an older version; running it directly will result in 429 errors. **Rankings have been updated up to the present timestamp (WTT Champions Yokohama 2026).**
+

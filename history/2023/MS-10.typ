@@ -224,7 +224,7 @@
       [162], [#name("HODAEI Amir Hossein")], [#age(25)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2464*], [#delta(-17)],
       [163], [#name("SODERLUND Hampus")], [#age(29)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2462*], [#delta(4)],
       [164], [#name("BERTRAND Irvin")], [#age(23)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2462*], [#delta(4)],
-      [165], [#name("KIM Taehyun")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2459*], [#delta(-10)],
+      [165], [#name("KIM Taehyun")], [#age(20)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2459*], [#delta(-10)],
       [166], [#name("PISTEJ Lubomir")], [#age(39)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2456*], [#delta(-58)],
       [167], [#name("DYJAS Jakub")], [#age(28)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2456*], [#delta(-31)],
       [168], [#name("BURGOS Nicolas")], [#age(22)], [#assoc("CHI")], [#right], [#shakehand], [#attack], [*2455*], [#delta(40)],

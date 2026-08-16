@@ -144,7 +144,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [101], [#name("LAY Jian Fang")], [#age(37)], [#assoc("AUS")], [#right], [#penhold], [#attack], [*2305*], [#delta(0)],
       [102], [#name("BOLLMEIER Nadine")], [#age(29)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2304*], [#delta(0)],
-      [103], [#name("梁夏银")], [#age(16)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2304*], [#delta(-24)],
+      [103], [#name("梁夏银")], [#age(16)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2304*], [#delta(-24)],
       [104], [#name("BAKULA Andrea")], [#age(29)], [#assoc("CRO")], [#left], [#shakehand], [#attack], [*2303*], [#delta(-1)],
       [105], [#name("乔治娜 波塔")], [#age(25)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2301*], [#delta(-1)],
       [106], [#name("佩特丽莎 索尔佳")], [#age(16)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2301*], [#delta(-1)],

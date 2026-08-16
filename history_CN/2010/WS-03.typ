@@ -142,7 +142,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [101], [#name("梁夏银")], [#age(16)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2279*], [#delta(-12)],
+      [101], [#name("梁夏银")], [#age(16)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2279*], [#delta(-12)],
       [102], [#name("KIM Junghyun")], [#age(25)], [#assoc("KOR")], [?], [?], [?], [*2279*], [#delta(19)],
       [103], [#name("WATANABE Yuko")], [#age(26)], [#assoc("JPN")], [?], [?], [?], [*2277*], [#delta(2)],
       [104], [#name("萨比亚 温特")], [#age(18)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2275*], [#delta(22)],

@@ -98,7 +98,7 @@
       [72], [#name("郑怡静")], [#age(18)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2379*], [#delta(4)],
       [73], [#name("YAMANASHI Yuri")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2378*], [#delta(-17)],
       [74], [#name("伊莲 埃万坎")], [#age(27)], [#assoc("GER")], [#right], [#shakehand], [#defense], [*2374*], [#delta(3)],
-      [75], [#name("梁夏银")], [#age(16)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2363*], [#delta(26)],
+      [75], [#name("梁夏银")], [#age(16)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2363*], [#delta(26)],
     )
   )
 #pagebreak()

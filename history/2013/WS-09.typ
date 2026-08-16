@@ -30,7 +30,7 @@
       [22], [#name("JIANG Huajun")], [#age(29)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2619*], [#delta(3)],
       [23], [#name("LANG Kristin")], [#age(28)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2617*], [#delta(11)],
       [24], [#name("FUKUHARA Ai")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2616*], [#delta(8)],
-      [25], [#name("YANG Ha Eun")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2616*], [#delta(-2)],
+      [25], [#name("YANG Ha Eun")], [#age(19)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2616*], [#delta(-2)],
     )
   )
 #pagebreak()
@@ -41,7 +41,7 @@
       columns: 9,
       [\#], [Player],[Age], [Assoc.],  [Hand], [Grip], [Style], [Rating], [$Delta$],
       [26], [#name("SHAN Xiaona")], [#age(30)], [#assoc("GER")], [#right], [#penhold], [#attack], [*2615*], [#delta(-11)],
-      [27], [#name("JEON Jihee")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2606*], [#delta(10)],
+      [27], [#name("JEON Jihee")], [#age(21)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2606*], [#delta(10)],
       [28], [#name("HAN Ying")], [#age(30)], [#assoc("GER")], [#right], [#shakehand], [#defense], [*2605*], [#delta(-1)],
       [29], [#name("CHE Xiaoxi")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2602*], [#delta(-1)],
       [30], [#name("WAKAMIYA Misako")], [#age(24)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2600*], [#delta(27)],
@@ -79,7 +79,7 @@
       [53], [#name("LI Xue")], [#age(28)], [#assoc("FRA")], [#right], [#shakehand], [#defense], [*2523*], [#delta(6)],
       [54], [#name("WU Jiaduo")], [#age(36)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2521*], [#delta(-16)],
       [55], [#name("CHOI Moonyoung")], [#age(27)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2520*], [#delta(-14)],
-      [56], [#name("KIM Song I")], [#age(19)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2518*], [#delta(37)],
+      [56], [#name("KIM Song I")], [#age(19)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2518*], [#delta(37)],
       [57], [#name("DODEAN Daniela")], [#age(25)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2512*], [#delta(-5)],
       [58], [#name("BARTHEL Zhenqi")], [#age(26)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2510*], [#delta(-15)],
       [59], [#name("KIM Jong")], [#age(24)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2509*], [#delta(-1)],

@@ -214,7 +214,7 @@
       [152], [#name("MEISSNER Cedric")], [#age(23)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2476*], [#delta(2)],
       [153], [#name("SHAH Manush")], [#age(22)], [#assoc("IND")], [#left], [#shakehand], [#attack], [*2474*], [#delta(5)],
       [154], [#name("MUTTI Matteo")], [#age(23)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2472*], [#delta(1)],
-      [155], [#name("KIM Taehyun")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2472*], [#delta(4)],
+      [155], [#name("KIM Taehyun")], [#age(20)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2472*], [#delta(4)],
       [156], [#name("ALTO Gaston")], [#age(38)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2472*], [#delta(41)],
       [157], [#name("TSUBOI Gustavo")], [#age(38)], [#assoc("BRA")], [#left], [#shakehand], [#attack], [*2472*], [#delta(-8)],
       [158], [#name("汤姆 贾维斯")], [#age(24)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2471*], [#delta(45)],

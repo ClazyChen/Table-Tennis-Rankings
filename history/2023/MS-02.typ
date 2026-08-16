@@ -245,7 +245,7 @@
       columns: 9,
       [\#], [Player],[Age], [Assoc.],  [Hand], [Grip], [Style], [Rating], [$Delta$],
       [176], [#name("BOBOCICA Mihai")], [#age(37)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2434*], [#delta(-1)],
-      [177], [#name("KIM Taehyun")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2433*], [#delta(1)],
+      [177], [#name("KIM Taehyun")], [#age(20)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2433*], [#delta(1)],
       [178], [#name("WOO Hyeonggyu")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2433*], [#delta(1)],
       [179], [#name("IONESCU Eduard")], [#age(19)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2430*], [#delta(-6)],
       [180], [#name("JEVTOVIC Marko")], [#age(36)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2429*], [#delta(0)],

@@ -41,7 +41,7 @@
       columns: 9,
       [\#], [Player],[Age], [Assoc.],  [Hand], [Grip], [Style], [Rating], [$Delta$],
       [26], [#name("LI Jie")], [#age(28)], [#assoc("NED")], [#right], [#shakehand], [#defense], [*2618*], [#delta(8)],
-      [27], [#name("YANG Ha Eun")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2613*], [#delta(3)],
+      [27], [#name("YANG Ha Eun")], [#age(18)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2613*], [#delta(3)],
       [28], [#name("ZHAO Yan")], [#age(19)], [#assoc("CHN")], [?], [?], [?], [*2605*], [#delta(48)],
       [29], [#name("YU Mengyu")], [#age(23)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2605*], [#delta(0)],
       [30], [#name("VACENOVSKA Iveta")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2589*], [#delta(19)],
@@ -64,7 +64,7 @@
       [47], [#name("XIAN Yifang")], [#age(35)], [#assoc("FRA")], [#right], [#shakehand], [#defense], [*2536*], [#delta(6)],
       [48], [#name("YOON Sunae")], [#age(29)], [#assoc("KOR")], [?], [?], [?], [*2524*], [#delta(13)],
       [49], [#name("DODEAN Daniela")], [#age(24)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2522*], [#delta(6)],
-      [50], [#name("JEON Jihee")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2521*], [#delta(9)],
+      [50], [#name("JEON Jihee")], [#age(20)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2521*], [#delta(9)],
     )
   )
 #pagebreak()
@@ -117,7 +117,7 @@
       [82], [#name("MIKHAILOVA Polina")], [#age(26)], [#assoc("RUS")], [#right], [#shakehand], [#defense], [*2418*], [#delta(8)],
       [83], [#name("STRBIKOVA Renata")], [#age(33)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2417*], [#delta(8)],
       [84], [#name("MOLNAR Cornelia")], [#age(29)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2417*], [#delta(34)],
-      [85], [#name("KIM Song I")], [#age(18)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2414*], [#delta(7)],
+      [85], [#name("KIM Song I")], [#age(18)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2414*], [#delta(7)],
       [86], [#name("SOLJA Petrissa")], [#age(18)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2412*], [#delta(7)],
       [87], [#name("CREEMERS Linda")], [#age(27)], [#assoc("NED")], [?], [?], [?], [*2412*], [#delta(7)],
       [88], [#name("ERDELJI Anamaria")], [#age(27)], [#assoc("SRB")], [#right], [#shakehand], [#defense], [*2411*], [#delta(7)],

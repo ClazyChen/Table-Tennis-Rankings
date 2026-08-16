@@ -98,7 +98,7 @@
       [72], [#name("YAMANASHI Yuri")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2378*], [#delta(1)],
       [73], [#name("SANG Xu Stephanie")], [#age(24)], [#assoc("AUS")], [#right], [#shakehand], [#attack], [*2377*], [#delta(-11)],
       [74], [#name("伊莲 埃万坎")], [#age(27)], [#assoc("GER")], [#right], [#shakehand], [#defense], [*2374*], [#delta(0)],
-      [75], [#name("梁夏银")], [#age(16)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2363*], [#delta(0)],
+      [75], [#name("梁夏银")], [#age(16)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2363*], [#delta(0)],
     )
   )
 #pagebreak()

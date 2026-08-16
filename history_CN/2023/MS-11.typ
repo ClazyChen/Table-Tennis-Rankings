@@ -228,7 +228,7 @@
       [166], [#name("BERTRAND Irvin")], [#age(23)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2462*], [#delta(-2)],
       [167], [#name("塞德里克 纽廷克")], [#age(30)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2460*], [#delta(-39)],
       [168], [#name("陈颢桦")], [#age(19)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2460*], [#delta(-30)],
-      [169], [#name("KIM Taehyun")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2459*], [#delta(-4)],
+      [169], [#name("KIM Taehyun")], [#age(20)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2459*], [#delta(-4)],
       [170], [#name("STOYANOV Niagol")], [#age(36)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2456*], [#delta(-12)],
       [171], [#name("BURGOS Nicolas")], [#age(22)], [#assoc("CHI")], [#right], [#shakehand], [#attack], [*2455*], [#delta(-3)],
       [172], [#name("ACHANTA Sharath")], [#age(41)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2455*], [#delta(-36)],

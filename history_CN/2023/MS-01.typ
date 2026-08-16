@@ -246,7 +246,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [176], [#name("SIPOS Rares")], [#age(23)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2433*], [#delta(-2)],
       [177], [#name("LEVENKO Andreas")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2433*], [#delta(-2)],
-      [178], [#name("KIM Taehyun")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2433*], [#delta(-2)],
+      [178], [#name("KIM Taehyun")], [#age(20)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2433*], [#delta(-2)],
       [179], [#name("WOO Hyeonggyu")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2433*], [#delta(-2)],
       [180], [#name("JEVTOVIC Marko")], [#age(36)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2429*], [#delta(-2)],
       [181], [#name("MEISSNER Cedric")], [#age(23)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2429*], [#delta(-28)],

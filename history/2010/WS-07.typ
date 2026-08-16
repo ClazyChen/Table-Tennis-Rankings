@@ -144,7 +144,7 @@
       [\#], [Player],[Age], [Assoc.],  [Hand], [Grip], [Style], [Rating], [$Delta$],
       [101], [#name("LAY Jian Fang")], [#age(37)], [#assoc("AUS")], [#right], [#penhold], [#attack], [*2305*], [#delta(0)],
       [102], [#name("BOLLMEIER Nadine")], [#age(29)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2304*], [#delta(0)],
-      [103], [#name("YANG Ha Eun")], [#age(16)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2304*], [#delta(-24)],
+      [103], [#name("YANG Ha Eun")], [#age(16)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2304*], [#delta(-24)],
       [104], [#name("BAKULA Andrea")], [#age(29)], [#assoc("CRO")], [#left], [#shakehand], [#attack], [*2303*], [#delta(-1)],
       [105], [#name("POTA Georgina")], [#age(25)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2301*], [#delta(-1)],
       [106], [#name("SOLJA Petrissa")], [#age(16)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2301*], [#delta(-1)],

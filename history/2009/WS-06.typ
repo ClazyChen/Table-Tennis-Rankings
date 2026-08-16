@@ -214,7 +214,7 @@
       [152], [#name("GUAN Mengyuan")], [#age(17)], [#assoc("HKG")], [?], [?], [?], [*2115*], [#delta(2)],
       [153], [#name("STEFANSKA Kinga")], [#age(29)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2115*], [#delta(45)],
       [154], [#name("KRAMER Tanja")], [#age(29)], [#assoc("GER")], [?], [?], [?], [*2114*], [#delta(2)],
-      [155], [#name("YANG Ha Eun")], [#age(15)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2111*], [#delta(26)],
+      [155], [#name("YANG Ha Eun")], [#age(15)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2111*], [#delta(26)],
       [156], [#name("NOSKOVA Yana")], [#age(15)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2111*], [#delta(112)],
       [157], [#name("DVORAK Galia")], [#age(21)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2110*], [#delta(-39)],
       [158], [#name("CHAKRABORTY Kasturi")], [#age(28)], [#assoc("IND")], [?], [?], [?], [*2110*], [#delta(113)],

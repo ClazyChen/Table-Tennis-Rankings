@@ -24,13 +24,13 @@
       [16], [#name("冯天薇")], [#age(31)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2756*], [#delta(-8)],
       [17], [#name("郑怡静")], [#age(25)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2754*], [#delta(-2)],
       [18], [#name("早田希娜")], [#age(17)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2754*], [#delta(-1)],
-      [19], [#name("金宋依")], [#age(23)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2753*], [#delta(0)],
+      [19], [#name("金宋依")], [#age(23)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2753*], [#delta(0)],
       [20], [#name("文佳")], [#age(28)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2748*], [#delta(-4)],
       [21], [#name("森樱")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2739*], [#delta(8)],
       [22], [#name("车晓曦")], [#age(24)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2738*], [#delta(-4)],
       [23], [#name("曾尖")], [#age(21)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2730*], [#delta(1)],
       [24], [#name("LANG Kristin")], [#age(32)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2728*], [#delta(8)],
-      [25], [#name("田志希")], [#age(25)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2726*], [#delta(0)],
+      [25], [#name("田志希")], [#age(25)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2726*], [#delta(0)],
     )
   )
 #pagebreak()
@@ -55,7 +55,7 @@
       [38], [#name("李佳燚")], [#age(23)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2656*], [#delta(-4)],
       [39], [#name("张蔷")], [#age(23)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2655*], [#delta(-2)],
       [40], [#name("傅玉")], [#age(39)], [#assoc("POR")], [#right], [#penhold], [#attack], [*2651*], [#delta(19)],
-      [41], [#name("梁夏银")], [#age(23)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2651*], [#delta(6)],
+      [41], [#name("梁夏银")], [#age(23)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2651*], [#delta(6)],
       [42], [#name("杨晓欣")], [#age(29)], [#assoc("MON")], [#right], [#shakehand], [#attack], [*2650*], [#delta(-4)],
       [43], [#name("桥本帆乃香")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2646*], [#delta(-21)],
       [44], [#name("肖瑶茜")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2644*], [#delta(70)],

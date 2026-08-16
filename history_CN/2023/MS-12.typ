@@ -228,7 +228,7 @@
       [166], [#name("哈米特 德赛")], [#age(30)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2463*], [#delta(-7)],
       [167], [#name("SHAH Manush")], [#age(22)], [#assoc("IND")], [#left], [#shakehand], [#attack], [*2462*], [#delta(-2)],
       [168], [#name("BERTRAND Irvin")], [#age(23)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2462*], [#delta(-2)],
-      [169], [#name("KIM Taehyun")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2459*], [#delta(0)],
+      [169], [#name("KIM Taehyun")], [#age(20)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2459*], [#delta(0)],
       [170], [#name("PANG Koen")], [#age(21)], [#assoc("SGP")], [#left], [#shakehand], [#attack], [*2456*], [#delta(14)],
       [171], [#name("ACHANTA Sharath")], [#age(41)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2455*], [#delta(1)],
       [172], [#name("TEODORO Guilherme")], [#age(22)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2455*], [#delta(1)],

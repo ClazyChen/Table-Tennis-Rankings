@@ -24,7 +24,7 @@
       [16], [#name("HIRANO Sayaka")], [#age(26)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2691*], [#delta(1)],
       [17], [#name("FUKUHARA Ai")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2684*], [#delta(5)],
       [18], [#name("WANG Yuegu")], [#age(31)], [#assoc("SGP")], [?], [?], [?], [*2681*], [#delta(-2)],
-      [19], [#name("JEON Jihee")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2674*], [#delta(75)],
+      [19], [#name("JEON Jihee")], [#age(19)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2674*], [#delta(75)],
       [20], [#name("KIM Jong")], [#age(22)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2669*], [#delta(-1)],
       [21], [#name("LI Jie")], [#age(27)], [#assoc("NED")], [#right], [#shakehand], [#defense], [*2663*], [#delta(0)],
       [22], [#name("ZHU Yuling")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2658*], [#delta(1)],
@@ -63,7 +63,7 @@
       [46], [#name("YOON Sunae")], [#age(28)], [#assoc("KOR")], [?], [?], [?], [*2538*], [#delta(-5)],
       [47], [#name("KIM Kyungah")], [#age(34)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2536*], [#delta(-10)],
       [48], [#name("LI Qian")], [#age(25)], [#assoc("POL")], [#right], [#shakehand], [#defense], [*2536*], [#delta(-5)],
-      [49], [#name("YANG Ha Eun")], [#age(17)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2529*], [#delta(-11)],
+      [49], [#name("YANG Ha Eun")], [#age(17)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2529*], [#delta(-11)],
       [50], [#name("CHEN Meng")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2526*], [#delta(-5)],
     )
   )
@@ -225,7 +225,7 @@
       [163], [#name("ZHENG Jiaqi")], [#age(23)], [#assoc("USA")], [?], [?], [?], [*2205*], [#delta(30)],
       [164], [#name("KRAVCHENKO Marina")], [#age(38)], [#assoc("ISR")], [#right], [#shakehand], [#attack], [*2203*], [#delta(3)],
       [165], [#name("HAPONOVA Hanna")], [#age(26)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2203*], [#delta(3)],
-      [166], [#name("KIM Song I")], [#age(17)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2203*], [#delta(3)],
+      [166], [#name("KIM Song I")], [#age(17)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2203*], [#delta(3)],
       [167], [#name("KREKINA Svetlana")], [#age(30)], [#assoc("RUS")], [?], [?], [?], [*2202*], [#delta(3)],
       [168], [#name("LIU Hsing-Yin")], [#age(24)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2202*], [#delta(-36)],
       [169], [#name("FETUKHINA Margarita")], [#age(23)], [#assoc("RUS")], [?], [?], [?], [*2200*], [#delta(2)],

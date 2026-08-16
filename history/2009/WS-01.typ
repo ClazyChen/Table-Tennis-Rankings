@@ -260,7 +260,7 @@
       [189], [#name("GUFRANOVA Rimma")], [#age(18)], [#assoc("UZB")], [#right], [#shakehand], [#attack], [*2025*], [#delta(0)],
       [190], [#name("LIU Hsing-Yin")], [#age(22)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2024*], [#delta(0)],
       [191], [#name("CHEN Meng")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2021*], [NEW],
-      [192], [#name("YANG Ha Eun")], [#age(15)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2020*], [#delta(-1)],
+      [192], [#name("YANG Ha Eun")], [#age(15)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2020*], [#delta(-1)],
       [193], [#name("AASEBO Marte")], [#age(19)], [#assoc("NOR")], [#right], [#shakehand], [#attack], [*2020*], [#delta(-1)],
       [194], [#name("EZZEDDINE Ruaida")], [#age(20)], [#assoc("VEN")], [?], [?], [?], [*2020*], [#delta(-1)],
       [195], [#name("LEE I-Chen")], [#age(22)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2017*], [#delta(17)],

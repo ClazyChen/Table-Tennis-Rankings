@@ -248,7 +248,7 @@
       [177], [#name("LEVAJAC Dimitrije")], [#age(22)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2438*], [#delta(0)],
       [178], [#name("PANG Koen")], [#age(21)], [#assoc("SGP")], [#left], [#shakehand], [#attack], [*2437*], [#delta(11)],
       [179], [#name("CAMPOS Jorge")], [#age(32)], [#assoc("CUB")], [#right], [#shakehand], [#attack], [*2433*], [#delta(-5)],
-      [180], [#name("KIM Taehyun")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2433*], [#delta(0)],
+      [180], [#name("KIM Taehyun")], [#age(20)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2433*], [#delta(0)],
       [181], [#name("WOO Hyeonggyu")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2433*], [#delta(0)],
       [182], [#name("JEVTOVIC Marko")], [#age(36)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2429*], [#delta(1)],
       [183], [#name("LEVENKO Andreas")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2426*], [#delta(1)],

@@ -253,7 +253,7 @@
       [182], [#name("LIU Hsing-Yin")], [#age(22)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2024*], [#delta(8)],
       [183], [#name("BARTOSOVA Hana")], [#age(28)], [#assoc("CZE")], [?], [?], [?], [*2023*], [#delta(-2)],
       [184], [#name("陈梦")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2021*], [#delta(7)],
-      [185], [#name("梁夏银")], [#age(15)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2020*], [#delta(7)],
+      [185], [#name("梁夏银")], [#age(15)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2020*], [#delta(7)],
       [186], [#name("AASEBO Marte")], [#age(19)], [#assoc("NOR")], [#right], [#shakehand], [#attack], [*2020*], [#delta(7)],
       [187], [#name("EZZEDDINE Ruaida")], [#age(20)], [#assoc("VEN")], [?], [?], [?], [*2020*], [#delta(7)],
       [188], [#name("LEE I-Chen")], [#age(22)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2017*], [#delta(7)],

@@ -142,7 +142,7 @@
     table(
       columns: 9,
       [\#], [Player],[Age], [Assoc.],  [Hand], [Grip], [Style], [Rating], [$Delta$],
-      [101], [#name("YANG Ha Eun")], [#age(16)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2279*], [#delta(-12)],
+      [101], [#name("YANG Ha Eun")], [#age(16)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2279*], [#delta(-12)],
       [102], [#name("KIM Junghyun")], [#age(25)], [#assoc("KOR")], [?], [?], [?], [*2279*], [#delta(19)],
       [103], [#name("WATANABE Yuko")], [#age(26)], [#assoc("JPN")], [?], [?], [?], [*2277*], [#delta(2)],
       [104], [#name("WINTER Sabine")], [#age(18)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2275*], [#delta(22)],

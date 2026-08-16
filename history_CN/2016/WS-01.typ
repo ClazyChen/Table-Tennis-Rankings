@@ -23,7 +23,7 @@
       [15], [#name("侯美玲")], [#age(27)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2738*], [#delta(1)],
       [16], [#name("车晓曦")], [#age(23)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2736*], [#delta(1)],
       [17], [#name("王曼昱")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2729*], [#delta(9)],
-      [18], [#name("田志希")], [#age(24)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2729*], [#delta(15)],
+      [18], [#name("田志希")], [#age(24)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2729*], [#delta(15)],
       [19], [#name("MIKHAILOVA Polina")], [#age(30)], [#assoc("RUS")], [#right], [#shakehand], [#defense], [*2728*], [#delta(1)],
       [20], [#name("福原爱")], [#age(28)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2726*], [#delta(-7)],
       [21], [#name("李明顺")], [#age(24)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2721*], [#delta(1)],
@@ -79,7 +79,7 @@
       [53], [#name("乔治娜 波塔")], [#age(31)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2594*], [#delta(-2)],
       [54], [#name("石垣优香")], [#age(27)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2594*], [#delta(-2)],
       [55], [#name("PARK Youngsook")], [#age(28)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2589*], [#delta(-1)],
-      [56], [#name("金宋依")], [#age(22)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2588*], [#delta(-1)],
+      [56], [#name("金宋依")], [#age(22)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2588*], [#delta(-1)],
       [57], [#name("加藤美优")], [#age(17)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2584*], [#delta(2)],
       [58], [#name("NG Wing Nam")], [#age(24)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2583*], [#delta(2)],
       [59], [#name("徐孝元")], [#age(29)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2581*], [#delta(-3)],
@@ -97,7 +97,7 @@
       [71], [#name("MATSUZAWA Marina")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2544*], [#delta(3)],
       [72], [#name("邵杰妮")], [#age(22)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2544*], [#delta(-19)],
       [73], [#name("WANG Chen")], [#age(42)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2536*], [#delta(2)],
-      [74], [#name("梁夏银")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2531*], [#delta(-8)],
+      [74], [#name("梁夏银")], [#age(22)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2531*], [#delta(-8)],
       [75], [#name("王艺迪")], [#age(19)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2529*], [#delta(90)],
     )
   )

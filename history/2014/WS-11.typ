@@ -28,7 +28,7 @@
       [20], [#name("MU Zi")], [#age(25)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2691*], [#delta(-4)],
       [21], [#name("YU Mengyu")], [#age(25)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2691*], [#delta(-3)],
       [22], [#name("SHAN Xiaona")], [#age(31)], [#assoc("GER")], [#right], [#penhold], [#attack], [*2680*], [#delta(-2)],
-      [23], [#name("YANG Ha Eun")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2676*], [#delta(-4)],
+      [23], [#name("YANG Ha Eun")], [#age(20)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2676*], [#delta(-4)],
       [24], [#name("LIU Gaoyang")], [#age(18)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2669*], [#delta(-1)],
       [25], [#name("LI Qian")], [#age(28)], [#assoc("POL")], [#right], [#shakehand], [#defense], [*2658*], [#delta(-1)],
     )
@@ -61,7 +61,7 @@
       [44], [#name("HIRANO Sayaka")], [#age(29)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2580*], [#delta(-5)],
       [45], [#name("RI Mi Gyong")], [#age(24)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2578*], [#delta(-20)],
       [46], [#name("SOLJA Amelie")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2572*], [#delta(1)],
-      [47], [#name("JEON Jihee")], [#age(22)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2570*], [#delta(7)],
+      [47], [#name("JEON Jihee")], [#age(22)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2570*], [#delta(7)],
       [48], [#name("LEE Eunhee")], [#age(28)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2569*], [#delta(38)],
       [49], [#name("KIM Hye Song")], [#age(21)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2567*], [#delta(-1)],
       [50], [#name("PARTYKA Natalia")], [#age(25)], [#assoc("POL")], [#left], [#shakehand], [#attack], [*2567*], [#delta(-1)],
@@ -98,7 +98,7 @@
       [72], [#name("GU Ruochen")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2524*], [#delta(-1)],
       [73], [#name("EERLAND Britt")], [#age(20)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2523*], [#delta(0)],
       [74], [#name("ITO Mima")], [#age(14)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2521*], [#delta(0)],
-      [75], [#name("KIM Song I")], [#age(20)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2518*], [#delta(0)],
+      [75], [#name("KIM Song I")], [#age(20)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2518*], [#delta(0)],
     )
   )
 #pagebreak()

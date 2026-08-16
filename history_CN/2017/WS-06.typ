@@ -24,13 +24,13 @@
       [16], [#name("文佳")], [#age(28)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2748*], [#delta(0)],
       [17], [#name("早田希娜")], [#age(17)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2745*], [#delta(0)],
       [18], [#name("车晓曦")], [#age(24)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2738*], [#delta(0)],
-      [19], [#name("金宋依")], [#age(23)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2738*], [#delta(0)],
+      [19], [#name("金宋依")], [#age(23)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2738*], [#delta(0)],
       [20], [#name("安藤南")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2725*], [#delta(0)],
       [21], [#name("刘高阳")], [#age(21)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2711*], [#delta(1)],
       [22], [#name("桥本帆乃香")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2707*], [#delta(23)],
       [23], [#name("伊藤美诚")], [#age(17)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2707*], [#delta(0)],
       [24], [#name("曾尖")], [#age(21)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2695*], [#delta(0)],
-      [25], [#name("田志希")], [#age(25)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2689*], [#delta(0)],
+      [25], [#name("田志希")], [#age(25)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2689*], [#delta(0)],
     )
   )
 #pagebreak()
@@ -61,7 +61,7 @@
       [44], [#name("索菲亚 波尔卡诺娃")], [#age(23)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2639*], [#delta(22)],
       [45], [#name("佩特丽莎 索尔佳")], [#age(23)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2639*], [#delta(-2)],
       [46], [#name("金景娥")], [#age(40)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2638*], [#delta(-2)],
-      [47], [#name("梁夏银")], [#age(23)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2632*], [#delta(-1)],
+      [47], [#name("梁夏银")], [#age(23)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2632*], [#delta(-1)],
       [48], [#name("布里特 伊尔兰德")], [#age(23)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2628*], [#delta(-1)],
       [49], [#name("侯美玲")], [#age(28)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2628*], [#delta(4)],
       [50], [#name("森田美咲")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2627*], [#delta(-2)],

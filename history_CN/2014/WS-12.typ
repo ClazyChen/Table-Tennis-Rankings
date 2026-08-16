@@ -40,7 +40,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [26], [#name("梁夏银")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2642*], [#delta(-3)],
+      [26], [#name("梁夏银")], [#age(20)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2642*], [#delta(-3)],
       [27], [#name("李洁")], [#age(30)], [#assoc("NED")], [#right], [#shakehand], [#defense], [*2637*], [#delta(0)],
       [28], [#name("佐藤瞳")], [#age(17)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2630*], [#delta(28)],
       [29], [#name("王曼昱")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2630*], [#delta(-1)],
@@ -79,7 +79,7 @@
       [53], [#name("MADARASZ Dora")], [#age(21)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2564*], [#delta(44)],
       [54], [#name("吴佳多")], [#age(37)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2561*], [#delta(-23)],
       [55], [#name("KIM Jong")], [#age(25)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2560*], [#delta(-2)],
-      [56], [#name("田志希")], [#age(22)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2558*], [#delta(-9)],
+      [56], [#name("田志希")], [#age(22)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2558*], [#delta(-9)],
       [57], [#name("陈可")], [#age(17)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2550*], [#delta(-2)],
       [58], [#name("若宫三纱子")], [#age(25)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2547*], [#delta(27)],
       [59], [#name("伊丽莎白 萨玛拉")], [#age(25)], [#assoc("ROU")], [#left], [#shakehand], [#attack], [*2545*], [#delta(-1)],
@@ -108,7 +108,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [76], [#name("金宋依")], [#age(20)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2518*], [#delta(-1)],
+      [76], [#name("金宋依")], [#age(20)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2518*], [#delta(-1)],
       [77], [#name("李皓晴")], [#age(22)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2513*], [#delta(0)],
       [78], [#name("妮娜 米特兰姆")], [#age(18)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2511*], [#delta(1)],
       [79], [#name("PESOTSKA Margaryta")], [#age(23)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2510*], [#delta(1)],

@@ -28,8 +28,8 @@
       [20], [#name("CHE Xiaoxi")], [#age(23)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2736*], [#delta(-3)],
       [21], [#name("WANG Manyu")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2729*], [#delta(-2)],
       [22], [#name("FUKUHARA Ai")], [#age(28)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2727*], [#delta(-6)],
-      [23], [#name("KIM Song I")], [#age(22)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2726*], [#delta(37)],
-      [24], [#name("JEON Jihee")], [#age(24)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2719*], [#delta(5)],
+      [23], [#name("KIM Song I")], [#age(22)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2726*], [#delta(37)],
+      [24], [#name("JEON Jihee")], [#age(24)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2719*], [#delta(5)],
       [25], [#name("HU Melek")], [#age(27)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2717*], [#delta(1)],
     )
   )
@@ -64,7 +64,7 @@
       [47], [#name("CHEN Ke")], [#age(19)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2620*], [#delta(2)],
       [48], [#name("SHAN Xiaona")], [#age(33)], [#assoc("GER")], [#right], [#penhold], [#attack], [*2620*], [#delta(-9)],
       [49], [#name("HASHIMOTO Honoka")], [#age(18)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2618*], [#delta(1)],
-      [50], [#name("YANG Ha Eun")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2617*], [#delta(-30)],
+      [50], [#name("YANG Ha Eun")], [#age(22)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2617*], [#delta(-30)],
     )
   )
 #pagebreak()

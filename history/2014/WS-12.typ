@@ -40,7 +40,7 @@
     table(
       columns: 9,
       [\#], [Player],[Age], [Assoc.],  [Hand], [Grip], [Style], [Rating], [$Delta$],
-      [26], [#name("YANG Ha Eun")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2642*], [#delta(-3)],
+      [26], [#name("YANG Ha Eun")], [#age(20)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2642*], [#delta(-3)],
       [27], [#name("LI Jie")], [#age(30)], [#assoc("NED")], [#right], [#shakehand], [#defense], [*2637*], [#delta(0)],
       [28], [#name("SATO Hitomi")], [#age(17)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2630*], [#delta(28)],
       [29], [#name("WANG Manyu")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2630*], [#delta(-1)],
@@ -79,7 +79,7 @@
       [53], [#name("MADARASZ Dora")], [#age(21)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2564*], [#delta(44)],
       [54], [#name("WU Jiaduo")], [#age(37)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2561*], [#delta(-23)],
       [55], [#name("KIM Jong")], [#age(25)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2560*], [#delta(-2)],
-      [56], [#name("JEON Jihee")], [#age(22)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2558*], [#delta(-9)],
+      [56], [#name("JEON Jihee")], [#age(22)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2558*], [#delta(-9)],
       [57], [#name("CHEN Ke")], [#age(17)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2550*], [#delta(-2)],
       [58], [#name("WAKAMIYA Misako")], [#age(25)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2547*], [#delta(27)],
       [59], [#name("SAMARA Elizabeta")], [#age(25)], [#assoc("ROU")], [#left], [#shakehand], [#attack], [*2545*], [#delta(-1)],
@@ -108,7 +108,7 @@
     table(
       columns: 9,
       [\#], [Player],[Age], [Assoc.],  [Hand], [Grip], [Style], [Rating], [$Delta$],
-      [76], [#name("KIM Song I")], [#age(20)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2518*], [#delta(-1)],
+      [76], [#name("KIM Song I")], [#age(20)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2518*], [#delta(-1)],
       [77], [#name("LEE Ho Ching")], [#age(22)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2513*], [#delta(0)],
       [78], [#name("MITTELHAM Nina")], [#age(18)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2511*], [#delta(1)],
       [79], [#name("PESOTSKA Margaryta")], [#age(23)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2510*], [#delta(1)],

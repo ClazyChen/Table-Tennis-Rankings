@@ -24,7 +24,7 @@
       [16], [#name("木子")], [#age(25)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2691*], [#delta(0)],
       [17], [#name("佩特丽莎 索尔佳")], [#age(20)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2691*], [#delta(4)],
       [18], [#name("于梦雨")], [#age(25)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2691*], [#delta(-1)],
-      [19], [#name("梁夏银")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2689*], [#delta(-1)],
+      [19], [#name("梁夏银")], [#age(20)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2689*], [#delta(-1)],
       [20], [#name("单晓娜")], [#age(31)], [#assoc("GER")], [#right], [#penhold], [#attack], [*2680*], [#delta(7)],
       [21], [#name("福原爱")], [#age(26)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2678*], [#delta(-1)],
       [22], [#name("石川佳纯")], [#age(21)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2675*], [#delta(0)],
@@ -77,7 +77,7 @@
       [51], [#name("倪夏莲")], [#age(51)], [#assoc("LUX")], [#left], [#penhold], [#attack], [*2565*], [#delta(61)],
       [52], [#name("LIN Ye")], [#age(18)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2560*], [#delta(-2)],
       [53], [#name("伊莲 埃万坎")], [#age(31)], [#assoc("GER")], [#right], [#shakehand], [#defense], [*2559*], [#delta(3)],
-      [54], [#name("田志希")], [#age(22)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2552*], [#delta(-1)],
+      [54], [#name("田志希")], [#age(22)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2552*], [#delta(-1)],
       [55], [#name("陈可")], [#age(17)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2550*], [#delta(-4)],
       [56], [#name("佐藤瞳")], [#age(17)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2547*], [#delta(-13)],
       [57], [#name("CHOI Moonyoung")], [#age(28)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2543*], [#delta(1)],
@@ -98,7 +98,7 @@
       [72], [#name("姜华珺")], [#age(30)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2523*], [#delta(0)],
       [73], [#name("布里特 伊尔兰德")], [#age(20)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2523*], [#delta(13)],
       [74], [#name("伊藤美诚")], [#age(14)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2521*], [#delta(-3)],
-      [75], [#name("金宋依")], [#age(20)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2518*], [#delta(-2)],
+      [75], [#name("金宋依")], [#age(20)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2518*], [#delta(-2)],
     )
   )
 #pagebreak()

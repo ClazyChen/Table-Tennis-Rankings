@@ -24,7 +24,7 @@
       [16], [#name("伊丽莎白 萨玛拉")], [#age(26)], [#assoc("ROU")], [#left], [#shakehand], [#attack], [*2699*], [#delta(19)],
       [17], [#name("王曼昱")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2696*], [#delta(-1)],
       [18], [#name("木子")], [#age(26)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2691*], [#delta(-1)],
-      [19], [#name("梁夏银")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2690*], [#delta(9)],
+      [19], [#name("梁夏银")], [#age(21)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2690*], [#delta(9)],
       [20], [#name("于梦雨")], [#age(26)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2676*], [#delta(-2)],
       [21], [#name("刘高阳")], [#age(19)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2675*], [#delta(-1)],
       [22], [#name("平野早矢香")], [#age(30)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2674*], [#delta(7)],
@@ -64,7 +64,7 @@
       [47], [#name("陈可")], [#age(18)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2584*], [#delta(-2)],
       [48], [#name("NG Wing Nam")], [#age(23)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2583*], [#delta(-2)],
       [49], [#name("石垣优香")], [#age(26)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2581*], [#delta(20)],
-      [50], [#name("田志希")], [#age(23)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2576*], [#delta(6)],
+      [50], [#name("田志希")], [#age(23)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2576*], [#delta(6)],
     )
   )
 #pagebreak()
@@ -110,7 +110,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [76], [#name("GU Ruochen")], [#age(21)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2524*], [#delta(-6)],
       [77], [#name("郑怡静")], [#age(23)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2523*], [#delta(-35)],
-      [78], [#name("金宋依")], [#age(21)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2518*], [#delta(-2)],
+      [78], [#name("金宋依")], [#age(21)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2518*], [#delta(-2)],
       [79], [#name("LEE I-Chen")], [#age(28)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2518*], [#delta(-13)],
       [80], [#name("SOLJA Amelie")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2516*], [#delta(-7)],
       [81], [#name("PESOTSKA Margaryta")], [#age(24)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2510*], [#delta(-3)],

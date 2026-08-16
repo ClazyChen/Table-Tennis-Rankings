@@ -259,7 +259,7 @@
       [188], [#name("SZCZERKOWSKA Magdalena")], [#age(16)], [#assoc("POL")], [?], [?], [?], [*2028*], [#delta(148)],
       [189], [#name("GUFRANOVA Rimma")], [#age(17)], [#assoc("UZB")], [#right], [#shakehand], [#attack], [*2025*], [#delta(0)],
       [190], [#name("LIU Hsing-Yin")], [#age(21)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2024*], [#delta(0)],
-      [191], [#name("梁夏银")], [#age(14)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2020*], [#delta(135)],
+      [191], [#name("梁夏银")], [#age(14)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2020*], [#delta(135)],
       [192], [#name("AASEBO Marte")], [#age(18)], [#assoc("NOR")], [#right], [#shakehand], [#attack], [*2020*], [#delta(-1)],
       [193], [#name("EZZEDDINE Ruaida")], [#age(19)], [#assoc("VEN")], [?], [?], [?], [*2020*], [#delta(-1)],
       [194], [#name("SILVA Ligia")], [#age(27)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2016*], [#delta(-1)],

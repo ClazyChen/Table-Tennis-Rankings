@@ -22,7 +22,7 @@
       [14], [#name("LI Xiaodan")], [#age(23)], [#assoc("CHN")], [?], [?], [?], [*2694*], [#delta(1)],
       [15], [#name("JIANG Huajun")], [#age(29)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2663*], [#delta(-1)],
       [16], [#name("RI Myong Sun")], [#age(21)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2661*], [#delta(2)],
-      [17], [#name("YANG Ha Eun")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2657*], [#delta(3)],
+      [17], [#name("YANG Ha Eun")], [#age(19)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2657*], [#delta(3)],
       [18], [#name("SHAN Xiaona")], [#age(30)], [#assoc("GER")], [#right], [#penhold], [#attack], [*2646*], [#delta(22)],
       [19], [#name("FUKUHARA Ai")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2644*], [#delta(34)],
       [20], [#name("PAVLOVICH Viktoria")], [#age(35)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2640*], [#delta(-4)],
@@ -51,7 +51,7 @@
       [34], [#name("LANG Kristin")], [#age(28)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2579*], [#delta(1)],
       [35], [#name("LIU Xi")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2577*], [#delta(141)],
       [36], [#name("LI Jiao")], [#age(40)], [#assoc("NED")], [#left], [#penhold], [#attack], [*2569*], [#delta(-13)],
-      [37], [#name("JEON Jihee")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2567*], [#delta(1)],
+      [37], [#name("JEON Jihee")], [#age(21)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2567*], [#delta(1)],
       [38], [#name("WU Jiaduo")], [#age(36)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2559*], [#delta(-10)],
       [39], [#name("PESOTSKA Margaryta")], [#age(22)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2555*], [#delta(5)],
       [40], [#name("NG Wing Nam")], [#age(21)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2553*], [#delta(62)],
@@ -131,7 +131,7 @@
       [96], [#name("STEFANOVA Nikoleta")], [#age(29)], [#assoc("ITA")], [#left], [#shakehand], [#attack], [*2417*], [#delta(13)],
       [97], [#name("TIE Yana")], [#age(34)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2416*], [#delta(-2)],
       [98], [#name("ITO Mima")], [#age(13)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2415*], [#delta(29)],
-      [99], [#name("KIM Song I")], [#age(19)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2414*], [#delta(-2)],
+      [99], [#name("KIM Song I")], [#age(19)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2414*], [#delta(-2)],
       [100], [#name("ZHOU Xintong")], [#age(20)], [#assoc("CHN")], [?], [?], [?], [*2412*], [#delta(464)],
     )
   )

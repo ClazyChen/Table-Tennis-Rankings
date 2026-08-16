@@ -60,7 +60,7 @@
       [43], [#name("ZHANG Rui")], [#age(30)], [#assoc("HKG")], [?], [?], [?], [*2486*], [#delta(-1)],
       [44], [#name("LI Xue")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#defense], [*2485*], [#delta(1)],
       [45], [#name("CHENG I-Ching")], [#age(17)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2482*], [#delta(1)],
-      [46], [#name("YANG Ha Eun")], [#age(15)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2479*], [#delta(5)],
+      [46], [#name("YANG Ha Eun")], [#age(15)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2479*], [#delta(5)],
       [47], [#name("ZHU Fang")], [#age(33)], [#assoc("ESP")], [?], [?], [?], [*2475*], [#delta(1)],
       [48], [#name("LI Karen")], [#age(32)], [#assoc("NZL")], [?], [?], [?], [*2471*], [#delta(1)],
       [49], [#name("KUZMINA Elena")], [#age(20)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2463*], [#delta(3)],

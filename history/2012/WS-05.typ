@@ -27,7 +27,7 @@
       [19], [#name("LI Xiaodan")], [#age(22)], [#assoc("CHN")], [?], [?], [?], [*2687*], [#delta(-1)],
       [20], [#name("ISHIKAWA Kasumi")], [#age(19)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2682*], [#delta(1)],
       [21], [#name("HIRANO Sayaka")], [#age(27)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2671*], [#delta(12)],
-      [22], [#name("YANG Ha Eun")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2670*], [#delta(64)],
+      [22], [#name("YANG Ha Eun")], [#age(18)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2670*], [#delta(64)],
       [23], [#name("MOON Hyunjung")], [#age(28)], [#assoc("KOR")], [?], [?], [?], [*2666*], [#delta(-4)],
       [24], [#name("LI Jiao")], [#age(39)], [#assoc("NED")], [#left], [#penhold], [#attack], [*2657*], [#delta(17)],
       [25], [#name("PAVLOVICH Viktoria")], [#age(34)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2644*], [#delta(2)],
@@ -63,7 +63,7 @@
       [46], [#name("LANG Kristin")], [#age(27)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2563*], [#delta(29)],
       [47], [#name("SONG Maeum")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2558*], [#delta(-4)],
       [48], [#name("SUN Beibei")], [#age(28)], [#assoc("SGP")], [?], [?], [?], [*2556*], [#delta(-16)],
-      [49], [#name("JEON Jihee")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2540*], [#delta(-1)],
+      [49], [#name("JEON Jihee")], [#age(20)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2540*], [#delta(-1)],
       [50], [#name("YU Mengyu")], [#age(23)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2539*], [#delta(-11)],
     )
   )

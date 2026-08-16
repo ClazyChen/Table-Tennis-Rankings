@@ -245,7 +245,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [176], [#name("ZANARDI Marine")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2052*], [#delta(-1)],
-      [177], [#name("梁夏银")], [#age(15)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2051*], [#delta(8)],
+      [177], [#name("梁夏银")], [#age(15)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2051*], [#delta(8)],
       [178], [#name("KIM Sujin")], [#age(25)], [#assoc("KOR")], [?], [?], [?], [*2045*], [#delta(-2)],
       [179], [#name("FILI Christina")], [#age(30)], [#assoc("GRE")], [?], [?], [?], [*2042*], [#delta(-2)],
       [180], [#name("HAPONOVA Hanna")], [#age(24)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2030*], [#delta(-1)],

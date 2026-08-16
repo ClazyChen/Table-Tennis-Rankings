@@ -74,7 +74,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [51], [#name("梁夏银")], [#age(15)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2469*], [#delta(0)],
+      [51], [#name("梁夏银")], [#age(15)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2469*], [#delta(0)],
       [52], [#name("KUZMINA Elena")], [#age(20)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2463*], [#delta(0)],
       [53], [#name("木子")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2460*], [#delta(0)],
       [54], [#name("YAMANASHI Yuri")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2455*], [#delta(0)],

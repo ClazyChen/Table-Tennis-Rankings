@@ -245,7 +245,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [176], [#name("BOBOCICA Mihai")], [#age(37)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2434*], [#delta(-1)],
-      [177], [#name("KIM Taehyun")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2433*], [#delta(1)],
+      [177], [#name("KIM Taehyun")], [#age(20)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2433*], [#delta(1)],
       [178], [#name("WOO Hyeonggyu")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2433*], [#delta(1)],
       [179], [#name("爱德华 约内斯库")], [#age(19)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2430*], [#delta(-6)],
       [180], [#name("JEVTOVIC Marko")], [#age(36)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2429*], [#delta(0)],

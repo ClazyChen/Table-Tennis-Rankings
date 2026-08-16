@@ -30,7 +30,7 @@
       [22], [#name("沈燕飞")], [#age(37)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2725*], [#delta(-7)],
       [23], [#name("杜凯琹")], [#age(20)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2722*], [#delta(13)],
       [24], [#name("加藤美优")], [#age(17)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2721*], [#delta(84)],
-      [25], [#name("金宋依")], [#age(22)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2719*], [#delta(-2)],
+      [25], [#name("金宋依")], [#age(22)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2719*], [#delta(-2)],
     )
   )
 #pagebreak()
@@ -42,7 +42,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [26], [#name("刘高阳")], [#age(20)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2711*], [#delta(0)],
       [27], [#name("徐孝元")], [#age(29)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2708*], [#delta(-10)],
-      [28], [#name("田志希")], [#age(24)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2705*], [#delta(-4)],
+      [28], [#name("田志希")], [#age(24)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2705*], [#delta(-4)],
       [29], [#name("佐藤瞳")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2704*], [#delta(63)],
       [30], [#name("李倩")], [#age(30)], [#assoc("POL")], [#right], [#shakehand], [#defense], [*2701*], [#delta(1)],
       [31], [#name("早田希娜")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2700*], [#delta(-2)],
@@ -110,7 +110,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [76], [#name("吴佳多")], [#age(39)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2537*], [#delta(-2)],
       [77], [#name("MAEDA Miyu")], [#age(20)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2536*], [#delta(-19)],
-      [78], [#name("梁夏银")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2535*], [#delta(-28)],
+      [78], [#name("梁夏银")], [#age(22)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2535*], [#delta(-28)],
       [79], [#name("维多利亚 帕芙洛维奇")], [#age(38)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2531*], [#delta(25)],
       [80], [#name("伊丽莎白 萨玛拉")], [#age(27)], [#assoc("ROU")], [#left], [#shakehand], [#attack], [*2525*], [#delta(-5)],
       [81], [#name("DE NUTTE Sarah")], [#age(24)], [#assoc("LUX")], [#right], [#shakehand], [#attack], [*2524*], [#delta(-19)],

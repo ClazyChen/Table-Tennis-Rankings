@@ -116,7 +116,7 @@
       [81], [#name("KUZMINA Elena")], [#age(21)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2357*], [#delta(-26)],
       [82], [#name("SHEN Yanfei")], [#age(31)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2356*], [#delta(7)],
       [83], [#name("PAVLOVICH Veronika")], [#age(32)], [#assoc("BLR")], [?], [?], [?], [*2356*], [#delta(-3)],
-      [84], [#name("YANG Ha Eun")], [#age(16)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2354*], [#delta(19)],
+      [84], [#name("YANG Ha Eun")], [#age(16)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2354*], [#delta(19)],
       [85], [#name("WAKAMIYA Misako")], [#age(21)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2353*], [#delta(-6)],
       [86], [#name("KIM Jong")], [#age(21)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2353*], [#delta(-5)],
       [87], [#name("KRAVCHENKO Marina")], [#age(37)], [#assoc("ISR")], [#right], [#shakehand], [#attack], [*2350*], [#delta(-5)],

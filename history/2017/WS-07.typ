@@ -24,13 +24,13 @@
       [16], [#name("FENG Tianwei")], [#age(31)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2756*], [#delta(-8)],
       [17], [#name("CHENG I-Ching")], [#age(25)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2754*], [#delta(-2)],
       [18], [#name("HAYATA Hina")], [#age(17)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2754*], [#delta(-1)],
-      [19], [#name("KIM Song I")], [#age(23)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2753*], [#delta(0)],
+      [19], [#name("KIM Song I")], [#age(23)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2753*], [#delta(0)],
       [20], [#name("WEN Jia")], [#age(28)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2748*], [#delta(-4)],
       [21], [#name("MORI Sakura")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2739*], [#delta(8)],
       [22], [#name("CHE Xiaoxi")], [#age(24)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2738*], [#delta(-4)],
       [23], [#name("ZENG Jian")], [#age(21)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2730*], [#delta(1)],
       [24], [#name("LANG Kristin")], [#age(32)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2728*], [#delta(8)],
-      [25], [#name("JEON Jihee")], [#age(25)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2726*], [#delta(0)],
+      [25], [#name("JEON Jihee")], [#age(25)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2726*], [#delta(0)],
     )
   )
 #pagebreak()
@@ -55,7 +55,7 @@
       [38], [#name("LI Jiayi")], [#age(23)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2656*], [#delta(-4)],
       [39], [#name("ZHANG Qiang")], [#age(23)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2655*], [#delta(-2)],
       [40], [#name("YU Fu")], [#age(39)], [#assoc("POR")], [#right], [#penhold], [#attack], [*2651*], [#delta(19)],
-      [41], [#name("YANG Ha Eun")], [#age(23)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2651*], [#delta(6)],
+      [41], [#name("YANG Ha Eun")], [#age(23)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2651*], [#delta(6)],
       [42], [#name("YANG Xiaoxin")], [#age(29)], [#assoc("MON")], [#right], [#shakehand], [#attack], [*2650*], [#delta(-4)],
       [43], [#name("HASHIMOTO Honoka")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2646*], [#delta(-21)],
       [44], [#name("XIAO Maria")], [#age(23)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2644*], [#delta(70)],

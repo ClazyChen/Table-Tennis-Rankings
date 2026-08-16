@@ -244,7 +244,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [176], [#name("KIM Taehyun")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2433*], [#delta(-20)],
+      [176], [#name("KIM Taehyun")], [#age(19)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2433*], [#delta(-20)],
       [177], [#name("WOO Hyeonggyu")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2433*], [#delta(-5)],
       [178], [#name("JEVTOVIC Marko")], [#age(35)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2429*], [#delta(-5)],
       [179], [#name("CHOI Inhyeok")], [#age(22)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2426*], [#delta(-1)],

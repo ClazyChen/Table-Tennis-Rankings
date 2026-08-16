@@ -29,7 +29,7 @@
       [21], [#name("WANG Manyu")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2729*], [#delta(-1)],
       [22], [#name("HU Melek")], [#age(27)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2728*], [#delta(-1)],
       [23], [#name("SHEN Yanfei")], [#age(37)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2725*], [#delta(-1)],
-      [24], [#name("KIM Song I")], [#age(22)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2719*], [#delta(1)],
+      [24], [#name("KIM Song I")], [#age(22)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2719*], [#delta(1)],
       [25], [#name("LIU Gaoyang")], [#age(20)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2711*], [#delta(1)],
     )
   )
@@ -44,7 +44,7 @@
       [27], [#name("LI Qian")], [#age(30)], [#assoc("POL")], [#right], [#shakehand], [#defense], [*2701*], [#delta(3)],
       [28], [#name("HAYATA Hina")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2700*], [#delta(3)],
       [29], [#name("KATO Miyu")], [#age(17)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2695*], [#delta(-5)],
-      [30], [#name("JEON Jihee")], [#age(24)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2683*], [#delta(-2)],
+      [30], [#name("JEON Jihee")], [#age(24)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2683*], [#delta(-2)],
       [31], [#name("DOO Hoi Kem")], [#age(20)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2682*], [#delta(-8)],
       [32], [#name("MIKHAILOVA Polina")], [#age(30)], [#assoc("RUS")], [#right], [#shakehand], [#defense], [*2678*], [#delta(18)],
       [33], [#name("FUKUHARA Ai")], [#age(28)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2675*], [#delta(2)],
@@ -91,7 +91,7 @@
       [65], [#name("LANG Kristin")], [#age(31)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2580*], [#delta(-2)],
       [66], [#name("VACENOVSKA Iveta")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2578*], [#delta(-2)],
       [67], [#name("WANG Yidi")], [#age(19)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2573*], [#delta(-2)],
-      [68], [#name("YANG Ha Eun")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2566*], [#delta(10)],
+      [68], [#name("YANG Ha Eun")], [#age(22)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2566*], [#delta(10)],
       [69], [#name("GRZYBOWSKA-FRANC Katarzyna")], [#age(27)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2566*], [#delta(-3)],
       [70], [#name("POTA Georgina")], [#age(31)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2566*], [#delta(-3)],
       [71], [#name("SONG Maeum")], [#age(24)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2565*], [#delta(-3)],

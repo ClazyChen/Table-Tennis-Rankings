@@ -24,13 +24,13 @@
       [16], [#name("WEN Jia")], [#age(28)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2748*], [#delta(0)],
       [17], [#name("HAYATA Hina")], [#age(17)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2745*], [#delta(0)],
       [18], [#name("CHE Xiaoxi")], [#age(24)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2738*], [#delta(0)],
-      [19], [#name("KIM Song I")], [#age(23)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2738*], [#delta(0)],
+      [19], [#name("KIM Song I")], [#age(23)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2738*], [#delta(0)],
       [20], [#name("ANDO Minami")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2725*], [#delta(0)],
       [21], [#name("LIU Gaoyang")], [#age(21)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2711*], [#delta(1)],
       [22], [#name("HASHIMOTO Honoka")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2707*], [#delta(23)],
       [23], [#name("ITO Mima")], [#age(17)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2707*], [#delta(0)],
       [24], [#name("ZENG Jian")], [#age(21)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2695*], [#delta(0)],
-      [25], [#name("JEON Jihee")], [#age(25)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2689*], [#delta(0)],
+      [25], [#name("JEON Jihee")], [#age(25)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2689*], [#delta(0)],
     )
   )
 #pagebreak()
@@ -61,7 +61,7 @@
       [44], [#name("POLCANOVA Sofia")], [#age(23)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2639*], [#delta(22)],
       [45], [#name("SOLJA Petrissa")], [#age(23)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2639*], [#delta(-2)],
       [46], [#name("KIM Kyungah")], [#age(40)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2638*], [#delta(-2)],
-      [47], [#name("YANG Ha Eun")], [#age(23)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2632*], [#delta(-1)],
+      [47], [#name("YANG Ha Eun")], [#age(23)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2632*], [#delta(-1)],
       [48], [#name("EERLAND Britt")], [#age(23)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2628*], [#delta(-1)],
       [49], [#name("HU Melek")], [#age(28)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2628*], [#delta(4)],
       [50], [#name("MORIZONO Misaki")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2627*], [#delta(-2)],

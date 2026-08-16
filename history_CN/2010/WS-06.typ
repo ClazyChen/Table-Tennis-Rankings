@@ -111,7 +111,7 @@
       [76], [#name("SKOV Mie")], [#age(24)], [#assoc("DEN")], [#right], [#shakehand], [#attack], [*2377*], [#delta(3)],
       [77], [#name("KOMWONG Nanthana")], [#age(30)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2371*], [#delta(33)],
       [78], [#name("SIBLEY Kelly")], [#age(22)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2370*], [#delta(145)],
-      [79], [#name("梁夏银")], [#age(16)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2363*], [#delta(-4)],
+      [79], [#name("梁夏银")], [#age(16)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2363*], [#delta(-4)],
       [80], [#name("若宫三纱子")], [#age(21)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2356*], [#delta(0)],
       [81], [#name("PAVLOVICH Veronika")], [#age(32)], [#assoc("BLR")], [?], [?], [?], [*2356*], [#delta(-11)],
       [82], [#name("KIM Jong")], [#age(21)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2353*], [#delta(-41)],

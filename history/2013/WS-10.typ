@@ -29,7 +29,7 @@
       [21], [#name("MOON Hyunjung")], [#age(29)], [#assoc("KOR")], [?], [?], [?], [*2626*], [#delta(-1)],
       [22], [#name("LANG Kristin")], [#age(28)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2617*], [#delta(1)],
       [23], [#name("SHAN Xiaona")], [#age(30)], [#assoc("GER")], [#right], [#penhold], [#attack], [*2615*], [#delta(3)],
-      [24], [#name("JEON Jihee")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2606*], [#delta(3)],
+      [24], [#name("JEON Jihee")], [#age(21)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2606*], [#delta(3)],
       [25], [#name("FUKUHARA Ai")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2606*], [#delta(-1)],
     )
   )
@@ -49,7 +49,7 @@
       [32], [#name("RI Myong Sun")], [#age(21)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2585*], [#delta(3)],
       [33], [#name("NONAKA Yuki")], [#age(28)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2581*], [#delta(3)],
       [34], [#name("LIU Xi")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2577*], [#delta(3)],
-      [35], [#name("YANG Ha Eun")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2570*], [#delta(-10)],
+      [35], [#name("YANG Ha Eun")], [#age(19)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2570*], [#delta(-10)],
       [36], [#name("ISHIKAWA Kasumi")], [#age(20)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2569*], [#delta(-21)],
       [37], [#name("KIM Hye Song")], [#age(20)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2560*], [#delta(1)],
       [38], [#name("RI Mi Gyong")], [#age(23)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2560*], [#delta(1)],
@@ -79,7 +79,7 @@
       [53], [#name("LI Xue")], [#age(28)], [#assoc("FRA")], [#right], [#shakehand], [#defense], [*2523*], [#delta(0)],
       [54], [#name("WU Jiaduo")], [#age(36)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2521*], [#delta(0)],
       [55], [#name("CHOI Moonyoung")], [#age(27)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2520*], [#delta(0)],
-      [56], [#name("KIM Song I")], [#age(19)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2518*], [#delta(0)],
+      [56], [#name("KIM Song I")], [#age(19)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2518*], [#delta(0)],
       [57], [#name("BILENKO Tetyana")], [#age(30)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2518*], [#delta(-36)],
       [58], [#name("DODEAN Daniela")], [#age(25)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2512*], [#delta(-1)],
       [59], [#name("BARTHEL Zhenqi")], [#age(26)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2510*], [#delta(-1)],

@@ -220,7 +220,7 @@
       [158], [#name("ALTO Gaston")], [#age(37)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2458*], [#delta(-7)],
       [159], [#name("QUAN Kaiyuan")], [#age(21)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2456*], [NEW],
       [160], [#name("LIND Anders")], [#age(24)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2454*], [#delta(-10)],
-      [161], [#name("KIM Taehyun")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2453*], [#delta(84)],
+      [161], [#name("KIM Taehyun")], [#age(19)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2453*], [#delta(84)],
       [162], [#name("PANG Koen")], [#age(20)], [#assoc("SGP")], [#left], [#shakehand], [#attack], [*2452*], [#delta(-14)],
       [163], [#name("MONTEIRO Joao")], [#age(39)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2452*], [#delta(-22)],
       [164], [#name("GAO Yang")], [#age(20)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2452*], [NEW],

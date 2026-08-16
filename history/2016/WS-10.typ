@@ -11,7 +11,7 @@
       [3], [#name("MU Zi")], [#age(27)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2947*], [#delta(1)],
       [4], [#name("ZHU Yuling")], [#age(21)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2942*], [#delta(-1)],
       [5], [#name("CHEN Meng")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2935*], [#delta(0)],
-      [6], [#name("KIM Song I")], [#age(22)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2881*], [#delta(0)],
+      [6], [#name("KIM Song I")], [#age(22)], [#assoc("COR")], [#right], [#shakehand], [#defense], [*2881*], [#delta(0)],
       [7], [#name("WU Yang")], [#age(24)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2846*], [#delta(0)],
       [8], [#name("ISHIKAWA Kasumi")], [#age(23)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2836*], [#delta(0)],
       [9], [#name("HU Limei")], [#age(21)], [#assoc("CHN")], [#right], [#penhold], [#defense], [*2826*], [#delta(0)],
@@ -29,7 +29,7 @@
       [21], [#name("ZHOU Yihan")], [#age(22)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2716*], [#delta(1)],
       [22], [#name("LIU Gaoyang")], [#age(20)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2711*], [#delta(2)],
       [23], [#name("HIRANO Miu")], [#age(16)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2710*], [#delta(-4)],
-      [24], [#name("JEON Jihee")], [#age(24)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2701*], [#delta(1)],
+      [24], [#name("JEON Jihee")], [#age(24)], [#assoc("COR")], [#left], [#shakehand], [#attack], [*2701*], [#delta(1)],
       [25], [#name("LIU Jia")], [#age(34)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2701*], [#delta(1)],
     )
   )
@@ -55,7 +55,7 @@
       [38], [#name("NI Xia Lian")], [#age(53)], [#assoc("LUX")], [#left], [#penhold], [#attack], [*2650*], [#delta(-1)],
       [39], [#name("LEE Ho Ching")], [#age(24)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2649*], [#delta(-6)],
       [40], [#name("ISHIGAKI Yuka")], [#age(27)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2643*], [#delta(-9)],
-      [41], [#name("YANG Ha Eun")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2642*], [#delta(58)],
+      [41], [#name("YANG Ha Eun")], [#age(22)], [#assoc("COR")], [#right], [#shakehand], [#attack], [*2642*], [#delta(58)],
       [42], [#name("TIE Yana")], [#age(37)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2634*], [#delta(-1)],
       [43], [#name("PAVLOVICH Viktoria")], [#age(38)], [#assoc("BLR")], [#right], [#shakehand], [#defense], [*2634*], [#delta(-4)],
       [44], [#name("CHEN Szu-Yu")], [#age(23)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2627*], [#delta(-15)],

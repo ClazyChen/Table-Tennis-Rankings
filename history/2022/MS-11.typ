@@ -215,7 +215,7 @@
       [153], [#name("PRYSHCHEPA Ievgen")], [#age(37)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2457*], [#delta(5)],
       [154], [#name("MEISSNER Cedric")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2456*], [#delta(5)],
       [155], [#name("ALTO Gaston")], [#age(37)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2456*], [#delta(0)],
-      [156], [#name("KIM Taehyun")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2453*], [#delta(4)],
+      [156], [#name("KIM Taehyun")], [#age(19)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2453*], [#delta(4)],
       [157], [#name("MATSUSHIMA Sora")], [#age(15)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2452*], [#delta(5)],
       [158], [#name("CAMPOS Jorge")], [#age(31)], [#assoc("CUB")], [#right], [#shakehand], [#attack], [*2450*], [#delta(5)],
       [159], [#name("PEREIRA Andy")], [#age(33)], [#assoc("CUB")], [#left], [#shakehand], [#attack], [*2450*], [#delta(5)],
