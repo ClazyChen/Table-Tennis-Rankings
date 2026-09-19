@@ -7,7 +7,7 @@ This repository demonstrates an excellent table tennis international ranking alg
 This repository provides world rankings from January 2004 to today. Earlier rankings cannot be calculated because the ITTF does not provide relevant data.
 All rankings use Typst, which you can easily convert to pdf files.
 
-There is also a bilingual (EN/CN) static website in `web/`: monthly MS/WS ranking tables plus per-player rating-history pages. It is deployed to GitHub Pages (`.github/workflows/pages.yml`); preview locally with `python -m http.server 8000 -d web`.
+There is also a bilingual (EN/CN) static website with monthly MS/WS ranking tables (Typst color scheme, draggable month timeline) and per-player rating-history pages — **live at https://clazychen.github.io/Table-Tennis-Rankings/**. The site source is in `web/`; it is redeployed automatically by GitHub Actions (`.github/workflows/pages.yml`) on every push that touches `web/`. Preview locally with `python -m http.server 8000 -d web`.
 
 This repository includes men's singles ranking and women's singles ranking. You can see the changes of top players in the past twenty years: from Wang Liqin, Ma Lin, Wang Hao, Zhang Jike, Ma Long, Fan Zhendong to Wang Chuqin; from Zhang Yining, Guo Yue, Li Xiaoxia, Ding Ning, Liu Shiwen, Chen Meng to Sun Yingsha.
 
@@ -27,7 +27,7 @@ The code is written in Julia. The ranking algorithm and data formats are documen
 
 As a networking engineer, I fully understand many fans are dissatisfied with the current world rankings and want to scrape ITTF data for statistics, which has put heavy load on ITTF's servers.
 
-Around the WTT Champions Yokohama 2026, I implemented certain workarounds for the 429 restrictions. However, I'm not sure whether these workarounds will survive the next update ahead of the WTT Swedish Smash 2026.
+Around the WTT Champions Yokohama 2026, I implemented workarounds for the 429 restrictions: human-like request pacing, browser-fingerprint alignment, and checkpoint-and-resume on any 429. They have held up through the subsequent ITTF updates — with a clean exit IP, the post–Swedish Smash 2026 crawl finished without hitting a single 429.
 
-The crawler code now lives in `src/ittf_fabrik.jl` (entry point: `crawl.jl`). It is deliberately slow and conservative: on HTTP 429 it checkpoints to `crawl_state.json` and exits instead of retrying aggressively — running it carelessly will still get your IP penalized. **Rankings have been updated up to the present timestamp (WTT Champions Yokohama 2026).**
+The crawler code lives in `src/ittf_fabrik.jl` (entry point: `crawl.jl`). It is deliberately slow and conservative: on HTTP 429 it checkpoints to `crawl_state.json` and exits instead of retrying aggressively — running it carelessly will still get your IP penalized. **Rankings are updated to the latest ITTF events.**
 
