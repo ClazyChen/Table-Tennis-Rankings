@@ -22,10 +22,6 @@ __pycache__
 
 # local ITTF HTML fixtures / helper scripts
 testdata/event_3480_matches.html
-testdata/_install_deps.jl
-testdata/_patch_notebook.py
-testdata/last_player_fail.html
-testdata/_fetch_missing_players.jl
 testdata/webbridge-resp-cookies.json
 
 # ITTF crawl secrets / checkpoint

@@ -90,9 +90,10 @@ under `src/`; its explanatory markdown now lives in `docs/algorithm.md`.
 - `docs/superpowers/specs/` — design documents for the 2026 rate-limit-resilient crawl
   (list/68 matches, list/60 players, 429 pause/resume). Read these before touching the crawler.
 - `docs/reference/` — saved ITTF HTML pages used as offline fixtures.
-- `testdata/` — offline assertion scripts and fixtures (see Testing). Files prefixed `_` are
-  one-off migration/patch helpers (including the old `_cell_*.jl` notebook mirrors, now
-  obsolete); `debug_*.jl` are login-debugging leftovers.
+- `testdata/` — offline assertion scripts (`test_*.jl`, see Testing) with their HTML
+  fixtures, plus `testdata/_install_deps.jl` (installs the Julia dependencies) and
+  `bench_pipeline.jl` (pipeline read/parse benchmark). `test_login.jl` is a live-network
+  smoke test for the crawler login (not part of the offline suite).
 - `web/` — the static ranking site (zero-dependency vanilla JS: `index.html`, `app.js`,
   `style.css`; hash routing `#/MS|WS/YYYY-MM`, `#/player/<id>`; EN/CN toggle; Typst color
   palette for hand/grip/style/age; month timeline slider + big side prev/next buttons;
