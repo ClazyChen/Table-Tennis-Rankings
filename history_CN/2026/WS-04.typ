@@ -248,7 +248,7 @@
       [177], [#name("WU Ying Syuan")], [#age(17)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2398*], [#delta(-24)],
       [178], [#name("DE NUTTE Sarah")], [#age(34)], [#assoc("LUX")], [#right], [#shakehand], [#attack], [*2398*], [#delta(-17)],
       [179], [#name("CHANG Li Sian Alice")], [#age(26)], [#assoc("MAS")], [#right], [#shakehand], [#defense], [*2398*], [#delta(-7)],
-      [180], [#name("WEI Jingming")], [#age(16)], [#assoc("CHN")], [?], [?], [?], [*2397*], [NEW],
+      [180], [#name("WEI Jingming")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2397*], [NEW],
       [181], [#name("HUANG Yi-Hua")], [#age(42)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2391*], [#delta(-7)],
       [182], [#name("SCHREINER Franziska")], [#age(25)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2389*], [#delta(30)],
       [183], [#name("KUTUMBALE Anusha")], [#age(24)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2389*], [#delta(-7)],

@@ -21,6 +21,7 @@ include(joinpath(@__DIR__, "src", "ittf_convert.jl"))
 include(joinpath(@__DIR__, "src", "rating.jl"))
 include(joinpath(@__DIR__, "src", "typst_output.jl"))
 include(joinpath(@__DIR__, "src", "web_export.jl"))
+include(joinpath(@__DIR__, "src", "events_export.jl"))
 
 function main()
     cd(@__DIR__)
@@ -51,6 +52,7 @@ function main()
 
     println("\n== Merge & save players ==")
     merge_players!(players, new_players)
+    repair_malformed_profiles!(players)
     update_player_associations(new_events, players)
     println("Associations updated from new_events")
     save_players_to_json(players, "data/players.json")
@@ -86,6 +88,9 @@ function main()
 
     println("\n== Web data export ==")
     export_web_data(web_collector, players, highest)
+
+    println("\n== Events web export ==")
+    export_events_web(events, players)
 
     println("\n== Translate to Chinese ==")
     translate_all()

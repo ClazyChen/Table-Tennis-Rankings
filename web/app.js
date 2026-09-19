@@ -27,6 +27,11 @@ const I18N = {
     notFound: "未找到该球员",
     notRanked: "—",
     newMark: "NEW",
+    events: "赛事", backEvents: "← 返回赛事列表",
+    tierMajor: "大赛", tierHigh: "高级别", tierRegular: "常规赛", tierOther: "其他",
+    allTiers: "全部级别",
+    podiumSF: "四强", qualList: "资格赛 / 预赛赛果", groupList: "赛果（非单败赛制）",
+    eventResults: "赛事成绩", showAll: "展开全部", collapse: "收起", wo: "W/O",
     footer: (d, n) => `数据更新于 ${d} · ${n} 名有积分球员 · 月度快照自 2004-01 · 校正版 ELO 算法`,
   },
   en: {
@@ -45,6 +50,11 @@ const I18N = {
     notFound: "Player not found",
     notRanked: "—",
     newMark: "NEW",
+    events: "Events", backEvents: "← Back to events",
+    tierMajor: "Majors", tierHigh: "Top tier", tierRegular: "Regular", tierOther: "Other",
+    allTiers: "All tiers",
+    podiumSF: "SF", qualList: "Qualification / preliminary results", groupList: "Results (non-knockout format)",
+    eventResults: "Event results", showAll: "Show all", collapse: "Collapse", wo: "W/O",
     footer: (d, n) => `Updated ${d} · ${n} rated players · monthly snapshots since 2004-01 · modified ELO`,
   },
 };
@@ -138,6 +148,8 @@ function flagImg(assoc) {
 function parseRoute() {
   const parts = location.hash.replace(/^#\/?/, "").split("/").filter(Boolean);
   if (parts[0] === "player" && parts[1]) return { view: "player", id: parts[1] };
+  if (parts[0] === "events") return { view: "events" };
+  if (parts[0] === "event" && parts[1]) return { view: "event", id: parts[1] };
   if (parts[0] === "MS" || parts[0] === "WS")
     return { view: "ranking", gender: parts[0], month: parts[1] || "latest" };
   return { view: "ranking", gender: "MS", month: "latest" };
@@ -148,6 +160,8 @@ async function render() {
   const r = parseRoute();
   try {
     if (r.view === "player") await renderPlayer(r.id);
+    else if (r.view === "events") await renderEvents();
+    else if (r.view === "event") await renderEvent(r.id);
     else await renderRanking(r.gender, r.month);
   } catch (e) {
     console.error(e);
@@ -269,6 +283,30 @@ async function renderPlayer(id) {
   const age = yob ? new Date().getFullYear() - yob : "?";
   const ageStyle = typeof age === "number" ? ` style="color:${ageColor(age)}"` : "";
 
+  // event results (shard "e": [[tid,cat,resCode],...])
+  let resultsHTML = "", resRows = null;
+  const RES_CAP = 15;
+  if (p.e && p.e.length) {
+    const evIdx = await eventsIndex();
+    const evMap = new Map(evIdx.map((r) => [r[0], r]));
+    const endOf = (tid) => { const ev = evMap.get(tid); return ev ? ev[3] : ""; };
+    resRows = p.e.slice()
+      .sort((a, b) => endOf(b[0]).localeCompare(endOf(a[0])))
+      .map(([tid, cat, res]) => {
+      const ev = evMap.get(tid);
+      if (!ev) return "";
+      return `<tr><td class="muted">${ev[3].slice(0, 7)}</td>` +
+        `<td><a class="player-link" href="#/event/${tid}">${esc(ev[1])}</a></td>` +
+        `<td>${cat === 0 ? "MS" : "WS"}</td>` +
+        `<td><span class="res-badge res-${res}">${resLabel(res)}</span></td></tr>`;
+    });
+    resultsHTML = `<div class="card">
+      <div class="chart-title">${t("eventResults")} (${p.e.length})</div>
+      <table class="matches results"><tbody id="results-body">${resRows.slice(0, RES_CAP).join("")}</tbody></table>
+      ${resRows.length > RES_CAP ? `<button class="chip" id="results-toggle" data-exp="0">${t("showAll")}</button>` : ""}
+    </div>`;
+  }
+
   app.innerHTML = `
     <div class="card">
       <a class="back-link" href="${sessionStorage.getItem("ttr-back") || "#/"}">${t("back")}</a>
@@ -291,7 +329,16 @@ async function renderPlayer(id) {
     <div class="card">
       <div class="chart-title">${t("ratingHistory")}</div>
       <div id="chart-container"></div>
-    </div>`;
+    </div>
+    ${resultsHTML}`;
+
+  const rt = document.getElementById("results-toggle");
+  if (rt && resRows) rt.addEventListener("click", () => {
+    const expanded = rt.dataset.exp === "1";
+    el("results-body").innerHTML = expanded ? resRows.slice(0, RES_CAP).join("") : resRows.join("");
+    rt.textContent = expanded ? t("showAll") : t("collapse");
+    rt.dataset.exp = expanded ? "0" : "1";
+  });
 
   drawChart(el("chart-container"), series, latestMi);
 }
@@ -343,6 +390,240 @@ function drawChart(container, series, latestMi) {
   container.innerHTML = s;
 }
 
+// ---------------------------------------------------------------- events
+// events-index.json rows: [tid, name, start, end, org, weight, [ms podium], [ws podium]]
+// events/<tid>.json: {n,s,e,o,w,pa:{pid:assoc},MS:{t|r|q},WS:{t|r|q}}
+//   t = bracket tree [a,x,res,w,feederA,feederX,games,wo] (feeder null = entered here)
+//   r = rounds fallback [[roundCode,[[a,x,res,w,games,wo],...]],...]
+//   q = qualification list [[a,x,res,w,roundCode,games,wo],...]
+// shard "e": [[tid,cat,resCode],...]; cat 0=MS 1=WS
+const RES_LABEL = { 0: ["冠军", "Champion"], 1: ["亚军", "Runner-up"], 2: ["四强", "Semifinalist"],
+  3: ["八强", "Quarterfinalist"], 4: ["16强", "R16"], 5: ["32强", "R32"], 6: ["64强", "R64"],
+  7: ["128强", "R128"], 8: ["资格赛", "Qual."] };
+const ROUND_LABEL = { 0: ["决赛", "Final"], 1: ["半决赛", "Semifinals"], 2: ["1/4决赛", "Quarterfinals"],
+  3: ["R16", "R16"], 4: ["R32", "R32"], 5: ["R64", "R64"], 6: ["R128", "R128"],
+  "-1": ["小组赛/其他", "Groups/other"] };
+const QUAL_LABEL = { 12: "QR4", 13: "QR8", 14: "QR16", 15: "QR32", 16: "QR64", "-1": "-" };
+const resLabel = (c) => (RES_LABEL[c] || ["?", "?"])[lang === "zh" ? 0 : 1];
+const roundLabel = (c) => (ROUND_LABEL[c] || ["?", "?"])[lang === "zh" ? 0 : 1];
+const qualLabel = (c) => QUAL_LABEL[c] || "-";
+
+function tierOf(w) {
+  w = Math.round(w * 100) / 100;   // stored as Float32 (1.3 → 1.29999995)
+  if (w >= 2.0) return ["tier-major", t("tierMajor")];
+  if (w >= 1.3) return ["tier-high", t("tierHigh")];
+  if (w >= 1.0) return ["tier-regular", t("tierRegular")];
+  return ["tier-other", t("tierOther")];
+}
+
+let eventsIndexP = null;
+function eventsIndex() {
+  if (!eventsIndexP) eventsIndexP = fetchJSON("data/events-index.json");
+  return eventsIndexP;
+}
+
+const podiumName = (nm, id, cls) => id
+  ? `<a class="player-link ${cls}" href="#/player/${id}">${esc(playerName(nm, id))}</a>` : "";
+
+function podiumLine(cat, pod, nm) {
+  if (!pod || !pod[0]) return "";
+  const sf = pod[2] || pod[3]
+    ? `<span class="ev-sf">${t("podiumSF")}: ${podiumName(nm, pod[2], "")}${pod[3] ? " · " + podiumName(nm, pod[3], "") : ""}</span>` : "";
+  return `<div class="ev-podium"><span class="ev-cat">${cat}</span>` +
+    `<span>🥇${podiumName(nm, pod[0], "ev-champ")}</span>` +
+    `<span>🥈${podiumName(nm, pod[1], "")}</span>${sf}</div>`;
+}
+
+let evYear = null, evTier = -1;   // filter state (null year = latest, -1 tier = all)
+
+async function renderEvents() {
+  const app = el("app");
+  app.innerHTML = `<div class="loading">Loading…</div>`;
+  const rows = await eventsIndex();
+  const nm = await nameMap();
+
+  const years = [...new Set(rows.map((r) => r[3].slice(0, 4)))];
+  if (!evYear || !years.includes(evYear)) evYear = years[0];
+  const tiers = [2.0, 1.3, 1.0, 0.0];
+  const tierNames = [t("tierMajor"), t("tierHigh"), t("tierRegular"), t("tierOther")];
+
+  const yearChips = years.map((y) =>
+    `<button class="chip${y === evYear ? " active" : ""}" data-y="${y}">${y}</button>`).join("");
+  const tierChips = [`<button class="chip${evTier === -1 ? " active" : ""}" data-t="-1">${t("allTiers")}</button>`]
+    .concat(tiers.map((w, i) =>
+      `<button class="chip${evTier === i ? " active" : ""}" data-t="${i}">${tierNames[i]}</button>`)).join("");
+
+  const shown = rows.filter((r) => {
+    if (!r[3].startsWith(evYear)) return false;
+    if (evTier === -1) return true;
+    const w = Math.round(r[5] * 100) / 100;
+    return w >= tiers[evTier] && (evTier === 0 || w < tiers[evTier - 1]);
+  });
+
+  const cards = shown.map((r) => {
+    const [tid, name, start, end, org, w, msPod, wsPod] = r;
+    const [tierCls, tierName] = tierOf(w);
+    return `<div class="event-card card">
+      <div class="ev-head"><a class="ev-name player-link" href="#/event/${tid}">${esc(name)}</a><span class="tier ${tierCls}">${tierName}</span></div>
+      <div class="ev-meta">${start} ~ ${end}${org && org !== "?" ? ` · ${flagImg(org)}${esc(org)}` : ""}</div>
+      ${podiumLine("MS", msPod, nm)}${podiumLine("WS", wsPod, nm)}
+    </div>`;
+  }).join("");
+
+  app.innerHTML = `
+    <div class="card toolbar">
+      <div class="chips years">${yearChips}</div>
+      <div class="chips">${tierChips}</div>
+    </div>
+    <div class="events-grid">${cards || `<div class="loading">—</div>`}</div>`;
+
+  app.querySelectorAll(".chip[data-y]").forEach((b) =>
+    b.addEventListener("click", () => { evYear = b.dataset.y; renderEvents(); }));
+  app.querySelectorAll(".chip[data-t]").forEach((b) =>
+    b.addEventListener("click", () => { evTier = Number(b.dataset.t); renderEvents(); }));
+}
+
+// ---- bracket rendering: absolutely-positioned player boxes over an SVG layer
+const BK = { ROW: 28, COL: 196, BOXW: 176, BOXH: 22, HEAD: 26 };
+
+function bkBox(item, side, nm, pa) {
+  const pid = side === "a" ? item.n[0] : item.n[1];
+  const w = item.n[3];
+  const games = item.n[6], wo = item.n[7];
+  const won = pid === w;
+  // score shown next to the winner, always in "winner:loser" form
+  let score = item.n[2] || "";
+  if (score && w === item.n[1]) {
+    const p = score.split(":");
+    if (p.length === 2) score = `${p[1]}:${p[0]}`;
+  }
+  const x = (item.maxDepth - item.depth) * BK.COL;
+  const y = BK.HEAD + (side === "a" ? item.yA : item.yX) * BK.ROW;
+  const assoc = pa && pa[pid] ? pa[pid] : null;
+  const title = `${games || ""}${wo && wo !== "0" && wo !== "" ? " " + t("wo") : ""}`.trim();
+  return `<a class="bk-box${won ? " won" : ""}" style="left:${x}px;top:${y}px" ` +
+    `href="#/player/${pid}" title="${esc(title)}">` +
+    `${assoc ? `<img class="flag" src="data/flags/${esc(assoc)}.png" alt="" onerror="this.style.visibility='hidden'">` : ""}` +
+    `<span class="bk-name">${esc(playerName(nm, pid))}</span>` +
+    `${won && score ? `<span class="bk-score">${esc(score)}</span>` : ""}</a>`;
+}
+
+function bracketHTML(tree, nm, pa) {
+  // Classic match-centric layout: the two players of a match always sit in
+  // adjacent rows, and row spacing doubles with each round. A match at depth d
+  // (0 = final) spans 2^(maxDepth-d+1) slot rows; its two slots are the
+  // adjacent rows at the center of that span, and its two feeder matches tile
+  // the upper/lower halves. Byes simply leave their half empty.
+  let maxDepth = 0;
+  (function md(n, d) {
+    maxDepth = Math.max(maxDepth, d);
+    if (n[4]) md(n[4], d + 1);
+    if (n[5]) md(n[5], d + 1);
+  })(tree, 0);
+
+  const items = [];
+  function place(n, d, top, parent) {
+    const span = Math.pow(2, maxDepth - d + 1);
+    const mid = top + span / 2;
+    const item = { n, depth: d, maxDepth, parent, yA: mid - 1, yX: mid };
+    item.ca = n[4] ? place(n[4], d + 1, top, item) : null;
+    item.cx = n[5] ? place(n[5], d + 1, mid, item) : null;
+    items.push(item);
+    return item;
+  }
+  place(tree, 0, 0, null);
+
+  const W = (maxDepth + 1) * BK.COL + 8;
+  const H = BK.HEAD + Math.pow(2, maxDepth + 1) * BK.ROW + 8;
+  const slotY = (ry) => BK.HEAD + ry * BK.ROW + BK.BOXH / 2;
+
+  // connectors: each match gets the classic pair-merge (two stubs + vertical
+  // join) on its right, then an elbow from the merge point into the slot it
+  // feeds in the next round
+  const L = (pts) => `<polyline points="${pts}" fill="none" stroke="#c9ced6" stroke-width="1.2"/>`;
+  let lines = "";
+  for (const it of items) {
+    if (!it.parent) continue;
+    const p = it.parent;
+    const x1 = (maxDepth - it.depth) * BK.COL + BK.BOXW;
+    const x2 = (maxDepth - p.depth) * BK.COL;
+    const xm = (x1 + x2) / 2, xj = (x1 + xm) / 2;
+    const yA = slotY(it.yA), yX = slotY(it.yX), ym = (yA + yX) / 2;
+    const py = slotY(p.ca === it ? p.yA : p.yX);
+    lines += L(`${x1},${yA} ${xj},${yA}`) + L(`${x1},${yX} ${xj},${yX}`) +
+             L(`${xj},${yA} ${xj},${yX}`) +
+             L(`${xj},${ym} ${xm},${ym} ${xm},${py} ${x2},${py}`);
+  }
+
+  let heads = "";
+  for (let d = 0; d <= maxDepth; d++) {
+    heads += `<div class="bk-head" style="left:${(maxDepth - d) * BK.COL}px">${roundLabel(d)}</div>`;
+  }
+
+  let boxes = "";
+  for (const it of items) boxes += bkBox(it, "a", nm, pa) + bkBox(it, "x", nm, pa);
+
+  return `<div class="bracket" style="width:${W}px;height:${H}px">` +
+    `<svg class="bk-lines" width="${W}" height="${H}">${lines}</svg>${heads}${boxes}</div>`;
+}
+
+function matchRowHTML(a, x, res, w, nm, extra) {
+  const cls = (pid) => pid === w ? " class=\"player-link m-won\"" : " class=\"player-link\"";
+  return `<tr><td><a${cls(a)} href="#/player/${a}">${esc(playerName(nm, a))}</a></td>` +
+    `<td class="num">${esc(res)}</td>` +
+    `<td><a${cls(x)} href="#/player/${x}">${esc(playerName(nm, x))}</a></td>${extra || ""}</tr>`;
+}
+
+let evCat = 0;   // event page tab state: 0=MS 1=WS
+
+async function renderEvent(tid) {
+  const app = el("app");
+  app.innerHTML = `<div class="loading">Loading…</div>`;
+  const d = await fetchJSON(`data/events/${tid}.json`);
+  const nm = await nameMap();
+  const [tierCls, tierName] = tierOf(d.w);
+
+  const cats = [];
+  if (d.MS) cats.push(0);
+  if (d.WS) cats.push(1);
+  if (!cats.includes(evCat)) evCat = cats[0];
+  const catKey = evCat === 0 ? "MS" : "WS";
+  const p = d[catKey] || {};
+
+  let body = "";
+  if (p.t) {
+    body = `<div class="bk-scroll">${bracketHTML(p.t, nm, d.pa)}</div>`;
+  } else if (p.r) {
+    body = `<div class="chart-title">${t("groupList")}</div>` + p.r.map(([code, rows]) =>
+      `<div class="round-block"><div class="round-name">${roundLabel(code)}</div>
+       <table class="matches">${rows.map((m) => matchRowHTML(m[0], m[1], m[2], m[3], nm)).join("")}</table></div>`
+    ).join("");
+  }
+  if (p.q) {
+    body += `<details class="qual"><summary>${t("qualList")} (${p.q.length})</summary>
+      <table class="matches">${p.q.map((m) =>
+        matchRowHTML(m[0], m[1], m[2], m[3], nm, `<td class="num muted">${qualLabel(m[4])}</td>`)).join("")}</table></details>`;
+  }
+
+  app.innerHTML = `
+    <div class="card">
+      <a class="back-link" href="#/events">${t("backEvents")}</a>
+      <div class="player-head" style="margin-top:8px">
+        <h2>${esc(d.n)}</h2><span class="tier ${tierCls}">${tierName}</span>
+      </div>
+      <div class="ev-meta">${d.s} ~ ${d.e}${d.o && d.o !== "?" ? ` · ${flagImg(d.o)}${esc(d.o)}` : ""}</div>
+    </div>
+    <div class="card toolbar">
+      <div class="tabs">
+        ${cats.map((c) => `<button class="tab${c === evCat ? " active" : ""}" data-c="${c}">${c === 0 ? t("men") : t("women")}</button>`).join("")}
+      </div>
+    </div>
+    <div class="card">${body || `<div class="loading">—</div>`}</div>`;
+
+  app.querySelectorAll(".tab[data-c]").forEach((b) =>
+    b.addEventListener("click", () => { evCat = Number(b.dataset.c); renderEvent(tid); }));
+}
+
 // ---------------------------------------------------------------- search
 const si = el("search-input"), sr = el("search-results");
 function closeSearch() { sr.classList.add("hidden"); }
@@ -376,6 +657,7 @@ document.addEventListener("click", (e) => {
 function applyLang() {
   document.documentElement.lang = lang === "zh" ? "zh-CN" : "en";
   el("ui-title").textContent = t("title");
+  el("nav-events").textContent = t("events");
   el("lang-toggle").textContent = lang === "zh" ? "EN" : "中文";
   si.placeholder = t("searchPh");
   document.title = lang === "zh"

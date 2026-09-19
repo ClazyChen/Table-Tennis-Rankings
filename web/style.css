@@ -194,3 +194,103 @@ footer {
   color: var(--muted);
   font-size: 12px;
 }
+
+/* nav link */
+.nav-link {
+  color: var(--text);
+  text-decoration: none;
+  font-size: 14px;
+  padding: 5px 12px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  white-space: nowrap;
+}
+.nav-link:hover { border-color: var(--accent); color: var(--accent); }
+
+/* filter chips */
+.chips { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.chips.years { max-height: 64px; overflow-y: auto; }
+.chip {
+  border: 1px solid var(--border);
+  background: var(--card);
+  border-radius: 999px;
+  padding: 3px 12px;
+  cursor: pointer;
+  font-size: 12px;
+}
+.chip.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+.chip:hover:not(.active) { border-color: var(--accent); color: var(--accent); }
+
+/* events index */
+.events-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); gap: 12px; }
+.event-card { margin-bottom: 0; }
+.event-card:hover { border-color: var(--accent); }
+.ev-head { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }
+.ev-name { font-weight: 600; font-size: 14px; }
+.ev-meta { color: var(--muted); font-size: 12px; margin: 6px 0 8px; }
+.ev-podium { font-size: 13px; display: flex; gap: 10px; flex-wrap: wrap; align-items: baseline; margin-top: 3px; }
+.ev-cat { font-weight: 700; color: var(--muted); font-size: 11px; width: 22px; }
+.ev-champ { font-weight: 700; }
+.ev-sf { color: var(--muted); font-size: 12px; }
+
+/* tier badges */
+.tier { font-size: 11px; font-weight: 700; border-radius: 4px; padding: 1px 7px; white-space: nowrap; }
+.tier-major { background: #fdf0d5; color: #b45309; }
+.tier-high { background: #e0ecff; color: #1a5fb4; }
+.tier-regular { background: #e5f6e5; color: #1a7f37; }
+.tier-other { background: #f0f1f3; color: #6b7280; }
+
+/* bracket */
+.bk-scroll { overflow: auto; max-height: 78vh; }
+.bracket { position: relative; }
+.bk-lines { position: absolute; left: 0; top: 0; }
+.bk-head {
+  position: absolute;
+  top: 2px;
+  width: 176px;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--muted);
+}
+.bk-box {
+  position: absolute;
+  width: 176px;
+  height: 22px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 0 6px;
+  font-size: 12px;
+  color: var(--text);
+  text-decoration: none;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.bk-box:hover { border-color: var(--accent); }
+.bk-box.won { font-weight: 700; background: #f0f6ff; border-color: #bfd4f5; }
+.bk-name { overflow: hidden; text-overflow: ellipsis; flex: 1; }
+.bk-score { color: var(--muted); font-weight: 400; font-size: 11px; }
+
+/* match tables (rounds fallback / qualification / player results) */
+table.matches { border-collapse: collapse; font-size: 13px; }
+table.matches td { padding: 4px 10px 4px 0; border-bottom: 1px solid var(--border); }
+.m-won { font-weight: 700; }
+.muted { color: var(--muted); }
+.round-block { margin-bottom: 12px; }
+.round-name { font-weight: 600; font-size: 13px; margin: 8px 0 4px; }
+details.qual { margin-top: 14px; }
+details.qual summary { cursor: pointer; font-size: 13px; color: var(--muted); }
+
+/* result badges (player page): filled medals for C/F/SF/QF, outline for later rounds */
+.res-badge { font-size: 11px; font-weight: 700; border-radius: 4px; padding: 1px 7px; white-space: nowrap; }
+.res-0 { background: #fbe7a1; color: #92600a; }
+.res-1 { background: #e8eaed; color: #4b5563; }
+.res-2 { background: #f3d7b6; color: #9a5b1e; }
+.res-3 { background: #e0ecff; color: #1a5fb4; }
+.res-4, .res-5, .res-6, .res-7 { background: transparent; border: 1px solid var(--border); color: var(--muted); font-weight: 400; }
+.res-8 { background: transparent; border: 1px dashed var(--border); color: #9ca3af; font-weight: 400; }
+#results-toggle { margin-top: 10px; }

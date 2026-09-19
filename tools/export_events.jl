@@ -1,0 +1,10 @@
+include(joinpath(@__DIR__, "..", "src", "structures.jl"))
+include(joinpath(@__DIR__, "..", "src", "weights.jl"))
+include(joinpath(@__DIR__, "..", "src", "ittf_convert.jl"))
+include(joinpath(@__DIR__, "..", "src", "events_export.jl"))
+
+cd(joinpath(@__DIR__, ".."))
+events = read_events_from_files()
+players = read_players_from_file()
+println("loaded: $(length(events)) dates, $(length(players)) players")
+export_events_web(events, players)

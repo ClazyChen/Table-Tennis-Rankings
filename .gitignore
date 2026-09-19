@@ -6,6 +6,8 @@ download_*.py
 matches
 events
 players
+# ...but the web site's generated event bundles must be committed
+!web/data/events/
 data/*.csv
 data/*.json
 update-*

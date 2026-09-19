@@ -263,7 +263,7 @@
       [192], [#name("XU Huiyao")], [#age(19)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2380*], [#delta(39)],
       [193], [#name("LEE Zion")], [#age(30)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2380*], [#delta(-3)],
       [194], [#name("TOLIOU Aikaterini")], [#age(31)], [#assoc("GRE")], [#right], [#shakehand], [#defense], [*2376*], [#delta(-2)],
-      [195], [#name("WEI Jingming")], [#age(16)], [#assoc("CHN")], [?], [?], [?], [*2375*], [#delta(-15)],
+      [195], [#name("WEI Jingming")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2375*], [#delta(-15)],
       [196], [#name("XIANG Junlin")], [#age(19)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2374*], [#delta(53)],
       [197], [#name("WANI Sayali")], [#age(20)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2372*], [#delta(-1)],
       [198], [#name("LEE Hoi Man")], [#age(23)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2372*], [#delta(13)],

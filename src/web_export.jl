@@ -129,19 +129,29 @@ function export_web_data(c::WebExportCollector, players::Dict{Int,Player}, highe
     n_shards = 64
     shards = [Dict{String,Any}() for _ in 1:n_shards]
     assocs_used = Set{String}()
-    for (pid, series) in c.series
+    # Cover every known player, not just those with a monthly series point:
+    # players who debuted after the latest snapshot (or whose matches were all
+    # filtered) have no series yet, but their names/profiles should still be
+    # resolvable on the site (empty chart, null final rating).
+    all_pids = sort!(collect(union(keys(c.series), keys(players))))
+    for pid in all_pids
         player = players[pid]
         cur_assoc = player_assoc_on_date(player, today())
         push!(assocs_used, cur_assoc)
         for a in keys(player.history)
             push!(assocs_used, a)
         end
+        series = get(c.series, pid, Vector{Int}[])
         # Final point: rating after the player's last match, placed one month
         # after their last monthly snapshot, so the chart endpoint matches the
         # displayed "current rating" (including retired players).
-        last_mi, last_r = series[end]
-        final = haskey(c.final_ratings, pid) ? floor(Int, c.final_ratings[pid]) : last_r
-        final != last_r && push!(series, Int[last_mi + 1, final])
+        if isempty(series)
+            final = haskey(c.final_ratings, pid) ? floor(Int, c.final_ratings[pid]) : nothing
+        else
+            last_mi, last_r = series[end]
+            final = haskey(c.final_ratings, pid) ? floor(Int, c.final_ratings[pid]) : last_r
+            final != last_r && push!(series, Int[last_mi + 1, final])
+        end
         meta = Any[player.name, get(cn, player.name, player.name), player.sex, player.yob,
                    player.hand, player.grip, player.style, cur_assoc,
                    floor(Int, get(peak, pid, 0.0)), final]
@@ -154,7 +164,7 @@ function export_web_data(c::WebExportCollector, players::Dict{Int,Player}, highe
     end
 
     search = [Any[pid, players[pid].name, get(cn, players[pid].name, players[pid].name)]
-              for pid in sort!(collect(keys(c.series)))]
+              for pid in all_pids]
     open(joinpath(out_dir, "search.json"), "w") do io
         JSON.print(io, search)
     end

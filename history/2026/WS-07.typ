@@ -268,6 +268,6 @@
       [197], [#name("XU Huiyao")], [#age(19)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2380*], [#delta(3)],
       [198], [#name("MALOBABIC Ivana")], [#age(46)], [#assoc("CRO")], [#right], [#shakehand], [#defense], [*2378*], [#delta(24)],
       [199], [#name("CHOI Seoyeon")], [#age(17)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2377*], [#delta(-37)],
-      [200], [#name("WEI Jingming")], [#age(16)], [#assoc("CHN")], [?], [?], [?], [*2375*], [#delta(2)],
+      [200], [#name("WEI Jingming")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2375*], [#delta(2)],
     )
   )

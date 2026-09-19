@@ -7,7 +7,7 @@ This repository demonstrates an excellent table tennis international ranking alg
 This repository provides world rankings from January 2004 to today. Earlier rankings cannot be calculated because the ITTF does not provide relevant data.
 All rankings use Typst, which you can easily convert to pdf files.
 
-There is also a bilingual (EN/CN) static website with monthly MS/WS ranking tables (Typst color scheme, draggable month timeline) and per-player rating-history pages — **live at https://clazychen.github.io/Table-Tennis-Rankings/**. The site source is in `web/`; it is redeployed automatically by GitHub Actions (`.github/workflows/pages.yml`) on every push that touches `web/`. Preview locally with `python -m http.server 8000 -d web`.
+There is also a bilingual (EN/CN) static website with monthly MS/WS ranking tables (Typst color scheme, draggable month timeline), per-player rating-history pages, and an Events section — every tournament's champion/runner-up/semifinalists at a glance, plus the reconstructed main-draw bracket for each event — **live at https://clazychen.github.io/Table-Tennis-Rankings/**. The site source is in `web/`; it is redeployed automatically by GitHub Actions (`.github/workflows/pages.yml`) on every push that touches `web/`. Preview locally with `python -m http.server 8000 -d web`.
 
 This repository includes men's singles ranking and women's singles ranking. You can see the changes of top players in the past twenty years: from Wang Liqin, Ma Lin, Wang Hao, Zhang Jike, Ma Long, Fan Zhendong to Wang Chuqin; from Zhang Yining, Guo Yue, Li Xiaoxia, Ding Ning, Liu Shiwen, Chen Meng to Sun Yingsha.
 

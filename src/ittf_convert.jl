@@ -90,6 +90,9 @@ function parse_player_data(new_player_json::String)
     catch e
         return nothing
     end
+    # ITTF wraps profile values in <span class='notranslate'>…</span> (since ~2025);
+    # strip the tags so the regexes below see plain text
+    profile = replace(profile, r"</?span[^>]*>" => "")
 
     # Parse name and association (remove ID and association)
     name_with_id = data[1][1]["vw_profiles___name_raw"]
@@ -118,6 +121,9 @@ function parse_player_data(new_player_json::String)
 
     # Use regular expressions to parse other fields
     yob_match = match(r"YoB:\s*(\d+)", profile)
+    if yob_match === nothing
+        yob_match = match(r"Birth Year:\s*(\d+)", profile)
+    end
     yob = yob_match === nothing ? nothing : parse(Int, yob_match.captures[1])
 
     # If yob is not found, compute it with age
@@ -247,4 +253,25 @@ function merge_players!(existing::Dict{Int,Player}, new_players::Vector{Player})
         end
     end
     println("Merged players: +$added → total $(length(existing))")
+end
+
+# Repair players whose profile fields were parsed from a changed ITTF HTML
+# layout (values wrapped in <span class='notranslate'>, leaving raw HTML in
+# hand/grip/style). Re-parses the raw dumps on disk; event-derived association
+# history is preserved.
+function repair_malformed_profiles!(players::Dict{Int,Player})
+    bad = [p for p in values(players)
+           if occursin('<', p.hand) || occursin('<', p.grip) || occursin('<', p.style)]
+    fixed = 0
+    for p in bad
+        path = joinpath("players", "$(p.id).json")
+        isfile(path) || continue
+        pl = parse_player_data(read(path, String))
+        pl === nothing && continue
+        players[p.id] = Player(pl.id, pl.name, pl.sex, p.history,
+                               pl.yob == 0 ? p.yob : pl.yob, pl.hand, pl.style, pl.grip)
+        fixed += 1
+    end
+    println("Repaired malformed profiles: $fixed / $(length(bad))")
+    return fixed
 end
