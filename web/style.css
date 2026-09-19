@@ -103,24 +103,52 @@ main { max-width: 1100px; margin: 18px auto 40px; padding: 0 16px; }
   font-size: 13px;
 }
 .tab.active { background: var(--accent); color: #fff; }
-.month-nav { display: flex; align-items: center; gap: 6px; }
-.month-nav button {
+/* draggable month timeline */
+.timeline { flex: 1; min-width: 220px; }
+#month-range { width: 100%; accent-color: var(--accent); cursor: pointer; margin: 0; }
+.timeline-scale {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  color: var(--muted);
+}
+.timeline-scale .tl-cur { color: var(--text); font-weight: 600; }
+
+/* big side prev/next buttons flanking the ranking table */
+.ranking-wrap { display: flex; gap: 10px; align-items: stretch; margin-bottom: 14px; }
+.ranking-wrap .table-card { flex: 1; min-width: 0; margin-bottom: 0; }
+.side-nav {
+  width: 52px;
+  padding: 0;
   border: 1px solid var(--border);
   background: var(--card);
-  border-radius: 6px;
-  padding: 5px 10px;
+  border-radius: 8px;
+  font-size: 30px;
+  line-height: 1;
+  color: var(--accent);
   cursor: pointer;
-  font-size: 13px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
 }
-.month-nav button:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
-.month-nav button:disabled { opacity: .4; cursor: default; }
-#month-select {
-  padding: 5px 8px;
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  font-size: 13px;
-  max-width: 130px;
+/* arrow starts at the button's top, then sticks at 48vh while the tall
+   button scrolls by (sticky can only hold an element back, not pull it up) */
+.side-nav span { position: sticky; top: 48vh; display: inline-block; padding-top: 8px; }
+.side-nav:hover:not(:disabled) { border-color: var(--accent); background: var(--bg); }
+.side-nav:disabled { opacity: .3; cursor: default; }
+@media (max-width: 900px) {
+  .ranking-wrap .table-card { overflow-x: auto; }
 }
+@media (max-width: 640px) { .side-nav { width: 36px; font-size: 22px; } }
+
+/* Typst palette: hand / grip / style */
+.c-left { color: #c04040; }
+.c-right { color: #409040; }
+.c-shake { color: #4040c0; }
+.c-pen { color: #c020c0; }
+.c-attack { color: #ff9090; }
+.c-defense { color: #00c0c0; }
+td.age { font-weight: 700; }
 
 /* ranking table */
 table.ranking { width: 100%; border-collapse: collapse; font-size: 13px; }

@@ -3,7 +3,8 @@
  *   data/index.json            {months:["2004-01",...], generated, players}
  *   data/latest.json           {MS:[[rank,id,rating,delta,age,assoc,hand,grip,style],...], WS:[...]}
  *   data/rankings/MS-YYYY-MM.json   monthly top-200 rows (same shape)
- *   data/history/shard-XX.json {id:{m:[name,cn,sex,yob,hand,grip,style,assoc,peak], s:[[monthIdx,rating],...]}}
+ *   data/history/shard-XX.json {id:{m:[name,cn,sex,yob,hand,grip,style,assoc,peak,final], s:[[monthIdx,rating],...]}}
+ *     (series ends with the final-rating point when it differs from the last monthly snapshot)
  *   data/search.json           [[id, name, cnName], ...]
  */
 "use strict";
@@ -86,16 +87,41 @@ const playerName = (nm, id) => {
 };
 const altName = (rec) => (lang === "zh" ? rec.en : rec.cn);
 
-function localizedAttr(v) {
+function attrClass(v) {
   switch (v) {
-    case "Left-Hand": case "L": return t("left");
-    case "Right-Hand": case "R": return t("right");
-    case "ShakeHand": case "S": return t("shakehand");
-    case "Penhold": case "P": return t("penhold");
-    case "Attack": case "A": return t("attack");
-    case "Defence": case "D": return t("defence");
+    case "Left-Hand": case "L": return "c-left";
+    case "Right-Hand": case "R": return "c-right";
+    case "ShakeHand": case "S": return "c-shake";
+    case "Penhold": case "P": return "c-pen";
+    case "Attack": case "A": return "c-attack";
+    case "Defence": case "D": return "c-defense";
+    default: return "";
+  }
+}
+function localizedAttr(v) {
+  let txt;
+  switch (v) {
+    case "Left-Hand": case "L": txt = t("left"); break;
+    case "Right-Hand": case "R": txt = t("right"); break;
+    case "ShakeHand": case "S": txt = t("shakehand"); break;
+    case "Penhold": case "P": txt = t("penhold"); break;
+    case "Attack": case "A": txt = t("attack"); break;
+    case "Defence": case "D": txt = t("defence"); break;
     default: return t("unknown");
   }
+  return `<span class="${attrClass(v)}">${txt}</span>`;
+}
+// Age color gradient from template.typ: green (young) → yellow → red (old).
+function ageColor(n) {
+  if (typeof n !== "number") return "";
+  let r, g;
+  if (n <= 12) { r = 0x40; g = 0xb0 + 4 * (12 - n); }
+  else if (n <= 26) { r = 0x40 + 8 * (n - 12); g = 0xb0; }
+  else if (n <= 40) { r = 0xb0; g = 0xb0 - 8 * (n - 26); }
+  else { r = 0xb0 + 2 * (n - 40); g = 0x40 - 2 * (n - 40); }
+  r = Math.max(0, Math.min(255, r));
+  g = Math.max(0, Math.min(255, g));
+  return `rgb(${r},${g},0)`;
 }
 function deltaHTML(d) {
   if (d === "NEW") return `<span class="delta-new">${t("newMark")}</span>`;
@@ -146,21 +172,22 @@ async function renderRanking(gender, month) {
 
   const nm = await nameMap();
 
-  // month navigation
+  // month navigation (timeline slider + big side buttons)
   const mi = isLatest ? months.length : months.indexOf(curMonth); // virtual index
   const prevTarget = mi > 0 ? months[mi - 1] : null;
   const nextTarget = !isLatest && mi < months.length - 1 ? months[mi + 1] : (!isLatest ? "latest" : null);
+  const lastMonth = months[months.length - 1];
+  const monthLabel = (v) => v >= months.length ? `${t("latest")} (${lastMonth})` : months[v];
 
-  const monthOptions = [`<option value="latest"${isLatest ? " selected" : ""}>${t("latest")} (${months[months.length - 1]})</option>`]
-    .concat([...months].reverse().map((m) => `<option value="${m}"${m === curMonth ? " selected" : ""}>${m}</option>`))
-    .join("");
+  // remember where "back to rankings" should return to
+  sessionStorage.setItem("ttr-back", `#/${gender}/${curMonth}`);
 
   const tableRows = rows.map((r) => {
     const [rank, id, rating, delta, age, assoc, hand, grip, style] = r;
     return `<tr>
       <td class="num">${rank}</td>
       <td><a class="player-link" href="#/player/${id}">${esc(playerName(nm, id))}</a></td>
-      <td class="num">${age || "?"}</td>
+      <td class="num age"${typeof age === "number" ? ` style="color:${ageColor(age)}"` : ""}>${age || "?"}</td>
       <td>${flagImg(assoc)}<span class="assoc">${esc(assoc)}</span></td>
       <td>${localizedAttr(hand)}</td>
       <td>${localizedAttr(grip)}</td>
@@ -176,26 +203,39 @@ async function renderRanking(gender, month) {
         <button class="tab${gender === "MS" ? " active" : ""}" data-g="MS">${t("men")}</button>
         <button class="tab${gender === "WS" ? " active" : ""}" data-g="WS">${t("women")}</button>
       </div>
-      <div class="month-nav">
-        <button id="prev-month" ${prevTarget ? "" : "disabled"}>←</button>
-        <select id="month-select">${monthOptions}</select>
-        <button id="next-month" ${nextTarget ? "" : "disabled"}>→</button>
+      <div class="timeline">
+        <input type="range" id="month-range" min="0" max="${months.length}" step="1" value="${mi}">
+        <div class="timeline-scale">
+          <span>${months[0]}</span>
+          <span class="tl-cur" id="tl-cur">${monthLabel(mi)}</span>
+          <span>${t("latest")}</span>
+        </div>
       </div>
     </div>
-    <div class="card">
-      <table class="ranking">
-        <thead><tr>
-          <th class="num">${t("rank")}</th><th>${t("player")}</th><th class="num">${t("age")}</th>
-          <th>${t("assoc")}</th><th>${t("hand")}</th><th>${t("grip")}</th><th>${t("style")}</th>
-          <th class="num">${t("rating")}</th><th class="num">${t("delta")}</th>
-        </tr></thead>
-        <tbody>${tableRows}</tbody>
-      </table>
+    <div class="ranking-wrap">
+      <button class="side-nav" id="prev-month" ${prevTarget ? "" : "disabled"} title="${prevTarget || ""}"><span>‹</span></button>
+      <div class="card table-card">
+        <table class="ranking">
+          <thead><tr>
+            <th class="num">${t("rank")}</th><th>${t("player")}</th><th class="num">${t("age")}</th>
+            <th>${t("assoc")}</th><th>${t("hand")}</th><th>${t("grip")}</th><th>${t("style")}</th>
+            <th class="num">${t("rating")}</th><th class="num">${t("delta")}</th>
+          </tr></thead>
+          <tbody>${tableRows}</tbody>
+        </table>
+      </div>
+      <button class="side-nav" id="next-month" ${nextTarget ? "" : "disabled"} title="${nextTarget === "latest" ? t("latest") : (nextTarget || "")}"><span>›</span></button>
     </div>`;
 
   app.querySelectorAll(".tab").forEach((b) =>
     b.addEventListener("click", () => { location.hash = `#/${b.dataset.g}/${curMonth}`; }));
-  el("month-select").addEventListener("change", (e) => { location.hash = `#/${gender}/${e.target.value}`; });
+  const range = el("month-range"), tlCur = el("tl-cur");
+  range.addEventListener("input", () => { tlCur.textContent = monthLabel(Number(range.value)); });
+  range.addEventListener("change", () => {
+    const v = Number(range.value);
+    const target = v >= months.length ? "latest" : months[v];
+    if (target !== curMonth) location.hash = `#/${gender}/${target}`;
+  });
   if (prevTarget) el("prev-month").addEventListener("click", () => { location.hash = `#/${gender}/${prevTarget}`; });
   if (nextTarget) el("next-month").addEventListener("click", () => { location.hash = `#/${gender}/${nextTarget}`; });
 }
@@ -210,25 +250,28 @@ async function renderPlayer(id) {
   const p = data[id];
   if (!p) { app.innerHTML = `<div class="error">${t("notFound")}</div>`; return; }
 
-  const [name, cn, sex, yob, hand, grip, style, assoc, peak] = p.m;
+  const [name, cn, sex, yob, hand, grip, style, assoc, peak, final] = p.m;
   const series = p.s;
   const rec = { en: name, cn };
 
-  // current rating & rank (from latest full ranking)
+  // current rating & rank (from latest full ranking; retired players fall back
+  // to their final rating from the shard meta)
   let curRating = t("notRanked"), curRank = t("notRanked");
   try {
     const latest = await fetchJSON("data/latest.json");
     const hit = latest[sex === "M" ? "MS" : "WS"].find((r) => r[1] === Number(id));
     if (hit) { curRank = hit[0]; curRating = hit[2]; }
+    else if (typeof final === "number") { curRating = final; }
   } catch (_) { /* offline tolerance */ }
 
   const idx = await fetchJSON("data/index.json");
   const latestMi = monthIdx(idx.months[idx.months.length - 1]);
   const age = yob ? new Date().getFullYear() - yob : "?";
+  const ageStyle = typeof age === "number" ? ` style="color:${ageColor(age)}"` : "";
 
   app.innerHTML = `
     <div class="card">
-      <a class="back-link" href="#/">${t("back")}</a>
+      <a class="back-link" href="${sessionStorage.getItem("ttr-back") || "#/"}">${t("back")}</a>
       <div class="player-head" style="margin-top:8px">
         <h2>${esc(lang === "zh" ? cn : name)}</h2>
         <span class="alt-name">${esc(altName(rec))}</span>
@@ -236,7 +279,7 @@ async function renderPlayer(id) {
       </div>
       <div class="meta-grid">
         <div class="meta-item"><div class="k">${t("sex")}</div><div class="v">${sex === "M" ? t("male") : t("female")}</div></div>
-        <div class="meta-item"><div class="k">${t("age")}</div><div class="v">${age}</div></div>
+        <div class="meta-item"><div class="k">${t("age")}</div><div class="v"${ageStyle}>${age}</div></div>
         <div class="meta-item"><div class="k">${t("hand")}</div><div class="v">${localizedAttr(hand)}</div></div>
         <div class="meta-item"><div class="k">${t("grip")}</div><div class="v">${localizedAttr(grip)}</div></div>
         <div class="meta-item"><div class="k">${t("style")}</div><div class="v">${localizedAttr(style)}</div></div>

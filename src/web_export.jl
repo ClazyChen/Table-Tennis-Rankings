@@ -20,10 +20,11 @@ mutable struct WebExportCollector
     series::Dict{Int,Vector{Vector{Int}}}     # player_id => [[monthidx, rating], ...]
     prev_rank::Dict{String,Dict{Int,Int}}     # "M"/"W" => previous month ranking
     latest_rows::Dict{String,Vector{Any}}     # "MS"/"WS" => rows (full active list)
+    final_ratings::Dict{Int,Float64}          # every player's rating after the last replayed event
     WebExportCollector() = new(String[], Dict{String,Vector{Any}}(),
                                Dict{Int,Vector{Vector{Int}}}(),
                                Dict("M" => Dict{Int,Int}(), "W" => Dict{Int,Int}()),
-                               Dict{String,Vector{Any}}())
+                               Dict{String,Vector{Any}}(), Dict{Int,Float64}())
 end
 
 month_index(date::Date) = (year(date) - 2004) * 12 + month(date) - 1
@@ -90,6 +91,7 @@ function collect_latest!(c::WebExportCollector, date::Date, ratings::Dict{Int,Fl
         ids = ranked_active_players(date, t, ratings, players, active_periods)
         c.latest_rows["$(t)S"] = _web_rows(date, ids, ratings, c.prev_rank[t], players; count=length(ids))
     end
+    c.final_ratings = copy(ratings)
     return c
 end
 
@@ -134,9 +136,15 @@ function export_web_data(c::WebExportCollector, players::Dict{Int,Player}, highe
         for a in keys(player.history)
             push!(assocs_used, a)
         end
+        # Final point: rating after the player's last match, placed one month
+        # after their last monthly snapshot, so the chart endpoint matches the
+        # displayed "current rating" (including retired players).
+        last_mi, last_r = series[end]
+        final = haskey(c.final_ratings, pid) ? floor(Int, c.final_ratings[pid]) : last_r
+        final != last_r && push!(series, Int[last_mi + 1, final])
         meta = Any[player.name, get(cn, player.name, player.name), player.sex, player.yob,
                    player.hand, player.grip, player.style, cur_assoc,
-                   floor(Int, get(peak, pid, 0.0))]
+                   floor(Int, get(peak, pid, 0.0)), final]
         shards[pid % n_shards + 1][string(pid)] = Dict("m" => meta, "s" => series)
     end
     for (i, shard) in enumerate(shards)
