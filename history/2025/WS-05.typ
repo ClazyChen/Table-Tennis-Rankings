@@ -216,7 +216,7 @@
       [154], [#name("MATIUNINA Veronika")], [#age(19)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2388*], [#delta(-10)],
       [155], [#name("KIMURA Kasumi")], [#age(26)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2388*], [#delta(3)],
       [156], [#name("SAINI Suhana")], [#age(19)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2387*], [#delta(-17)],
-      [157], [#name("OMODA Kotomi")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2387*], [#delta(220)],
+      [157], [#name("OMODA Kotomi")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2387*], [#delta(223)],
       [158], [#name("ZAHARIA Elena")], [#age(21)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2385*], [#delta(-23)],
       [159], [#name("TEE Ai Xin")], [#age(24)], [#assoc("MAS")], [#right], [#penhold], [#attack], [*2384*], [#delta(15)],
       [160], [#name("BRZYSKA Anna")], [#age(20)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2383*], [#delta(46)],

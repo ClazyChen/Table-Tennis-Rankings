@@ -261,7 +261,7 @@
       [190], [#name("MOYLAND Sally")], [#age(17)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2338*], [#delta(-9)],
       [191], [#name("ZHOU Jingyi")], [#age(19)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2338*], [#delta(-7)],
       [192], [#name("WANI Sayali")], [#age(18)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2334*], [#delta(-7)],
-      [193], [#name("DAS Syndrela")], [#age(15)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2331*], [#delta(164)],
+      [193], [#name("DAS Syndrela")], [#age(15)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2331*], [#delta(165)],
       [194], [#name("李多恩")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2328*], [#delta(-8)],
       [195], [#name("FONSECA Daniela")], [#age(22)], [#assoc("CUB")], [#left], [#shakehand], [#attack], [*2326*], [#delta(61)],
       [196], [#name("BADAWY Farida")], [#age(20)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2324*], [#delta(-9)],

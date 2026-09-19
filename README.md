@@ -13,7 +13,11 @@ You are welcome to provide suggestions for improving the algorithm model or the 
 
 <h1>How to use</h1>
 
-The new version for this repository is written by Julia (you should install Jupyter Notebook first). The codes are provided in `ccelo.ipynb` with detailed comments.
+The code is written in Julia. The ranking algorithm and data formats are documented in `docs/algorithm.md`; the implementation lives in `src/` as plain modules.
+
+- `julia crawl.jl` — crawl new events/matches/players from the ITTF website (requires `ittf_credentials.json` with your session cookies; resumes from `crawl_state.json` after HTTP 429).
+- `julia post_crawl.jl` — after the crawl reaches `phase == "done"`: merge into the processed data, recompute all rankings, and generate the Chinese translations.
+- `typst compile MS-latest.typ` — render a ranking to PDF.
 
 <h1>Notice</h1>
 
@@ -23,5 +27,5 @@ As a networking engineer, I fully understand many fans are dissatisfied with the
 
 Around the WTT Champions Yokohama 2026, I implemented certain workarounds for the 429 restrictions. However, I'm not sure whether these workarounds will survive the next update ahead of the WTT Swedish Smash 2026.
 
-For this reason, I've NOT pushed the latest crawler code to the repository. It will be uploaded once I verify that the workaround remains functional. The crawler code currently in the repository is an older version; running it directly will result in 429 errors. **Rankings have been updated up to the present timestamp (WTT Champions Yokohama 2026).**
+The crawler code now lives in `src/ittf_fabrik.jl` (entry point: `crawl.jl`). It is deliberately slow and conservative: on HTTP 429 it checkpoints to `crawl_state.json` and exits instead of retrying aggressively — running it carelessly will still get your IP penalized. **Rankings have been updated up to the present timestamp (WTT Champions Yokohama 2026).**
 

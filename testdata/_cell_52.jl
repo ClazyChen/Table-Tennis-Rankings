@@ -1,0 +1,1 @@
+highest_ratings = compute_rankings()

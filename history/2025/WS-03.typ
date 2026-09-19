@@ -268,6 +268,6 @@
       [197], [#name("WANI Sayali")], [#age(19)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2320*], [#delta(1)],
       [198], [#name("EARLEY Sophie")], [#age(19)], [#assoc("IRL")], [#right], [#shakehand], [#attack], [*2319*], [#delta(1)],
       [199], [#name("DE NUTTE Sarah")], [#age(33)], [#assoc("LUX")], [#right], [#shakehand], [#attack], [*2317*], [#delta(11)],
-      [200], [#name("LOY Ming Ying")], [#age(15)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2316*], [#delta(167)],
+      [200], [#name("LOY Ming Ying")], [#age(15)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2316*], [#delta(170)],
     )
   )

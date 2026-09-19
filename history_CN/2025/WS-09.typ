@@ -219,7 +219,7 @@
       [157], [#name("HARAC Ece")], [#age(23)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2405*], [#delta(12)],
       [158], [#name("CHASSELIN Pauline")], [#age(28)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2402*], [#delta(-3)],
       [159], [#name("WU Ying Syuan")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2401*], [#delta(-29)],
-      [160], [#name("KIM Minseo")], [#age(15)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2400*], [#delta(161)],
+      [160], [#name("KIM Minseo")], [#age(15)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2400*], [#delta(162)],
       [161], [#name("GUO ZHENG Nina")], [#age(15)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2398*], [#delta(-33)],
       [162], [#name("WIELGOS Zuzanna")], [#age(20)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2397*], [#delta(-16)],
       [163], [#name("LIU Yuan")], [#age(40)], [#assoc("AUT")], [#right], [#penhold], [#attack], [*2396*], [#delta(-11)],
