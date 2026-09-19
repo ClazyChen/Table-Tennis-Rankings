@@ -20,6 +20,7 @@ include(joinpath(@__DIR__, "src", "ittf_convert.jl"))
 # before typst_output.jl so save_rankings' signature binds the right type.
 include(joinpath(@__DIR__, "src", "rating.jl"))
 include(joinpath(@__DIR__, "src", "typst_output.jl"))
+include(joinpath(@__DIR__, "src", "web_export.jl"))
 
 function main()
     cd(@__DIR__)
@@ -70,12 +71,21 @@ function main()
     println("\n== Rankings ==")
     active_periods = compute_active_periods(events, players)
     println("active_periods players=$(length(active_periods))")
-    highest = compute_rankings(events, players, active_periods)
+    web_collector = WebExportCollector()
+    on_month = (date, ratings, rm, rf) ->
+        collect_month!(web_collector, date, ratings, rm, rf, players, active_periods)
+    on_latest = (date, ratings, rm, rf) ->
+        collect_latest!(web_collector, date, ratings, rm, rf, players, active_periods)
+    highest = compute_rankings(events, players, active_periods;
+                               on_month=on_month, on_latest=on_latest)
     println("Done. Top highest ratings:")
     for (id, r) in highest[1:min(10, end)]
         name = haskey(players, id) ? players[id].name : "?"
         println("  $id $name $(round(r; digits=1))")
     end
+
+    println("\n== Web data export ==")
+    export_web_data(web_collector, players, highest)
 
     println("\n== Translate to Chinese ==")
     translate_all()

@@ -162,9 +162,14 @@ end
 # Replay all events chronologically, writing a monthly snapshot before each
 # month's events, and finally MS/WS-latest.typ (top 1000).
 # Returns the all-time highest rating per player, sorted descending.
+#
+# Optional callbacks (used by the web exporter; nothing = unchanged behavior):
+#   on_month(date, ratings, ranking_m, ranking_f)  — after each monthly snapshot
+#   on_latest(date, ratings, ranking_m, ranking_f) — after the final latest snapshot
 function compute_rankings(events::Dict{Date, Vector{Event}},
                           players::Dict{Int, Player},
-                          active_periods::Dict{Int, Vector{Period}})
+                          active_periods::Dict{Int, Vector{Period}};
+                          on_month=nothing, on_latest=nothing)
     ratings = Dict{Int, Float64}()
     last_ranking = Dict{Int, Int}()
     highest_ratings = Dict{Int, Float64}()
@@ -181,6 +186,9 @@ function compute_rankings(events::Dict{Date, Vector{Event}},
         if event.time >= start_date
             ranking_m = save_rankings(start_date, "M", ratings, last_ranking, players, active_periods)
             ranking_f = save_rankings(start_date, "W", ratings, last_ranking, players, active_periods)
+            if on_month !== nothing
+                on_month(start_date, ratings, ranking_m, ranking_f)
+            end
             empty!(last_ranking)
             for (player, rank) in ranking_m
                 last_ranking[player] = rank
@@ -213,7 +221,10 @@ function compute_rankings(events::Dict{Date, Vector{Event}},
         end
     end
 
-    save_rankings(end_date, "M", ratings, last_ranking, players, active_periods; filename="MS-latest.typ", count=1000)
-    save_rankings(end_date, "W", ratings, last_ranking, players, active_periods; filename="WS-latest.typ", count=1000)
+    ranking_m_latest = save_rankings(end_date, "M", ratings, last_ranking, players, active_periods; filename="MS-latest.typ", count=1000)
+    ranking_f_latest = save_rankings(end_date, "W", ratings, last_ranking, players, active_periods; filename="WS-latest.typ", count=1000)
+    if on_latest !== nothing
+        on_latest(end_date, ratings, ranking_m_latest, ranking_f_latest)
+    end
     return sort(collect(highest_ratings), by=x -> x[2], rev=true)
 end

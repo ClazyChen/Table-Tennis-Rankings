@@ -1,0 +1,32 @@
+# Deploy the static ranking site (web/) to GitHub Pages.
+# One-time manual step: repo Settings → Pages → Source = "GitHub Actions".
+name: Deploy web to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths: [web/**]
+  workflow_dispatch:
+
+permissions:
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+      - id: deployment
+        uses: actions/deploy-pages@v4

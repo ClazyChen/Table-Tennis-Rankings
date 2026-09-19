@@ -7,6 +7,8 @@ This repository demonstrates an excellent table tennis international ranking alg
 This repository provides world rankings from January 2004 to today. Earlier rankings cannot be calculated because the ITTF does not provide relevant data.
 All rankings use Typst, which you can easily convert to pdf files.
 
+There is also a bilingual (EN/CN) static website in `web/`: monthly MS/WS ranking tables plus per-player rating-history pages. It is deployed to GitHub Pages (`.github/workflows/pages.yml`); preview locally with `python -m http.server 8000 -d web`.
+
 This repository includes men's singles ranking and women's singles ranking. You can see the changes of top players in the past twenty years: from Wang Liqin, Ma Lin, Wang Hao, Zhang Jike, Ma Long, Fan Zhendong to Wang Chuqin; from Zhang Yining, Guo Yue, Li Xiaoxia, Ding Ning, Liu Shiwen, Chen Meng to Sun Yingsha.
 
 You are welcome to provide suggestions for improving the algorithm model or the display form of the ranking.
@@ -15,8 +17,8 @@ You are welcome to provide suggestions for improving the algorithm model or the 
 
 The code is written in Julia. The ranking algorithm and data formats are documented in `docs/algorithm.md`; the implementation lives in `src/` as plain modules.
 
-- `julia crawl.jl` — crawl new events/matches/players from the ITTF website (requires `ittf_credentials.json` with your session cookies; resumes from `crawl_state.json` after HTTP 429).
-- `julia post_crawl.jl` — after the crawl reaches `phase == "done"`: merge into the processed data, recompute all rankings, and generate the Chinese translations.
+- `julia crawl.jl` — crawl new events/matches/players from the ITTF website (requires `ittf_credentials.json`; logs in via the browser automatically; resumes from `crawl_state.json` after HTTP 429).
+- `julia post_crawl.jl` — after the crawl reaches `phase == "done"`: merge into the processed data, recompute all rankings, export the web data bundles (`web/data/`), and generate the Chinese translations.
 - `typst compile MS-latest.typ` — render a ranking to PDF.
 
 <h1>Notice</h1>

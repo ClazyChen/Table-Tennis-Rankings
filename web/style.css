@@ -1,0 +1,168 @@
+/* web/style.css — Table Tennis ELO Rankings */
+:root {
+  --bg: #f6f7f9;
+  --card: #ffffff;
+  --text: #1f2329;
+  --muted: #6b7280;
+  --border: #e5e7eb;
+  --accent: #1a5fb4;
+  --up: #1a7f37;
+  --down: #cf222e;
+  --new: #0969da;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: "Segoe UI", "Microsoft YaHei", system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+header {
+  background: var(--card);
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 20;
+}
+.header-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 10px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+h1 { font-size: 18px; margin: 0; white-space: nowrap; }
+.header-controls { display: flex; gap: 10px; align-items: center; }
+#lang-toggle {
+  border: 1px solid var(--border);
+  background: var(--card);
+  border-radius: 6px;
+  padding: 5px 12px;
+  cursor: pointer;
+  font-size: 13px;
+}
+#lang-toggle:hover { border-color: var(--accent); color: var(--accent); }
+
+.search-box { position: relative; }
+#search-input {
+  width: 220px;
+  padding: 6px 10px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 13px;
+}
+#search-input:focus { outline: none; border-color: var(--accent); }
+.search-results {
+  position: absolute;
+  top: 34px;
+  left: 0;
+  right: 0;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  box-shadow: 0 6px 18px rgba(0,0,0,.12);
+  max-height: 320px;
+  overflow-y: auto;
+  z-index: 30;
+}
+.search-results.hidden { display: none; }
+.search-item {
+  padding: 7px 10px;
+  cursor: pointer;
+  font-size: 13px;
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+}
+.search-item:hover { background: var(--bg); }
+.search-item .cn { color: var(--muted); }
+
+main { max-width: 1100px; margin: 18px auto 40px; padding: 0 16px; }
+.loading, .error { text-align: center; color: var(--muted); padding: 40px 0; }
+.error { color: var(--down); }
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 14px 16px;
+  margin-bottom: 14px;
+}
+
+/* ranking toolbar */
+.toolbar { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.tabs { display: flex; gap: 0; border: 1px solid var(--border); border-radius: 6px; overflow: hidden; }
+.tab {
+  border: none;
+  background: var(--card);
+  padding: 6px 16px;
+  cursor: pointer;
+  font-size: 13px;
+}
+.tab.active { background: var(--accent); color: #fff; }
+.month-nav { display: flex; align-items: center; gap: 6px; }
+.month-nav button {
+  border: 1px solid var(--border);
+  background: var(--card);
+  border-radius: 6px;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 13px;
+}
+.month-nav button:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+.month-nav button:disabled { opacity: .4; cursor: default; }
+#month-select {
+  padding: 5px 8px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 13px;
+  max-width: 130px;
+}
+
+/* ranking table */
+table.ranking { width: 100%; border-collapse: collapse; font-size: 13px; }
+table.ranking th, table.ranking td {
+  padding: 6px 8px;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+table.ranking th { color: var(--muted); font-weight: 600; position: sticky; top: 57px; background: var(--card); }
+table.ranking tbody tr:hover { background: var(--bg); }
+table.ranking td.num, table.ranking th.num { text-align: right; }
+table.ranking td.rating { font-weight: 700; }
+.player-link { color: var(--accent); text-decoration: none; cursor: pointer; }
+.player-link:hover { text-decoration: underline; }
+.flag { height: 12px; vertical-align: -1px; margin-right: 4px; }
+.assoc { color: var(--muted); font-size: 12px; }
+.delta-up { color: var(--up); font-weight: 600; }
+.delta-down { color: var(--down); font-weight: 600; }
+.delta-new { color: var(--new); font-weight: 600; font-size: 11px; }
+.delta-flat { color: var(--muted); }
+
+/* player page */
+.player-head { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.player-head h2 { margin: 0; font-size: 22px; }
+.player-head .alt-name { color: var(--muted); font-size: 15px; }
+.meta-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 10px;
+  margin-top: 12px;
+}
+.meta-item .k { color: var(--muted); font-size: 12px; }
+.meta-item .v { font-size: 15px; font-weight: 600; margin-top: 2px; }
+.back-link { color: var(--accent); text-decoration: none; font-size: 13px; cursor: pointer; }
+.back-link:hover { text-decoration: underline; }
+#chart-container { margin-top: 6px; overflow-x: auto; }
+.chart-title { font-size: 13px; color: var(--muted); margin: 10px 0 4px; }
+footer {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 16px 24px;
+  color: var(--muted);
+  font-size: 12px;
+}

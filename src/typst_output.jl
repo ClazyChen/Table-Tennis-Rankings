@@ -5,23 +5,12 @@
 # script, and this file's signatures reference Main.Period (rating.jl), which
 # must not be shadowed by Dates.Period. Include rating.jl before this file.
 
-function save_rankings(date::Date, type::String, rating::Dict{Int, Float64}, last_ranking::Dict{Int, Int},
-                      players::Dict{Int, Player}, active_periods::Dict{Int, Vector{Period}};
-                      filename::String="", count::Int=200)
-    # Create directory structure
-    year_dir = "history/$(year(date))"
-    if !isdir(year_dir)
-        mkpath(year_dir)
-    end
-
-    # Create filename with 2-digit month format
-    month_str = lpad(month(date), 2, '0')
-    output_filename = !isempty(filename) ? filename : "$(year_dir)/$(type)S-$(month_str).typ"
-
-    # Filter active players
+# Sorted ids (rating desc) of active players of one gender on `date`.
+# Shared by save_rankings (Typst writer) and the web exporter.
+function ranked_active_players(date::Date, type::String, rating::Dict{Int, Float64},
+                               players::Dict{Int, Player}, active_periods::Dict{Int, Vector{Period}})
     active_players = Int[]
     for (player_id, periods) in active_periods
-        # Check if player is active on the current date
         is_active = false
         for period in periods
             if period.start <= date <= period.fin
@@ -35,8 +24,48 @@ function save_rankings(date::Date, type::String, rating::Dict{Int, Float64}, las
         end
     end
 
-    # Sort by rating and take top 200
     sort!(active_players, by=id -> -rating[id])
+    return active_players
+end
+
+# Association of a player on `date` (latest change at-or-before date; falls
+# back to the earliest known association). Shared by save_rankings and the
+# web exporter.
+function player_assoc_on_date(player::Player, date::Date)::String
+    assoc = "?"
+    latest_date = today() + Day(1)
+    for (association, change_date) in player.history
+        if date <= change_date < latest_date
+            assoc = association
+            latest_date = change_date
+        end
+    end
+    if assoc == "?"
+        latest_date = Date(1970, 1, 1)
+        for (association, change_date) in player.history
+            if change_date > latest_date
+                assoc = association
+                latest_date = change_date
+            end
+        end
+    end
+    return assoc
+end
+
+function save_rankings(date::Date, type::String, rating::Dict{Int, Float64}, last_ranking::Dict{Int, Int},
+                      players::Dict{Int, Player}, active_periods::Dict{Int, Vector{Period}};
+                      filename::String="", count::Int=200)
+    # Create directory structure
+    year_dir = "history/$(year(date))"
+    if !isdir(year_dir)
+        mkpath(year_dir)
+    end
+
+    # Create filename with 2-digit month format
+    month_str = lpad(month(date), 2, '0')
+    output_filename = !isempty(filename) ? filename : "$(year_dir)/$(type)S-$(month_str).typ"
+
+    active_players = ranked_active_players(date, type, rating, players, active_periods)
 
     # Create current rankings dictionary
     current_ranking = Dict{Int, Int}()
@@ -77,23 +106,7 @@ function save_rankings(date::Date, type::String, rating::Dict{Int, Float64}, las
 
                 age = year(date) - player.yob
 
-                assoc = "?"
-                latest_date = today() + Day(1)
-                for (association, change_date) in player.history
-                    if date <= change_date < latest_date
-                        assoc = association
-                        latest_date = change_date
-                    end
-                end
-                if assoc == "?"
-                    latest_date = Date(1970, 1, 1)
-                    for (association, change_date) in player.history
-                        if change_date > latest_date
-                            assoc = association
-                            latest_date = change_date
-                        end
-                    end
-                end
+                assoc = player_assoc_on_date(player, date)
 
                 hand = player.hand == "Right-Hand" ? "#right" :
                        player.hand == "Left-Hand" ? "#left" : "?"

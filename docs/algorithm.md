@@ -102,6 +102,14 @@ a huge strength gap.
 - `style` (attack or defence)
 - `grip` (shakehand or penhold)
 
+### Performance note (measured 2026-09-19, `testdata/bench_pipeline.jl`)
+
+The per-date file split is NOT a bottleneck: reading all ~1450 files (167 MB)
+takes 0.4 s, parsing 1.5 s, building structs 3.1 s; a full `post_crawl.jl` run
+is dominated by Julia startup/JIT (~30 s) and the CN translation step (~7 s).
+Incremental updates only rewrite the files of modified dates, so the format
+stays as-is. Web-friendly exports are a separate concern (Phase D).
+
 ## Directory structure
 
 Raw ITTF files (not uploaded to GitHub):
