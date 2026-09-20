@@ -144,7 +144,15 @@ function deltaHTML(d) {
     ? `<span class="delta-up">▲${d}</span>`
     : `<span class="delta-down">▼${-d}</span>`;
 }
-function flagImg(assoc) {
+let blankFlagsP = null;
+function blankFlags() {
+  if (!blankFlagsP) blankFlagsP = fetchJSON("data/flags/blank.json").then((a) => new Set(a)).catch(() => new Set());
+  return blankFlagsP;
+}
+let BLANK_FLAGS = new Set();   // transparent ITTF placeholders (sanctioned/neutral assocs)
+function flagImg(assoc, code = true) {
+  if (BLANK_FLAGS.has(assoc))
+    return `<span class="flag flag-blank">${code ? esc(assoc) : ""}</span>`;
   return `<img class="flag" src="data/flags/${esc(assoc)}.png" alt="" onerror="this.style.visibility='hidden'">`;
 }
 
@@ -161,6 +169,7 @@ function parseRoute() {
 
 async function render() {
   closeSearch();
+  BLANK_FLAGS = await blankFlags();
   const r = parseRoute();
   try {
     if (r.view === "player") await renderPlayer(r.id);
@@ -207,7 +216,7 @@ async function renderRanking(gender, month) {
       <td class="num">${rank}</td>
       <td><a class="player-link" href="#/player/${id}">${esc(playerName(nm, id))}</a></td>
       <td class="num age"${typeof age === "number" ? ` style="color:${ageColor(age)}"` : ""}>${age || "?"}</td>
-      <td>${flagImg(assoc)}<span class="assoc">${esc(assoc)}</span></td>
+      <td>${flagImg(assoc, false)}<span class="assoc">${esc(assoc)}</span></td>
       <td>${localizedAttr(hand)}</td>
       <td>${localizedAttr(grip)}</td>
       <td>${localizedAttr(style)}</td>
@@ -320,7 +329,7 @@ async function renderPlayer(id) {
       <div class="player-head" style="margin-top:8px">
         <h2>${esc(lang === "zh" ? cn : name)}</h2>
         <span class="alt-name">${esc(altName(rec))}</span>
-        <span>${flagImg(assoc)}<span class="assoc">${esc(assoc)}</span></span>
+        <span>${flagImg(assoc, false)}<span class="assoc">${esc(assoc)}</span></span>
       </div>
       <div class="meta-grid">
         <div class="meta-item"><div class="k">${t("sex")}</div><div class="v">${sex === "M" ? t("male") : t("female")}</div></div>
@@ -475,7 +484,7 @@ async function renderEvents() {
     const [tierCls, tierName] = tierOf(w);
     return `<div class="event-card card">
       <div class="ev-head"><a class="ev-name player-link" href="#/event/${tid}">${esc(name)}</a><span class="tier ${tierCls}">${tierName}</span></div>
-      <div class="ev-meta">${start} ~ ${end}${org && org !== "?" ? ` · ${flagImg(org)}${esc(org)}` : ""}</div>
+      <div class="ev-meta">${start} ~ ${end}${org && org !== "?" ? ` · ${flagImg(org, false)}${esc(org)}` : ""}</div>
       ${podiumLine("MS", msPod, nm)}${podiumLine("WS", wsPod, nm)}
     </div>`;
   }).join("");
@@ -504,7 +513,15 @@ const isWoMatch = (games, wo) => {
   return sets.length >= 2 && sets.every((s) => s === "11:0" || s === "0:11");
 };
 
-function bkBox(item, side, nm, pa) {
+// entering-the-event rating/rank sub-line: "#12 · 2987", or just "2987" when
+// the player was outside the monthly top 200 (rank 0), "" when unknown
+const prSub = (pr, pid) => {
+  const v = pr && pr[pid];
+  if (!v) return "";
+  return v[1] > 0 ? `#${v[1]} · ${v[0]}` : `${v[0]}`;
+};
+
+function bkBox(item, side, nm, pa, pr, L) {
   const pid = side === "a" ? item.n[0] : item.n[1];
   const w = item.n[3];
   const games = item.n[6], wo = item.n[7];
@@ -516,21 +533,26 @@ function bkBox(item, side, nm, pa) {
     const p = score.split(":");
     if (p.length === 2) score = `${p[1]}:${p[0]}`;
   }
-  const x = (item.maxDepth - item.depth) * BK.COL;
-  const y = BK.HEAD + (side === "a" ? item.yA : item.yX) * BK.ROW;
+  const x = (item.maxDepth - item.depth) * L.COL;
+  const y = L.HEAD + (side === "a" ? item.yA : item.yX) * L.ROW;
   const assoc = pa && pa[pid] ? pa[pid] : null;
+  const sub = prSub(pr, pid);
   const title = `${games || ""}${isWo ? " " + t("wo") : ""}`.trim();
-  return `<a class="bk-box${won ? " won" : ""}${isWo ? " wo" : ""}" style="left:${x}px;top:${y}px" ` +
+  return `<a class="bk-box${won ? " won" : ""}${isWo ? " wo" : ""}" style="left:${x}px;top:${y}px;height:${L.BOXH}px" ` +
     `href="#/player/${pid}" title="${esc(title)}">` +
-    `${assoc ? `<img class="flag" src="data/flags/${esc(assoc)}.png" alt="" onerror="this.style.visibility='hidden'">` : ""}` +
-    `<span class="bk-name">${esc(playerName(nm, pid))}</span>` +
+    `${assoc ? flagImg(assoc) : ""}` +
+    `<span class="bk-text"><span class="bk-name">${esc(playerName(nm, pid))}</span>` +
+    `${sub ? `<span class="bk-sub">${esc(sub)}</span>` : ""}</span>` +
     `${won ? (isWo ? `<span class="bk-score bk-wo">${t("wo")}</span>` : (score ? `<span class="bk-score">${esc(score)}</span>` : "")) : ""}</a>`;
 }
 
-function bracketHTML(tree, nm, pa, opts) {
+function bracketHTML(tree, nm, pa, pr, opts) {
   opts = opts || {};
   const base = opts.base || 0;      // round-code offset (quarter charts start at QF)
   const bronze = opts.bronze || null;
+  // two-line boxes (with the rating/rank sub-line) need taller slots
+  const L = { ROW: opts.sub ? 40 : BK.ROW, COL: BK.COL, BOXW: BK.BOXW,
+              BOXH: opts.sub ? 34 : BK.BOXH, HEAD: BK.HEAD };
   // Classic match-centric layout: the two players of a match always sit in
   // adjacent rows, and row spacing doubles with each round. A match at depth d
   // (0 = final) spans 2^(maxDepth-d+1) slot rows; its two slots are the
@@ -555,43 +577,43 @@ function bracketHTML(tree, nm, pa, opts) {
   }
   place(tree, 0, 0, null);
 
-  const W = (maxDepth + 1) * BK.COL + 8;
-  let H = BK.HEAD + Math.pow(2, maxDepth + 1) * BK.ROW + 8;
-  const slotY = (ry) => BK.HEAD + ry * BK.ROW + BK.BOXH / 2;
+  const W = (maxDepth + 1) * L.COL + 8;
+  let H = L.HEAD + Math.pow(2, maxDepth + 1) * L.ROW + 8;
+  const slotY = (ry) => L.HEAD + ry * L.ROW + L.BOXH / 2;
 
   // connectors: each match gets the classic pair-merge (two stubs + vertical
   // join) on its right, then an elbow from the merge point into the slot it
   // feeds in the next round
-  const L = (pts) => `<polyline points="${pts}" fill="none" stroke="#c9ced6" stroke-width="1.2"/>`;
+  const LN = (pts) => `<polyline points="${pts}" fill="none" stroke="#c9ced6" stroke-width="1.2"/>`;
   let lines = "";
   for (const it of items) {
     if (!it.parent) continue;
     const p = it.parent;
-    const x1 = (maxDepth - it.depth) * BK.COL + BK.BOXW;
-    const x2 = (maxDepth - p.depth) * BK.COL;
+    const x1 = (maxDepth - it.depth) * L.COL + L.BOXW;
+    const x2 = (maxDepth - p.depth) * L.COL;
     const xm = (x1 + x2) / 2, xj = (x1 + xm) / 2;
     const yA = slotY(it.yA), yX = slotY(it.yX), ym = (yA + yX) / 2;
     const py = slotY(p.ca === it ? p.yA : p.yX);
-    lines += L(`${x1},${yA} ${xj},${yA}`) + L(`${x1},${yX} ${xj},${yX}`) +
-             L(`${xj},${yA} ${xj},${yX}`) +
-             L(`${xj},${ym} ${xm},${ym} ${xm},${py} ${x2},${py}`);
+    lines += LN(`${x1},${yA} ${xj},${yA}`) + LN(`${x1},${yX} ${xj},${yX}`) +
+             LN(`${xj},${yA} ${xj},${yX}`) +
+             LN(`${xj},${ym} ${xm},${ym} ${xm},${py} ${x2},${py}`);
   }
 
   let heads = "";
   for (let d = 0; d <= maxDepth; d++) {
-    heads += `<div class="bk-head" style="left:${(maxDepth - d) * BK.COL}px">${roundLabel(base + d)}</div>`;
+    heads += `<div class="bk-head" style="left:${(maxDepth - d) * L.COL}px">${roundLabel(base + d)}</div>`;
   }
 
   let boxes = "";
-  for (const it of items) boxes += bkBox(it, "a", nm, pa) + bkBox(it, "x", nm, pa);
+  for (const it of items) boxes += bkBox(it, "a", nm, pa, pr, L) + bkBox(it, "x", nm, pa, pr, L);
 
   // bronze (3rd-place) match: drawn below the final column, clearly labeled
   if (bronze) {
     const f = items[items.length - 1];   // the final (depth 0, placed last)
     const bit = { n: bronze, depth: 0, maxDepth, yA: f.yX + 2, yX: f.yX + 3 };
-    heads += `<div class="bk-head bk-bronze-head" style="left:${maxDepth * BK.COL}px;top:${BK.HEAD + (f.yX + 1) * BK.ROW + 3}px">${t("bronzeMatch")}</div>`;
-    boxes += bkBox(bit, "a", nm, pa) + bkBox(bit, "x", nm, pa);
-    H = Math.max(H, BK.HEAD + (f.yX + 4) * BK.ROW + 8);
+    heads += `<div class="bk-head bk-bronze-head" style="left:${maxDepth * L.COL}px;top:${L.HEAD + (f.yX + 1) * L.ROW + 3}px">${t("bronzeMatch")}</div>`;
+    boxes += bkBox(bit, "a", nm, pa, pr, L) + bkBox(bit, "x", nm, pa, pr, L);
+    H = Math.max(H, L.HEAD + (f.yX + 4) * L.ROW + 8);
   }
 
   return `<div class="bracket" style="width:${W}px;height:${H}px">` +
@@ -601,37 +623,42 @@ function bracketHTML(tree, nm, pa, opts) {
 // Split big draws into several page-flow charts instead of one scrolled one:
 // the top chart holds the final rounds (SF + F, i.e. 4-2-1), then each quarter
 // of the draw gets its own chart (QF subtree). Draws of ≤5 rounds stay single.
-function treeCharts(tree, nm, pa, bronze) {
+function treeCharts(tree, nm, pa, pr, bronze) {
   let maxDepth = 0;
   (function md(n, d) {
     maxDepth = Math.max(maxDepth, d);
     if (n[4]) md(n[4], d + 1);
     if (n[5]) md(n[5], d + 1);
   })(tree, 0);
+  const sub = !!(pr && Object.keys(pr).length);
   const wrap = (html) => `<div class="bk-scroll">${html}</div>`;
   if (maxDepth + 1 <= 5 || !tree[4] || !tree[5]) {
-    return wrap(bracketHTML(tree, nm, pa, { bronze }));
+    return wrap(bracketHTML(tree, nm, pa, pr, { bronze, sub }));
   }
   const strip = (n) => [n[0], n[1], n[2], n[3], null, null, n[6], n[7]];
   const topTree = [tree[0], tree[1], tree[2], tree[3], strip(tree[4]), strip(tree[5]), tree[6], tree[7]];
   const section = (label) => `<div class="bk-section"><span>${label}</span></div>`;
-  let out = section(t("finalStage")) + wrap(bracketHTML(topTree, nm, pa, { bronze }));
+  let out = section(t("finalStage")) + wrap(bracketHTML(topTree, nm, pa, pr, { bronze, sub }));
   const qfs = [tree[4][4], tree[4][5], tree[5][4], tree[5][5]];
   let qi = 0;
   for (const q of qfs) {
     if (!q) continue;
     qi += 1;
-    out += section(t("quarter")(qi)) + wrap(bracketHTML(q, nm, pa, { base: 2 }));
+    out += section(t("quarter")(qi)) + wrap(bracketHTML(q, nm, pa, pr, { base: 2, sub }));
   }
   return out;
 }
 
-function matchRowHTML(a, x, res, w, nm, extra, games, wo) {
+function matchRowHTML(a, x, res, w, nm, extra, games, wo, pr) {
   const cls = (pid) => pid === w ? " class=\"player-link m-won\"" : " class=\"player-link\"";
+  const sub = (pid) => {
+    const s = prSub(pr, pid);
+    return s ? ` <span class="pr-sub">${esc(s)}</span>` : "";
+  };
   const woTag = isWoMatch(games, wo) ? ` <span class="wo-tag">${t("wo")}</span>` : "";
-  return `<tr><td><a${cls(a)} href="#/player/${a}">${esc(playerName(nm, a))}</a></td>` +
+  return `<tr><td><a${cls(a)} href="#/player/${a}">${esc(playerName(nm, a))}</a>${sub(a)}</td>` +
     `<td class="num">${esc(res)}${woTag}</td>` +
-    `<td><a${cls(x)} href="#/player/${x}">${esc(playerName(nm, x))}</a></td>${extra || ""}</tr>`;
+    `<td><a${cls(x)} href="#/player/${x}">${esc(playerName(nm, x))}</a>${sub(x)}</td>${extra || ""}</tr>`;
 }
 
 let evCat = 0;   // event page tab state: 0=MS 1=WS
@@ -652,28 +679,28 @@ async function renderEvent(tid) {
 
   let body = "";
   if (p.t) {
-    body = treeCharts(p.t, nm, d.pa, p.b || null);
+    body = treeCharts(p.t, nm, d.pa, d.pr, p.b || null);
   } else if (p.r) {
     body = `<div class="chart-title">${t("groupList")}</div>` + p.r.map(([code, rows]) =>
       `<div class="round-block"><div class="round-name">${roundLabel(code)}</div>
-       <table class="matches">${rows.map((m) => matchRowHTML(m[0], m[1], m[2], m[3], nm, null, m[4], m[5])).join("")}</table></div>`
+       <table class="matches">${rows.map((m) => matchRowHTML(m[0], m[1], m[2], m[3], nm, null, m[4], m[5], d.pr)).join("")}</table></div>`
     ).join("");
     if (p.b) {
       body += `<div class="round-block"><div class="round-name">${t("bronzeMatch")}</div>
-        <table class="matches">${matchRowHTML(p.b[0], p.b[1], p.b[2], p.b[3], nm, null, p.b[4], p.b[5])}</table></div>`;
+        <table class="matches">${matchRowHTML(p.b[0], p.b[1], p.b[2], p.b[3], nm, null, p.b[4], p.b[5], d.pr)}</table></div>`;
     }
   }
   if (p.x) {
     const nx = p.x.reduce((s, [, rows]) => s + rows.length, 0);
     body += `<details class="qual"><summary>${t("otherMatches")} (${nx})</summary>` + p.x.map(([code, rows]) =>
       `<div class="round-block"><div class="round-name">${roundLabel(code)}</div>
-       <table class="matches">${rows.map((m) => matchRowHTML(m[0], m[1], m[2], m[3], nm, null, m[4], m[5])).join("")}</table></div>`
+       <table class="matches">${rows.map((m) => matchRowHTML(m[0], m[1], m[2], m[3], nm, null, m[4], m[5], d.pr)).join("")}</table></div>`
     ).join("") + `</details>`;
   }
   if (p.q) {
     body += `<details class="qual"><summary>${t("qualList")} (${p.q.length})</summary>
       <table class="matches">${p.q.map((m) =>
-        matchRowHTML(m[0], m[1], m[2], m[3], nm, `<td class="num muted">${qualLabel(m[4])}</td>`, m[5], m[6])).join("")}</table></details>`;
+        matchRowHTML(m[0], m[1], m[2], m[3], nm, `<td class="num muted">${qualLabel(m[4])}</td>`, m[5], m[6], d.pr)).join("")}</table></details>`;
   }
 
   // back link: when the event page was reached from a player page, offer a
@@ -690,7 +717,7 @@ async function renderEvent(tid) {
       <div class="player-head" style="margin-top:8px">
         <h2>${esc(d.n)}</h2><span class="tier ${tierCls}">${tierName}</span>
       </div>
-      <div class="ev-meta">${d.s} ~ ${d.e}${d.o && d.o !== "?" ? ` · ${flagImg(d.o)}${esc(d.o)}` : ""}</div>
+      <div class="ev-meta">${d.s} ~ ${d.e}${d.o && d.o !== "?" ? ` · ${flagImg(d.o, false)}${esc(d.o)}` : ""}</div>
     </div>
     <div class="card toolbar">
       <div class="tabs">

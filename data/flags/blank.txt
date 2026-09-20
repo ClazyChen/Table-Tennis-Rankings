@@ -1,0 +1,9 @@
+# Associations whose flag image is a fully transparent ITTF placeholder
+# (sanctioned / neutral / missing on the ITTF site). One assoc code per line.
+# These render as assoc-code chips on the web site instead of invisible space.
+# Associations with NO PNG in this directory are treated as blank automatically
+# and do not need to be listed here.
+#
+# Detection hint: a placeholder PNG is ~150-200 bytes and shows nothing.
+REF
+NCL

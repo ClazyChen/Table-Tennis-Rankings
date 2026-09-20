@@ -7,10 +7,14 @@
 #   data/singles_matches_cache.json (gitignored), a compact MS/WS-only cache)
 # Writes:
 #   web/data/events-index.json  [[tid,name,start,end,org,weight,[ms podium],[ws podium]],...]
-#   web/data/events/<tid>.json  {n,s,e,o,w,pa,MS,WS} — per category: bracket
+#   web/data/events/<tid>.json  {n,s,e,o,w,pa,pr,MS,WS} — per category: bracket
 #                               tree "t" (or round list fallback "r"), leftover
 #                               placement/unlinked matches "x", qualification
-#                               list "q", bronze (3rd place) match "b"
+#                               list "q", bronze (3rd place) match "b".
+#                               "pr": pid => [rating, rank] entering the event
+#                               (rating = series point at the event's start
+#                               month; rank only for the monthly top 200, 0 =
+#                               unranked)
 #   augments web/data/history/shard-XX.json with "e": [[tid,cat,result],...]
 #
 # Bracket reconstruction: in a single-elimination draw every player except the
@@ -481,6 +485,22 @@ function podium_of(ms)
     return [champ, runner, get(sf_losers, 1, 0), get(sf_losers, 2, 0)]
 end
 
+# Neutral athletes ("AIN" in the raw match rows) are shown with their true
+# association when the player profile knows one (ITTF keeps the real
+# nationality in the profile even while match rows say AIN).
+function _true_assoc(players::Dict{Int,Player}, pid::Int, assoc::String)::String
+    assoc == "AIN" || return assoc
+    p = get(players, pid, nothing)
+    p === nothing && return assoc
+    best, bdate = assoc, Date(0)
+    for (a, d) in p.history
+        if d > bdate
+            best, bdate = a, d
+        end
+    end
+    return best
+end
+
 # fallback payload for non-knockout draws: rounds grouped by code (desc)
 function rounds_list(ms)
     out = Any[]
@@ -494,6 +514,53 @@ end
 
 # ---------------------------------------------------------------- export
 
+# Player rating series from the web history shards (pid => [[monthidx, rating], ...]
+# ascending). monthidx = (year-2004)*12 + month-1; the point at monthidx m is the
+# rating at the *start* of month m (snapshot written before that month's events),
+# i.e. exactly the rating a player carries into an event held in month m.
+_month_index(d::Date) = (year(d) - 2004) * 12 + month(d) - 1
+
+function _load_rating_series(out_dir::AbstractString)::Dict{Int,Vector{Vector{Int}}}
+    dir = joinpath(out_dir, "history")
+    series = Dict{Int,Vector{Vector{Int}}}()
+    isdir(dir) || return series
+    for f in filter(f -> startswith(f, "shard-") && endswith(f, ".json"), readdir(dir))
+        shard = JSON.parsefile(joinpath(dir, f))
+        for (pid_s, entry) in shard
+            s = get(entry, "s", nothing)
+            isempty(s) && continue
+            series[parse(Int, pid_s)] = [Int[p[1], p[2]] for p in s]
+        end
+    end
+    return series
+end
+
+# Rating at the start of month mi: last series point at or before mi.
+function _rating_at(series::Vector{Vector{Int}}, mi::Int)::Union{Int,Nothing}
+    lo, hi = 1, length(series)
+    series[1][1] > mi && return nothing
+    while lo < hi
+        mid = (lo + hi + 1) ÷ 2
+        series[mid][1] <= mi ? (lo = mid) : (hi = mid - 1)
+    end
+    return series[lo][2]
+end
+
+# id => rank maps from the monthly top-200 files, loaded lazily per (cat, ym).
+function _rank_map!(cache::Dict{Tuple{Int,String},Dict{Int,Int}}, out_dir::AbstractString,
+                    cat::Int, ym::String)::Dict{Int,Int}
+    get!(cache, (cat, ym)) do
+        path = joinpath(out_dir, "rankings", "$(cat == 0 ? "MS" : "WS")-$(ym).json")
+        m = Dict{Int,Int}()
+        if isfile(path)
+            for row in JSON.parsefile(path)
+                m[Int(row[2])] = Int(row[1])
+            end
+        end
+        m
+    end
+end
+
 function export_events_web(events::Dict{Date,Vector{Event}}, players::Dict{Int,Player};
                            out_dir::AbstractString="web/data")
     mkpath(joinpath(out_dir, "events"))
@@ -506,6 +573,8 @@ function export_events_web(events::Dict{Date,Vector{Event}}, players::Dict{Int,P
     raw_meta = load_raw_event_meta()
 
     records = load_singles_records()
+    rating_series = _load_rating_series(out_dir)
+    rank_cache = Dict{Tuple{Int,String},Dict{Int,Int}}()
 
     # career match counts (used to rank parallel draws in build_tree)
     career = Dict{Int,Int}()
@@ -539,6 +608,7 @@ function export_events_web(events::Dict{Date,Vector{Event}}, players::Dict{Int,P
                                   "e" => string(end_date),
                                   "o" => org, "w" => wt)
         pa = Dict{Int,String}()
+        pid_cat = Dict{Int,Int}()
         podiums = Dict{Int,Any}()
 
         for cat in (0, 1)
@@ -546,8 +616,10 @@ function export_events_web(events::Dict{Date,Vector{Event}}, players::Dict{Int,P
             rs === nothing && continue
             drop_placeholder_dups!(rs)
             for r in rs
-                pa[r[R_A]] = r[R_AA]
-                pa[r[R_X]] = r[R_XA]
+                pa[r[R_A]] = _true_assoc(players, r[R_A], r[R_AA])
+                pa[r[R_X]] = _true_assoc(players, r[R_X], r[R_XA])
+                pid_cat[r[R_A]] = cat
+                pid_cat[r[R_X]] = cat
             end
             main = filter(r -> r[R_STAGE] == 0, rs)
             qual = filter(r -> r[R_STAGE] != 0, rs)
@@ -616,6 +688,24 @@ function export_events_web(events::Dict{Date,Vector{Event}}, players::Dict{Int,P
         end
 
         detail["pa"] = Dict(string(k) => v for (k, v) in pa if !isempty(v))
+
+        # entering-the-event rating & rank (month of the event start); rank is
+        # only known for the monthly top 200, 0 = unranked
+        start_date = try Date(detail["s"]) catch; end_date end
+        mi = _month_index(start_date)
+        ym = Dates.format(start_date, "yyyy-mm")
+        pr = Dict{String,Any}()
+        if mi >= 0
+            for (pid, cat) in pid_cat
+                s = get(rating_series, pid, nothing)
+                s === nothing && continue
+                r = _rating_at(s, mi)
+                r === nothing && continue
+                rank = get(_rank_map!(rank_cache, out_dir, cat, ym), pid, 0)
+                pr[string(pid)] = Any[r, rank]
+            end
+        end
+        isempty(pr) || (detail["pr"] = pr)
         _write_json(joinpath(out_dir, "events", "$(tid).json"), detail)
         push!(index_rows, Any[tid, name, detail["s"], detail["e"], org, wt,
                               get(podiums, 0, [0, 0, 0, 0]),

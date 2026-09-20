@@ -8,7 +8,10 @@
 #                         monthly top-200 rows [rank,id,rating,delta,age,assoc]
 #   history/shard-XX.json player meta + rating series, sharded by id % 64
 #   search.json           [id, name, cnName] for the search box
-#   flags/<ASSOC>.png     association flags referenced by the data
+#   flags/<ASSOC>.png     association flags referenced by the data; flags/blank.json
+#                         lists assocs with no usable flag (sanctioned/neutral:
+#                         transparent ITTF placeholder or no image at all) so the
+#                         frontend can render an assoc-code chip instead
 
 using JSON
 using Dates
@@ -175,11 +178,30 @@ function export_web_data(c::WebExportCollector, players::Dict{Int,Player}, highe
     end
 
     n_flags = 0
+    blank_flags = Set{String}()
+    # Associations with no usable flag render as assoc-code chips on the site:
+    #   - no PNG at all (e.g. AIN, historical codes like ROM/SWZ), or
+    #   - listed in data/flags/blank.txt (transparent ITTF placeholders, e.g. REF)
+    listed_blank = Set{String}()
+    blank_txt = joinpath("data", "flags", "blank.txt")
+    if isfile(blank_txt)
+        for line in eachline(blank_txt)
+            s = strip(line)
+            (isempty(s) || startswith(s, "#")) && continue
+            push!(listed_blank, s)
+        end
+    end
     for a in assocs_used
         src = joinpath("data", "flags", "$(a).png")
-        isfile(src) || continue
+        if !isfile(src) || a in listed_blank
+            push!(blank_flags, a)
+            isfile(src) || continue
+        end
         cp(src, joinpath(out_dir, "flags", "$(a).png"); force=true)
         n_flags += 1
+    end
+    open(joinpath(out_dir, "flags", "blank.json"), "w") do io
+        JSON.print(io, sort!(collect(blank_flags)))
     end
 
     println("web export: $(length(c.month_rows)) month files, $(length(c.series)) players, " *
