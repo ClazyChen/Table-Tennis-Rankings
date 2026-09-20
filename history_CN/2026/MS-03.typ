@@ -130,7 +130,7 @@
       [95], [#name("纳维德 沙姆斯")], [#age(21)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2579*], [#delta(-1)],
       [96], [#name("赵大成")], [#age(24)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2576*], [#delta(-33)],
       [97], [#name("尤利安 奇里塔")], [#age(20)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2575*], [#delta(-21)],
-      [98], [#name("埃利亚斯 拉内富尔")], [#age(30)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2575*], [#delta(62)],
+      [98], [#name("伊莱亚斯 兰弗利")], [#age(30)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2575*], [#delta(62)],
       [99], [#name("马蒂亚斯 法尔克")], [#age(35)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2575*], [#delta(-3)],
       [100], [#name("乔纳森 格罗斯")], [#age(34)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2569*], [#delta(-9)],
     )

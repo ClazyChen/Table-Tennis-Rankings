@@ -210,6 +210,7 @@ footer {
   white-space: nowrap;
 }
 .nav-link:hover { border-color: var(--accent); color: var(--accent); }
+.nav-link.active { background: var(--accent); border-color: var(--accent); color: #fff; }
 
 /* filter chips */
 .chips { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }

@@ -176,7 +176,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [126], [#name("孟繁博")], [#age(24)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2512*], [#delta(-11)],
+      [126], [#name("孟凡博")], [#age(24)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2512*], [#delta(-11)],
       [127], [#name("弗拉内 科伊奇")], [#age(32)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2510*], [#delta(22)],
       [128], [#name("郭勇")], [#age(18)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2506*], [#delta(26)],
       [129], [#name("ISTRATE Andrei")], [#age(19)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2503*], [#delta(60)],
@@ -217,7 +217,7 @@
       [155], [#name("约安尼斯 斯古罗普洛斯")], [#age(24)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2474*], [#delta(-2)],
       [156], [#name("奥拉西奥 西富恩特斯")], [#age(26)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2473*], [#delta(-43)],
       [157], [#name("DESCHAMPS Hugo")], [#age(20)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2473*], [#delta(-9)],
-      [158], [#name("埃利亚斯 拉内富尔")], [#age(28)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2473*], [#delta(-3)],
+      [158], [#name("伊莱亚斯 兰弗利")], [#age(28)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2473*], [#delta(-3)],
       [159], [#name("朱尔斯 罗兰")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2472*], [#delta(-69)],
       [160], [#name("古斯塔沃 坪井")], [#age(39)], [#assoc("BRA")], [#left], [#shakehand], [#attack], [*2472*], [#delta(-2)],
       [161], [#name("伊日 马尔廷科")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2468*], [#delta(-1)],

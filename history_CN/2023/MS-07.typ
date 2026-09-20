@@ -132,7 +132,7 @@
       [97], [#name("及川瑞基")], [#age(26)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2556*], [#delta(29)],
       [98], [#name("安德莱斯 勒文科")], [#age(25)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2556*], [#delta(-21)],
       [99], [#name("曹巍")], [#age(24)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2556*], [#delta(-27)],
-      [100], [#name("孟繁博")], [#age(23)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2556*], [#delta(41)],
+      [100], [#name("孟凡博")], [#age(23)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2556*], [#delta(41)],
     )
   )
 #pagebreak()
@@ -189,7 +189,7 @@
       [136], [#name("雅罗斯拉夫 扎穆登科")], [#age(35)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2496*], [#delta(-6)],
       [137], [#name("安迪 佩雷拉")], [#age(34)], [#assoc("CUB")], [#left], [#shakehand], [#attack], [*2494*], [#delta(6)],
       [138], [#name("迪奥戈 卡瓦略")], [#age(31)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2492*], [#delta(-2)],
-      [139], [#name("埃利亚斯 拉内富尔")], [#age(27)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2491*], [#delta(-2)],
+      [139], [#name("伊莱亚斯 兰弗利")], [#age(27)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2491*], [#delta(-2)],
       [140], [#name("王晨策")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2491*], [#delta(-2)],
       [141], [#name("松岛辉空")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2488*], [#delta(-9)],
       [142], [#name("古斯塔沃 坪井")], [#age(38)], [#assoc("BRA")], [#left], [#shakehand], [#attack], [*2487*], [#delta(-3)],

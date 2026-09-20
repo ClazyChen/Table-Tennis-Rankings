@@ -150,7 +150,7 @@
       [106], [#name("及川瑞基")], [#age(29)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2565*], [#delta(-1)],
       [107], [#name("博扬 托基奇")], [#age(45)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2565*], [#delta(-1)],
       [108], [#name("伊日 马尔廷科")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2565*], [#delta(-1)],
-      [109], [#name("埃利亚斯 拉内富尔")], [#age(30)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2565*], [#delta(-11)],
+      [109], [#name("伊莱亚斯 兰弗利")], [#age(30)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2565*], [#delta(-11)],
       [110], [#name("马纳夫 塔卡尔")], [#age(26)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2565*], [#delta(-33)],
       [111], [#name("英田理志")], [#age(33)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2565*], [#delta(-3)],
       [112], [#name("蒂亚戈 阿波罗尼亚")], [#age(40)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2559*], [#delta(-21)],

@@ -187,7 +187,7 @@
       [134], [#name("基里尔 斯卡奇科夫")], [#age(30)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2506*], [#delta(-5)],
       [135], [#name("本斯 马约罗斯")], [#age(20)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2506*], [#delta(11)],
       [136], [#name("徐海东")], [#age(17)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2505*], [#delta(-6)],
-      [137], [#name("埃利亚斯 拉内富尔")], [#age(21)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2504*], [#delta(-6)],
+      [137], [#name("伊莱亚斯 兰弗利")], [#age(21)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2504*], [#delta(-6)],
       [138], [#name("帕维尔 费尔蒂科夫斯基")], [#age(27)], [#assoc("POL")], [#left], [#shakehand], [#attack], [*2504*], [#delta(-6)],
       [139], [#name("BAI He")], [#age(30)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2501*], [#delta(-5)],
       [140], [#name("酒井明日翔")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2501*], [#delta(-5)],

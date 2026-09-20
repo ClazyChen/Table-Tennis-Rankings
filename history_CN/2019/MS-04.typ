@@ -218,7 +218,7 @@
       [156], [#name("松本和雄")], [#age(34)], [#assoc("BRA")], [#left], [#penhold], [#attack], [*2508*], [#delta(-2)],
       [157], [#name("TSUBOI Yuma")], [#age(22)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2508*], [#delta(11)],
       [158], [#name("LI Hsin-Yang")], [#age(19)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2508*], [#delta(-3)],
-      [159], [#name("埃利亚斯 拉内富尔")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2507*], [#delta(-3)],
+      [159], [#name("伊莱亚斯 兰弗利")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2507*], [#delta(-3)],
       [160], [#name("若昂 热拉尔多")], [#age(24)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2506*], [#delta(-49)],
       [161], [#name("米哈伊 博博奇卡")], [#age(33)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2505*], [#delta(-18)],
       [162], [#name("迪奥戈 卡瓦略")], [#age(27)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2504*], [#delta(-5)],

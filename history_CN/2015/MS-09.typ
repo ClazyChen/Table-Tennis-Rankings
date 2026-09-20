@@ -188,7 +188,7 @@
       [135], [#name("佐兰 普里莫拉克")], [#age(46)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2476*], [#delta(79)],
       [136], [#name("笠原弘光")], [#age(26)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2476*], [#delta(-1)],
       [137], [#name("林钟勋")], [#age(18)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2475*], [#delta(-49)],
-      [138], [#name("埃利亚斯 拉内富尔")], [#age(19)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2474*], [#delta(-1)],
+      [138], [#name("伊莱亚斯 兰弗利")], [#age(19)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2474*], [#delta(-1)],
       [139], [#name("阿卜杜勒-卡德尔 萨利富")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2474*], [#delta(55)],
       [140], [#name("卡林尼科斯 格林卡")], [#age(43)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2474*], [#delta(-2)],
       [141], [#name("詹斯 伦德奎斯特")], [#age(36)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2472*], [#delta(-17)],

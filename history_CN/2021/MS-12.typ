@@ -108,7 +108,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [76], [#name("孟繁博")], [#age(21)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2586*], [#delta(4)],
+      [76], [#name("孟凡博")], [#age(21)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2586*], [#delta(4)],
       [77], [#name("GREBNEV Maksim")], [#age(19)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2586*], [#delta(10)],
       [78], [#name("安德烈 加奇尼")], [#age(35)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2586*], [#delta(-19)],
       [79], [#name("米哈伊 博博奇卡")], [#age(35)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2585*], [#delta(-21)],
@@ -195,7 +195,7 @@
       [142], [#name("帕维尔 西鲁切克")], [#age(29)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2473*], [#delta(7)],
       [143], [#name("弗洛朗 兰比特")], [#age(26)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2470*], [#delta(7)],
       [144], [#name("阿马拉杰 安东尼")], [#age(35)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2468*], [#delta(-33)],
-      [145], [#name("埃利亚斯 拉内富尔")], [#age(25)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2466*], [#delta(7)],
+      [145], [#name("伊莱亚斯 兰弗利")], [#age(25)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2466*], [#delta(7)],
       [146], [#name("朱尔斯 罗兰")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2463*], [#delta(7)],
       [147], [#name("塞缪尔 沃克")], [#age(26)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2462*], [#delta(49)],
       [148], [#name("曾蓓勋")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2462*], [#delta(8)],

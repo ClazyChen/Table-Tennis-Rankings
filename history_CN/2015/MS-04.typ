@@ -263,7 +263,7 @@
       [192], [#name("穆罕默德 埃尔贝亚利")], [#age(27)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2414*], [#delta(-25)],
       [193], [#name("安德鲁 巴格利")], [#age(32)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2414*], [#delta(0)],
       [194], [#name("林兆恒")], [#age(19)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2414*], [#delta(0)],
-      [195], [#name("埃利亚斯 拉内富尔")], [#age(19)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2408*], [#delta(31)],
+      [195], [#name("伊莱亚斯 兰弗利")], [#age(19)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2408*], [#delta(31)],
       [196], [#name("米哈伊尔 派科夫")], [#age(26)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2408*], [#delta(-43)],
       [197], [#name("吴志祺")], [#age(29)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2407*], [#delta(2)],
       [198], [#name("CHEN Diogo")], [#age(19)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2407*], [#delta(96)],

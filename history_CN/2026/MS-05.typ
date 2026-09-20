@@ -111,7 +111,7 @@
       [76], [#name("卢卡 姆拉德诺维奇")], [#age(28)], [#assoc("LUX")], [#right], [#shakehand], [#attack], [*2600*], [#delta(43)],
       [77], [#name("林兆恒")], [#age(30)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2598*], [#delta(27)],
       [78], [#name("村松雄斗")], [#age(30)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2598*], [#delta(-1)],
-      [79], [#name("埃利亚斯 拉内富尔")], [#age(30)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2598*], [#delta(30)],
+      [79], [#name("伊莱亚斯 兰弗利")], [#age(30)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2598*], [#delta(30)],
       [80], [#name("维姆 维尔东肖特")], [#age(21)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2597*], [#delta(-1)],
       [81], [#name("吉山和希")], [#age(19)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2597*], [#delta(-1)],
       [82], [#name("卢博米尔 扬察里克")], [#age(39)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2596*], [#delta(-56)],

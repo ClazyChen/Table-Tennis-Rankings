@@ -268,6 +268,6 @@
       [197], [#name("尼基尔 库马尔")], [#age(16)], [#assoc("USA")], [#left], [#shakehand], [#attack], [*2454*], [#delta(7)],
       [198], [#name("托马斯 科涅茨尼")], [#age(34)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2453*], [#delta(7)],
       [199], [#name("亚历山大 迪杜赫")], [#age(37)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2453*], [#delta(-16)],
-      [200], [#name("埃利亚斯 拉内富尔")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2453*], [#delta(-38)],
+      [200], [#name("伊莱亚斯 兰弗利")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2453*], [#delta(-38)],
     )
   )

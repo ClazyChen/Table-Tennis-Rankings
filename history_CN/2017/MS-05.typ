@@ -191,7 +191,7 @@
       [138], [#name("米哈尔 奥贝斯洛")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2507*], [#delta(-5)],
       [139], [#name("徐海东")], [#age(17)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2505*], [#delta(-3)],
       [140], [#name("特里斯坦 弗洛雷")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2505*], [#delta(-32)],
-      [141], [#name("埃利亚斯 拉内富尔")], [#age(21)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2504*], [#delta(-4)],
+      [141], [#name("伊莱亚斯 兰弗利")], [#age(21)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2504*], [#delta(-4)],
       [142], [#name("帕维尔 费尔蒂科夫斯基")], [#age(27)], [#assoc("POL")], [#left], [#shakehand], [#attack], [*2504*], [#delta(-4)],
       [143], [#name("德尼 科祖尔")], [#age(20)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2502*], [#delta(-34)],
       [144], [#name("基里尔 斯卡奇科夫")], [#age(30)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2502*], [#delta(-10)],

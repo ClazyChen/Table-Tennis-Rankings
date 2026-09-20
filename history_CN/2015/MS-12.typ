@@ -217,7 +217,7 @@
       [155], [#name("王楚钦")], [#age(15)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2465*], [#delta(5)],
       [156], [#name("康坦 罗比诺特")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2465*], [#delta(5)],
       [157], [#name("托米斯拉夫 普卡")], [#age(19)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2464*], [#delta(47)],
-      [158], [#name("埃利亚斯 拉内富尔")], [#age(19)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2462*], [#delta(141)],
+      [158], [#name("伊莱亚斯 兰弗利")], [#age(19)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2462*], [#delta(141)],
       [159], [#name("亚历山大 卡辛")], [#age(17)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2461*], [#delta(4)],
       [160], [#name("木造勇人")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2461*], [#delta(-37)],
       [161], [#name("朴康贤")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2460*], [#delta(3)],

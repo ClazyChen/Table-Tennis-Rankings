@@ -142,7 +142,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [101], [#name("孟繁博")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2554*], [#delta(-29)],
+      [101], [#name("孟凡博")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2554*], [#delta(-29)],
       [102], [#name("吉山僚一")], [#age(18)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2552*], [#delta(143)],
       [103], [#name("奥拉西奥 西富恩特斯")], [#age(24)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2552*], [#delta(52)],
       [104], [#name("奥维迪乌 伊奥内斯库")], [#age(33)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2548*], [#delta(-16)],
@@ -219,7 +219,7 @@
       [157], [#name("克里斯蒂安 普莱蒂亚")], [#age(22)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2442*], [#delta(-1)],
       [158], [#name("卢博米尔 皮斯特耶")], [#age(38)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2438*], [#delta(-20)],
       [159], [#name("阿米尔侯赛因 霍达伊")], [#age(24)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2434*], [#delta(25)],
-      [160], [#name("埃利亚斯 拉内富尔")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2433*], [#delta(0)],
+      [160], [#name("伊莱亚斯 兰弗利")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2433*], [#delta(0)],
       [161], [#name("马塞洛 阿吉雷")], [#age(29)], [#assoc("PAR")], [#left], [#shakehand], [#attack], [*2433*], [#delta(-8)],
       [162], [#name("莱奥 德诺德雷斯特")], [#age(22)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2432*], [#delta(-39)],
       [163], [#name("尼亚戈尔 斯托亚诺夫")], [#age(35)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2431*], [#delta(27)],

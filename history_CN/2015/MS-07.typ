@@ -162,7 +162,7 @@
       [118], [#name("乔纳森 格罗斯")], [#age(23)], [#assoc("DEN")], [#left], [#shakehand], [#attack], [*2506*], [#delta(-46)],
       [119], [#name("让 米歇尔 塞弗")], [#age(46)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2505*], [#delta(35)],
       [120], [#name("LORENTZ Romain")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2505*], [#delta(68)],
-      [121], [#name("埃利亚斯 拉内富尔")], [#age(19)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2504*], [#delta(111)],
+      [121], [#name("伊莱亚斯 兰弗利")], [#age(19)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2504*], [#delta(111)],
       [122], [#name("亚诺什 雅各布")], [#age(29)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2502*], [#delta(-2)],
       [123], [#name("酒井明日翔")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2499*], [#delta(1)],
       [124], [#name("CHENG Jingqi")], [#age(21)], [#assoc("CHN")], [?], [?], [?], [*2499*], [#delta(1)],

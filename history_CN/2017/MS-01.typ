@@ -187,7 +187,7 @@
       [134], [#name("徐海东")], [#age(17)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2505*], [#delta(51)],
       [135], [#name("康坦 罗比诺特")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2505*], [#delta(2)],
       [136], [#name("弗洛朗 兰比特")], [#age(22)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2505*], [#delta(2)],
-      [137], [#name("埃利亚斯 拉内富尔")], [#age(21)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2504*], [#delta(2)],
+      [137], [#name("伊莱亚斯 兰弗利")], [#age(21)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2504*], [#delta(2)],
       [138], [#name("帕维尔 费尔蒂科夫斯基")], [#age(27)], [#assoc("POL")], [#left], [#shakehand], [#attack], [*2504*], [#delta(2)],
       [139], [#name("BAI He")], [#age(30)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2501*], [#delta(2)],
       [140], [#name("吉村和弘")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2500*], [#delta(2)],

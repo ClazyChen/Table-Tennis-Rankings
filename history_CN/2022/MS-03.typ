@@ -132,7 +132,7 @@
       [97], [#name("拉雷什 西波斯")], [#age(22)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2554*], [#delta(2)],
       [98], [#name("安德烈 加奇尼")], [#age(36)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2554*], [#delta(-21)],
       [99], [#name("篠塚大登")], [#age(19)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2551*], [#delta(1)],
-      [100], [#name("孟繁博")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2550*], [#delta(1)],
+      [100], [#name("孟凡博")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2550*], [#delta(1)],
     )
   )
 #pagebreak()
@@ -199,7 +199,7 @@
       [146], [#name("朱尔斯 罗兰")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2463*], [#delta(1)],
       [147], [#name("加斯顿 阿尔托")], [#age(37)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2462*], [#delta(1)],
       [148], [#name("佐尔特 佩托")], [#age(35)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2456*], [#delta(1)],
-      [149], [#name("埃利亚斯 拉内富尔")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2455*], [#delta(1)],
+      [149], [#name("伊莱亚斯 兰弗利")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2455*], [#delta(1)],
       [150], [#name("SURAVAJJULA Snehit")], [#age(22)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2453*], [#delta(1)],
     )
   )

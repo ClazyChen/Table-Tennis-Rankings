@@ -110,7 +110,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [76], [#name("冯翊新")], [#age(22)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2612*], [#delta(-29)],
       [77], [#name("郭冠宏")], [#age(17)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2609*], [#delta(-3)],
-      [78], [#name("埃利亚斯 拉内富尔")], [#age(29)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2609*], [#delta(-2)],
+      [78], [#name("伊莱亚斯 兰弗利")], [#age(29)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2609*], [#delta(-2)],
       [79], [#name("陈颢桦")], [#age(21)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2609*], [#delta(47)],
       [80], [#name("里卡多 瓦尔特")], [#age(34)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2602*], [#delta(-20)],
       [81], [#name("若昂 热拉尔多")], [#age(30)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2597*], [#delta(6)],
@@ -164,7 +164,7 @@
       [120], [#name("阿德里安 拉森福斯")], [#age(22)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2516*], [#delta(-31)],
       [121], [#name("莱奥纳多 饭冢")], [#age(19)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2516*], [#delta(-24)],
       [122], [#name("尼基尔 库马尔")], [#age(22)], [#assoc("USA")], [#left], [#shakehand], [#attack], [*2516*], [#delta(-2)],
-      [123], [#name("孟繁博")], [#age(25)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2512*], [#delta(-6)],
+      [123], [#name("孟凡博")], [#age(25)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2512*], [#delta(-6)],
       [124], [#name("川上流星")], [#age(16)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2511*], [#delta(150)],
       [125], [#name("德尼 科祖尔")], [#age(28)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2510*], [#delta(109)],
     )

@@ -142,7 +142,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [101], [#name("孟繁博")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2550*], [#delta(-10)],
+      [101], [#name("孟凡博")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2550*], [#delta(-10)],
       [102], [#name("AFANADOR Brian")], [#age(25)], [#assoc("PUR")], [#right], [#shakehand], [#attack], [*2549*], [#delta(99)],
       [103], [#name("袁励岑")], [#age(22)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2549*], [#delta(-3)],
       [104], [#name("冯翊新")], [#age(19)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2547*], [#delta(-2)],
@@ -200,7 +200,7 @@
       [147], [#name("朱尔斯 罗兰")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2463*], [#delta(-4)],
       [148], [#name("加斯顿 阿尔托")], [#age(37)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2462*], [#delta(-4)],
       [149], [#name("佐尔特 佩托")], [#age(35)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2456*], [#delta(-4)],
-      [150], [#name("埃利亚斯 拉内富尔")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2455*], [#delta(1)],
+      [150], [#name("伊莱亚斯 兰弗利")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2455*], [#delta(1)],
     )
   )
 #pagebreak()

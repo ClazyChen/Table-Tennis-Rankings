@@ -131,7 +131,7 @@
       [96], [#name("特里斯坦 弗洛雷")], [#age(27)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2558*], [#delta(2)],
       [97], [#name("艾曼纽 莱贝松")], [#age(34)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2548*], [#delta(-19)],
       [98], [#name("ZELJKO Filip")], [#age(26)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2546*], [#delta(-8)],
-      [99], [#name("孟繁博")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2541*], [#delta(2)],
+      [99], [#name("孟凡博")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2541*], [#delta(2)],
       [100], [#name("REITSPIES David")], [#age(26)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2540*], [NEW],
     )
   )
@@ -251,7 +251,7 @@
       [180], [#name("SUZUKI Hayate")], [#age(18)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2423*], [#delta(-15)],
       [181], [#name("胡诺尔 斯佐科斯")], [#age(30)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2420*], [#delta(-12)],
       [182], [#name("尼基尔 库马尔")], [#age(19)], [#assoc("USA")], [#left], [#shakehand], [#attack], [*2420*], [#delta(-12)],
-      [183], [#name("埃利亚斯 拉内富尔")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2419*], [#delta(-22)],
+      [183], [#name("伊莱亚斯 兰弗利")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2419*], [#delta(-22)],
       [184], [#name("阿米尔侯赛因 霍达伊")], [#age(24)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2419*], [#delta(-13)],
       [185], [#name("KWAN Man Ho")], [#age(24)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2418*], [#delta(-11)],
       [186], [#name("尼亚戈尔 斯托亚诺夫")], [#age(35)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2416*], [#delta(-50)],

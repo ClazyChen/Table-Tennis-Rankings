@@ -219,7 +219,7 @@
       [157], [#name("萨迪 伊斯梅洛夫")], [#age(20)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2465*], [#delta(-23)],
       [158], [#name("康坦 罗比诺特")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2465*], [#delta(-2)],
       [159], [#name("托米斯拉夫 普卡")], [#age(20)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2464*], [#delta(-2)],
-      [160], [#name("埃利亚斯 拉内富尔")], [#age(20)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2462*], [#delta(-2)],
+      [160], [#name("伊莱亚斯 兰弗利")], [#age(20)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2462*], [#delta(-2)],
       [161], [#name("木造勇人")], [#age(17)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2461*], [#delta(-1)],
       [162], [#name("陈丰")], [#age(22)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2461*], [#delta(80)],
       [163], [#name("朴康贤")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2460*], [#delta(-2)],

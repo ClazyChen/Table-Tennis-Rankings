@@ -40,7 +40,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [26], [#name("埃利亚斯 拉内富尔")], [#age(30)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2714*], [#delta(-3)],
+      [26], [#name("伊莱亚斯 兰弗利")], [#age(30)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2714*], [#delta(-3)],
       [27], [#name("朴奎炫")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2713*], [#delta(28)],
       [28], [#name("安东 卡尔伯格")], [#age(29)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2710*], [#delta(-15)],
       [29], [#name("张禹珍")], [#age(31)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2708*], [#delta(-3)],

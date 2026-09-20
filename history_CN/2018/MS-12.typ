@@ -223,7 +223,7 @@
       [161], [#name("约安尼斯 斯古罗普洛斯")], [#age(18)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2502*], [#delta(-36)],
       [162], [#name("SODERLUND Hampus")], [#age(24)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2502*], [#delta(127)],
       [163], [#name("卡洛斯 马查多")], [#age(38)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2500*], [#delta(-6)],
-      [164], [#name("埃利亚斯 拉内富尔")], [#age(22)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2498*], [#delta(77)],
+      [164], [#name("伊莱亚斯 兰弗利")], [#age(22)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2498*], [#delta(77)],
       [165], [#name("维亚切斯拉夫 布罗夫")], [#age(33)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2497*], [#delta(-21)],
       [166], [#name("伊尔万 贝特朗")], [#age(18)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2497*], [#delta(-6)],
       [167], [#name("康坦 罗比诺特")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2495*], [#delta(-5)],

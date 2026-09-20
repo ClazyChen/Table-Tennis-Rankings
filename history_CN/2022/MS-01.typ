@@ -123,7 +123,7 @@
       [88], [#name("HWANG Minha")], [#age(23)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2562*], [#delta(5)],
       [89], [#name("卢博米尔 扬察里克")], [#age(35)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2562*], [#delta(5)],
       [90], [#name("刘夜泊")], [#age(21)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2562*], [#delta(5)],
-      [91], [#name("孟繁博")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2559*], [#delta(-15)],
+      [91], [#name("孟凡博")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2559*], [#delta(-15)],
       [92], [#name("冯耀恩")], [#age(20)], [#assoc("SGP")], [#left], [#shakehand], [#attack], [*2558*], [#delta(4)],
       [93], [#name("特里斯坦 弗洛雷")], [#age(27)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2558*], [#delta(4)],
       [94], [#name("丹羽孝希")], [#age(28)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2558*], [#delta(4)],
@@ -210,7 +210,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [151], [#name("埃利亚斯 拉内富尔")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2448*], [#delta(-6)],
+      [151], [#name("伊莱亚斯 兰弗利")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2448*], [#delta(-6)],
       [152], [#name("艾哈迈德 萨利赫")], [#age(43)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2448*], [#delta(3)],
       [153], [#name("CAMPOS Jorge")], [#age(31)], [#assoc("CUB")], [#right], [#shakehand], [#attack], [*2446*], [#delta(3)],
       [154], [#name("尼亚戈尔 斯托亚诺夫")], [#age(35)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2445*], [#delta(3)],

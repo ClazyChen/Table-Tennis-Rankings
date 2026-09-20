@@ -26,7 +26,7 @@
       [18], [#name("吴晙诚")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2751*], [#delta(16)],
       [19], [#name("弗拉基米尔 西多连科")], [#age(24)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2750*], [#delta(-10)],
       [20], [#name("帕特里克 弗朗西斯卡")], [#age(34)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2747*], [#delta(-4)],
-      [21], [#name("埃利亚斯 拉内富尔")], [#age(30)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2747*], [#delta(8)],
+      [21], [#name("伊莱亚斯 兰弗利")], [#age(30)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2747*], [#delta(8)],
       [22], [#name("篠塚大登")], [#age(23)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2745*], [#delta(-3)],
       [23], [#name("向鹏")], [#age(23)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2741*], [#delta(2)],
       [24], [#name("张禹珍")], [#age(31)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2736*], [#delta(-3)],

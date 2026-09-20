@@ -221,7 +221,7 @@
       [159], [#name("松本和雄")], [#age(34)], [#assoc("BRA")], [#left], [#penhold], [#attack], [*2508*], [#delta(-3)],
       [160], [#name("TSUBOI Yuma")], [#age(22)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2508*], [#delta(-3)],
       [161], [#name("LI Hsin-Yang")], [#age(19)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2508*], [#delta(-3)],
-      [162], [#name("埃利亚斯 拉内富尔")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2507*], [#delta(-3)],
+      [162], [#name("伊莱亚斯 兰弗利")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2507*], [#delta(-3)],
       [163], [#name("迪奥戈 卡瓦略")], [#age(27)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2504*], [#delta(-1)],
       [164], [#name("SODERLUND Hampus")], [#age(25)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2502*], [#delta(0)],
       [165], [#name("卢博米尔 扬察里克")], [#age(32)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2501*], [#delta(18)],

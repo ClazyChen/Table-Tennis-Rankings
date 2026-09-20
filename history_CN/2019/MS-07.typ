@@ -250,7 +250,7 @@
       [179], [#name("金民赫")], [#age(23)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2476*], [#delta(-46)],
       [180], [#name("蒂亚戈 蒙泰罗")], [#age(38)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2474*], [#delta(-4)],
       [181], [#name("佐尔特 佩托")], [#age(32)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2473*], [#delta(7)],
-      [182], [#name("埃利亚斯 拉内富尔")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2473*], [#delta(-29)],
+      [182], [#name("伊莱亚斯 兰弗利")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2473*], [#delta(-29)],
       [183], [#name("艾哈迈德 萨利赫")], [#age(40)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2472*], [#delta(124)],
       [184], [#name("AHMADIAN Amin")], [#age(18)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2469*], [#delta(6)],
       [185], [#name("阿尔贝托 米诺")], [#age(29)], [#assoc("ECU")], [#right], [#shakehand], [#attack], [*2469*], [#delta(6)],

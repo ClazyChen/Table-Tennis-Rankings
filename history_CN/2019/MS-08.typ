@@ -253,7 +253,7 @@
       [182], [#name("阿列克谢 利文佐夫")], [#age(38)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2465*], [#delta(5)],
       [183], [#name("卡洛斯 马查多")], [#age(39)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2465*], [#delta(5)],
       [184], [#name("古斯塔沃 坪井")], [#age(34)], [#assoc("BRA")], [#left], [#shakehand], [#attack], [*2464*], [#delta(5)],
-      [185], [#name("埃利亚斯 拉内富尔")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2461*], [#delta(-3)],
+      [185], [#name("伊莱亚斯 兰弗利")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2461*], [#delta(-3)],
       [186], [#name("恩佐 昂格勒")], [#age(24)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2460*], [#delta(6)],
       [187], [#name("奥拉西奥 西富恩特斯")], [#age(21)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2460*], [#delta(6)],
       [188], [#name("TAHARA Shogo")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2460*], [#delta(6)],

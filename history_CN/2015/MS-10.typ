@@ -225,7 +225,7 @@
       [163], [#name("JEAN Gregoire")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2450*], [#delta(-6)],
       [164], [#name("吴尚垠")], [#age(38)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2446*], [#delta(-3)],
       [165], [#name("WANG Jianan")], [#age(32)], [#assoc("CGO")], [?], [?], [?], [*2446*], [#delta(58)],
-      [166], [#name("埃利亚斯 拉内富尔")], [#age(19)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2445*], [#delta(-28)],
+      [166], [#name("伊莱亚斯 兰弗利")], [#age(19)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2445*], [#delta(-28)],
       [167], [#name("基里尔 斯卡奇科夫")], [#age(28)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2442*], [#delta(4)],
       [168], [#name("王增羿")], [#age(32)], [#assoc("POL")], [#right], [#penhold], [#attack], [*2440*], [#delta(-9)],
       [169], [#name("卢博米尔 扬察里克")], [#age(28)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2440*], [#delta(17)],

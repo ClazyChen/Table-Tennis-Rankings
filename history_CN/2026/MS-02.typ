@@ -219,7 +219,7 @@
       [157], [#name("马塞洛 阿吉雷")], [#age(33)], [#assoc("PAR")], [#left], [#shakehand], [#attack], [*2480*], [#delta(-2)],
       [158], [#name("劳伦斯 德沃斯")], [#age(26)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2479*], [#delta(-2)],
       [159], [#name("徐弦家")], [#age(18)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2478*], [#delta(-15)],
-      [160], [#name("埃利亚斯 拉内富尔")], [#age(30)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2478*], [#delta(-3)],
+      [160], [#name("伊莱亚斯 兰弗利")], [#age(30)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2478*], [#delta(-3)],
       [161], [#name("GOMEZ Gustavo")], [#age(32)], [#assoc("CHI")], [#right], [#shakehand], [#attack], [*2477*], [#delta(-3)],
       [162], [#name("奥拉西奥 西富恩特斯")], [#age(28)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2477*], [#delta(-2)],
       [163], [#name("莱奥纳多 饭冢")], [#age(20)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2476*], [#delta(-2)],

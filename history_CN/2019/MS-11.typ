@@ -253,7 +253,7 @@
       [182], [#name("阿尔贝托 米诺")], [#age(29)], [#assoc("ECU")], [#right], [#shakehand], [#attack], [*2452*], [#delta(26)],
       [183], [#name("萨迪 伊斯梅洛夫")], [#age(23)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2451*], [#delta(-3)],
       [184], [#name("雅罗斯拉夫 扎穆登科")], [#age(31)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2451*], [#delta(-1)],
-      [185], [#name("埃利亚斯 拉内富尔")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2449*], [#delta(15)],
+      [185], [#name("伊莱亚斯 兰弗利")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2449*], [#delta(15)],
       [186], [#name("弗洛朗 兰比特")], [#age(24)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2449*], [#delta(32)],
       [187], [#name("安托万 阿沙尔")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2449*], [#delta(-22)],
       [188], [#name("安德莱斯 勒文科")], [#age(21)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2449*], [#delta(-34)],

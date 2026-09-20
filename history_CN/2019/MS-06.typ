@@ -212,7 +212,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [151], [#name("松山祐季")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2517*], [#delta(17)],
       [152], [#name("彼得 塞雷达")], [#age(35)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2517*], [#delta(-1)],
-      [153], [#name("埃利亚斯 拉内富尔")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2514*], [#delta(9)],
+      [153], [#name("伊莱亚斯 兰弗利")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2514*], [#delta(9)],
       [154], [#name("列夫 卡茨曼")], [#age(18)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2513*], [#delta(69)],
       [155], [#name("金珉鉐")], [#age(27)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2513*], [#delta(-1)],
       [156], [#name("KONG Lingxuan")], [#age(23)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2513*], [#delta(-1)],

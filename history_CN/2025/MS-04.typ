@@ -85,7 +85,7 @@
       [59], [#name("黄镇廷")], [#age(34)], [#assoc("HKG")], [#right], [#penhold], [#attack], [*2641*], [#delta(-12)],
       [60], [#name("袁励岑")], [#age(25)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2640*], [#delta(-3)],
       [61], [#name("利亚姆 皮切福德")], [#age(32)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2639*], [#delta(-3)],
-      [62], [#name("埃利亚斯 拉内富尔")], [#age(29)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2636*], [#delta(-3)],
+      [62], [#name("伊莱亚斯 兰弗利")], [#age(29)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2636*], [#delta(-3)],
       [63], [#name("冯翊新")], [#age(22)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2636*], [#delta(26)],
       [64], [#name("廖振珽")], [#age(29)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2634*], [#delta(4)],
       [65], [#name("丹尼尔 哈贝松")], [#age(39)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2630*], [#delta(-3)],
@@ -232,7 +232,7 @@
       [170], [#name("MEISSNER Cedric")], [#age(25)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2460*], [#delta(0)],
       [171], [#name("ROSSI Carlo")], [#age(24)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2458*], [#delta(-43)],
       [172], [#name("姚钧涛")], [#age(21)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2456*], [#delta(-7)],
-      [173], [#name("孟繁博")], [#age(25)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2454*], [#delta(-1)],
+      [173], [#name("孟凡博")], [#age(25)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2454*], [#delta(-1)],
       [174], [#name("KIM Taehyun")], [#age(22)], [#assoc("MLT")], [#left], [#shakehand], [#attack], [*2452*], [#delta(-34)],
       [175], [#name("卢博米尔 扬察里克")], [#age(38)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2451*], [#delta(-1)],
     )

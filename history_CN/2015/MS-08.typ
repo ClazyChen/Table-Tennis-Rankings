@@ -187,7 +187,7 @@
       [134], [#name("阿尔瓦罗 罗布勒斯")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2477*], [#delta(4)],
       [135], [#name("笠原弘光")], [#age(26)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2476*], [#delta(74)],
       [136], [#name("基里尔 斯卡奇科夫")], [#age(28)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2474*], [#delta(3)],
-      [137], [#name("埃利亚斯 拉内富尔")], [#age(19)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2474*], [#delta(-16)],
+      [137], [#name("伊莱亚斯 兰弗利")], [#age(19)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2474*], [#delta(-16)],
       [138], [#name("卡林尼科斯 格林卡")], [#age(43)], [#assoc("GRE")], [#right], [#shakehand], [#attack], [*2474*], [#delta(2)],
       [139], [#name("马克 杜兰")], [#age(29)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2474*], [#delta(2)],
       [140], [#name("奥维迪乌 伊奥内斯库")], [#age(26)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2473*], [#delta(-12)],

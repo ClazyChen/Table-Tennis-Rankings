@@ -142,7 +142,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [101], [#name("孟繁博")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2550*], [#delta(0)],
+      [101], [#name("孟凡博")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2550*], [#delta(0)],
       [102], [#name("冯翊新")], [#age(19)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2549*], [#delta(26)],
       [103], [#name("奥维迪乌 伊奥内斯库")], [#age(33)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2548*], [#delta(1)],
       [104], [#name("马丁 阿莱格罗")], [#age(26)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2546*], [#delta(2)],
@@ -220,7 +220,7 @@
       [158], [#name("AHMADIAN Amin")], [#age(21)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2440*], [#delta(-10)],
       [159], [#name("塞缪尔 沃克")], [#age(27)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2436*], [#delta(-7)],
       [160], [#name("汤姆 贾维斯")], [#age(23)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2435*], [#delta(-29)],
-      [161], [#name("埃利亚斯 拉内富尔")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2433*], [#delta(-1)],
+      [161], [#name("伊莱亚斯 兰弗利")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2433*], [#delta(-1)],
       [162], [#name("马塞洛 阿吉雷")], [#age(29)], [#assoc("PAR")], [#left], [#shakehand], [#attack], [*2433*], [#delta(-1)],
       [163], [#name("克里斯蒂安 普莱蒂亚")], [#age(22)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2432*], [#delta(-6)],
       [164], [#name("莱奥 德诺德雷斯特")], [#age(22)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2432*], [#delta(-2)],

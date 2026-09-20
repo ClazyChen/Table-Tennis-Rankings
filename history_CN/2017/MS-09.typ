@@ -220,7 +220,7 @@
       [158], [#name("乔 赛弗里德")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2479*], [#delta(-9)],
       [159], [#name("汉普斯 努德贝里")], [#age(30)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2478*], [#delta(-42)],
       [160], [#name("彭王维")], [#age(21)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2477*], [#delta(-19)],
-      [161], [#name("埃利亚斯 拉内富尔")], [#age(21)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2477*], [#delta(65)],
+      [161], [#name("伊莱亚斯 兰弗利")], [#age(21)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2477*], [#delta(65)],
       [162], [#name("侯英超")], [#age(37)], [#assoc("CAN")], [#right], [#shakehand], [#defense], [*2477*], [#delta(1)],
       [163], [#name("古斯塔沃 坪井")], [#age(32)], [#assoc("BRA")], [#left], [#shakehand], [#attack], [*2476*], [#delta(1)],
       [164], [#name("BAIBULDIN Andrei")], [#age(31)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2475*], [#delta(1)],

@@ -268,6 +268,6 @@
       [197], [#name("康坦 罗比诺特")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2443*], [#delta(1)],
       [198], [#name("莱奥 德诺德雷斯特")], [#age(19)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2443*], [#delta(1)],
       [199], [#name("奥拉吉德 奥莫塔约")], [#age(24)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2442*], [#delta(1)],
-      [200], [#name("埃利亚斯 拉内富尔")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2441*], [#delta(3)],
+      [200], [#name("伊莱亚斯 兰弗利")], [#age(23)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2441*], [#delta(3)],
     )
   )

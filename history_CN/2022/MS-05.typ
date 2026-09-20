@@ -94,7 +94,7 @@
       [68], [#name("汪洋")], [#age(28)], [#assoc("SVK")], [#right], [#shakehand], [#defense], [*2603*], [#delta(0)],
       [69], [#name("马蒂亚斯 法尔克")], [#age(31)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2599*], [#delta(0)],
       [70], [#name("托米斯拉夫 普卡")], [#age(26)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2599*], [#delta(0)],
-      [71], [#name("孟繁博")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2598*], [#delta(0)],
+      [71], [#name("孟凡博")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2598*], [#delta(0)],
       [72], [#name("马雷克 巴多夫斯基")], [#age(25)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2598*], [#delta(0)],
       [73], [#name("马丁 阿莱格罗")], [#age(26)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2595*], [#delta(0)],
       [74], [#name("神巧也")], [#age(29)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2594*], [#delta(0)],
@@ -199,7 +199,7 @@
       [146], [#name("本斯 马约罗斯")], [#age(25)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2459*], [#delta(0)],
       [147], [#name("伊沃 本")], [#age(19)], [#assoc("CRO")], [#left], [#shakehand], [#attack], [*2458*], [#delta(-8)],
       [148], [#name("巴斯蒂安 伦贝尔")], [#age(22)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2455*], [#delta(-1)],
-      [149], [#name("埃利亚斯 拉内富尔")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2455*], [#delta(-1)],
+      [149], [#name("伊莱亚斯 兰弗利")], [#age(26)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2455*], [#delta(-1)],
       [150], [#name("帕维尔 西鲁切克")], [#age(30)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2453*], [#delta(-1)],
     )
   )

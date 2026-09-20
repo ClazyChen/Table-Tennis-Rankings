@@ -27,7 +27,7 @@ const I18N = {
     notFound: "未找到该球员",
     notRanked: "—",
     newMark: "NEW",
-    events: "赛事", backEvents: "← 返回赛事列表", backPlayer: "← 返回球员",
+    events: "赛事", backEvents: "← 返回赛事列表", backPlayer: "← 返回球员", rankings: "排名",
     tierMajor: "大赛", tierHigh: "高级别", tierRegular: "常规赛", tierOther: "其他",
     allTiers: "全部级别",
     podiumSF: "四强", qualList: "资格赛 / 预赛赛果", groupList: "赛果（非单败赛制）",
@@ -52,7 +52,7 @@ const I18N = {
     notFound: "Player not found",
     notRanked: "—",
     newMark: "NEW",
-    events: "Events", backEvents: "← Back to events", backPlayer: "← Back to player",
+    events: "Events", backEvents: "← Back to events", backPlayer: "← Back to player", rankings: "Rankings",
     tierMajor: "Majors", tierHigh: "Top tier", tierRegular: "Regular", tierOther: "Other",
     allTiers: "All tiers",
     podiumSF: "SF", qualList: "Qualification / preliminary results", groupList: "Results (non-knockout format)",
@@ -171,6 +171,11 @@ async function render() {
   closeSearch();
   BLANK_FLAGS = await blankFlags();
   const r = parseRoute();
+  // header nav: "排名" returns to the last viewed ranking context; highlight side
+  el("nav-rank").href = sessionStorage.getItem("ttr-back") || "#/";
+  const eventsSide = r.view === "events" || r.view === "event";
+  el("nav-events").classList.toggle("active", eventsSide);
+  el("nav-rank").classList.toggle("active", !eventsSide);
   try {
     if (r.view === "player") await renderPlayer(r.id);
     else if (r.view === "events") await renderEvents();
@@ -764,6 +769,7 @@ function applyLang() {
   document.documentElement.lang = lang === "zh" ? "zh-CN" : "en";
   el("ui-title").textContent = t("title");
   el("nav-events").textContent = t("events");
+  el("nav-rank").textContent = t("rankings");
   el("lang-toggle").textContent = lang === "zh" ? "EN" : "中文";
   si.placeholder = t("searchPh");
   document.title = lang === "zh"

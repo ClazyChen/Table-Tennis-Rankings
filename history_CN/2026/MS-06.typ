@@ -28,7 +28,7 @@
       [20], [#name("尤利安 奇里塔")], [#age(20)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2734*], [#delta(50)],
       [21], [#name("基里尔 格拉西缅科")], [#age(30)], [#assoc("KAZ")], [#right], [#shakehand], [#attack], [*2731*], [#delta(37)],
       [22], [#name("弗拉基米尔 西多连科")], [#age(24)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2728*], [#delta(-3)],
-      [23], [#name("埃利亚斯 拉内富尔")], [#age(30)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2722*], [#delta(56)],
+      [23], [#name("伊莱亚斯 兰弗利")], [#age(30)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2722*], [#delta(56)],
       [24], [#name("汤姆 贾维斯")], [#age(27)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2711*], [#delta(69)],
       [25], [#name("宇田幸矢")], [#age(25)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2709*], [#delta(-2)],
     )

@@ -108,7 +108,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [76], [#name("埃利亚斯 拉内富尔")], [#age(29)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2600*], [#delta(1)],
+      [76], [#name("伊莱亚斯 兰弗利")], [#age(29)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2600*], [#delta(1)],
       [77], [#name("薛飞")], [#age(26)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2597*], [#delta(-42)],
       [78], [#name("木造勇人")], [#age(26)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2596*], [#delta(2)],
       [79], [#name("安德烈 贝特尔斯迈尔")], [#age(20)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2594*], [#delta(3)],
@@ -158,7 +158,7 @@
       [114], [#name("罗伯特 加尔多斯")], [#age(46)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2524*], [#delta(1)],
       [115], [#name("马纳夫 塔卡尔")], [#age(25)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2524*], [#delta(-20)],
       [116], [#name("托马斯 波兰斯基")], [#age(27)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2523*], [#delta(2)],
-      [117], [#name("孟繁博")], [#age(25)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2520*], [#delta(2)],
+      [117], [#name("孟凡博")], [#age(25)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2520*], [#delta(2)],
       [118], [#name("哈米特 德赛")], [#age(32)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2517*], [#delta(5)],
       [119], [#name("弗洛里安 布拉索")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2516*], [#delta(5)],
       [120], [#name("尼基尔 库马尔")], [#age(22)], [#assoc("USA")], [#left], [#shakehand], [#attack], [*2516*], [#delta(5)],

@@ -189,7 +189,7 @@
       [136], [#name("马雷克 巴多夫斯基")], [#age(19)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2506*], [#delta(107)],
       [137], [#name("康坦 罗比诺特")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2505*], [#delta(-9)],
       [138], [#name("弗洛朗 兰比特")], [#age(21)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2505*], [#delta(44)],
-      [139], [#name("埃利亚斯 拉内富尔")], [#age(20)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2504*], [#delta(101)],
+      [139], [#name("伊莱亚斯 兰弗利")], [#age(20)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2504*], [#delta(101)],
       [140], [#name("帕维尔 费尔蒂科夫斯基")], [#age(26)], [#assoc("POL")], [#left], [#shakehand], [#attack], [*2504*], [#delta(-11)],
       [141], [#name("BAI He")], [#age(29)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2501*], [#delta(-76)],
       [142], [#name("吉村和弘")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2500*], [#delta(-9)],
