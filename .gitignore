@@ -26,6 +26,9 @@ __pycache__
 testdata/event_3480_matches.html
 testdata/webbridge-resp-cookies.json
 
+# generated review/report notes under testdata (kept locally)
+testdata/*.md
+
 # ITTF crawl secrets / checkpoint
 ittf_credentials.json
 crawl_state.json

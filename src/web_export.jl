@@ -99,16 +99,27 @@ function collect_latest!(c::WebExportCollector, date::Date, ratings::Dict{Int,Fl
 end
 
 # translate.txt: "EN name, 中文名" per line (same parsing as translate()).
-function _load_cn_names(path::AbstractString="translate.txt")::Dict{String,String}
-    d = Dict{String,String}()
-    isfile(path) || return d
+# Same-name disambiguation: a key suffixed with #<player_id> applies only to
+# that player id and wins over the plain name entry (e.g. two KIM Minseok).
+function _load_cn_names(path::AbstractString="translate.txt")::Tuple{Dict{String,String},Dict{Int,String}}
+    by_name = Dict{String,String}()
+    by_id = Dict{Int,String}()
+    isfile(path) || return by_name, by_id
     for line in eachline(path)
         words = split(line, ",")
         length(words) >= 2 || continue
-        d[strip(words[1])] = strip(words[2])
+        key, cn = strip(words[1]), strip(words[2])
+        m = match(r"^(.*)#(\d+)$", key)
+        if m !== nothing
+            by_id[parse(Int, m[2])] = cn
+        else
+            by_name[key] = cn
+        end
     end
-    return d
+    return by_name, by_id
 end
+
+_cn_for(by_name, by_id, pid, name) = get(by_id, pid, get(by_name, name, name))
 
 function export_web_data(c::WebExportCollector, players::Dict{Int,Player}, highest;
                          out_dir::AbstractString="web/data")
@@ -127,7 +138,7 @@ function export_web_data(c::WebExportCollector, players::Dict{Int,Player}, highe
     end
 
     peak = Dict{Int,Float64}(highest)
-    cn = _load_cn_names()
+    cn_by_name, cn_by_id = _load_cn_names()
 
     n_shards = 64
     shards = [Dict{String,Any}() for _ in 1:n_shards]
@@ -155,7 +166,7 @@ function export_web_data(c::WebExportCollector, players::Dict{Int,Player}, highe
             final = haskey(c.final_ratings, pid) ? floor(Int, c.final_ratings[pid]) : last_r
             final != last_r && push!(series, Int[last_mi + 1, final])
         end
-        meta = Any[player.name, get(cn, player.name, player.name), player.sex, player.yob,
+        meta = Any[player.name, _cn_for(cn_by_name, cn_by_id, pid, player.name), player.sex, player.yob,
                    player.hand, player.grip, player.style, cur_assoc,
                    floor(Int, get(peak, pid, 0.0)), final]
         shards[pid % n_shards + 1][string(pid)] = Dict("m" => meta, "s" => series)
@@ -166,7 +177,7 @@ function export_web_data(c::WebExportCollector, players::Dict{Int,Player}, highe
         end
     end
 
-    search = [Any[pid, players[pid].name, get(cn, players[pid].name, players[pid].name)]
+    search = [Any[pid, players[pid].name, _cn_for(cn_by_name, cn_by_id, pid, players[pid].name)]
               for pid in all_pids]
     open(joinpath(out_dir, "search.json"), "w") do io
         JSON.print(io, search)

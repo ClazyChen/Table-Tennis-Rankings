@@ -1,451 +1,922 @@
+ABBASI Amirreza, 阿米尔雷扎 阿巴西
+ABIODUN Tiago, 蒂亚戈 阿比奥顿
+ABO YAMAN Zaid, 扎伊德 阿博 亚曼
+ABRAAMIAN Elizabet, 伊丽莎白 阿布拉米安
+ACHANTA Sharath Kamal, 沙拉特 卡马尔 阿昌塔
+ACHANTA Sharath, 沙拉特 阿昌塔
+AGUIRRE Marcelo, 马塞洛 阿吉雷
+AIDA Satoshi, 英田理志
+AKAE Kaho, 赤江夏星
+AKASHEVA Zauresh, 绍蕾什 阿卡舍娃
+AKKUZU Can, 康 阿库祖
 AKULA Sreeja, 斯丽贾 阿库拉
 ALAMIAN Nima, 尼马 阿拉米安
 ALAMIYAN Noshad, 诺沙迪 阿拉米扬
+ALLEGRO Martin, 马丁 阿莱格罗
+ALTINKAYA Sibel, 西贝尔 阿尔滕卡亚
+ALTO Gaston, 加斯顿 阿尔托
 AN Jaehyun, 安宰贤
 ANDO Minami, 安藤南
+ANDRAS Csaba, 乔鲍 安德拉斯
+ANGLES Enzo, 恩佐 昂格勒
+ANTHONY Amalraj, 阿马拉杰 安东尼
+AOKI Sachi, 青木咲智
 APOLONIA Tiago, 蒂亚戈 阿波罗尼亚
+ARAPOVIC Hana, 哈娜 阿拉波维奇
+ARLIA Nicole, 妮可 阿利亚
+ARTEMENKO Nikita, 尼基塔 阿尔捷缅科
 ARUNA Quadri, 夸德里 阿鲁纳
+ASO Reina, 麻生丽名
 ASSAR Omar, 奥马尔 阿萨尔
+AXELQVIST Johan, 约翰 阿克塞尔奎斯特
+BADOWSKI Marek, 马雷克 巴多夫斯基
+BAE Hwan, 裴焕
+BAGGALEY Andrew, 安德鲁 巴格利
 BAI Yang, 白杨
+BAJOR Natalia, 娜塔莉亚 巴约尔
+BAKULA Andrea, 安德烈娅 巴库拉
+BALAZOVA Barbora, 巴尔博拉 巴拉佐娃
+BALINT Bernadett, 伯纳德特 巴林特
+BAN Ivor, 伊沃 本
+BARDET Lilian, 力廉 巴德
+BARTHEL Zhenqi, 孙祯琦
 BATRA Manika, 玛妮卡 巴特拉
 BAUM Patrick, 帕特里克 鲍姆
+BEH Lee Wei, 马莉薇
+BENTSEN Allan, 阿兰 本特森
+BERGAND Filippa, 菲利帕 贝里安德
+BERGLUND Simon, 西蒙 贝格伦德
+BERGSTROM Linda, 琳达 伯格斯特隆
+BERTELSMEIER Andre, 安德烈 贝特尔斯迈尔
+BERTRAND Irvin, 伊尔万 贝特朗
+BERZOSA Maria, 玛丽亚 贝尔索萨
+BHATTACHARJEE Ankur, 安库尔 巴塔查尔吉
+BHOWMICK Divyanshi, 迪维扬希 布霍米克
+BILENKO Tetyana, 特蒂亚娜 比连科
+BLASZCZYK Lucjan, 卢兹扬 布拉斯奇克
+BOBOCICA Mihai, 米哈伊 博博奇卡
 BOLL Timo, 蒂姆 波尔
+BOLLMEIER Nadine, 纳迪娜 博尔迈尔
 BOROS Tamara, 塔玛拉 鲍罗斯
+BOULOUSSA Mehdi, 迈赫迪 布洛斯
+BOURRASSAUD Florian, 弗洛里安 布拉索
+BRARD Romain, 罗曼 布拉尔
+BRATEYKO Solomiya, 索洛米娅 布拉捷伊科
+BRZYSKA Anna, 安娜 布日斯卡
+BURGIS Matiss, 马蒂斯 布尔吉斯
+BUROV Viacheslav, 维亚切斯拉夫 布罗夫
+BYUN Seoyoung, 卞瑞英
 CALDERANO Hugo, 雨果 卡尔德拉诺
+CANTERO Jesus, 赫苏斯 坎特罗
 CAO Wei, 曹巍
 CAO Zhen, 曹臻
+CARNEROS Alfredo, 阿尔弗雷多 卡内罗斯
+CARVALHO Diogo, 迪奥戈 卡瓦略
+CASSIN Alexandre, 亚历山大 卡辛
+CASTRO Rogelio, 罗赫略 卡斯特罗
+CECHOVA Dana, 达娜 切霍娃
+CHA Su Yong, 嵯水影
+CHAN Baldwin, 陈颢桦
 CHAN Kazuhiro, 张一博
 CHANG Chenchen, 常晨晨
+CHANG Yu-An, 张佑安
+CHASSELIN Pauline, 波琳 沙斯兰
 CHE Xiaoxi, 车晓曦
+CHEN Chi-Shiuan, 陈琦媗
+CHEN Chi-Yun, 陈琦媗
+CHEN Chia-I, 陈佳宜
 CHEN Chien-An, 陈建安
+CHEN Feng, 陈丰
+CHEN Junsong, 陈俊菘
 CHEN Ke, 陈可
 CHEN Meng, 陈梦
+CHEN Min-Hsin, 陈忞昕
 CHEN Qi, 陈玘
+CHEN Qing, 陈晴
 CHEN Szu-Yu, 陈思羽
+CHEN Weixing, 陈卫星
 CHEN Xingtong, 陈幸同
 CHEN Yi, 陈熠
+CHEN Yuanyu, 陈垣宇
+CHENG Hsien-Tzu, 郑先知
 CHENG I-Ching, 郑怡静
 CHEUNG Yuk, 张钰
+CHIANG Hung-Chieh, 江宏杰
 CHIANG Peng-Lung, 蒋澎龙
-CHIEN Tung-Chuan, 陈沂芊
+CHIEN Tung-Chuan, 简彤娟
+CHILA Patrick, 帕特里克 奇拉
+CHIRITA Iulian, 尤利安 奇里塔
+CHITALE Diya, 迪亚 奇塔莱
 CHO Daeseong, 赵大成
+CHO Eonrae, 赵彦来
 CHO Seungmin, 赵胜敏
+CHOI Haeeun, 崔海恩
 CHOI Hyojoo, 崔孝珠
+CHOI Hyunjin, 崔贤珍
+CHOI Moonyoung, 崔文渶
+CHTCHETININE Evgueni, 叶夫根尼 齐特切蒂宁
 CHUANG Chih-Yuan, 庄智渊
+CIFUENTES Horacio, 奥拉西奥 西富恩特斯
+CIHAK Marek, 马雷克 齐哈克
+CIOBANU Irina, 伊琳娜 乔巴努
+CIOTI Constantin, 康斯坦丁 乔蒂
+COTON Flavien, 弗拉维安 科顿
+CREEMERS Linda, 琳达 克雷默斯
 CRISAN Adrian, 阿德里安 克里桑
 DANG Yeseo, 唐汭序
+DAS Mouma, 穆玛 达斯
+DAS Syndrela, 辛德雷拉 达斯
+DE NODREST Leo, 莱奥 德诺德雷斯特
+DE NUTTE Sarah, 莎拉 德努特
+DESAI Harmeet, 哈米特 德赛
+DEVOS Laurens, 劳伦斯 德沃斯
+DEVOS Robin, 罗宾 德沃斯
+DIACONU Adina, 阿迪娜 迪亚科努
+DIAW Ibrahima, 易卜拉欣 迪阿夫
 DIAZ Adriana, 阿德里安娜 迪亚兹
+DIDUKH Oleksandr, 亚历山大 迪杜赫
 DING Ning, 丁宁
+DING Yijie, 丁怡婕
+DODEAN Daniela, 丹妮拉 多迪安
+DOLGIKH Maria, 玛丽亚 多尔吉赫
 DOO Hoi Kem, 杜凯琹
+DORR Esteban, 埃斯特班 多尔
+DRAGOMAN Andreea, 安德烈娅 德拉戈曼
+DRINKHALL Joanna, 乔安娜 德林克霍尔
+DRINKHALL Paul, 保罗 德林克霍尔
 DUDA Benedikt, 贝内迪克特 杜达
-DYJAS Jakub, 雅克布 迪亚斯
+DURAN Marc, 马克 杜兰
+DVORAK Galia, 加利娅 德沃拉克
+DYJAS Jakub, 雅库布 迪亚斯
+EDEM Offiong, 奥菲昂 埃德姆
+EERLAND Britt, 布里特 伊尔兰德
+EKHOLM Matilda, 玛蒂尔达 埃克霍尔姆
+ELBEIALI Mohamed, 穆罕默德 埃尔贝亚利
+ELOI Damien, 达米安 埃洛伊
+ERDELJI Anamaria, 安娜玛丽亚 埃尔德利
+ERLANDSEN Geir, 盖尔 埃兰森
+ETSUZAKI Ayumi, 越崎步
+FADEEVA Oxana, 奥克萨娜 法德耶娃
 FALCK Mattias, 马蒂亚斯 法尔克
 FAN Shuhan, 范姝涵
 FAN Siqi, 范思琦
 FAN Ying, 范瑛
 FAN Zhendong, 樊振东
 FANG Bo, 方博
+FARAJI Benyamin, 本雅明 法拉吉
+FASO Danilo, 达尼洛 法索
+FAZEKAS Peter, 彼得 法泽卡斯
 FEGERL Stefan, 斯特凡 菲格尔
+FEHER Gabriela, 加布里埃拉 费赫尔
+FEJER-KONNERTH Zoltan, 佐尔坦 费杰科内斯
 FENG Tianwei, 冯天薇
 FENG Yalan, 冯亚兰
 FENG Yi-Hsin, 冯翊新
+FERTIKOWSKI Pawel, 帕维尔 费尔蒂科夫斯基
+FILI Christina, 克里斯蒂娜 菲利
+FILIMON Andrei, 安德烈 菲利蒙
 FILUS Ruwen, 卢文 菲鲁斯
+FLORAS Robert, 罗伯特 弗洛拉斯
 FLORE Tristan, 特里斯坦 弗洛雷
 FRANZISKA Patrick, 帕特里克 弗朗西斯卡
 FREITAS Marcos, 马克斯 弗雷塔斯
 FUJII Hiroko, 藤井宽子
+FUJII Yuko, 藤井优子
+FUJINUMA Ai, 藤沼亚衣
 FUKUHARA Ai, 福原爱
 FUKUOKA Haruna, 福冈春菜
 GACINA Andrej, 安德烈 加奇尼
+GANINA Svetlana, 斯韦特兰娜 加尼娜
 GAO Jun, 高军
 GAO Ning, 高宁
 GARDOS Robert, 罗伯特 加尔多斯
+GASNIER Laura, 劳拉 加斯尼尔
+GATINSKA Katalina, 卡塔琳娜 加京斯卡
 GAUZY Simon, 西蒙 高兹
+GAVLAS Antonin, 安东宁 加夫拉斯
+GERALDO Joao, 若昂 热拉尔多
 GERASSIMENKO Kirill, 基里尔 格拉西缅科
+GERELL Par, 帕尔 格雷尔
+GHATAK Poulomi, 普罗米 加塔克
+GHORPADE Yashaswini, 亚沙斯维尼 戈尔帕德
+GHOSH Soumyajit, 苏姆亚吉特 格霍什
+GHOSH Swastika, 斯维斯蒂卡 戈什
 GIONIS Panagiotis, 帕纳吉奥迪斯 吉奥尼斯
+GNANASEKARAN Sathiyan, 沙提安 加纳纳塞卡兰
+GODA Hana, 汉娜 高达
+GONZALEZ Daniel, 丹尼尔 冈萨雷斯
+GORAK Daniel, 丹尼尔 古拉克
+GREEN Connor, 康纳 格林
+GROFOVA Karin, 卡琳 格罗福娃
 GROTH Jonathan, 乔纳森 格罗斯
+GRUJIC Slobodan, 斯洛博丹 格鲁伊奇
+GRUNDISCH Carole, 卡罗尔 格伦迪施
+GRZYBOWSKA-FRANC Katarzyna, 卡塔日娜 格日博夫斯卡-弗朗茨
+GU Ruochen, 顾若辰
 GU Yuting, 顾玉婷
+GUISNEL Oceane, 奥塞阿娜 古伊斯内尔
+GUNDUZ Ibrahim, 易卜拉欣 京迪兹
 GUO Yan, 郭焱
 GUO Yue, 郭跃
 GUO Yuhan, 郭雨涵
+GUO ZHENG Nina, 郭铮
+HABESOHN Daniel, 丹尼尔 哈贝松
+HACHARD Antoine, 安托万 阿沙尔
+HAGIHARA Keishi, 萩原启至
+HAM Yu Song, 咸柔成
+HAMADA Kazuki, 滨田一辉
 HAMAMOTO Yui, 浜本由惟
 HAN Feier, 韩菲儿
+HAN Xing, 韩杏
 HAN Ying, 韩莹
 HAO Shuai, 郝帅
+HAPONOVA Hanna, 汉娜 哈珀诺娃
+HARAC Ece, 埃杰 哈拉奇
 HARIMOTO Miwa, 张本美和
 HARIMOTO Tomokazu, 张本智和
 HASHIMOTO Honoka, 桥本帆乃香
 HAYATA Hina, 早田希娜
+HE Zhiwen, 何志文
 HE Zhuojia, 何卓佳
+HENZELL William, 威廉 亨泽尔
+HEO Yerim, 许玴玪
+HIELSCHER Lars, 拉尔斯 希尔舍
 HIRANO Miu, 平野美宇
 HIRANO Sayaka, 平野早矢香
+HIRANO Yuki, 平野友树
+HIRICI Cristina, 克里斯蒂娜 希里奇
+HIURA Reiko, 樋浦令子
+HO Kwan Kit, 何钧杰
+HO Tin-Tin, 何天天
+HOCHART Leana, 莱娜 霍查特
+HODAEI Amir Hossein, 阿米尔侯赛因 霍达伊
 HOU Yingchao, 侯英超
+HOYAMA Hugo, 小山雨果
+HSIUNG Nai-I, 熊乃仪
+HSU Hsien-Chia, 徐弦家
 HU Limei, 胡丽梅
 HU Melek, 侯美玲
+HU Yi, 胡一
+HUANG Ching-Chia, 黄净嘉
+HUANG Hsin, 黄歆
+HUANG Sheng-Sheng, 黄圣盛
+HUANG Xunan, 黄旭男
+HUANG Yan-Cheng, 黄彦诚
+HUANG Yi-Hua, 黄怡桦
+HUANG Youzheng, 黄友政
+HUANG Yu-Chiao, 黄禹乔
+HUANG Yu-Jie, 黄愉偼
+HUANG Yu-Wen, 黄郁雯
+HUNG Che-Yen, 洪哲砚
+HUNG Jing-Kai, 洪敬恺
+HURSEY Anna, 安娜 赫西
+IACOB Camelia, 卡梅利娅 雅各布
+IDESAWA Kyoka, 出泽杏佳
+IGARASHI Fumiya, 五十岚史弥
+IIZUKA Leonardo, 莱奥纳多 饭冢
+ILLAS Erik, 埃里克 伊拉什
+IONESCU Eduard, 爱德华 约内斯库
+IONESCU Ovidiu, 奥维迪乌 伊奥内斯库
+ISHIDA Kokomi, 石田心美
 ISHIGAKI Yuka, 石垣优香
 ISHIKAWA Kasumi, 石川佳纯
+ISHIY Vitor, 维托 石井
+ISMAILOV Sadi, 萨迪 伊斯梅洛夫
 ITO Mima, 伊藤美诚
+ITO Yuta, 伊藤佑太
+IVANCAN Irene, 伊雷妮 伊万坎
+IVONIN Denis, 丹尼斯 伊沃宁
+IWAIDA Shunto, 岩井田骏斗
+JAKAB Janos, 亚诺什 雅各布
+JANCARIK Lubomir, 卢博米尔 扬察里克
+JANG Seongil, 张成溢
+JANG Song Man, 张成万
 JANG Woojin, 张禹珍
+JARVIS Tom, 汤姆 贾维斯
+JEE Minhyung, 池旼亨
+JEGER Mateja, 马泰娅 耶格尔
+JEON Hyekyung, 田惠庆
 JEON Jihee, 田志希
 JEONG Sangeun, 丁祥恩
+JEONG Yein, 郑艺仁
 JEOUNG Youngsik, 郑荣植
+JEVTOVIC Marko, 马尔科 耶夫托维奇
 JHA Kanak, 卡纳克 贾哈
+JI Eunchae, 智恩彩
 JIANG Huajun, 姜华珺
 JIANG Tianyi, 江天一
+JIANG Yiyi, 姜依依
 JIN Takuya, 神巧也
+JONSSON Carina, 卡琳娜 荣松
 JOO Cheonhui, 朱芊曦
 JOO Saehyuk, 朱世赫
 JORGIC Darko, 达科 约奇克
+JOUTI Eric, 埃里克 朱蒂
+JOVER Sebastien, 塞巴斯蒂安 若韦尔
+JUNG Yumi, 郑有美
 KALLBERG Anton, 安东 卡尔伯格
 KALLBERG Christina, 克里斯蒂娜 卡尔伯格
+KAMATH Archana, 阿查娜 卡马特
+KAN Yo, 韩阳
 KANAMITSU Koyo, 金光宏畅
+KANAZAWA Saki, 金泽咲希
+KANEYOSHI Yuka, 兼吉优花
+KANG Dongsoo, 姜东秀
 KAO Cheng-Jui, 高承睿
+KARAKASEVIC Aleksandar, 亚历山大 卡拉卡谢维奇
 KARLSSON Kristian, 克里斯坦 卡尔松
+KARLSSON Peter, 彼得 卡尔松
+KASAHARA Hiromitsu, 笠原弘光
 KATO Miyu, 加藤美优
+KATSMAN Lev, 列夫 卡茨曼
+KAUFMANN Annett, 安妮特 考夫曼
+KAWAKAMI Ryuusei, 川上流星
+KEEN Trinko, 特林科 基恩
+KEINATH Thomas, 托马斯 凯纳特
+KERTAI Rita, 丽塔 凯尔泰
+KHETKHUAN Tamolwan, 达蒙万 克宽
 KIHARA Miyuu, 木原美悠
+KIM Byeolnim, 金星宁
+KIM Donghyun, 金东贤
+KIM Eunseo, 金恩胥
 KIM Hayeong, 金河英
 KIM Hyang Mi, 金香美
+KIM Hye Song, 金慧星
+KIM Hyok Bong, 金赫峰
 KIM Hyon Hui, 金英姬
+KIM Jong, 金仲
+KIM Junghoon, 金正勋
+KIM Junghyun, 金贞弦
+KIM Kum Yong, 金琴英
 KIM Kyungah, 金景娥
-KIM Kyungah, 金景娥
-KIM Minseok, 金珉锡
+KIM Mingyung, 金玟耿
+KIM Minhyeok, 金民赫
+KIM Minseo, 金珉舒
+KIM Minseok, 金珉鉐
+KIM Minseok#204682, 金旻奭
 KIM Nayeong, 金娜英
+KIM Seongji, 金成珍
+KIM Seongjin, 金成珍
+KIM Seoyun, 金谞润
 KIM Song I, 金宋依
+KIM Taehoon, 金泰勋
+KIMURA Kasumi, 木村香纯
 KISHIKAWA Seiya, 岸川圣也
 KIZUKURI Yuto, 木造勇人
+KLASEK Marek, 马雷克 克拉塞克
 KO Lai Chak, 高礼泽
+KOJIC Frane, 弗拉内 科伊奇
+KOLAREK Tomislav, 托米斯拉夫 科拉雷克
+KOMWONG Nanthana, 高王
+KONECNY Tomas, 托马斯 科涅茨尼
 KONG Linghui, 孔令辉
+KONISHI An, 小西杏
+KORBEL Petr, 彼得 科贝尔
+KOSIBA Daniel, 达尼埃尔 科希鲍
+KOSOWSKI Jakub, 雅库布 科索夫斯基
+KOTCYUR Valeria, 瓦列里娅 科秋尔
+KOTECHA Taneesha, 塔妮莎 科特查
+KOU Lei, 寇磊
+KOURAICHI Alexis, 亚历克西斯 库赖希
+KOZUL Deni, 德尼 科祖尔
+KRAMER Tanja, 塔尼娅 克拉默
+KRAVCHENKO Marina, 玛丽娜 克拉夫琴科
 KREANGA Kalinikos, 卡林尼科斯 格林卡
 KUAI Man, 蒯曼
+KUBIK Maciej, 马切伊 库比克
+KUKULKOVA Tatiana, 塔蒂亚娜 库库尔科娃
+KULCZYCKI Samuel, 萨穆埃尔 库尔奇茨基
+KUMAHARA Luca, 卢卡 熊原
+KUMAR Nikhil, 尼基尔 库马尔
+KUO Guan-Hong, 郭冠宏
+KURMANGALIYEV Alan, 阿兰 库尔曼加利耶夫
+KUTUMBALE Anusha, 阿努莎 库通巴莱
+KUZMIN Fedor, 费奥多尔 库兹明
+KUZMINA Elena, 叶莲娜 库兹米娜
+KWON Hyuk, 权赫
+LAKATOS Tamas, 陶马什 拉卡托什
+LAKEEV Vasily, 瓦西里 拉凯耶夫
+LAM Nathan, 纳唐 拉姆
+LAM Siu Hang, 林兆恒
+LAM Yee Lok, 林依诺
+LAMBIET Florent, 弗洛朗 兰比特
+LANDRIEU Andrea, 安德烈亚 朗德里厄
+LANG Kristin, 克里斯汀 朗
+LASAN Sas, 萨什 拉桑
+LASHIN Elsayed, 埃尔萨伊德 拉辛
 LAU Sui Fei, 柳絮飞
+LAY Jian Fang, 洪剑芳
 LEBESSON Emmanuel, 艾曼纽 莱贝松
 LEBRUN Alexis, 艾利克斯 勒布伦
 LEBRUN Felix, 菲利克斯 勒布伦
+LEE Daeun, 李多恩
+LEE Eunhee, 李恩姬
 LEE Eunhye, 李恩惠
 LEE Eunsil, 李恩实
 LEE Ho Ching, 李皓晴
+LEE I-Chen, 李依真
+LEE Jinkwon, 李镇权
+LEE Jungsam, 李正三
 LEE Jungwoo, 李廷佑
 LEE Sang Su, 李尚洙
+LEE Seungeun, 李承垠
+LEE Seungsoo, 李承洙
 LEE Zion, 李时温
+LEGOUT Christophe, 克里斯托夫 勒古
+LEUNG Chu Yan, 梁柱恩
+LEVAJAC Dimitrije, 迪米特里耶 莱瓦亚茨
+LEVENKO Andreas, 安德莱斯 勒文科
+LI Ahmet, 李良夫
+LI Ching Wan, 李清韵
 LI Ching, 李静
 LI Fen, 李芬
+LI Hechen, 李和宸
+LI Hu, 李虎
 LI Jiao, 李佼
 LI Jiawei, 李佳薇
 LI Jiayi, 李佳燚
 LI Jie, 李洁
 LI Ju, 李菊
+LI Karen, 李瑨丽
+LI Ki Ho, 黎骐豪
+LI Ping, 李平
 LI Qian, 李倩
+LI Qiangbing, 李嫱冰
 LI Xiaodan, 李晓丹
 LI Xiaoxia, 李晓霞
+LI Xue, 李雪
 LI Yake, 李雅可
 LI Yu-Jhun, 李昱谆
 LIANG Jingkun, 梁靖崑
 LIANG Yanning, 梁俨苧
 LIAO Cheng-Ting, 廖振珽
+LIM Jaehyun, 林载贤
 LIM Jonghoon, 林钟勋
+LIN Chia-Hui, 林佳慧
 LIN Gaoyuan, 林高远
+LIN Ju, 林聚
 LIN Ling, 林菱
 LIN Shidong, 林诗栋
+LIN Ye, 林叶
+LIN Yen-Chun, 林彦均
 LIN Yun-Ju, 林昀儒
 LIND Anders, 安德斯 林德
 LIU Dingshuo, 刘丁硕
 LIU Fei, 刘斐
 LIU Gaoyang, 刘高阳
 LIU Guozheng, 刘国正
+LIU Hsing-Yin, 刘馨尹
 LIU Jia, 刘佳
 LIU Shiwen, 刘诗雯
+LIU Song, 刘松
 LIU Weishan, 刘炜珊
 LIU Yangzi, 刘杨子
+LIU Yebo, 刘夜泊
+LIU Yuan, 刘媛
+LIU Ziling, 刘子菱
+LIVENTSOV Alexey, 阿列克谢 利文佐夫
+LOEUILLETTE Stephanie, 史蒂芬妮 洛伊莱
+LOVAS Petra, 佩特拉 洛瓦斯
+LOY Ming Ying, 黎明映
+LU Yun-Feng, 陆云凤
+LUM Nicholas, 林文政
+LUNDQVIST Jens, 詹斯 伦德奎斯特
+LUPULESKU Izabela, 伊莎贝拉 卢普列斯库
+LUTZ Camille, 卡米耶 卢茨
+LUTZ Charlotte, 夏洛特 卢茨
 Li Ju, 李菊
+MA Jinbao, 马金宝
+MA Liang, 马良
 MA Lin, 马琳
 MA Long, 马龙
 MA Te, 马特
 MA Wenge, 马文革
+MA Wenting, 马文婷
+MACHADO Carlos, 卡洛斯 马查多
+MACHI Asuka, 町飞鸟
+MADARASZ Dora, 多拉 马达拉斯
+MADRID Marcos, 马科斯 马德里
+MAEDA Miyu, 前田美优
+MAJOROS Bence, 本斯 马约罗斯
+MAK Ming Shum, 麦明芯
+MALOBABIC Ivana, 伊万娜 马洛巴比奇
+MANTZ Chantal, 尚塔尔 曼茨
+MARTINKO Jiri, 伊日 马尔廷科
+MATELOVA Hana, 汉娜 马特洛娃
+MATSUDAIRA Kenji, 松平贤二
 MATSUDAIRA Kenta, 松平健太
+MATSUDAIRA Shiho, 松平志穗
+MATSUMOTO Cazuo, 松本和雄
+MATSUSHIMA Miku, 松岛美空
 MATSUSHIMA Sora, 松岛辉空
+MATSUSHITA Koji, 松下浩二
+MATSUYAMA Yuki, 松山祐季
+MATSUZAWA Marina, 松泽茉里奈
+MATTENET Adrien, 阿德里安 马特内
 MAZE Michael, 米凯尔 梅兹
+MEI-ROSU Bianca, 比安卡 梅罗苏
+MENDE Rin, 面手凛
+MENG Fanbo, 孟繁博
 MENGEL Steffen, 斯蒂芬 门格尔
 MESHREF Dina, 蒂娜 梅谢芙
+MIAO Miao, 苗苗
+MIKHAILOVA Polina, 波琳娜 米哈伊洛娃
+MINO Alberto, 阿尔贝托 米诺
+MISIKONYTE Lina, 利娜 米西科尼特
 MITTELHAM Nina, 妮娜 米特兰姆
+MIUCHI Kentaro, 三内贤太郎
 MIZUTANI Jun, 水谷隼
+MLADENOVIC Luka, 卢卡 姆拉德诺维奇
+MOCROUSOV Elena, 叶莲娜 莫克鲁索娃
+MOLNAR Cornelia, 科尔内莉亚 莫尔纳
+MONFARDINI Gaia, 盖娅 蒙法尔迪尼
+MONRAD Martin, 马丁 蒙拉德
+MONTEIRO Joao, 若昂 蒙泰罗
+MONTEIRO Thiago, 蒂亚戈 蒙泰罗
 MOON Hyunjung, 文炫晶
 MOREGARD Truls, 特鲁斯 莫雷加德
+MORET Rachel, 雷切尔 莫雷特
 MORI Sakura, 森樱
 MORIZONO Masataka, 森园政崇
-MORIZONO Misaki, 森田美咲
+MORIZONO Misaki, 森园美咲
+MOVILEANU Darius, 达里乌斯 莫维莱亚努
+MOYLAND Sally, 莎莉 莫伊兰
 MU Zi, 木子
+MUANGSUK Anisara, 阿尼萨拉 穆昂苏克
 MUKHERJEE Ayhika, 艾希卡 穆克吉
 MUKHERJEE Sutirtha, 苏蒂尔塔 穆克吉
+MURAMATSU Cocona, 村松心菜
 MURAMATSU Yuto, 村松雄斗
 NAGASAKI Miyu, 长崎美柚
+NAGYVARADI Mercedes, 梅塞德丝 纳吉瓦劳迪
+NAUMI Alex, 亚历克斯 瑙米
+NECULA Iulia, 尤利娅 内库拉
+NEGRISOLI Laura, 劳拉 内格里索利
+NG Pak Nam, 吴柏男
+NG Sock Khim, 黄淑琴
 NG Wing Lam, 吴咏琳
+NG Wing Nam, 吴颖岚
 NI Xia Lian, 倪夏莲
 NIU Guankai, 牛冠凯
 NIU Jianfeng, 牛剑锋
 NIWA Koki, 丹羽孝希
+NODIN Alexia, 阿莱克西娅 诺丹
+NOMURA Moe, 野村萌
+NORDBERG Hampus, 汉普斯 努德贝里
+NOSKOVA Yana, 亚娜 诺斯科娃
+NTOULAKI Ekaterina, 埃卡特里娜 恩图拉基
+NUYTINCK Cedric, 塞德里克 纽廷克
+OBESLO Michal, 米哈尔 奥贝斯洛
 ODO Satsuki, 大藤沙月
+ODOROVA Eva, 伊娃 奥多罗娃
 OH Junsung, 吴晙诚
 OH Sangeun, 吴尚垠
 OIKAWA Mizuki, 及川瑞基
 OJIO Haruna, 小盐遥菜
+OJIO Yuna, 小盐悠菜
+OKADA Kotona, 冈田琴菜
+OLAH Benedek, 贝内德克 奥拉
+OLEJNIK Martin, 马丁 奥列尼克
+OLLIVIER Brice, 布里斯 奥利维耶
+OMODA Kotomi, 面田采巳
+OMOTAYO Olajide, 奥拉吉德 奥莫塔约
+ONO Shiho, 小野思保
+ORT Kilian, 基利安 奥尔特
 OSHIMA Yuya, 大岛祐哉
+OUAICHE Stephane, 斯特凡 乌瓦切
 OVTCHAROV Dimitrij, 迪米特里 奥恰洛夫
+OYA Hidetoshi, 大矢英俊
+OYEBODE John, 约翰 奥耶博德
+PAIKOV Mikhail, 米哈伊尔 派科夫
 PAK Sin Hyok, 朴申赫
+PANFILOVA Maria, 玛丽亚 潘菲洛娃
+PANG Koen, 冯耀恩
+PAPAGEORGIOU Konstantinos, 康斯坦丁诺斯 帕帕乔治乌
+PARANANG Orawan, 奥拉万 帕拉南
+PARK Chan-Hyeok, 朴灿赫
+PARK Gahyeon, 朴佳贤
+PARK Ganghyeon, 朴康贤
+PARK Gyeongtae, 朴庆泰
+PARK Gyuhyeon, 朴奎炫
 PARK Miyoung, 朴美英
-PAVADE Prithika, 普利西卡 帕瓦德
-PAVLOVICH Viktoria, 维多利亚 帕芙洛维奇
+PARK Seonghye, 朴晟惠
+PARK Youngsook, 朴英淑
+PARTYKA Natalia, 娜塔莉亚 帕尔蒂卡
+PASKAUSKIENE Ruta, 鲁塔 帕斯考斯基涅
+PATTANTYUS Adam, 亚当 帕塔纽什
+PAVADE Prithika, 普利蒂卡 帕瓦德
+PAVELKA Tomas, 托马什 帕维尔卡
+PAVLOVICH Veronika, 韦罗妮卡 帕夫洛维奇
+PAVLOVICH Viktoria, 维多利亚 帕夫洛维奇
+PAZSY Ferenc, 费伦茨 帕西
 PENG Luyang, 彭陆洋
+PENG Wang-Wei, 彭王维
+PENG Yu-Han, 彭郁涵
+PENKAVOVA Katerina, 卡特琳娜 佩卡沃娃
+PEREIRA Andy, 安迪 佩雷拉
+PEREZ Juan, 胡安 佩雷斯
+PERGEL Szandra, 桑德拉 佩尔格尔
+PERSSON Jon, 乔恩 佩尔森
 PERSSON Jorgen, 约尔根 佩尔森
+PESOTSKA Margaryta, 玛格丽塔 佩索茨卡
+PETO Zsolt, 佐尔特 佩托
+PICARD Claire, 克莱尔 皮卡德
+PICARD Vincent, 文森特 皮卡尔
+PICCOLIN Giorgia, 焦尔吉娅 皮科林
+PISTEJ Lubomir, 卢博米尔 皮斯特耶
 PITCHFORD Liam, 利亚姆 皮切福德
+PLACHY Josef, 约瑟夫 普拉希
+PLAIAN Tania, 塔尼娅 普莱安
+PLATONOV Pavel, 帕维尔 普拉托诺夫
+PLETEA Cristian, 克里斯蒂安 普莱蒂亚
+POHAR Martina, 马丁娜 波哈尔
+POLANSKY Tomas, 托马斯 波兰斯基
 POLCANOVA Sofia, 索菲亚 波尔卡诺娃
-PYON Song Gyong, 边宋京
+PORET Thibault, 迪博 泊雷特
+POTA Georgina, 乔治娜 波塔
+PRIMORAC Zoran, 佐兰 普里莫拉克
+PRIVALOVA Alexandra, 亚历山德拉 普里瓦洛娃
+PROKHOROVA Yulia, 尤利娅 普罗霍罗娃
+PROKOPCOV Dmitrij, 德米特里 普罗科普科夫
+PRYSHCHEPA Ievgen, 叶夫根 普里施切帕
+PUCAR Tomislav, 托米斯拉夫 普卡
+PUTUNTICA Andrei, 安德烈 普屯蒂卡
+PYON Song Gyong, 边松景
 QI Fei, 齐菲
 QIAN Tianyi, 钱天一
 QIN Yuxuan, 覃予萱
 QIN Zhijian, 秦志戬
 QIU Dang, 邱党
 QIU Yike, 邱贻可
+QUAN Kaiyuan, 全开源
+QUEK Izaac, 郭勇
+RAKOTOARIMANANA Fabio, 法比奥 拉库图阿里马纳纳
+RAKOVAC Lea, 莱娅 拉科瓦奇
+RAMIREZ Sara, 萨拉 拉米雷斯
+RANEFUR Elias, 埃利亚斯 拉内富尔
+RASSENFOSSE Adrien, 阿德里安 拉森福斯
+REDZIMSKI Milosz, 米洛什 雷德齐姆斯基
+REED Daniel, 丹尼尔 里德
+REMBERT Bastien, 巴斯蒂安 伦贝尔
+RI Chol Guk, 李哲国
+RI Jong Sik, 李正植
+RI Mi Gyong, 李美京
 RI Myong Sun, 李明顺
+ROBERTSON Laura, 劳拉 罗伯逊
+ROBINOT Alexandre, 亚历山大 罗比诺
+ROBINOT Quentin, 康坦 罗比诺特
+ROBLES Alvaro, 阿尔瓦罗 罗布勒斯
+ROLLAND Jules, 朱尔斯 罗兰
+RUBTSOV Igor, 伊戈尔 鲁布佐夫
+RUIZ Romain, 罗曼 鲁伊斯
+RYU Hanna, 柳韩娜
 RYU Seungmin, 柳承敏
-SAIVE Jean-Michel, 让 米歇尔 赛弗
-SAMARA Elizabeta, 伊丽莎白 萨玛拉
+SAIVE Jean-Michel, 让 米歇尔 塞弗
+SAKAI Asuka, 酒井明日翔
+SAKAI Yuhi, 坂井雄飞
+SAKAMOTO Ryusuke, 坂本龙介
+SAKUMA Yui, 佐久间结生
+SALEH Ahmed, 艾哈迈德 萨利赫
+SALIFOU Abdel-Kader, 阿卜杜勒-卡德尔 萨利富
+SAMARA Elizabeta, 伊丽莎白 萨马拉
+SAMBE Kohei, 三部航平
 SAMSONOV Vladimir, 弗拉基米尔 萨姆索诺夫
 SASAO Asuka, 笹尾明日香
 SATO Hitomi, 佐藤瞳
+SAWETTABUT Jinnipa, 金妮帕 萨维塔布特
+SAWETTABUT Suthasini, 素塔西尼 萨维塔布特
+SCHALL Elke, 埃尔卡 塞尔
 SCHLAGER Werner, 维尔纳 施拉格
+SCHREINER Franziska, 弗兰琪斯卡 施莱纳
+SEO Hyundeok, 徐贤德
 SEOK Hajung, 石贺净
+SER Lin Qian, 舒麟茜
+SEREDA Peter, 彼得 塞雷达
+SEYFRIED Joe, 乔 赛弗里德
+SGOUROPOULOS Ioannis, 约安尼斯 斯古罗普洛斯
+SHAH Manush, 马努什 沙阿
+SHAMS Navid, 纳维德 沙姆斯
 SHAN Xiaona, 单晓娜
 SHANG Kun, 尚坤
 SHAO Jieni, 邵杰妮
+SHCHERBATYKH Valeria, 瓦列里娅 谢尔巴特赫
 SHEN Yanfei, 沈燕飞
 SHI Xunyao, 石洵瑶
+SHIBAEV Alexander, 亚历山大 希巴耶夫
 SHIBATA Saki, 芝田沙季
+SHIMOYAMA Takanori, 下山隆敬
 SHIN Yubin, 申裕斌
 SHINOZUKA Hiroto, 篠塚大登
 SHIONO Masato, 塩野真人
+SHMYREV Maxim, 马克西姆 什梅廖夫
+SIBLEY Kelly, 凯莉 西布利
+SIDORENKO Vladimir, 弗拉基米尔 西多连科
+SILVA Ligia, 利吉娅 席尔瓦
+SILVA Yadira, 亚迪拉 席尔瓦
+SIMONCIK Josef, 约瑟夫 西蒙契克
+SIPOS Rares, 拉雷什 西波斯
+SIRUCEK Pavel, 帕维尔 西鲁切克
+SKACHKOV Kirill, 基里尔 斯卡奇科夫
+SKOV Mie, 米艾 斯科娃
+SLAUTINA Arina, 阿林娜 斯劳京娜
+SMIRNOV Alexey, 阿列克谢 斯米尔诺夫
+SO Eka, 宋惠佳
+SOLJA Amelie, 艾米丽 索尔佳
 SOLJA Petrissa, 佩特丽莎 索尔佳
 SONG Ah Sim, 桑亚婵
+SONG Maeum, 宋马音
+SOO Wai Yam, 苏慧音
+STEFANOVA Nikoleta, 尼科莱塔 斯特凡诺娃
+STEFANSKA Kinga, 金加 斯特凡斯卡
 STEFF Mihaela, 米哈拉 斯蒂芙
-STEGER Bastian, 巴斯蒂安 斯蒂格
+STEGER Bastian, 巴斯蒂安 斯特格
+STEPHENSEN Gudmundur, 古德蒙迪 斯蒂芬森
+STOYANOV Niagol, 尼亚戈尔 斯托亚诺夫
+STRBIKOVA Renata, 雷娜塔 斯特尔比科娃
+STUMPER Kay, 凯 斯图姆珀
+SU Pei-Ling, 苏珮绫
+SU Tsz Tung, 苏籽童
+SUCH Bartosz, 巴托什 苏赫
 SUH Hyo Won, 徐孝元
+SUN Beibei, 孙蓓蓓
 SUN Mingyang, 孙铭阳
 SUN Wen, 孙闻
+SUN Yang, 孙杨
 SUN Yingsha, 孙颖莎
+SUN Zheng, 孙正
+SURJAN Sabina, 萨比娜 苏尔扬
 SUSS Christian, 克里斯蒂安 苏斯
+SUZUKI Rika, 铃木李茄
+SVENSSON Robert, 罗伯特 斯文松
 SZOCS Bernadette, 伯纳黛特 斯佐科斯
-TAKAHASHI Bruna, 高桥 布鲁娜
+SZOCS Hunor, 胡诺尔 斯佐科斯
+SZUDI Adam, 亚当 苏迪
+SZYMANSKA Antonina, 安东尼娜 希曼斯卡
+TAILAKOVA Mariia, 玛丽亚 泰拉科娃
+TAKAHASHI Aoba, 高桥青叶
+TAKAHASHI Bruna, 布鲁娜 高桥
+TAKAKIWA Taku, 高木和卓
+TAKAMORI Mao, 高森爱央
+TAKEYA Misuz, 竹谷美凉
+TAKEYA Misuzu, 竹谷美凉
+TAN Ruiwu, 谭瑞午
+TAN Wenling, 谭文玲
+TAN Zhao Yun, 陈昭澐
 TANAKA Yuta, 田中佑汰
 TANG Peng, 唐鹏
+TASEI Mikie, 田势美贵江
+TASHIRO Saki, 田代早纪
+TEODORO Guilherme, 吉列尔梅 特奥多罗
+THAKKAR Manav, 马纳夫 塔卡尔
+TIAN Yuan, 田原
 TIE Yana, 帖雅娜
+TIKHOMIROVA Anna, 安娜 蒂克米罗娃
+TIKHONOV Evgeny, 叶夫根尼 吉洪诺夫
+TIMINA Elena, 叶连娜 季米娜
+TODOROVIC Andrea, 安德里亚 托多罗维奇
 TOGAMI Shunsuke, 户上隼辅
+TOKIC Bojan, 博扬 托基奇
+TOKIC Sara, 萨拉 托基奇
+TOLIOU Aikaterini, 艾卡特里尼 托利乌
+TORIOLA Segun, 塞贡 托里奥拉
+TOSIC Roko, 罗科 托西奇
 TOTH Krisztina, 克里斯蒂娜 托特
+TREGLER Tomas, 托马斯 特雷格勒
+TSAI Tien-Yu, 蔡天羽
+TSAI Yun-En, 蔡昀恩
+TSUBOI Gustavo, 古斯塔沃 坪井
+TUGWELL Finn, 芬 图格威尔
 UDA Yukiya, 宇田幸矢
+UEDA Jin, 上田仁
 UMEMURA Aya, 梅村礼
+URIU Hisa, 瓜生日咲
+URSU Vladislav, 弗拉迪斯拉夫 乌尔苏
+VACENOVSKA Iveta, 伊韦塔 瓦切诺夫斯卡
+VERDONSCHOT Wim, 维姆 维尔东肖特
+VLASOV Grigory, 格里戈里 弗拉索夫
+VOROBEVA Olga, 奥尔加 沃罗贝娃
+VORONINA Vlada, 弗拉达 沃罗宁娜
+VRABLIK Jiri, 伊日 维拉波里克
 WAKAMIYA Misako, 若宫三纱子
 WALDNER Jan-Ove, 简 诺瓦 瓦尔德内尔
-WANG Amy, 王 艾米
+WALKER Samuel, 塞缪尔 沃克
+WALTHER Ricardo, 里卡多 瓦尔特
+WAN Yuan, 万远
+WANG Amy, 王艾米
 WANG Chen Ce, 王晨策
+WANG Chen, 王晨
 WANG Chuqin, 王楚钦
+WANG Eugene, 王臻
 WANG Hao, 王皓
 WANG Liqin, 王励勤
 WANG Manyu, 王曼昱
 WANG Nan, 王楠
+WANG Tianyi, 王添艺
 WANG Xiaotong, 王晓彤
 WANG Yang, 汪洋
 WANG Yidi, 王艺迪
 WANG Yuegu, 王越古
+WANG Zengyi, 王增羿
+WANI Sayali, 萨娅莉 瓦尼
+WATANABE Yuko, 渡边裕子
+WEGRZYN Anna, 安娜 韦格任
+WEGRZYN Katarzyna, 卡塔日娜 文格任
 WEN Jia, 文佳
+WEN Ruibo, 温瑞博
+WIELGOS Zuzanna, 苏珊娜 维尔戈斯
+WINTER Sabine, 萨宾 温特
 WONG Chun Ting, 黄镇廷
+WONG Hoi Tung, 黄凯彤
+WONGLAKHON Phatsaraphon, 帕察拉蓬 旺拉空
+WOO Hyeonggyu, 禹衡圭
+WOSIK Torben, 托本 沃西克
+WU Chih-Chi, 吴志祺
+WU Jia-En, 巫嘉恩
 WU Jiaduo, 吴佳多
+WU Jiaji, 吴家骥
+WU Xue, 吴雪
 WU Yang, 武杨
 WU Yangchen, 吴洋晨
+WU Yue, 吴玥
+XIAN Yifang, 羡宜芳
 XIANG Peng, 向鹏
 XIAO Maria, 肖瑶茜
 XU Chenhao, 徐晨皓
 XU Haidong, 徐海东
+XU Huiyao, 徐慧尧
+XU Jie, 徐洁
 XU Xin, 许昕
 XU Yi, 徐奕
 XU Yingbin, 徐瑛彬
 XUE Fei, 薛飞
+YAMANASHI Yuri, 山梨有理
 YAN An, 闫安
+YAN Sheng, 严升
+YAN Yutong, 闫禹橦
 YANG Ha Eun, 梁夏银
+YANG Hao-Jen, 杨皓任
 YANG Huijing, 杨蕙菁
+YANG Huize, 杨惠泽
+YANG Min, 杨敏
 YANG Xiaoxin, 杨晓欣
 YANG Yiyun, 杨屹韵
+YANG Zi, 杨子
+YAO Ruixuan, 姚睿轩
 YAO Yan, 姚彦
+YEH Yi-Tian, 叶伊恬
+YIU Kwan To, 姚钧涛
+YOKOI Sakura, 横井咲樱
+YOKOTANI Jo, 横谷晟
+YOO Eunchong, 柳恩钟
+YOO Siwoo, 柳是宇
+YOO Yerin, 刘叡潾
+YOON Hyobin, 尹孝彬
 YOON Jaeyoung, 尹在荣
+YOON Sunae, 尹善爱
 YOSHIDA Kaii, 吉田海伟
 YOSHIDA Masaki, 吉田雅己
 YOSHIMURA Kazuhiro, 吉村和弘
 YOSHIMURA Maharu, 吉村真晴
+YOSHIYAMA Kazuki, 吉山和希
 YOSHIYAMA Ryoichi, 吉山僚一
 YU Fu, 傅玉
+YU Haiyang, 于海洋
+YU Kwok See, 于国诗
 YU Mengyu, 于梦雨
 YU Ziyang, 于子洋
 YUAN Jia Nan, 袁嘉楠
 YUAN Licen, 袁励岑
+ZAHARIA Elena, 埃列娜 扎哈里亚
+ZALEWSKI Mateusz, 马特乌什 扎莱夫斯基
+ZARIF Audrey, 奥黛丽 扎里夫
 ZENG Beixun, 曾蓓勋
 ZENG Jian, 曾尖
+ZHAI Yujia, 翟羽佳
+ZHANG Chao, 张超
 ZHANG Jike, 张继科
 ZHANG Lily, 张安
 ZHANG Mo, 张墨
 ZHANG Qiang, 张蔷
 ZHANG Rui, 张瑞
+ZHANG Sofia-Xuan, 张璇
+ZHANG Xiangyu, 张翔宇
 ZHANG Yining, 张怡宁
+ZHAO Wangqi, 赵王琪
 ZHAO Zihao, 赵子豪
+ZHENG Jiaqi, 郑佳奇
 ZHENG Peifeng, 郑培峰
+ZHMUDENKO Yaroslav, 雅罗斯拉夫 扎穆登科
+ZHOU Guanhong, 周冠宏
 ZHOU Kai, 周恺
 ZHOU Qihao, 周启豪
+ZHOU Yihan, 周一涵
 ZHOU Yu, 周雨
 ZHU Chengzhu, 朱成竹
+ZHU Fang, 朱芳
 ZHU Linfeng, 朱霖峰
+ZHU Qihui, 祝启慧
 ZHU Sibing, 朱思冰
 ZHU Yuling, 朱雨玲
-ZONG Geman, 纵歌曼
-IONESCU Ovidiu, 奥维迪乌 伊奥内斯库
-URSU Vladislav, 弗拉迪斯拉夫 乌尔苏
-ABO YAMAN Zaid, 扎伊德 阿博 亚曼
-DESAI Harmeet, 哈米特 德赛
-DIAW Ibrahima, 易卜拉欣 迪阿夫
-NUYTINCK Cedric, 塞德里克 纽廷克
-OMOTAYO Olajide, 奥拉吉德 奥莫塔约
-MLADENOVIC Luka, 卢卡 姆拉德诺维奇
-RAKOTOARIMANANA Fabio, 法比奥 拉库图阿里马纳纳
-GONZALEZ Daniel, 丹尼尔 冈萨雷斯
-ZHMUDENKO Yaroslav, 雅罗斯列夫 扎姆登科
-LUM Nicholas, 林文政
-QUEK Izaac, 郭勇
-WANG Eugene, 王臻
-PUCAR Tomislav, 托米斯拉夫 普卡
-KAUFMANN Annett, 安妮特 考夫曼
-YOKOI Sakura, 横井咲樱
-BERGSTROM Linda, 琳达 伯格斯特隆
-EERLAND Britt, 布里特 伊尔兰德
-PARANANG Orawan, 奥拉万 帕拉南
-KORBEL Petr, 彼得 科贝尔
-CHEN Weixing, 陈卫星
-TOKIC Bojan, 博扬 托基奇
-LUNDQVIST Jens, 詹斯 伦德奎斯特
-CHILA Patrick, 帕特里克 奇拉
-KEEN Trinko, 特林科 基恩
-SMIRNOV Alexey, 阿列克谢 斯米尔诺夫
-PRIMORAC Zoran, 佐兰 普里莫拉克
-KAN Yo, 韩阳
-ZHANG Chao, 张超
-ACHANTA Sharath Kamal, 沙拉特 卡马尔 阿昌塔
-UEDA Jin, 上田仁
-KANAZAWA Saki, 金泽咲希
-KIM Kum Yong, 金琴英
-GODA Hana, 汉娜 高达
-CHEN Yuanyu, 陈垣宇
-WEN Ruibo, 温瑞博
-MA Jinbao, 马金宝
-STUMPER Kay, 凯 斯图姆珀
-IDESAWA Kyoka, 出泽杏佳
-WINTER Sabine, 萨比亚 温特
-HE Zhiwen, 何志文
-KIM Hyok Bong, 金赫峰
-SKACHKOV Kirill, 基里尔 斯卡奇科夫
-TAN Ruiwu, 谭瑞午
-WU Xue, 吴雪
-CHEN Qing, 陈晴
-LEE Eunhee, 李恩姬
-SAWETTABUT Suthasini, 苏萨西尼 萨维塔布特
-POTA Georgina, 乔治娜 波塔
-IVANCAN Irene, 伊莲 埃万坎
-SUN Beibei, 孙蓓蓓
-LEUNG Chu Yan, 梁柱恩
-KARLSSON Peter, 彼得 卡尔松
-BLASZCZYK Lucjan, 卢兹扬 布拉斯奇克
-KARAKASEVIC Aleksandar, 亚历山大 卡拉卡谢维奇
-ELOI Damien, 达米安 艾洛伊
-MATSUSHITA Koji, 松下浩二
-LI Ping, 李平
-PROKOPCOV Dmitrij, 德米特里 佩罗普科夫
-MATTENET Adrien, 阿德里安 马特内
-SHIBAEV Alexander, 亚历山大 希巴耶夫
-KOU Lei, 寇磊
-PARK Ganghyeon, 朴康贤
-HUANG Youzheng, 黄友政
-SUN Yang, 孙杨
-IONESCU Eduard, 爱德华 约内斯库
-HAMADA Kazuki, 滨田一辉
-PARK Gyuhyeon, 朴圭贤
-OLAH Benedek, 贝内德克 奥拉
-REDZIMSKI Milosz, 米洛什 雷德齐姆斯基
-HUANG Yan-Cheng, 黄彦诚
-YAN Sheng, 严升
-CHANG Yu-An, 张宇安
-SUN Zheng, 孙正
-LIU Yebo, 刘夜泊
-WANG Tianyi, 王添艺
-ZHU Qihui, 祝启慧
-OJIO Yuna, 小盐悠菜
-WAN Yuan, 万远
-HU Yi, 胡一
-YAO Ruixuan, 姚睿轩
-MENDE Rin, 面手凛
-AKAE Kaho, 赤江夏星
-KUO Guan-Hong, 郭冠宏
-LI Hechen, 李和宸
-JARVIS Tom, 汤姆 贾维斯
-ROBLES Alvaro, 阿尔瓦罗 罗布勒斯
-FARAJI Benyamin, 本雅明 法拉吉
-BAE Hwan, 裴焕
-IIZUKA Leonardo, 莱奥纳多 饭冢
-MATSUSHIMA Miku, 松岛美空
-RAKOVAC Lea, 莱娅 拉科瓦奇
-MATELOVA Hana, 汉娜 马特洛娃
-YEH Yi-Tian, 叶伊恬
-PARK Gahyeon, 朴佳贤
-BERTELSMEIER Andre, 安德烈 贝特尔斯迈尔
-COTON Flavien, 弗拉维安 科顿
-HABESOHN Daniel, 丹尼尔 哈贝松
-WALTHER Ricardo, 里卡多 瓦尔特
-CASSIN Alexandre, 亚历山大 卡辛
-DORR Esteban, 埃斯特班 多尔
-CHEN Junsong, 陈俊菘
-KAWAKAMI Ryuusei, 川上流星
-YOSHIYAMA Kazuki, 吉山和希
-OMODA Kotomi, 面田采巳
 ZHU Ziyu, 朱梓予
-ZHANG Xiangyu, 张翔宇
-HURSEY Anna, 安娜 赫西
-CHA Su Yong, 嵯水影
-NOMURA Moe, 野村萌
-RYU Hanna, 柳韩娜
-LEE Daeun, 李多恩
-TAKAMORI Mao, 高森爱央
-WU Jia-En, 巫嘉恩
-AOKI Sachi, 青木咲智
-ABRAAMIAN Elizabet, 伊丽莎白 阿布拉米安
-SU Tsz Tung, 苏籽童
-BARDET Lilian, 力廉 巴德
-CHIRITA Iulian, 尤利安 奇里塔
-CHAN Baldwin, 陈颢桦
-PORET Thibault, 迪博 泊雷特
-RASSENFOSSE Adrien, 阿德里安 拉森福斯
-SIDORENKO Vladimir, 弗拉基米尔 西多连科
-SEYFRIED Joe, 乔 赛弗里德
-AIDA Satoshi, 英田理志
-HUNG Jing-Kai, 洪敬恺
-QUAN Kaiyuan, 全开源
-IWAIDA Shunto, 岩井田骏斗
-ZHOU Guanhong, 周冠宏
-YU Haiyang, 于海洋
-FASO Danilo, 达尼洛 法索
-HUANG Xunan, 黄旭男
-IGARASHI Fumiya, 五十岚史弥
-KIM Seongji, 金成珍
-TAKEYA Misuz, 竹谷美凉
-KIMURA Kasumi, 木村香纯
-DING Yijie, 丁怡婕
-CHEN Min-Hsin, 陈旻鑫
-ISHIDA Kokomi, 石田心美
-MURAMATSU Cocona, 村松心菜
-LIU Ziling, 刘子菱
-YANG Huize, 杨惠泽
-ZHAO Wangqi, 赵王琪
-JIANG Yiyi, 姜依依
-KANEYOSHI Yuka, 兼吉优花
-JANCARIK Lubomir, 卢博米尔 杨恰日克
+ZONG Geman, 纵歌曼
+ZWICKL Daniel, 丹尼尔 茨维克尔

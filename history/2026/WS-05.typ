@@ -187,7 +187,7 @@
       [134], [#name("HO Tin-Tin")], [#age(28)], [#assoc("ENG")], [#right], [#penhold], [#attack], [*2456*], [#delta(0)],
       [135], [#name("HU Yi")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2456*], [#delta(4)],
       [136], [#name("BERGSTROM Linda")], [#age(31)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2451*], [#delta(-43)],
-      [137], [#name("OKADA Kotona")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2449*], [#delta(304)],
+      [137], [#name("OKADA Kotona")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2449*], [#delta(303)],
       [138], [#name("SHCHERBATYKH Valeria")], [#age(28)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2447*], [#delta(3)],
       [139], [#name("BRZYSKA Anna")], [#age(21)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2446*], [#delta(3)],
       [140], [#name("ZAHARIA Elena")], [#age(22)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2446*], [#delta(49)],

@@ -171,13 +171,16 @@ function translate(src, dst)
         "Age" => "年龄"
     )
 
-    # 从翻译文件中读取更多翻译
+    # 从翻译文件中读取更多翻译（"#<id>" 后缀的行是同名球员的 ID 限定译名，
+    # 仅 web 端使用；Typst 排名文本无法按 ID 区分，忽略之）
     if isfile("translate.txt")
         open("translate.txt", "r") do f
             for line in eachline(f)
                 words = split(line, ",")
                 if length(words) >= 2
-                    translation[strip(words[1])] = strip(words[2])
+                    key = strip(words[1])
+                    contains(key, '#') && continue
+                    translation[key] = strip(words[2])
                 end
             end
         end
@@ -189,8 +192,18 @@ function translate(src, dst)
         text = replace(text, eng * "\"" => chn * "\"")
     end
 
-    # 写入目标文件
-    write(dst, text)
+    # 写入目标文件（带重试：Windows 上杀毒/同步软件会瞬时锁文件）
+    for attempt in 1:8
+        try
+            write(dst, text)
+            break
+        catch e
+            e isa SystemError || rethrow()
+            attempt == 8 && rethrow()
+            @warn "retry write translate" file=dst attempt=attempt exception=e
+            sleep(0.4 * attempt)
+        end
+    end
 end
 
 # 翻译全部历史排名和最新排名到 history_CN/ 与 *_CN.typ

@@ -99,7 +99,11 @@ under `src/`; its explanatory markdown now lives in `docs/algorithm.md`.
   the Events web bundles without re-running the ranking pipeline).
 - `template.typ`, `template_CN.typ` — Typst templates imported by every generated ranking.
 - `translate.txt` — comma-separated `English name, 中文名` mapping used by the `translate()`
-  function to produce the `history_CN/` and `*_CN.typ` files.
+  function to produce the `history_CN/` and `*_CN.typ` files, and by the web exporter
+  for player Chinese names. Same-name disambiguation: a key suffixed with
+  `#<player_id>` (e.g. `KIM Minseok#204682, 金旻奭`) applies only to that player id
+  and wins over the plain entry on the web (Typst output cannot distinguish and
+  always uses the plain entry).
 - `docs/algorithm.md` — the ranking-algorithm and data-format documentation
   (extracted from the old notebook).
 - `docs/superpowers/specs/` — design documents for the 2026 rate-limit-resilient crawl

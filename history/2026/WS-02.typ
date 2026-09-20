@@ -220,7 +220,7 @@
       [158], [#name("VORONINA Vlada")], [#age(22)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2426*], [#delta(-39)],
       [159], [#name("GHORPADE Yashaswini")], [#age(22)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2422*], [#delta(-16)],
       [160], [#name("URIU Hisa")], [#age(15)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2420*], [#delta(-4)],
-      [161], [#name("KUTUMBALE Anusha")], [#age(24)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2420*], [#delta(167)],
+      [161], [#name("KUTUMBALE Anusha")], [#age(24)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2420*], [#delta(166)],
       [162], [#name("XIAO Maria")], [#age(32)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2420*], [#delta(0)],
       [163], [#name("CHEN Chi-Shiuan")], [#age(21)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2417*], [#delta(31)],
       [164], [#name("YOO Siwoo")], [#age(25)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2416*], [#delta(-6)],
