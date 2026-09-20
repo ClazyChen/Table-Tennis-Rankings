@@ -29,7 +29,7 @@
       [21], [#name("CALDERANO Hugo")], [#age(20)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2725*], [#delta(-1)],
       [22], [#name("PITCHFORD Liam")], [#age(23)], [#assoc("GBR")], [#right], [#shakehand], [#attack], [*2719*], [#delta(0)],
       [23], [#name("ARUNA Quadri")], [#age(28)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2719*], [#delta(0)],
-      [24], [#name("JEOUNG Youngsik")], [#age(24)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2719*], [#delta(76)],
+      [24], [#name("JEOUNG Youngsik")], [#age(24)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2718*], [#delta(76)],
       [25], [#name("SAMSONOV Vladimir")], [#age(40)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2716*], [#delta(-1)],
     )
   )
@@ -110,7 +110,7 @@
       [\#], [Player],[Age], [Assoc.],  [Hand], [Grip], [Style], [Rating], [$Delta$],
       [76], [#name("TAKAKIWA Taku")], [#age(28)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2588*], [#delta(6)],
       [77], [#name("IONESCU Ovidiu")], [#age(27)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2588*], [#delta(6)],
-      [78], [#name("LI Hu")], [#age(28)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2587*], [#delta(6)],
+      [78], [#name("LI Hu")], [#age(28)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2586*], [#delta(6)],
       [79], [#name("GERALDO Joao")], [#age(21)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2586*], [#delta(-26)],
       [80], [#name("ACHANTA Sharath")], [#age(34)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2584*], [#delta(-4)],
       [81], [#name("DUDA Benedikt")], [#age(22)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2583*], [#delta(-14)],
@@ -124,7 +124,7 @@
       [89], [#name("NIWA Koki")], [#age(22)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2570*], [#delta(0)],
       [90], [#name("ZHMUDENKO Yaroslav")], [#age(28)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2568*], [#delta(0)],
       [91], [#name("MATSUMOTO Cazuo")], [#age(31)], [#assoc("BRA")], [#left], [#penhold], [#attack], [*2567*], [#delta(-41)],
-      [92], [#name("BAI He")], [#age(29)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2567*], [#delta(-1)],
+      [92], [#name("BAI He")], [#age(29)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2566*], [#delta(-1)],
       [93], [#name("MATTENET Adrien")], [#age(29)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2566*], [#delta(-1)],
       [94], [#name("CHOE Il")], [#age(23)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2566*], [#delta(0)],
       [95], [#name("KIM Minhyeok")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2565*], [#delta(0)],
@@ -200,7 +200,7 @@
       [147], [#name("AKKUZU Can")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2479*], [#delta(-35)],
       [148], [#name("BAIBULDIN Andrei")], [#age(30)], [#assoc("RUS")], [#left], [#shakehand], [#attack], [*2478*], [#delta(-3)],
       [149], [#name("LIVENTSOV Alexey")], [#age(35)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2475*], [#delta(-2)],
-      [150], [#name("HARIMOTO Tomokazu")], [#age(13)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2475*], [#delta(56)],
+      [150], [#name("HARIMOTO Tomokazu")], [#age(13)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2474*], [#delta(56)],
     )
   )
 #pagebreak()
@@ -231,7 +231,7 @@
       [169], [#name("WANG Jianan")], [#age(33)], [#assoc("CGO")], [?], [?], [?], [*2446*], [#delta(4)],
       [170], [#name("ANTHONY Amalraj")], [#age(30)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2445*], [#delta(4)],
       [171], [#name("SALIFOU Abdel-Kader")], [#age(27)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2445*], [#delta(5)],
-      [172], [#name("KENJAEV Zokhid")], [#age(24)], [#assoc("UZB")], [#right], [#shakehand], [#attack], [*2445*], [#delta(-12)],
+      [172], [#name("KENJAEV Zokhid")], [#age(24)], [#assoc("UZB")], [#right], [#shakehand], [#attack], [*2444*], [#delta(-12)],
       [173], [#name("CHERNOV Konstantin")], [#age(19)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2442*], [#delta(136)],
       [174], [#name("JORGIC Darko")], [#age(18)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2442*], [#delta(-44)],
       [175], [#name("DEVOS Robin")], [#age(22)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2440*], [#delta(3)],
@@ -258,11 +258,11 @@
       [187], [#name("YANG Heng-Wei")], [#age(19)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2431*], [#delta(4)],
       [188], [#name("KUZMIN Fedor")], [#age(33)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2430*], [#delta(22)],
       [189], [#name("RECH DALDOSSO Marco")], [#age(24)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2430*], [#delta(4)],
-      [190], [#name("MIUCHI Kentaro")], [#age(27)], [#assoc("JPN")], [?], [?], [?], [*2428*], [#delta(4)],
+      [190], [#name("MIUCHI Kentaro")], [#age(27)], [#assoc("JPN")], [?], [?], [?], [*2429*], [#delta(4)],
       [191], [#name("JEAN Gregoire")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2427*], [#delta(-1)],
       [192], [#name("TAO Wenzhang")], [#age(22)], [#assoc("USA")], [#right], [#penhold], [#attack], [*2427*], [#delta(4)],
       [193], [#name("RUIZ Romain")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2426*], [#delta(39)],
-      [194], [#name("FUJIMURA Tomoya")], [#age(22)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2426*], [#delta(4)],
+      [194], [#name("FUJIMURA Tomoya")], [#age(22)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2425*], [#delta(4)],
       [195], [#name("PARK Jeongwoo")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2425*], [#delta(4)],
       [196], [#name("LEE Chia-Sheng")], [#age(21)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2424*], [#delta(4)],
       [197], [#name("RYUZAKI Tonin")], [#age(18)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2424*], [#delta(33)],

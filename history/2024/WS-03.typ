@@ -21,7 +21,7 @@
       [13], [#name("HARIMOTO Miwa")], [#age(16)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2836*], [#delta(0)],
       [14], [#name("JEON Jihee")], [#age(32)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2828*], [#delta(7)],
       [15], [#name("HASHIMOTO Honoka")], [#age(26)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2825*], [#delta(-4)],
-      [16], [#name("SZOCS Bernadette")], [#age(29)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2824*], [#delta(4)],
+      [16], [#name("SZOCS Bernadette")], [#age(29)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2823*], [#delta(4)],
       [17], [#name("CHEN Yi")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2809*], [#delta(-3)],
       [18], [#name("SHI Xunyao")], [#age(23)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2808*], [#delta(-3)],
       [19], [#name("WANG Yidi")], [#age(27)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2807*], [#delta(-15)],
@@ -152,7 +152,7 @@
       [108], [#name("MATIUNINA Veronika")], [#age(18)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2459*], [#delta(35)],
       [109], [#name("CHA Su Yong")], [#age(24)], [#assoc("PRK")], [#right], [#shakehand], [#defense], [*2458*], [#delta(-3)],
       [110], [#name("PICCOLIN Giorgia")], [#age(28)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2456*], [#delta(26)],
-      [111], [#name("MADARASZ Dora")], [#age(31)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2454*], [#delta(13)],
+      [111], [#name("MADARASZ Dora")], [#age(31)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2454*], [#delta(12)],
       [112], [#name("SAWETTABUT Jinnipa")], [#age(24)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2450*], [#delta(50)],
       [113], [#name("SINGEORZAN Ioana")], [#age(20)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2449*], [#delta(-5)],
       [114], [#name("SURJAN Sabina")], [#age(24)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2446*], [#delta(-24)],
@@ -164,9 +164,9 @@
       [120], [#name("TOLIOU Aikaterini")], [#age(29)], [#assoc("GRE")], [#right], [#shakehand], [#defense], [*2426*], [#delta(-3)],
       [121], [#name("MALOBABIC Ivana")], [#age(44)], [#assoc("CRO")], [#right], [#shakehand], [#defense], [*2424*], [#delta(-3)],
       [122], [#name("BLASKOVA Zdena")], [#age(23)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2423*], [#delta(5)],
-      [123], [#name("DE NUTTE Sarah")], [#age(32)], [#assoc("LUX")], [#right], [#shakehand], [#attack], [*2422*], [#delta(49)],
+      [123], [#name("LEE Daeun")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2422*], [#delta(-2)],
       [124], [#name("HAPONOVA Hanna")], [#age(39)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2422*], [#delta(-5)],
-      [125], [#name("LEE Daeun")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2422*], [#delta(-4)],
+      [125], [#name("DE NUTTE Sarah")], [#age(32)], [#assoc("LUX")], [#right], [#shakehand], [#attack], [*2422*], [#delta(47)],
     )
   )
 #pagebreak()
@@ -200,7 +200,7 @@
       [147], [#name("CHITALE Diya")], [#age(21)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2385*], [#delta(2)],
       [148], [#name("PLAIAN Tania")], [#age(23)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2382*], [#delta(-2)],
       [149], [#name("KIM Seongjin")], [#age(19)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2382*], [#delta(-2)],
-      [150], [#name("ALTINKAYA Sibel")], [#age(31)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2382*], [#delta(5)],
+      [150], [#name("ALTINKAYA Sibel")], [#age(31)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2381*], [#delta(5)],
     )
   )
 #pagebreak()
@@ -217,13 +217,13 @@
       [155], [#name("LEE Seungeun")], [#age(17)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2370*], [#delta(1)],
       [156], [#name("ZHANG Sofia-Xuan")], [#age(25)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2369*], [#delta(-16)],
       [157], [#name("JEE Minhyung")], [#age(37)], [#assoc("AUS")], [#right], [#shakehand], [#attack], [*2369*], [#delta(2)],
-      [158], [#name("GHOSH Swastika")], [#age(21)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2367*], [#delta(2)],
+      [158], [#name("GHOSH Swastika")], [#age(21)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2366*], [#delta(2)],
       [159], [#name("LAM Yee Lok")], [#age(28)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2364*], [#delta(2)],
       [160], [#name("CHEN Chi-Shiuan")], [#age(19)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2359*], [#delta(3)],
       [161], [#name("MANTZ Chantal")], [#age(28)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2358*], [#delta(3)],
       [162], [#name("HUANG Hsin")], [#age(29)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2357*], [#delta(3)],
       [163], [#name("LYNE Karen")], [#age(22)], [#assoc("MAS")], [#left], [#shakehand], [#attack], [*2355*], [#delta(37)],
-      [164], [#name("RAKOVAC Lea")], [#age(28)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2354*], [#delta(-41)],
+      [164], [#name("RAKOVAC Lea")], [#age(28)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2354*], [#delta(-40)],
       [165], [#name("DYMYTRENKO Anastasiya")], [#age(22)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2350*], [#delta(69)],
       [166], [#name("MATOS Ines")], [#age(20)], [#assoc("POR")], [#right], [#shakehand], [#attack], [*2349*], [#delta(138)],
       [167], [#name("TODOROVIC Andrea")], [#age(32)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2349*], [#delta(-10)],
@@ -244,10 +244,10 @@
     table(
       columns: 9,
       [\#], [Player],[Age], [Assoc.],  [Hand], [Grip], [Style], [Rating], [$Delta$],
-      [176], [#name("BRZYSKA Anna")], [#age(19)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2330*], [#delta(9)],
-      [177], [#name("ALEXANDRE Bruna")], [#age(29)], [#assoc("BRA")], [#left], [#shakehand], [#attack], [*2327*], [#delta(110)],
+      [176], [#name("BRZYSKA Anna")], [#age(19)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2330*], [#delta(8)],
+      [177], [#name("ALEXANDRE Bruna")], [#age(29)], [#assoc("BRA")], [#left], [#shakehand], [#attack], [*2327*], [#delta(109)],
       [178], [#name("COSSIO Arantxa")], [#age(20)], [#assoc("MEX")], [#right], [#shakehand], [#attack], [*2324*], [#delta(50)],
-      [179], [#name("KHETKHUAN Tamolwan")], [#age(27)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2324*], [#delta(2)],
+      [179], [#name("KHETKHUAN Tamolwan")], [#age(27)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2323*], [#delta(2)],
       [180], [#name("KUKULKOVA Tatiana")], [#age(24)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2323*], [#delta(17)],
       [181], [#name("SCHREINER Franziska")], [#age(23)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2323*], [#delta(-2)],
       [182], [#name("AUEAWIRIYAYOTHIN Wanwisa")], [#age(20)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2321*], [#delta(1)],
@@ -267,7 +267,7 @@
       [196], [#name("ZHU Ziyu")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2293*], [#delta(2)],
       [197], [#name("XIANG Junlin")], [#age(17)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(2)],
       [198], [#name("WANG Yi-Ju")], [#age(30)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2292*], [#delta(-44)],
-      [199], [#name("LEE Daeun")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2291*], [#delta(2)],
+      [199], [#name("LEE Daeun")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2292*], [#delta(2)],
       [200], [#name("VIVARELLI Debora")], [#age(31)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2290*], [#delta(-49)],
     )
   )

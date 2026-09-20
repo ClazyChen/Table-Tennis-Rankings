@@ -27,11 +27,13 @@ const I18N = {
     notFound: "未找到该球员",
     notRanked: "—",
     newMark: "NEW",
-    events: "赛事", backEvents: "← 返回赛事列表",
+    events: "赛事", backEvents: "← 返回赛事列表", backPlayer: "← 返回球员",
     tierMajor: "大赛", tierHigh: "高级别", tierRegular: "常规赛", tierOther: "其他",
     allTiers: "全部级别",
     podiumSF: "四强", qualList: "资格赛 / 预赛赛果", groupList: "赛果（非单败赛制）",
     eventResults: "赛事成绩", showAll: "展开全部", collapse: "收起", wo: "W/O",
+    bronzeMatch: "铜牌赛", finalStage: "决赛阶段", quarter: (i) => `${i}/4区`,
+    otherMatches: "其他场次（排位赛等）",
     footer: (d, n) => `数据更新于 ${d} · ${n} 名有积分球员 · 月度快照自 2004-01 · 校正版 ELO 算法`,
   },
   en: {
@@ -50,11 +52,13 @@ const I18N = {
     notFound: "Player not found",
     notRanked: "—",
     newMark: "NEW",
-    events: "Events", backEvents: "← Back to events",
+    events: "Events", backEvents: "← Back to events", backPlayer: "← Back to player",
     tierMajor: "Majors", tierHigh: "Top tier", tierRegular: "Regular", tierOther: "Other",
     allTiers: "All tiers",
     podiumSF: "SF", qualList: "Qualification / preliminary results", groupList: "Results (non-knockout format)",
     eventResults: "Event results", showAll: "Show all", collapse: "Collapse", wo: "W/O",
+    bronzeMatch: "Bronze match", finalStage: "Final rounds", quarter: (i) => `Quarter ${i}`,
+    otherMatches: "Other matches (placement etc.)",
     footer: (d, n) => `Updated ${d} · ${n} rated players · monthly snapshots since 2004-01 · modified ELO`,
   },
 };
@@ -174,6 +178,7 @@ async function render() {
 async function renderRanking(gender, month) {
   const app = el("app");
   app.innerHTML = `<div class="loading">Loading…</div>`;
+  sessionStorage.removeItem("ttr-event-back");
 
   const idx = await fetchJSON("data/index.json");
   const months = idx.months; // ascending
@@ -258,6 +263,8 @@ async function renderRanking(gender, month) {
 async function renderPlayer(id) {
   const app = el("app");
   app.innerHTML = `<div class="loading">Loading…</div>`;
+  // event pages opened from here link back to this player
+  sessionStorage.setItem("ttr-event-back", `#/player/${id}`);
 
   const shard = String(Number(id) % 64).padStart(2, "0");
   const data = await fetchJSON(`data/history/shard-${shard}.json`);
@@ -392,8 +399,10 @@ function drawChart(container, series, latestMi) {
 
 // ---------------------------------------------------------------- events
 // events-index.json rows: [tid, name, start, end, org, weight, [ms podium], [ws podium]]
-// events/<tid>.json: {n,s,e,o,w,pa:{pid:assoc},MS:{t|r|q},WS:{t|r|q}}
+// events/<tid>.json: {n,s,e,o,w,pa:{pid:assoc},MS:{t|b|x|r|q},WS:{...}}
 //   t = bracket tree [a,x,res,w,feederA,feederX,games,wo] (feeder null = entered here)
+//   b = bronze match [a,x,res,w,games,wo]
+//   x = leftover (placement/unlinked) matches, same shape as r
 //   r = rounds fallback [[roundCode,[[a,x,res,w,games,wo],...]],...]
 //   q = qualification list [[a,x,res,w,roundCode,games,wo],...]
 // shard "e": [[tid,cat,resCode],...]; cat 0=MS 1=WS
@@ -401,7 +410,7 @@ const RES_LABEL = { 0: ["冠军", "Champion"], 1: ["亚军", "Runner-up"], 2: ["
   3: ["八强", "Quarterfinalist"], 4: ["16强", "R16"], 5: ["32强", "R32"], 6: ["64强", "R64"],
   7: ["128强", "R128"], 8: ["资格赛", "Qual."] };
 const ROUND_LABEL = { 0: ["决赛", "Final"], 1: ["半决赛", "Semifinals"], 2: ["1/4决赛", "Quarterfinals"],
-  3: ["R16", "R16"], 4: ["R32", "R32"], 5: ["R64", "R64"], 6: ["R128", "R128"],
+  3: ["R16", "R16"], 4: ["R32", "R32"], 5: ["R64", "R64"], 6: ["R128", "R128"], 7: ["R256", "R256"],
   "-1": ["小组赛/其他", "Groups/other"] };
 const QUAL_LABEL = { 12: "QR4", 13: "QR8", 14: "QR16", 15: "QR32", 16: "QR64", "-1": "-" };
 const resLabel = (c) => (RES_LABEL[c] || ["?", "?"])[lang === "zh" ? 0 : 1];
@@ -439,6 +448,7 @@ let evYear = null, evTier = -1;   // filter state (null year = latest, -1 tier =
 async function renderEvents() {
   const app = el("app");
   app.innerHTML = `<div class="loading">Loading…</div>`;
+  sessionStorage.removeItem("ttr-event-back");   // list → event has no player context
   const rows = await eventsIndex();
   const nm = await nameMap();
 
@@ -486,11 +496,20 @@ async function renderEvents() {
 // ---- bracket rendering: absolutely-positioned player boxes over an SVG layer
 const BK = { ROW: 28, COL: 196, BOXW: 176, BOXH: 22, HEAD: 26 };
 
+// walkover/retirement marker: wo flag, or every set 11:0 (a "score" that in
+// practice means the match was never really played)
+const isWoMatch = (games, wo) => {
+  if (String(wo) === "1") return true;
+  const sets = String(games || "").trim().split(/\s+/).filter(Boolean);
+  return sets.length >= 2 && sets.every((s) => s === "11:0" || s === "0:11");
+};
+
 function bkBox(item, side, nm, pa) {
   const pid = side === "a" ? item.n[0] : item.n[1];
   const w = item.n[3];
   const games = item.n[6], wo = item.n[7];
   const won = pid === w;
+  const isWo = isWoMatch(games, wo);
   // score shown next to the winner, always in "winner:loser" form
   let score = item.n[2] || "";
   if (score && w === item.n[1]) {
@@ -500,15 +519,18 @@ function bkBox(item, side, nm, pa) {
   const x = (item.maxDepth - item.depth) * BK.COL;
   const y = BK.HEAD + (side === "a" ? item.yA : item.yX) * BK.ROW;
   const assoc = pa && pa[pid] ? pa[pid] : null;
-  const title = `${games || ""}${wo && wo !== "0" && wo !== "" ? " " + t("wo") : ""}`.trim();
-  return `<a class="bk-box${won ? " won" : ""}" style="left:${x}px;top:${y}px" ` +
+  const title = `${games || ""}${isWo ? " " + t("wo") : ""}`.trim();
+  return `<a class="bk-box${won ? " won" : ""}${isWo ? " wo" : ""}" style="left:${x}px;top:${y}px" ` +
     `href="#/player/${pid}" title="${esc(title)}">` +
     `${assoc ? `<img class="flag" src="data/flags/${esc(assoc)}.png" alt="" onerror="this.style.visibility='hidden'">` : ""}` +
     `<span class="bk-name">${esc(playerName(nm, pid))}</span>` +
-    `${won && score ? `<span class="bk-score">${esc(score)}</span>` : ""}</a>`;
+    `${won ? (isWo ? `<span class="bk-score bk-wo">${t("wo")}</span>` : (score ? `<span class="bk-score">${esc(score)}</span>` : "")) : ""}</a>`;
 }
 
-function bracketHTML(tree, nm, pa) {
+function bracketHTML(tree, nm, pa, opts) {
+  opts = opts || {};
+  const base = opts.base || 0;      // round-code offset (quarter charts start at QF)
+  const bronze = opts.bronze || null;
   // Classic match-centric layout: the two players of a match always sit in
   // adjacent rows, and row spacing doubles with each round. A match at depth d
   // (0 = final) spans 2^(maxDepth-d+1) slot rows; its two slots are the
@@ -534,7 +556,7 @@ function bracketHTML(tree, nm, pa) {
   place(tree, 0, 0, null);
 
   const W = (maxDepth + 1) * BK.COL + 8;
-  const H = BK.HEAD + Math.pow(2, maxDepth + 1) * BK.ROW + 8;
+  let H = BK.HEAD + Math.pow(2, maxDepth + 1) * BK.ROW + 8;
   const slotY = (ry) => BK.HEAD + ry * BK.ROW + BK.BOXH / 2;
 
   // connectors: each match gets the classic pair-merge (two stubs + vertical
@@ -557,20 +579,58 @@ function bracketHTML(tree, nm, pa) {
 
   let heads = "";
   for (let d = 0; d <= maxDepth; d++) {
-    heads += `<div class="bk-head" style="left:${(maxDepth - d) * BK.COL}px">${roundLabel(d)}</div>`;
+    heads += `<div class="bk-head" style="left:${(maxDepth - d) * BK.COL}px">${roundLabel(base + d)}</div>`;
   }
 
   let boxes = "";
   for (const it of items) boxes += bkBox(it, "a", nm, pa) + bkBox(it, "x", nm, pa);
 
+  // bronze (3rd-place) match: drawn below the final column, clearly labeled
+  if (bronze) {
+    const f = items[items.length - 1];   // the final (depth 0, placed last)
+    const bit = { n: bronze, depth: 0, maxDepth, yA: f.yX + 2, yX: f.yX + 3 };
+    heads += `<div class="bk-head bk-bronze-head" style="left:${maxDepth * BK.COL}px;top:${BK.HEAD + (f.yX + 1) * BK.ROW + 3}px">${t("bronzeMatch")}</div>`;
+    boxes += bkBox(bit, "a", nm, pa) + bkBox(bit, "x", nm, pa);
+    H = Math.max(H, BK.HEAD + (f.yX + 4) * BK.ROW + 8);
+  }
+
   return `<div class="bracket" style="width:${W}px;height:${H}px">` +
     `<svg class="bk-lines" width="${W}" height="${H}">${lines}</svg>${heads}${boxes}</div>`;
 }
 
-function matchRowHTML(a, x, res, w, nm, extra) {
+// Split big draws into several page-flow charts instead of one scrolled one:
+// the top chart holds the final rounds (SF + F, i.e. 4-2-1), then each quarter
+// of the draw gets its own chart (QF subtree). Draws of ≤5 rounds stay single.
+function treeCharts(tree, nm, pa, bronze) {
+  let maxDepth = 0;
+  (function md(n, d) {
+    maxDepth = Math.max(maxDepth, d);
+    if (n[4]) md(n[4], d + 1);
+    if (n[5]) md(n[5], d + 1);
+  })(tree, 0);
+  const wrap = (html) => `<div class="bk-scroll">${html}</div>`;
+  if (maxDepth + 1 <= 5 || !tree[4] || !tree[5]) {
+    return wrap(bracketHTML(tree, nm, pa, { bronze }));
+  }
+  const strip = (n) => [n[0], n[1], n[2], n[3], null, null, n[6], n[7]];
+  const topTree = [tree[0], tree[1], tree[2], tree[3], strip(tree[4]), strip(tree[5]), tree[6], tree[7]];
+  const section = (label) => `<div class="bk-section"><span>${label}</span></div>`;
+  let out = section(t("finalStage")) + wrap(bracketHTML(topTree, nm, pa, { bronze }));
+  const qfs = [tree[4][4], tree[4][5], tree[5][4], tree[5][5]];
+  let qi = 0;
+  for (const q of qfs) {
+    if (!q) continue;
+    qi += 1;
+    out += section(t("quarter")(qi)) + wrap(bracketHTML(q, nm, pa, { base: 2 }));
+  }
+  return out;
+}
+
+function matchRowHTML(a, x, res, w, nm, extra, games, wo) {
   const cls = (pid) => pid === w ? " class=\"player-link m-won\"" : " class=\"player-link\"";
+  const woTag = isWoMatch(games, wo) ? ` <span class="wo-tag">${t("wo")}</span>` : "";
   return `<tr><td><a${cls(a)} href="#/player/${a}">${esc(playerName(nm, a))}</a></td>` +
-    `<td class="num">${esc(res)}</td>` +
+    `<td class="num">${esc(res)}${woTag}</td>` +
     `<td><a${cls(x)} href="#/player/${x}">${esc(playerName(nm, x))}</a></td>${extra || ""}</tr>`;
 }
 
@@ -592,22 +652,41 @@ async function renderEvent(tid) {
 
   let body = "";
   if (p.t) {
-    body = `<div class="bk-scroll">${bracketHTML(p.t, nm, d.pa)}</div>`;
+    body = treeCharts(p.t, nm, d.pa, p.b || null);
   } else if (p.r) {
     body = `<div class="chart-title">${t("groupList")}</div>` + p.r.map(([code, rows]) =>
       `<div class="round-block"><div class="round-name">${roundLabel(code)}</div>
-       <table class="matches">${rows.map((m) => matchRowHTML(m[0], m[1], m[2], m[3], nm)).join("")}</table></div>`
+       <table class="matches">${rows.map((m) => matchRowHTML(m[0], m[1], m[2], m[3], nm, null, m[4], m[5])).join("")}</table></div>`
     ).join("");
+    if (p.b) {
+      body += `<div class="round-block"><div class="round-name">${t("bronzeMatch")}</div>
+        <table class="matches">${matchRowHTML(p.b[0], p.b[1], p.b[2], p.b[3], nm, null, p.b[4], p.b[5])}</table></div>`;
+    }
+  }
+  if (p.x) {
+    const nx = p.x.reduce((s, [, rows]) => s + rows.length, 0);
+    body += `<details class="qual"><summary>${t("otherMatches")} (${nx})</summary>` + p.x.map(([code, rows]) =>
+      `<div class="round-block"><div class="round-name">${roundLabel(code)}</div>
+       <table class="matches">${rows.map((m) => matchRowHTML(m[0], m[1], m[2], m[3], nm, null, m[4], m[5])).join("")}</table></div>`
+    ).join("") + `</details>`;
   }
   if (p.q) {
     body += `<details class="qual"><summary>${t("qualList")} (${p.q.length})</summary>
       <table class="matches">${p.q.map((m) =>
-        matchRowHTML(m[0], m[1], m[2], m[3], nm, `<td class="num muted">${qualLabel(m[4])}</td>`)).join("")}</table></details>`;
+        matchRowHTML(m[0], m[1], m[2], m[3], nm, `<td class="num muted">${qualLabel(m[4])}</td>`, m[5], m[6])).join("")}</table></details>`;
   }
+
+  // back link: when the event page was reached from a player page, offer a
+  // direct way back to that player (kept across MS/WS tab switches)
+  const backPlayer = sessionStorage.getItem("ttr-event-back");
+  const backHTML = backPlayer
+    ? `<a class="back-link" href="${backPlayer}">${t("backPlayer")}</a>
+       <a class="back-link muted" href="#/events">${t("backEvents")}</a>`
+    : `<a class="back-link" href="#/events">${t("backEvents")}</a>`;
 
   app.innerHTML = `
     <div class="card">
-      <a class="back-link" href="#/events">${t("backEvents")}</a>
+      ${backHTML}
       <div class="player-head" style="margin-top:8px">
         <h2>${esc(d.n)}</h2><span class="tier ${tierCls}">${tierName}</span>
       </div>

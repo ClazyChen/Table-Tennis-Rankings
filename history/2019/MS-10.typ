@@ -88,7 +88,7 @@
       [62], [#name("GAUZY Simon")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2649*], [#delta(8)],
       [63], [#name("KOU Lei")], [#age(32)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2646*], [#delta(-19)],
       [64], [#name("PERSSON Jon")], [#age(33)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2641*], [#delta(8)],
-      [65], [#name("WEI Shihao")], [#age(21)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2638*], [#delta(3)],
+      [65], [#name("WEI Shihao")], [#age(21)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2637*], [#delta(3)],
       [66], [#name("DYJAS Jakub")], [#age(24)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2635*], [#delta(-11)],
       [67], [#name("KARAKASEVIC Aleksandar")], [#age(44)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2634*], [#delta(94)],
       [68], [#name("LIU Yebo")], [#age(18)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2633*], [#delta(-3)],

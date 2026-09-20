@@ -7,31 +7,39 @@
 #   data/singles_matches_cache.json (gitignored), a compact MS/WS-only cache)
 # Writes:
 #   web/data/events-index.json  [[tid,name,start,end,org,weight,[ms podium],[ws podium]],...]
-#   web/data/events/<tid>.json  {n,s,e,o,w,pa,MS,WS} — bracket tree (or round
-#                               list fallback) + qualification list per category
+#   web/data/events/<tid>.json  {n,s,e,o,w,pa,MS,WS} — per category: bracket
+#                               tree "t" (or round list fallback "r"), leftover
+#                               placement/unlinked matches "x", qualification
+#                               list "q", bronze (3rd place) match "b"
 #   augments web/data/history/shard-XX.json with "e": [[tid,cat,result],...]
 #
 # Bracket reconstruction: in a single-elimination draw every player except the
 # champion loses exactly once, so each match's winner appears in exactly one
-# later-round match. Following those links from the Final rebuilds the exact
-# bracket tree without seeding data. Draws that violate this (group formats)
-# fall back to a per-round match list.
+# later-round match. Following those links from the real Final rebuilds the
+# exact bracket tree without seeding data. Draws where no unique root final
+# can be determined (group formats, multi-bracket qualifiers) fall back to a
+# per-round match list.
 
 using JSON
 using Dates
 
 # ---- compact record fields (cache + grouping) ----
-# [tid, cat, stage, rcode, a, x, res, games, winner, wo, aAssoc, xAssoc]
+# [tid, cat, stage, rcode, a, x, res, games, winner, wo, aAssoc, xAssoc, mid]
 const R_TID = 1; const R_CAT = 2; const R_STAGE = 3; const R_RND = 4
 const R_A = 5;  const R_X = 6;  const R_RES = 7;  const R_GAMES = 8
 const R_W = 9;  const R_WO = 10; const R_AA = 11; const R_XA = 12
-# cat: 0=MS, 1=WS; stage: 0=Main Draw, 1=Qualification
+const R_MID = 13
+# cat: 0=MS, 1=WS; stage: 0=Main Draw, 1=Qualification/other, 2=Position Draw
+# mid: raw match id (chronological within a tournament — used by the temporal
+# reconstruction for label-less draws)
 
 # ---- round codes ----
-# main draw: 0=Final 1=SemiFinal 2=QuarterFinal 3=R16 4=R32 5=R64 6=R128
+# main draw: 0=Final 1=SemiFinal 2=QuarterFinal 3=R16 4=R32 5=R64 6=R128 7=R256
+# bare numeric labels mean "round of N" (2=Final, 4=SemiFinal, 8=QuarterFinal)
 # qualification: 12=QR4 13=QR8 14=QR16 15=QR32 16=QR64 (ascending toward main)
 # -1 = unlabeled / group-stage / unknown
-const MAIN_R_CODES = Dict(16 => 3, 32 => 4, 64 => 5, 128 => 6)
+const MAIN_R_CODES = Dict(16 => 3, 32 => 4, 64 => 5, 128 => 6, 256 => 7)
+const NUM_R_CODES = Dict(2 => 0, 4 => 1, 8 => 2, 16 => 3, 32 => 4, 64 => 5, 128 => 6, 256 => 7)
 const QUAL_R_CODES = Dict(4 => 12, 8 => 13, 16 => 14, 32 => 15, 64 => 16)
 const UNKNOWN_ROUNDS = Set{String}()
 
@@ -45,8 +53,20 @@ function round_code(r)::Int
     m !== nothing && return get(MAIN_R_CODES, parse(Int, m.captures[1]), -1)
     m = match(r"^QR(\d+)$", s)
     m !== nothing && return get(QUAL_R_CODES, parse(Int, m.captures[1]), -1)
-    isempty(s) || push!(UNKNOWN_ROUNDS, s)
+    m = match(r"^(\d+)$", s)
+    m !== nothing && return get(NUM_R_CODES, parse(Int, m.captures[1]), -1)
+    isempty(s) || s == "None" || push!(UNKNOWN_ROUNDS, s)
     return -1
+end
+
+# stage: 0=main draw, 1=qualification/groups/other, 2=position draw.
+# Dirty-data variants seen in the wild: "MAIN" (Small States Games 2019),
+# "Main Draw - Stage 2" (Asian Cup 2018; "Stage 1" there is a pre-quarterfinal
+# playoff, and "(Bronze Match)"/"(5th place)" etc. are position matches).
+function stage_code(s)::Int
+    (s == "Main Draw" || s == "MAIN" || s == "Main Draw - Stage 2") && return 0
+    (s == "Position Draw" || startswith(s, "Main Draw -")) && return 2
+    return 1
 end
 
 # ---- player event-result codes (stored in shard "e") ----
@@ -67,7 +87,7 @@ function _extract_singles!(out, path)
         x = get(m, "vw_matches___player_x_id_raw", nothing)
         tid = get(m, "vw_matches___tournament_id_raw", nothing)
         (a === nothing || x === nothing || tid === nothing) && continue
-        stage = get(m, "vw_matches___stage_raw", "") == "Main Draw" ? 0 : 1
+        stage = stage_code(string(get(m, "vw_matches___stage_raw", "")))
         res = replace(string(get(m, "vw_matches___res_raw", "")), " - " => ":")
         games = strip(string(get(m, "vw_matches___games_raw", "")))
         w = get(m, "vw_matches___winner_raw", nothing)
@@ -76,7 +96,8 @@ function _extract_singles!(out, path)
                        Int(a), Int(x), res, games, w === nothing ? 0 : Int(w),
                        string(get(m, "vw_matches___wo_raw", "")),
                        string(get(m, "vw_matches___assoc_a_raw", "")),
-                       string(get(m, "vw_matches___assoc_x_raw", ""))])
+                       string(get(m, "vw_matches___assoc_x_raw", "")),
+                       Int(get(m, "vw_matches___id_raw", 0))])
     end
     return out
 end
@@ -103,12 +124,54 @@ function load_singles_records()
     end
     if fresh > 0
         mkpath(dirname(SINGLES_CACHE))
-        open(SINGLES_CACHE, "w") do io
-            JSON.print(io, Dict("files" => sort!(collect(seen)), "matches" => records))
-        end
+        _write_json(SINGLES_CACHE, Dict("files" => sort!(collect(seen)), "matches" => records))
     end
     println("singles records: $(length(records)) ($(fresh) new match files parsed)")
     return records
+end
+
+# Write JSON with retries: transient SystemError (EINVAL) happens on Windows
+# when an antivirus/OneDrive scan briefly locks the target file (same pattern
+# as the ranking writer in typst_output.jl).
+function _write_json(path::AbstractString, obj)
+    for attempt in 1:8
+        try
+            open(path, "w") do io
+                JSON.print(io, obj)
+            end
+            return
+        catch e
+            e isa SystemError || rethrow()
+            attempt == 8 && rethrow()
+            @warn "retry write json" file=path attempt=attempt exception=e
+            sleep(0.4 * attempt)
+        end
+    end
+end
+
+# Early ITTF dumps sometimes recorded a draw twice: a bare "3 - 0" row with no
+# game scores alongside the fully-scored row (occasionally even with a wrong
+# opponent id, e.g. African Championships 2010). Within one labeled round a
+# player has at most one match, so keep only the best-documented row per
+# (round, winner).
+function drop_placeholder_dups!(rs)
+    keep = Dict{Tuple{Int,Int},Int}()
+    drop = Int[]
+    for (i, r) in enumerate(rs)
+        r[R_RND] >= 0 || continue
+        key = (r[R_RND], r[R_W])
+        j = get(keep, key, 0)
+        if j == 0
+            keep[key] = i
+        else
+            si = length(strip(string(rs[i][R_GAMES])))
+            sj = length(strip(string(rs[j][R_GAMES])))
+            keep[key] = si > sj ? i : j
+            push!(drop, si > sj ? j : i)
+        end
+    end
+    deleteat!(rs, sort!(unique!(drop)))
+    return rs
 end
 
 # tid => (start::String, org::String) from raw event batches
@@ -133,61 +196,281 @@ end
 
 # ---------------------------------------------------------------- bracket tree
 
-# ms = main-draw records of one (tid, cat). Returns a nested tree
-# [a, x, res, winner, feederA, feederX, games, wo] (feeder = subtree or
-# nothing), or nothing when the draw is not a clean single elimination.
-function build_tree(ms)
-    count(m -> m[R_RND] == 0, ms) == 1 || return nothing
-    any(m -> m[R_RND] < 0, ms) && return nothing
+# Bracket reconstruction tolerant of dirty labels. In a single-elimination draw
+# every player except the champion loses exactly once, so each match's winner
+# appears in exactly one later-round match; following those links from the
+# Final rebuilds the bracket without seeding data.
+#
+# Root selection: the real Final is the unique "Final"-labeled match whose two
+# players each won a semifinal (a lone Final is accepted as-is; when several
+# candidates remain — placement finals of cup formats — the one with the
+# largest linked subtree wins). Matches that cannot be linked or do not hang
+# off the root (placement games, mislabeled sub-event finals, unlabeled rows)
+# are NOT fatal: they are split out as leftovers.
+#
+# ms = main-draw records of one (tid, cat). Returns
+#   (tree, tree_idx, leftover_idx, sf_losers)
+# where tree is nested [a,x,res,winner,feederA,feederX,games,wo] (feeder =
+# subtree or nothing), or nothing when no unique root final exists.
+# `career` maps pid => total singles matches in the database, used to break
+# ties between parallel draws (see below).
+function build_tree(ms, career)
+    labeled = [i for i in eachindex(ms) if ms[i][R_RND] >= 0]
+    finals = [i for i in labeled if ms[i][R_RND] == 0]
+    isempty(finals) && return nothing
+    sf_winners = Set(ms[i][R_W] for i in labeled if ms[i][R_RND] == 1)
+
     plays = Dict{Int,Vector{Int}}()
-    for (i, m) in enumerate(ms)
-        push!(get!(plays, m[R_A], Int[]), i)
-        push!(get!(plays, m[R_X], Int[]), i)
+    for i in labeled
+        push!(get!(plays, ms[i][R_A], Int[]), i)
+        push!(get!(plays, ms[i][R_X], Int[]), i)
     end
-    final_idx = findfirst(m -> m[R_RND] == 0, ms)
-    parent = fill(-1, length(ms))
-    for (i, m) in enumerate(ms)
-        i == final_idx && continue
+    # candidate parents of match i = matches in the closest later round its
+    # winner plays in
+    function candidates(i)
+        m = ms[i]
         w = m[R_W]
-        (w == m[R_A] || w == m[R_X]) || return nothing
-        # the winner's next match = the unique match in the closest later round
-        nxt = [j for j in get(plays, w, Int[]) if j != i && ms[j][R_RND] < m[R_RND]]
-        isempty(nxt) && return nothing
+        (w == m[R_A] || w == m[R_X]) || return Int[]
+        nxt = [j for j in get(plays, w, Int[]) if j != i && ms[j][R_RND] >= 0 && ms[j][R_RND] < m[R_RND]]
+        isempty(nxt) && return Int[]
         best = maximum(ms[j][R_RND] for j in nxt)
-        cand = [j for j in nxt if ms[j][R_RND] == best]
-        length(cand) == 1 || return nothing
-        parent[i] = cand[1]
+        [j for j in nxt if ms[j][R_RND] == best]
+    end
+    # first pass: unambiguous links only
+    parent = Dict{Int,Int}()
+    for i in labeled
+        cand = candidates(i)
+        length(cand) == 1 && (parent[i] = cand[1])
     end
     children_of = Dict{Int,Vector{Int}}()
-    for (i, p) in enumerate(parent)
-        p > 0 && push!(get!(children_of, p, Int[]), i)
+    function rebuild_children!()
+        empty!(children_of)
+        for (i, p) in parent
+            push!(get!(children_of, p, Int[]), i)
+        end
     end
-    # every match must hang off the final (no orphaned subtrees)
-    seen = Set{Int}()
-    stack = [final_idx]
-    while !isempty(stack)
-        i = pop!(stack)
-        i in seen && continue
-        push!(seen, i)
-        append!(stack, get(children_of, i, Int[]))
+    rebuild_children!()
+    function reachable_from(root)
+        seen = Set{Int}()
+        stack = [root]
+        while !isempty(stack)
+            i = pop!(stack)
+            i in seen && continue
+            push!(seen, i)
+            append!(stack, get(children_of, i, Int[]))
+        end
+        seen
     end
-    length(seen) == length(ms) || return nothing
+
+    root = nothing
+    if length(finals) == 1
+        f = ms[finals[1]]
+        # accept a lone final when at least one finalist won a semifinal. The
+        # other finalist may have advanced through an unrecorded walkover
+        # (early ITTF data often lacks retired matches entirely, e.g. WU Yang's
+        # semifinal at China Open 2013). Reject only when semifinals exist and
+        # neither finalist won one (i.e. it is a stray placement final).
+        if isempty(sf_winners) || f[R_A] in sf_winners || f[R_X] in sf_winners
+            root = finals[1]
+        end
+    else
+        cands = [i for i in finals if ms[i][R_A] in sf_winners && ms[i][R_X] in sf_winners]
+        if isempty(cands)
+            # walkover finals: only one finalist won a semifinal
+            cands = [i for i in finals if ms[i][R_A] in sf_winners || ms[i][R_X] in sf_winners]
+        end
+        if length(cands) > 1
+            sizes = [length(reachable_from(c)) for c in cands]
+            best = maximum(sizes)
+            tied = cands[sizes .== best]
+            if length(tied) > 1
+                # parallel draws under one event label (e.g. Belarus Open 2010
+                # ran a national and an international draw side by side, all
+                # rounds labeled identically): prefer the draw with the
+                # stronger field, proxied by total career matches of its
+                # connected player set
+                uf = Dict{Int,Int}()
+                function uf_find(x)
+                    while get(uf, x, x) != x
+                        uf[x] = uf_find(uf[x])
+                        x = uf[x]
+                    end
+                    x
+                end
+                for i in labeled
+                    a, x = ms[i][R_A], ms[i][R_X]
+                    uf[a] = uf_find(a); uf[x] = uf_find(x)
+                    uf[uf_find(a)] = uf_find(x)
+                end
+                comp_score = Dict{Int,Int}()
+                for i in labeled
+                    r = uf_find(ms[i][R_A])
+                    comp_score[r] = get(comp_score, r, 0) +
+                                    get(career, ms[i][R_A], 0) + get(career, ms[i][R_X], 0)
+                end
+                scores = [comp_score[uf_find(ms[c][R_A])] for c in tied]
+                best2 = maximum(scores)
+                count(==(best2), scores) == 1 || return nothing
+                root = tied[argmax(scores)]
+            else
+                root = tied[1]
+            end
+        elseif length(cands) == 1
+            root = cands[1]
+        end
+    end
+    root === nothing && return nothing
+
+    # second pass, to a fixpoint: an ambiguous match links to the unique
+    # candidate that is already part of the tree (e.g. a quarterfinal whose
+    # winner plays both the real semifinal and a mislabeled bronze "semifinal")
+    while true
+        seen = reachable_from(root)
+        progress = false
+        for i in labeled
+            (i == root || haskey(parent, i) || i in seen) && continue
+            linked = [j for j in candidates(i) if j in seen]
+            if length(linked) == 1
+                parent[i] = linked[1]
+                progress = true
+            end
+        end
+        progress || break
+        rebuild_children!()
+    end
+
+    seen = reachable_from(root)
+    leftover = [i for i in eachindex(ms) if !(i in seen)]
+    # losers of the two matches feeding the final (normally the semifinals; the
+    # label may be wrong in dirty data, e.g. an SF mislabeled as QuarterFinal)
+    sf_losers = Int[]
+    for j in get(children_of, root, Int[])
+        j in seen || continue
+        m = ms[j]
+        push!(sf_losers, m[R_W] == m[R_A] ? m[R_X] : m[R_A])
+    end
 
     function emit(i)
         m = ms[i]
         feeder(pid) = begin
             for j in get(children_of, i, Int[])
-                ms[j][R_W] == pid && return emit(j)
+                (j in seen && ms[j][R_W] == pid) && return emit(j)
             end
             nothing
         end
         Any[m[R_A], m[R_X], m[R_RES], m[R_W], feeder(m[R_A]), feeder(m[R_X]),
             m[R_GAMES], m[R_WO]]
     end
-    return emit(final_idx)
+    return (emit(root), sort!(collect(seen)), leftover, sf_losers)
 end
 
-# (champion, runner-up, sf1, sf2); 0-filled when missing
+# ---- temporal reconstruction for label-less draws ----
+# Some events (e.g. Finlandia Open 2021) carry no round labels at all, but
+# match ids are chronological within a tournament. The bracket is then
+# recoverable from time: a match's feeders are the two players' immediately
+# preceding matches (if they won them), and the root is the last match of the
+# unique unbeaten player (the champion). Consolation/placement games hang off
+# losers, never off the champion's path, so they stay out of the tree. Returns
+# (tree, tree_records, leftover_records, sf_losers) where tree_records are
+# COPIES with R_RND set to the depth from the final (0=Final), or nothing when
+# the draw has no unique unbeaten player (multi-bracket qualifiers, fragmented
+# data) or no matches at all.
+function build_tree_temporal(ms)
+    played = [i for i in eachindex(ms)
+              if ms[i][R_W] != 0 &&
+                 !(string(ms[i][R_RES]) == "0:0" && isempty(strip(string(ms[i][R_GAMES]))))]
+    isempty(played) && return nothing
+    losses = Dict{Int,Int}()
+    players = Set{Int}()
+    for i in played
+        m = ms[i]
+        l = m[R_W] == m[R_A] ? m[R_X] : m[R_A]
+        losses[l] = get(losses, l, 0) + 1
+        push!(players, m[R_A]); push!(players, m[R_X])
+    end
+    unbeaten = [p for p in players if get(losses, p, 0) == 0]
+    length(unbeaten) == 1 || return nothing
+
+    seq = Dict{Int,Vector{Int}}()
+    for i in played
+        push!(get!(seq, ms[i][R_A], Int[]), i)
+        push!(get!(seq, ms[i][R_X], Int[]), i)
+    end
+    for v in values(seq)
+        sort!(v; by=i -> ms[i][R_MID])
+    end
+
+    root = last(seq[unbeaten[1]])
+    depth_of = Dict{Int,Int}()
+    visited = Set{Int}()
+    function emit(i, d)
+        i in visited && return nothing
+        push!(visited, i)
+        depth_of[i] = d
+        m = ms[i]
+        feeder(pid) = begin
+            k = findfirst(==(i), seq[pid])
+            (k === nothing || k == 1) && return nothing
+            j = seq[pid][k-1]
+            ms[j][R_W] == pid || return nothing
+            emit(j, d + 1)
+        end
+        Any[m[R_A], m[R_X], m[R_RES], m[R_W], feeder(m[R_A]), feeder(m[R_X]),
+            m[R_GAMES], m[R_WO]]
+    end
+    tree = emit(root, 0)
+    tree === nothing && return nothing
+
+    tree_recs = [begin
+                     r = copy(ms[i])
+                     r[R_RND] = depth_of[i]
+                     r
+                 end for i in sort!(collect(visited))]
+    leftover = [ms[i] for i in played if !(i in visited)]
+    sf_losers = Int[]
+    for pid in (ms[root][R_A], ms[root][R_X])
+        s = seq[pid]
+        length(s) < 2 && continue
+        j = s[end-1]
+        ms[j][R_W] == pid || continue
+        push!(sf_losers, ms[j][R_A] == pid ? ms[j][R_X] : ms[j][R_A])
+    end
+    return (tree, tree_recs, leftover, sf_losers)
+end
+
+# ---- bronze (3rd-place) match ----
+# A match between the losers of the two semifinals that feed the final. It is
+# not part of the knockout path and shows up in the raw data under all sorts of
+# labels: a second Main-Draw "Final" (Beijing 2008), a third "SemiFinal" (World
+# Cup 2011), a "Position Draw" row (Paris 2024), "(Bronze Match)" (Asian Cup
+# 2018). Detect it after the tree is built, from any stage, by the
+# semifinal-loser rule. `pool` = candidate records (leftovers + non-main rows).
+function find_bronze(pool, sf_losers)
+    length(sf_losers) == 2 || return nothing
+    losers = Set(sf_losers)
+    cands = [r for r in pool
+             if r[R_A] in losers && r[R_X] in losers &&
+                (r[R_STAGE] == 2 || r[R_RND] == 0 || r[R_RND] == 1)]
+    length(cands) == 1 || return nothing
+    return cands[1]
+end
+
+# (champion, runner-up, third, fourth) from the built tree; 0-filled when
+# missing. third/fourth are the bronze-match players when there is one,
+# otherwise the semifinal losers.
+function podium_of_tree(tree, sf_losers, bronze)
+    champ = tree[4]
+    champ == 0 && return [0, 0, 0, 0]
+    runner = tree[1] == champ ? tree[2] : tree[1]
+    if bronze !== nothing
+        bw = bronze[R_W]
+        bl = bronze[R_A] == bw ? bronze[R_X] : bronze[R_A]
+        return [champ, runner, bw, bl]
+    end
+    return [champ, runner, get(sf_losers, 1, 0), get(sf_losers, 2, 0)]
+end
+
+# fallback podium for non-knockout draws (first labeled Final, if any)
 function podium_of(ms)
     f = filter(m -> m[R_RND] == 0, ms)
     isempty(f) && return [0, 0, 0, 0]
@@ -224,6 +507,13 @@ function export_events_web(events::Dict{Date,Vector{Event}}, players::Dict{Int,P
 
     records = load_singles_records()
 
+    # career match counts (used to rank parallel draws in build_tree)
+    career = Dict{Int,Int}()
+    for r in records
+        career[r[R_A]] = get(career, r[R_A], 0) + 1
+        career[r[R_X]] = get(career, r[R_X], 0) + 1
+    end
+
     # group by (tid, cat), dedupe identical rows
     groups = Dict{Tuple{Int,Int},Vector{Any}}()
     seen_row = Set{UInt}()
@@ -254,24 +544,47 @@ function export_events_web(events::Dict{Date,Vector{Event}}, players::Dict{Int,P
         for cat in (0, 1)
             rs = get(groups, (tid, cat), nothing)
             rs === nothing && continue
+            drop_placeholder_dups!(rs)
             for r in rs
                 pa[r[R_A]] = r[R_AA]
                 pa[r[R_X]] = r[R_XA]
             end
             main = filter(r -> r[R_STAGE] == 0, rs)
-            qual = filter(r -> r[R_STAGE] == 1, rs)
+            qual = filter(r -> r[R_STAGE] != 0, rs)
 
             payload = Dict{String,Any}()
+            result_pool = main   # matches that count toward player results
             if !isempty(main)
-                tree = build_tree(main)
+                built = build_tree(main, career)
+                tree = nothing; sf_losers = Int[]
+                if built !== nothing
+                    t, tree_idx, leftover_idx, sf_losers = built
+                    tree = t
+                    result_pool = main[tree_idx]
+                    leftover = main[leftover_idx]
+                else
+                    tb = build_tree_temporal(main)
+                    if tb !== nothing
+                        tree, result_pool, leftover, sf_losers = tb
+                    end
+                end
                 if tree === nothing
                     payload["r"] = rounds_list(main)
+                    podiums[cat] = podium_of(main)
                     n_fallback += 1
                 else
+                    bronze = find_bronze(vcat(leftover, qual), sf_losers)
+                    if bronze !== nothing
+                        filter!(r -> r !== bronze, qual)
+                        filter!(r -> r !== bronze, leftover)
+                        payload["b"] = Any[bronze[R_A], bronze[R_X], bronze[R_RES],
+                                           bronze[R_W], bronze[R_GAMES], bronze[R_WO]]
+                    end
                     payload["t"] = tree
+                    isempty(leftover) || (payload["x"] = rounds_list(leftover))
+                    podiums[cat] = podium_of_tree(tree, sf_losers, bronze)
                     n_tree += 1
                 end
-                podiums[cat] = podium_of(main)
             end
             if !isempty(qual)
                 payload["q"] = [Any[m[R_A], m[R_X], m[R_RES], m[R_W], m[R_RND], m[R_GAMES], m[R_WO]]
@@ -279,10 +592,10 @@ function export_events_web(events::Dict{Date,Vector{Event}}, players::Dict{Int,P
             end
             detail[cat == 0 ? "MS" : "WS"] = payload
 
-            # player results
+            # player results (placement/leftover matches do not count)
             pids = unique!(sort!(vcat([r[R_A] for r in rs], [r[R_X] for r in rs])))
             for pid in pids
-                mine_main = filter(r -> (r[R_A] == pid || r[R_X] == pid), main)
+                mine_main = filter(r -> (r[R_A] == pid || r[R_X] == pid), result_pool)
                 res = nothing
                 if !isempty(mine_main)
                     if all(r -> r[R_RND] >= 0, mine_main)
@@ -303,18 +616,14 @@ function export_events_web(events::Dict{Date,Vector{Event}}, players::Dict{Int,P
         end
 
         detail["pa"] = Dict(string(k) => v for (k, v) in pa if !isempty(v))
-        open(joinpath(out_dir, "events", "$(tid).json"), "w") do io
-            JSON.print(io, detail)
-        end
+        _write_json(joinpath(out_dir, "events", "$(tid).json"), detail)
         push!(index_rows, Any[tid, name, detail["s"], detail["e"], org, wt,
                               get(podiums, 0, [0, 0, 0, 0]),
                               get(podiums, 1, [0, 0, 0, 0])])
     end
 
     sort!(index_rows; by=r -> r[4], rev=true)
-    open(joinpath(out_dir, "events-index.json"), "w") do io
-        JSON.print(io, index_rows)
-    end
+    _write_json(joinpath(out_dir, "events-index.json"), index_rows)
 
     # augment history shards with player event results
     n_res = 0
@@ -332,9 +641,7 @@ function export_events_web(events::Dict{Date,Vector{Event}}, players::Dict{Int,P
             n_res += 1
         end
         if changed
-            open(shard_path, "w") do io
-                JSON.print(io, shard)
-            end
+            _write_json(shard_path, shard)
         end
     end
 

@@ -64,7 +64,7 @@
       [47], [#name("李时温")], [#age(27)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2614*], [#delta(3)],
       [48], [#name("韩菲儿")], [#age(20)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2612*], [#delta(3)],
       [49], [#name("李恩惠")], [#age(28)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2607*], [#delta(-2)],
-      [50], [#name("吴洋晨")], [#age(21)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2607*], [#delta(3)],
+      [50], [#name("吴洋晨")], [#age(21)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2606*], [#delta(3)],
     )
   )
 #pagebreak()
@@ -85,7 +85,7 @@
       [59], [#name("肖瑶茜")], [#age(29)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2591*], [#delta(-7)],
       [60], [#name("齐菲")], [#age(23)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2591*], [#delta(1)],
       [61], [#name("DIACONU Adina")], [#age(24)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2588*], [#delta(18)],
-      [62], [#name("王 艾米")], [#age(21)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2568*], [#delta(1)],
+      [62], [#name("王 艾米")], [#age(21)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2567*], [#delta(1)],
       [63], [#name("陈思羽")], [#age(30)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2563*], [#delta(44)],
       [64], [#name("琳达 伯格斯特隆")], [#age(28)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2555*], [#delta(1)],
       [65], [#name("梁夏银")], [#age(29)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2555*], [#delta(-3)],
@@ -110,7 +110,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [76], [#name("玛妮卡 巴特拉")], [#age(28)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2532*], [#delta(-12)],
       [77], [#name("赤江夏星")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2530*], [#delta(-2)],
-      [78], [#name("万远")], [#age(26)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2529*], [#delta(3)],
+      [78], [#name("万远")], [#age(26)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2528*], [#delta(3)],
       [79], [#name("STEFANOVA Nikoleta")], [#age(39)], [#assoc("ITA")], [#left], [#shakehand], [#attack], [*2528*], [#delta(-3)],
       [80], [#name("刘杨子")], [#age(21)], [#assoc("AUS")], [#right], [#shakehand], [#attack], [*2526*], [#delta(-9)],
       [81], [#name("SURJAN Sabina")], [#age(23)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2524*], [#delta(-3)],
@@ -162,7 +162,7 @@
       [118], [#name("HAPONOVA Hanna")], [#age(38)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2422*], [#delta(-15)],
       [119], [#name("WEGRZYN Katarzyna")], [#age(22)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2419*], [#delta(73)],
       [120], [#name("GHOSH Swastika")], [#age(20)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2419*], [#delta(-12)],
-      [121], [#name("DE NUTTE Sarah")], [#age(31)], [#assoc("LUX")], [#right], [#shakehand], [#attack], [*2419*], [#delta(-2)],
+      [121], [#name("DE NUTTE Sarah")], [#age(31)], [#assoc("LUX")], [#right], [#shakehand], [#attack], [*2419*], [#delta(-3)],
       [122], [#name("SU Pei-Ling")], [#age(23)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2417*], [#delta(-5)],
       [123], [#name("GUISNEL Oceane")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2414*], [#delta(-13)],
       [124], [#name("吴咏琳")], [#age(20)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2414*], [#delta(1)],
@@ -198,7 +198,7 @@
       [145], [#name("BALINT Bernadett")], [#age(27)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2381*], [#delta(0)],
       [146], [#name("LAVROVA Anastassiya")], [#age(28)], [#assoc("KAZ")], [#right], [#shakehand], [#attack], [*2381*], [#delta(-22)],
       [147], [#name("CHITALE Diya")], [#age(20)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2376*], [#delta(-32)],
-      [148], [#name("SCHREINER Franziska")], [#age(22)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2376*], [#delta(-30)],
+      [148], [#name("SCHREINER Franziska")], [#age(22)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2376*], [#delta(-29)],
       [149], [#name("SAWETTABUT Jinnipa")], [#age(23)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2374*], [#delta(-23)],
       [150], [#name("MANTZ Chantal")], [#age(27)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2374*], [#delta(-20)],
     )
@@ -227,13 +227,13 @@
       [165], [#name("MOYLAND Sally")], [#age(16)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2358*], [#delta(0)],
       [166], [#name("HUANG Hsin")], [#age(28)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2357*], [#delta(-35)],
       [167], [#name("ARAPOVIC Hana")], [#age(19)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2348*], [#delta(-1)],
-      [168], [#name("ALTINKAYA Sibel")], [#age(30)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2345*], [#delta(60)],
-      [169], [#name("TAKEYA Misuzu")], [#age(15)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2345*], [#delta(-2)],
+      [168], [#name("TAKEYA Misuzu")], [#age(15)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2345*], [#delta(-1)],
+      [169], [#name("ALTINKAYA Sibel")], [#age(30)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2345*], [#delta(59)],
       [170], [#name("ZHANG Sofia-Xuan")], [#age(24)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2344*], [#delta(-21)],
       [171], [#name("LUTZ Charlotte")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2344*], [#delta(-35)],
-      [172], [#name("VIVARELLI Debora")], [#age(30)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2342*], [#delta(125)],
+      [172], [#name("VIVARELLI Debora")], [#age(30)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2342*], [#delta(124)],
       [173], [#name("ALHODABY Mariam")], [#age(23)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2338*], [#delta(-2)],
-      [174], [#name("MONFARDINI Gaia")], [#age(22)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2335*], [#delta(-2)],
+      [174], [#name("MONFARDINI Gaia")], [#age(22)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2334*], [#delta(-2)],
       [175], [#name("SOLJA Amelie")], [#age(33)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2331*], [#delta(-5)],
     )
   )
@@ -244,7 +244,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [176], [#name("李多恩")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2329*], [#delta(-3)],
+      [176], [#name("李多恩")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2330*], [#delta(-3)],
       [177], [#name("叶伊恬")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2327*], [#delta(-25)],
       [178], [#name("YOO Yerin")], [#age(15)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2327*], [#delta(0)],
       [179], [#name("丁怡婕")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2327*], [#delta(-5)],
@@ -252,7 +252,7 @@
       [181], [#name("COSSIO Arantxa")], [#age(19)], [#assoc("MEX")], [#right], [#shakehand], [#attack], [*2322*], [#delta(-13)],
       [182], [#name("KHETKHUAN Tamolwan")], [#age(26)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2322*], [#delta(-13)],
       [183], [#name("AUEAWIRIYAYOTHIN Wanwisa")], [#age(19)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2317*], [#delta(-4)],
-      [184], [#name("DARI Helga")], [#age(21)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2317*], [#delta(-4)],
+      [184], [#name("DARI Helga")], [#age(21)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2316*], [#delta(-4)],
       [185], [#name("HUANG Yu-Jie")], [#age(20)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2313*], [#delta(-8)],
       [186], [#name("MAKSUTI Aneta")], [#age(28)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2310*], [#delta(-4)],
       [187], [#name("LYNE Karen")], [#age(21)], [#assoc("MAS")], [#left], [#shakehand], [#attack], [*2309*], [#delta(-4)],
@@ -267,7 +267,7 @@
       [196], [#name("朱梓予")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2293*], [#delta(1)],
       [197], [#name("XIANG Junlin")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(1)],
       [198], [#name("DE STOPPELEIRE Clea")], [#age(17)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2291*], [#delta(10)],
-      [199], [#name("ZHOU Jingyi")], [#age(18)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2289*], [#delta(-5)],
-      [200], [#name("UESAWA Anne")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2289*], [#delta(-1)],
+      [199], [#name("UESAWA Anne")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2289*], [#delta(0)],
+      [200], [#name("ZHOU Jingyi")], [#age(18)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2289*], [#delta(-6)],
     )
   )

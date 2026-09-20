@@ -159,7 +159,7 @@
       [115], [#name("斯特凡 菲格尔")], [#age(31)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2555*], [#delta(1)],
       [116], [#name("GERALDO Joao")], [#age(24)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2554*], [#delta(4)],
       [117], [#name("罗伯特 加尔多斯")], [#age(40)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2553*], [#delta(1)],
-      [118], [#name("SEO Hyundeok")], [#age(28)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2553*], [#delta(62)],
+      [118], [#name("SEO Hyundeok")], [#age(28)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2552*], [#delta(62)],
       [119], [#name("MADRID Marcos")], [#age(33)], [#assoc("MEX")], [#right], [#shakehand], [#attack], [*2552*], [#delta(-20)],
       [120], [#name("安德烈 加奇尼")], [#age(33)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2551*], [#delta(-30)],
       [121], [#name("DEVOS Robin")], [#age(25)], [#assoc("BEL")], [#left], [#shakehand], [#attack], [*2551*], [#delta(53)],

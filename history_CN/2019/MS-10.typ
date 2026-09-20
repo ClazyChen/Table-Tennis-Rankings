@@ -88,7 +88,7 @@
       [62], [#name("西蒙 高兹")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2649*], [#delta(8)],
       [63], [#name("寇磊")], [#age(32)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2646*], [#delta(-19)],
       [64], [#name("PERSSON Jon")], [#age(33)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2641*], [#delta(8)],
-      [65], [#name("WEI Shihao")], [#age(21)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2638*], [#delta(3)],
+      [65], [#name("WEI Shihao")], [#age(21)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2637*], [#delta(3)],
       [66], [#name("雅克布 迪亚斯")], [#age(24)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2635*], [#delta(-11)],
       [67], [#name("亚历山大 卡拉卡谢维奇")], [#age(44)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2634*], [#delta(94)],
       [68], [#name("刘夜泊")], [#age(18)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2633*], [#delta(-3)],

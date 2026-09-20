@@ -14,7 +14,7 @@
       [6], [#name("HARIMOTO Tomokazu")], [#age(16)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2933*], [#delta(0)],
       [7], [#name("BOLL Timo")], [#age(38)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2874*], [#delta(1)],
       [8], [#name("WANG Chuqin")], [#age(19)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2870*], [#delta(-1)],
-      [9], [#name("MIZUTANI Jun")], [#age(30)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2859*], [#delta(1)],
+      [9], [#name("MIZUTANI Jun")], [#age(30)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2858*], [#delta(1)],
       [10], [#name("CALDERANO Hugo")], [#age(23)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2853*], [#delta(1)],
       [11], [#name("OVTCHAROV Dimitrij")], [#age(31)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2846*], [#delta(17)],
       [12], [#name("JANG Woojin")], [#age(24)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2843*], [#delta(0)],
@@ -27,7 +27,7 @@
       [19], [#name("FRANZISKA Patrick")], [#age(27)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2783*], [#delta(-1)],
       [20], [#name("YU Ziyang")], [#age(21)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2774*], [#delta(-1)],
       [21], [#name("LIM Jonghoon")], [#age(22)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2772*], [#delta(-1)],
-      [22], [#name("PARK Ganghyeon")], [#age(23)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2770*], [#delta(-1)],
+      [22], [#name("PARK Ganghyeon")], [#age(23)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2769*], [#delta(-1)],
       [23], [#name("MA Te")], [#age(25)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2766*], [#delta(-1)],
       [24], [#name("UEDA Jin")], [#age(28)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2765*], [#delta(-1)],
       [25], [#name("FANG Bo")], [#age(27)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2762*], [#delta(-1)],
@@ -64,7 +64,7 @@
       [47], [#name("MOREGARD Truls")], [#age(17)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2694*], [#delta(3)],
       [48], [#name("GAUZY Simon")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2693*], [#delta(32)],
       [49], [#name("FREITAS Marcos")], [#age(31)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2674*], [#delta(-5)],
-      [50], [#name("CHO Seungmin")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2674*], [#delta(2)],
+      [50], [#name("CHO Seungmin")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2673*], [#delta(2)],
     )
   )
 #pagebreak()
@@ -148,7 +148,7 @@
       [104], [#name("ROBLES Alvaro")], [#age(28)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2574*], [#delta(-1)],
       [105], [#name("HO Kwan Kit")], [#age(22)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2574*], [#delta(-1)],
       [106], [#name("SAKAI Asuka")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2573*], [#delta(-1)],
-      [107], [#name("MACHI Asuka")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2571*], [#delta(-1)],
+      [107], [#name("MACHI Asuka")], [#age(25)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2570*], [#delta(-1)],
       [108], [#name("OLAH Benedek")], [#age(28)], [#assoc("FIN")], [#right], [#shakehand], [#attack], [*2570*], [#delta(0)],
       [109], [#name("PISTEJ Lubomir")], [#age(35)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2569*], [#delta(-23)],
       [110], [#name("TANAKA Yuta")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2569*], [#delta(-1)],
@@ -267,7 +267,7 @@
       [196], [#name("CANTERO Jesus")], [#age(37)], [#assoc("ESP")], [#right], [#penhold], [#attack], [*2458*], [#delta(-1)],
       [197], [#name("POLANSKY Tomas")], [#age(21)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2457*], [#delta(-5)],
       [198], [#name("AGUIRRE Marcelo")], [#age(26)], [#assoc("PAR")], [#left], [#shakehand], [#attack], [*2456*], [#delta(-2)],
-      [199], [#name("KONECNY Tomas")], [#age(34)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2454*], [#delta(-1)],
+      [199], [#name("KONECNY Tomas")], [#age(34)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2453*], [#delta(-1)],
       [200], [#name("DIDUKH Oleksandr")], [#age(37)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2453*], [#delta(-1)],
     )
   )
