@@ -242,10 +242,24 @@ function main()
 
     switch_cmd = get(creds, "switch_proxy_command", nothing)
 
+    # Fingerprint of the checkpoint used to tell whether run_crawl! made
+    # progress: a login wall after progress means the refresh DID help, so the
+    # consecutive-login-wall counter must not keep accumulating across runs.
+    progress_sig(s) = s === nothing ? nothing : (
+        string(get(s, "phase", "")),
+        get(s, "match_event_index", 0),
+        get(s, "event_id", nothing),
+        get(s, "match_offset", 0),
+        length(get(s, "pending_player_ids", [])),
+        get(s, "next_match_file_num", 0),
+        get(s, "requests_today", 0),
+    )
+
     consecutive_login_walls = 0
     consecutive_errors = 0
     cooldown = false
     while true
+        sig_before = progress_sig(load_crawl_state())
         local state
         try
             state = run_crawl!(; pacing=pacing)
@@ -271,6 +285,9 @@ function main()
         # Session expired mid-crawl: refreshing cookies is cheap and carries no
         # 429 risk, so do it in both single-pass and --loop mode.
         if reason == "login_wall"
+            if progress_sig(state) != sig_before
+                consecutive_login_walls = 0   # refresh works; wall is just ITTF expiring sessions
+            end
             consecutive_login_walls += 1
             consecutive_login_walls > 3 &&
                 error("3 consecutive login walls — cookie refresh is not helping; check WebBridge login")
