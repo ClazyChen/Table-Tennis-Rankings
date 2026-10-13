@@ -248,7 +248,7 @@
       [177], [#name("MESHREF Dina")], [#age(32)], [#assoc("EGY")], [#left], [#shakehand], [#attack], [*2386*], [#delta(-1)],
       [178], [#name("ZHAO Wangqi")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2385*], [#delta(1)],
       [179], [#name("MALOBABIC Ivana")], [#age(46)], [#assoc("CRO")], [#right], [#shakehand], [#defense], [*2384*], [#delta(1)],
-      [180], [#name("KANEYOSHI Yuka")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2383*], [#delta(455)],
+      [180], [#name("KANEYOSHI Yuka")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2383*], [#delta(454)],
       [181], [#name("JEGER Mateja")], [#age(31)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2383*], [#delta(0)],
       [182], [#name("YU Tianer")], [#age(19)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2377*], [#delta(0)],
       [183], [#name("HUYNH Jade")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2376*], [#delta(8)],

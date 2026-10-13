@@ -248,7 +248,7 @@
       [177], [#name("蒂娜 梅谢芙")], [#age(32)], [#assoc("EGY")], [#left], [#shakehand], [#attack], [*2386*], [#delta(-1)],
       [178], [#name("赵王琪")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2385*], [#delta(1)],
       [179], [#name("伊万娜 马洛巴比奇")], [#age(46)], [#assoc("CRO")], [#right], [#shakehand], [#defense], [*2384*], [#delta(1)],
-      [180], [#name("兼吉优花")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2383*], [#delta(455)],
+      [180], [#name("兼吉优花")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2383*], [#delta(454)],
       [181], [#name("马泰娅 耶格尔")], [#age(31)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2383*], [#delta(0)],
       [182], [#name("YU Tianer")], [#age(19)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2377*], [#delta(0)],
       [183], [#name("HUYNH Jade")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2376*], [#delta(8)],
