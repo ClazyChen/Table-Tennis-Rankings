@@ -200,7 +200,7 @@
       [147], [#name("闫禹橦")], [#age(18)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2434*], [#delta(-1)],
       [148], [#name("迪维扬希 布霍米克")], [#age(16)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2434*], [#delta(-27)],
       [149], [#name("哈娜 阿拉波维奇")], [#age(22)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2433*], [#delta(-2)],
-      [150], [#name("WU Ying Syuan")], [#age(17)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2432*], [#delta(-2)],
+      [150], [#name("吴映萱")], [#age(17)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2432*], [#delta(-2)],
     )
   )
 #pagebreak()

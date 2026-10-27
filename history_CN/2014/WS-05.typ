@@ -263,7 +263,7 @@
       [192], [#name("苗苗")], [#age(33)], [#assoc("AUS")], [?], [?], [?], [*2278*], [#delta(1)],
       [193], [#name("万远")], [#age(17)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2278*], [#delta(-1)],
       [194], [#name("LIN Chia-Chih")], [#age(23)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2278*], [#delta(150)],
-      [195], [#name("LI Chunli")], [#age(52)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2277*], [#delta(19)],
+      [195], [#name("李春丽")], [#age(52)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2277*], [#delta(19)],
       [196], [#name("普罗米 加塔克")], [#age(31)], [#assoc("IND")], [?], [?], [?], [*2276*], [#delta(-2)],
       [197], [#name("邵杰妮")], [#age(20)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2276*], [#delta(-2)],
       [198], [#name("PARK Joohyun")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2275*], [#delta(-2)],

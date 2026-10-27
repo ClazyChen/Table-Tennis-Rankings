@@ -183,7 +183,7 @@
       [130], [#name("宋惠佳")], [#age(18)], [#assoc("JPN")], [#right], [#penhold], [#attack], [*2357*], [#delta(-3)],
       [131], [#name("KANG Haneul")], [#age(18)], [#assoc("KOR")], [?], [?], [?], [*2357*], [#delta(-14)],
       [132], [#name("卡特琳娜 佩卡沃娃")], [#age(26)], [#assoc("CZE")], [#left], [#shakehand], [#attack], [*2355*], [#delta(-20)],
-      [133], [#name("LI Chunli")], [#age(51)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2354*], [#delta(-4)],
+      [133], [#name("李春丽")], [#age(51)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2354*], [#delta(-4)],
       [134], [#name("苗苗")], [#age(32)], [#assoc("AUS")], [?], [?], [?], [*2354*], [#delta(-4)],
       [135], [#name("田代早纪")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2353*], [#delta(22)],
       [136], [#name("布里特 伊尔兰德")], [#age(19)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2352*], [#delta(-3)],

@@ -253,7 +253,7 @@
       [182], [#name("比安卡 梅罗苏")], [#age(16)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2297*], [#delta(49)],
       [183], [#name("安娜 布日斯卡")], [#age(18)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2295*], [#delta(33)],
       [184], [#name("MEN Shuohan")], [#age(23)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2293*], [#delta(-8)],
-      [185], [#name("XIANG Junlin")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(-8)],
+      [185], [#name("向俊霖")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(-8)],
       [186], [#name("奥菲昂 埃德姆")], [#age(37)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2292*], [#delta(-8)],
       [187], [#name("青木咲智")], [#age(16)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2291*], [#delta(-7)],
       [188], [#name("马泰娅 耶格尔")], [#age(28)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2291*], [#delta(-15)],

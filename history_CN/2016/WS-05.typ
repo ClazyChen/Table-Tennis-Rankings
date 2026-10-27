@@ -259,7 +259,7 @@
       [188], [#name("KATO Yuko")], [#age(17)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2336*], [#delta(3)],
       [189], [#name("ABE Airi")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2334*], [#delta(4)],
       [190], [#name("JONG Un Ju")], [#age(21)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2334*], [#delta(4)],
-      [191], [#name("LI Chunli")], [#age(54)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(4)],
+      [191], [#name("李春丽")], [#age(54)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(4)],
       [192], [#name("田原")], [#age(41)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2328*], [#delta(-7)],
       [193], [#name("金星宁")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2326*], [#delta(5)],
       [194], [#name("木原美悠")], [#age(12)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2326*], [#delta(6)],

@@ -261,7 +261,7 @@
       [190], [#name("安德烈 普屯蒂卡")], [#age(23)], [#assoc("MDA")], [#left], [#shakehand], [#attack], [*2412*], [#delta(-2)],
       [191], [#name("TAO Wenzhang")], [#age(28)], [#assoc("USA")], [#right], [#penhold], [#attack], [*2412*], [#delta(-2)],
       [192], [#name("胡诺尔 斯佐科斯")], [#age(30)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2404*], [#delta(6)],
-      [193], [#name("LIANG Jishan")], [#age(31)], [#assoc("USA")], [#left], [#shakehand], [#attack], [*2403*], [#delta(131)],
+      [193], [#name("梁吉善")], [#age(31)], [#assoc("USA")], [#left], [#shakehand], [#attack], [*2403*], [#delta(131)],
       [194], [#name("安德烈亚 朗德里厄")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2401*], [#delta(-1)],
       [195], [#name("塞缪尔 沃克")], [#age(27)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2401*], [#delta(-71)],
       [196], [#name("佐尔特 佩托")], [#age(35)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2401*], [#delta(-2)],

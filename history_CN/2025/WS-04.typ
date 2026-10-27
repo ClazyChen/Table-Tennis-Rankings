@@ -234,7 +234,7 @@
       [172], [#name("卡琳 格罗福娃")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2364*], [#delta(0)],
       [173], [#name("赵王琪")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2363*], [#delta(0)],
       [174], [#name("TEE Ai Xin")], [#age(24)], [#assoc("MAS")], [#right], [#penhold], [#attack], [*2362*], [#delta(3)],
-      [175], [#name("WU Ying Syuan")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2360*], [#delta(-1)],
+      [175], [#name("吴映萱")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2360*], [#delta(-1)],
     )
   )
 #pagebreak()

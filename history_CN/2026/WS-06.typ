@@ -266,8 +266,8 @@
       [195], [#name("弗兰琪斯卡 施莱纳")], [#age(25)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2380*], [#delta(-10)],
       [196], [#name("TEE Ai Xin")], [#age(25)], [#assoc("MAS")], [#right], [#penhold], [#attack], [*2380*], [#delta(-68)],
       [197], [#name("LABOSOVA Ema")], [#age(25)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2378*], [#delta(75)],
-      [198], [#name("WEI Jingming")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2375*], [#delta(-7)],
-      [199], [#name("XIANG Junlin")], [#age(19)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2374*], [#delta(-7)],
+      [198], [#name("魏璟茗")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2375*], [#delta(-7)],
+      [199], [#name("向俊霖")], [#age(19)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2374*], [#delta(-7)],
       [200], [#name("萨娅莉 瓦尼")], [#age(20)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2372*], [#delta(-7)],
     )
   )

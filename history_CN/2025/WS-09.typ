@@ -218,7 +218,7 @@
       [156], [#name("李时温")], [#age(29)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2406*], [#delta(1)],
       [157], [#name("埃杰 哈拉奇")], [#age(23)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2405*], [#delta(12)],
       [158], [#name("波琳 沙斯兰")], [#age(28)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2402*], [#delta(-3)],
-      [159], [#name("WU Ying Syuan")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2401*], [#delta(-29)],
+      [159], [#name("吴映萱")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2401*], [#delta(-29)],
       [160], [#name("金珉舒")], [#age(15)], [#assoc("KOR")], [#right], [#shakehand], [#defense], [*2400*], [#delta(163)],
       [161], [#name("郭铮")], [#age(15)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2398*], [#delta(-33)],
       [162], [#name("苏珊娜 维尔戈斯")], [#age(20)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2397*], [#delta(-16)],

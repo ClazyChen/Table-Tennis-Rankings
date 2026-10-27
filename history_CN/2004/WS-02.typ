@@ -144,7 +144,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [101], [#name("PLAVSIC Gordana")], [#age(28)], [#assoc("SRB")], [?], [?], [?], [*2045*], [#delta(35)],
       [102], [#name("劳拉 罗伯逊")], [#age(20)], [#assoc("GER")], [?], [?], [?], [*2045*], [#delta(0)],
-      [103], [#name("LI Chunli")], [#age(42)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2043*], [#delta(-4)],
+      [103], [#name("李春丽")], [#age(42)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2043*], [#delta(-4)],
       [104], [#name("HARABASZOVA Lenka")], [#age(19)], [#assoc("CZE")], [?], [?], [?], [*2042*], [#delta(-21)],
       [105], [#name("安娜玛丽亚 埃尔德利")], [#age(19)], [#assoc("SRB")], [#right], [#shakehand], [#defense], [*2038*], [#delta(61)],
       [106], [#name("PALINA Irina")], [#age(34)], [#assoc("RUS")], [?], [?], [?], [*2038*], [#delta(-5)],

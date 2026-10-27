@@ -131,7 +131,7 @@
       [96], [#name("阿尼萨拉 穆昂苏克")], [#age(28)], [#assoc("THA")], [?], [?], [?], [*2060*], [NEW],
       [97], [#name("常晨晨")], [#age(18)], [#assoc("CHN")], [?], [?], [?], [*2051*], [NEW],
       [98], [#name("DEMIENOVA Zuzana")], [#age(29)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2043*], [NEW],
-      [99], [#name("LI Chunli")], [#age(42)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2043*], [NEW],
+      [99], [#name("李春丽")], [#age(42)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2043*], [NEW],
       [100], [#name("VACHOVCOVA Alena")], [#age(30)], [#assoc("CZE")], [?], [?], [?], [*2042*], [NEW],
     )
   )

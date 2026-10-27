@@ -165,7 +165,7 @@
       [121], [#name("杜凯琹")], [#age(17)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2371*], [#delta(-3)],
       [122], [#name("汉娜 马特洛娃")], [#age(23)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2371*], [#delta(-6)],
       [123], [#name("黄怡桦")], [#age(29)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2370*], [#delta(-30)],
-      [124], [#name("LI Chunli")], [#age(51)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2366*], [#delta(-5)],
+      [124], [#name("李春丽")], [#age(51)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2366*], [#delta(-5)],
       [125], [#name("KIM Minhee")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2361*], [#delta(-27)],
     )
   )

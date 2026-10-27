@@ -154,7 +154,7 @@
       [110], [#name("波琳娜 米哈伊洛娃")], [#age(26)], [#assoc("RUS")], [#right], [#shakehand], [#defense], [*2370*], [#delta(-28)],
       [111], [#name("前田美优")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2369*], [#delta(34)],
       [112], [#name("萨宾 温特")], [#age(20)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2367*], [#delta(-34)],
-      [113], [#name("LI Chunli")], [#age(50)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2366*], [#delta(-10)],
+      [113], [#name("李春丽")], [#age(50)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2366*], [#delta(-10)],
       [114], [#name("吴雪")], [#age(32)], [#assoc("DOM")], [?], [?], [?], [*2362*], [#delta(2)],
       [115], [#name("索菲亚 波尔卡诺娃")], [#age(18)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2353*], [#delta(5)],
       [116], [#name("利娜 米西科尼特")], [#age(24)], [#assoc("LTU")], [?], [?], [?], [*2351*], [#delta(5)],

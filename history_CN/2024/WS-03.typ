@@ -265,7 +265,7 @@
       [194], [#name("琳达 伯格斯特隆")], [#age(29)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2299*], [#delta(-141)],
       [195], [#name("MEN Shuohan")], [#age(24)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2298*], [#delta(1)],
       [196], [#name("朱梓予")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2293*], [#delta(2)],
-      [197], [#name("XIANG Junlin")], [#age(17)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(2)],
+      [197], [#name("向俊霖")], [#age(17)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(2)],
       [198], [#name("WANG Yi-Ju")], [#age(30)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2292*], [#delta(-44)],
       [199], [#name("李多恩")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2292*], [#delta(2)],
       [200], [#name("VIVARELLI Debora")], [#age(31)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2290*], [#delta(-49)],

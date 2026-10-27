@@ -227,7 +227,7 @@
       [165], [#name("塔尼娅 普莱安")], [#age(24)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2389*], [#delta(4)],
       [166], [#name("SAFAEI Shima")], [#age(22)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2387*], [#delta(9)],
       [167], [#name("萨娅莉 瓦尼")], [#age(19)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2381*], [#delta(7)],
-      [168], [#name("WU Ying Syuan")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2380*], [#delta(-4)],
+      [168], [#name("吴映萱")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2380*], [#delta(-4)],
       [169], [#name("TEE Ai Xin")], [#age(24)], [#assoc("MAS")], [#right], [#penhold], [#attack], [*2379*], [#delta(1)],
       [170], [#name("何天天")], [#age(27)], [#assoc("ENG")], [#right], [#penhold], [#attack], [*2377*], [#delta(-52)],
       [171], [#name("CHOI Nahyun")], [#age(17)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2377*], [#delta(0)],

@@ -261,7 +261,7 @@
       [190], [#name("TAKEUCHI Kana")], [#age(17)], [#assoc("JPN")], [?], [?], [?], [*2335*], [#delta(6)],
       [191], [#name("ABE Airi")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2334*], [#delta(-2)],
       [192], [#name("JONG Un Ju")], [#age(21)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2334*], [#delta(-2)],
-      [193], [#name("LI Chunli")], [#age(54)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(-2)],
+      [193], [#name("李春丽")], [#age(54)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(-2)],
       [194], [#name("田原")], [#age(41)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2328*], [#delta(-2)],
       [195], [#name("林依诺")], [#age(20)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2327*], [#delta(16)],
       [196], [#name("金星宁")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2326*], [#delta(-3)],

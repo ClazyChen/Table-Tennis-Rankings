@@ -248,7 +248,7 @@
       [177], [#name("COK Isa")], [#age(24)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2371*], [#delta(41)],
       [178], [#name("MAKSUTI Aneta")], [#age(31)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2370*], [#delta(-3)],
       [179], [#name("GRIESEL Mia")], [#age(20)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2370*], [#delta(-3)],
-      [180], [#name("WU Ying Syuan")], [#age(17)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2370*], [#delta(-3)],
+      [180], [#name("吴映萱")], [#age(17)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2370*], [#delta(-3)],
       [181], [#name("RILISKYTE Kornelija")], [#age(23)], [#assoc("LTU")], [#right], [#shakehand], [#attack], [*2368*], [#delta(-3)],
       [182], [#name("SINGEORZAN Ioana")], [#age(22)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2366*], [#delta(-3)],
       [183], [#name("HUYNH Jade")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2365*], [#delta(-3)],

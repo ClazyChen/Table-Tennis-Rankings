@@ -226,7 +226,7 @@
       [164], [#name("柳是宇")], [#age(24)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2381*], [#delta(-38)],
       [165], [#name("KODET Hanka")], [#age(15)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2381*], [#delta(97)],
       [166], [#name("GRIESEL Mia")], [#age(19)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2380*], [#delta(-13)],
-      [167], [#name("WU Ying Syuan")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2380*], [#delta(8)],
+      [167], [#name("吴映萱")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2380*], [#delta(8)],
       [168], [#name("赵王琪")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2380*], [#delta(5)],
       [169], [#name("杨惠泽")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2380*], [#delta(18)],
       [170], [#name("辛德雷拉 达斯")], [#age(16)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2378*], [#delta(-16)],

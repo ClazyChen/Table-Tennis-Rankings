@@ -267,7 +267,7 @@
       [196], [#name("MEN Shuohan")], [#age(24)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2298*], [#delta(-1)],
       [197], [#name("塔蒂亚娜 库库尔科娃")], [#age(24)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2294*], [#delta(-53)],
       [198], [#name("朱梓予")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2293*], [#delta(0)],
-      [199], [#name("XIANG Junlin")], [#age(17)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(0)],
+      [199], [#name("向俊霖")], [#age(17)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(0)],
       [200], [#name("LYNE Karen")], [#age(22)], [#assoc("MAS")], [#left], [#shakehand], [#attack], [*2292*], [#delta(1)],
     )
   )

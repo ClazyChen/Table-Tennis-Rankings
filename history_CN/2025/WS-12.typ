@@ -245,7 +245,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [176], [#name("GRIESEL Mia")], [#age(19)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2370*], [#delta(-2)],
-      [177], [#name("WU Ying Syuan")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2370*], [#delta(-9)],
+      [177], [#name("吴映萱")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2370*], [#delta(-9)],
       [178], [#name("RILISKYTE Kornelija")], [#age(22)], [#assoc("LTU")], [#right], [#shakehand], [#attack], [*2368*], [#delta(-1)],
       [179], [#name("SINGEORZAN Ioana")], [#age(21)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2366*], [#delta(0)],
       [180], [#name("HUYNH Jade")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2365*], [#delta(92)],

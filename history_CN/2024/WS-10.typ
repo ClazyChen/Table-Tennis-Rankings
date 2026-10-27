@@ -267,7 +267,7 @@
       [196], [#name("伊万娜 马洛巴比奇")], [#age(44)], [#assoc("CRO")], [#right], [#shakehand], [#defense], [*2312*], [#delta(-4)],
       [197], [#name("COK Isa")], [#age(22)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2310*], [#delta(21)],
       [198], [#name("MAKSUTI Aneta")], [#age(29)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2310*], [#delta(-1)],
-      [199], [#name("WU Ying Syuan")], [#age(15)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2308*], [#delta(15)],
+      [199], [#name("吴映萱")], [#age(15)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2308*], [#delta(15)],
       [200], [#name("DYMYTRENKO Anastasiya")], [#age(22)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2307*], [#delta(-2)],
     )
   )

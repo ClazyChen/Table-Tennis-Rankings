@@ -232,7 +232,7 @@
       [170], [#name("ABE Airi")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2334*], [#delta(5)],
       [171], [#name("韩杏")], [#age(26)], [#assoc("CGO")], [?], [?], [?], [*2334*], [#delta(-38)],
       [172], [#name("琳达 伯格斯特隆")], [#age(20)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2333*], [#delta(4)],
-      [173], [#name("LI Chunli")], [#age(53)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(4)],
+      [173], [#name("李春丽")], [#age(53)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(4)],
       [174], [#name("LI Jiayuan")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2332*], [#delta(4)],
       [175], [#name("金星宁")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2331*], [#delta(87)],
     )

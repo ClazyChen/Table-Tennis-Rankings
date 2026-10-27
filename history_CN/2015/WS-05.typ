@@ -245,7 +245,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [176], [#name("琳达 伯格斯特隆")], [#age(20)], [#assoc("SWE")], [#right], [#shakehand], [#defense], [*2333*], [#delta(177)],
-      [177], [#name("LI Chunli")], [#age(53)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(-25)],
+      [177], [#name("李春丽")], [#age(53)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(-25)],
       [178], [#name("LI Jiayuan")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2332*], [#delta(-2)],
       [179], [#name("崔孝珠")], [#age(17)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2329*], [#delta(-2)],
       [180], [#name("森樱")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2328*], [#delta(-2)],

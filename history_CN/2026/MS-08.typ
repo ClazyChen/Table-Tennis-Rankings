@@ -267,7 +267,7 @@
       [196], [#name("卢卡 姆拉德诺维奇")], [#age(28)], [#assoc("LUX")], [#right], [#shakehand], [#attack], [*2450*], [#delta(-23)],
       [197], [#name("康纳 格林")], [#age(20)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2449*], [#delta(-9)],
       [198], [#name("BETELU Remi")], [#age(27)], [#assoc("FRA")], [#right], [#shakehand], [#defense], [*2447*], [#delta(41)],
-      [199], [#name("LI Tianyang")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2444*], [#delta(0)],
+      [199], [#name("李天阳")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2444*], [#delta(0)],
       [200], [#name("ONO Soma")], [#age(15)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2443*], [#delta(94)],
     )
   )

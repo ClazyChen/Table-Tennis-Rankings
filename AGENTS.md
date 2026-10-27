@@ -92,7 +92,16 @@ under `src/`; its explanatory markdown now lives in `docs/algorithm.md`.
   recomputes all rankings, writes the
   `.typ` outputs, refreshes `data/event_ids.json`, exports the web data bundles
   (`web/data/`, including the Events bundles), and regenerates the Chinese
-  translations (`history_CN/`, `*_CN.typ`).
+  translations (`history_CN/`, `*_CN.typ`). **After every data update, run the
+  translation-coverage check before considering the update done**: compare the
+  players in the current rankings (`web/data/latest.json`, via
+  `web/data/search.json`) against the keys of `translate.txt`. Players who should
+  carry a Chinese name — mainland/Taiwan/HK (and overseas-Chinese) players with
+  pinyin names, newly crawled player profiles, medalists of the new events, and
+  any other notable names — but lack an entry must be looked up (official
+  association sites, Chinese Wikipedia/Baike, Chinese sports media — never guess)
+  and added to `translate.txt`; then re-run `julia post_crawl.jl` so the CN
+  outputs and web bundles pick the names up, and recompile the CN PDFs.
 - `tools/rebuild_from_raw.jl` — one-off utility: reload everything from the raw
   ITTF dumps (the former notebook appendix).
 - `tools/export_events.jl` — standalone driver for `export_events_web` (regenerate
@@ -100,7 +109,9 @@ under `src/`; its explanatory markdown now lives in `docs/algorithm.md`.
 - `template.typ`, `template_CN.typ` — Typst templates imported by every generated ranking.
 - `translate.txt` — comma-separated `English name, 中文名` mapping used by the `translate()`
   function to produce the `history_CN/` and `*_CN.typ` files, and by the web exporter
-  for player Chinese names. Same-name disambiguation: a key suffixed with
+  for player Chinese names. Entries must come from verified sources, never guessed
+  (see the translation-coverage check in the `post_crawl.jl` bullet above).
+  Same-name disambiguation: a key suffixed with
   `#<player_id>` (e.g. `KIM Minseok#204682, 金旻奭`) applies only to that player id
   and wins over the plain entry on the web (Typst output cannot distinguish and
   always uses the plain entry).

@@ -187,7 +187,7 @@
       [134], [#name("比安卡 梅罗苏")], [#age(18)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2435*], [#delta(7)],
       [135], [#name("彭郁涵")], [#age(17)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2435*], [#delta(62)],
       [136], [#name("李时温")], [#age(29)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2434*], [#delta(-1)],
-      [137], [#name("WU Ying Syuan")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2431*], [#delta(30)],
+      [137], [#name("吴映萱")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2431*], [#delta(30)],
       [138], [#name("MAKSUTI Aneta")], [#age(30)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2431*], [#delta(-2)],
       [139], [#name("蒂娜 梅谢芙")], [#age(31)], [#assoc("EGY")], [#left], [#shakehand], [#attack], [*2430*], [#delta(-56)],
       [140], [#name("肖瑶茜")], [#age(31)], [#assoc("ESP")], [#left], [#shakehand], [#attack], [*2429*], [#delta(-48)],

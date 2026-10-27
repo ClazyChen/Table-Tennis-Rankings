@@ -178,7 +178,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [126], [#name("林依诺")], [#age(29)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2448*], [#delta(-43)],
       [127], [#name("李恩惠")], [#age(30)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2443*], [#delta(-10)],
-      [128], [#name("WU Ying Syuan")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2443*], [#delta(9)],
+      [128], [#name("吴映萱")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2443*], [#delta(9)],
       [129], [#name("郑先知")], [#age(32)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2442*], [#delta(-4)],
       [130], [#name("彭郁涵")], [#age(17)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2442*], [#delta(5)],
       [131], [#name("迪维扬希 布霍米克")], [#age(15)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2439*], [#delta(-8)],

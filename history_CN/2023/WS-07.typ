@@ -253,7 +253,7 @@
       [182], [#name("ALHODABY Mariam")], [#age(23)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2298*], [#delta(-3)],
       [183], [#name("MEN Shuohan")], [#age(23)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2293*], [#delta(-3)],
       [184], [#name("朱梓予")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2293*], [#delta(-3)],
-      [185], [#name("XIANG Junlin")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(-3)],
+      [185], [#name("向俊霖")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(-3)],
       [186], [#name("青木咲智")], [#age(16)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2291*], [#delta(-3)],
       [187], [#name("SAINI Suhana")], [#age(17)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2288*], [#delta(20)],
       [188], [#name("朱思冰")], [#age(23)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2287*], [#delta(-2)],

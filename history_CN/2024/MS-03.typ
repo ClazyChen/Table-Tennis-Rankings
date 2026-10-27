@@ -260,7 +260,7 @@
       [189], [#name("伊沃 本")], [#age(21)], [#assoc("CRO")], [#left], [#shakehand], [#attack], [*2424*], [#delta(-1)],
       [190], [#name("LAFFINEUR Louis")], [#age(20)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2422*], [#delta(-1)],
       [191], [#name("吉山和希")], [#age(17)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2421*], [#delta(-1)],
-      [192], [#name("LIANG Jishan")], [#age(33)], [#assoc("USA")], [#left], [#shakehand], [#attack], [*2420*], [#delta(36)],
+      [192], [#name("梁吉善")], [#age(33)], [#assoc("USA")], [#left], [#shakehand], [#attack], [*2420*], [#delta(36)],
       [193], [#name("张成溢")], [#age(20)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2419*], [#delta(0)],
       [194], [#name("CHOI Inhyeok")], [#age(24)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2419*], [#delta(0)],
       [195], [#name("ERIKSSON Anders")], [#age(28)], [#assoc("SWE")], [#right], [#shakehand], [#attack], [*2415*], [#delta(2)],

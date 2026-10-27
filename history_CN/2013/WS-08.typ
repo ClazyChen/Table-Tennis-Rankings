@@ -179,7 +179,7 @@
       [126], [#name("LEE Dasom")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2360*], [#delta(0)],
       [127], [#name("宋惠佳")], [#age(18)], [#assoc("JPN")], [#right], [#penhold], [#attack], [*2360*], [#delta(0)],
       [128], [#name("藤井优子")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2356*], [#delta(1)],
-      [129], [#name("LI Chunli")], [#age(51)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2354*], [#delta(-5)],
+      [129], [#name("李春丽")], [#age(51)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2354*], [#delta(-5)],
       [130], [#name("苗苗")], [#age(32)], [#assoc("AUS")], [?], [?], [?], [*2354*], [#delta(17)],
       [131], [#name("田原")], [#age(38)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2353*], [#delta(-1)],
       [132], [#name("汉娜 马特洛娃")], [#age(23)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2352*], [#delta(-10)],

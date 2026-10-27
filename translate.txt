@@ -32,6 +32,7 @@ AXELQVIST Johan, 约翰 阿克塞尔奎斯特
 BADOWSKI Marek, 马雷克 巴多夫斯基
 BAE Hwan, 裴焕
 BAGGALEY Andrew, 安德鲁 巴格利
+BAI Siwen, 白思文
 BAI Yang, 白杨
 BAJOR Natalia, 娜塔莉亚 巴约尔
 BAKULA Andrea, 安德烈娅 巴库拉
@@ -77,8 +78,12 @@ CASTRO Rogelio, 罗赫略 卡斯特罗
 CECHOVA Dana, 达娜 切霍娃
 CHA Su Yong, 嵯水影
 CHAN Baldwin, 陈颢桦
+CHAN Chi In, 陈梓贤
 CHAN Kazuhiro, 张一博
+CHAN Yik Chun, 陈奕臻
+CHANG Bing-En, 张秉恩
 CHANG Chenchen, 常晨晨
+CHANG Jui-Yang, 张睿炀
 CHANG Yu-An, 张佑安
 CHASSELIN Pauline, 波琳 沙斯兰
 CHE Xiaoxi, 车晓曦
@@ -86,8 +91,10 @@ CHEN Chi-Shiuan, 陈琦媗
 CHEN Chi-Yun, 陈琦媗
 CHEN Chia-I, 陈佳宜
 CHEN Chien-An, 陈建安
+CHEN Chih Yen, 陈芷妍
 CHEN Feng, 陈丰
 CHEN Junsong, 陈俊菘
+CHEN Kai-Cheng, 陈凯程
 CHEN Ke, 陈可
 CHEN Meng, 陈梦
 CHEN Min-Hsin, 陈忞昕
@@ -95,11 +102,18 @@ CHEN Qi, 陈玘
 CHEN Qing, 陈晴
 CHEN Szu-Yu, 陈思羽
 CHEN Weixing, 陈卫星
+CHEN Xianchang, 陈显畅
 CHEN Xingtong, 陈幸同
+CHEN Xinrou, 陈心柔
 CHEN Yi, 陈熠
+CHEN Yizhou, 陈逸舟
+CHEN Yu-Chen, 陈宥辰
 CHEN Yuanyu, 陈垣宇
 CHENG Hsien-Tzu, 郑先知
 CHENG I-Ching, 郑怡静
+CHENG Min-Hsiu, 郑旻修
+CHENG Yat Yin, 郑一言
+CHENG Yuan-Lun, 郑元纶
 CHEUNG Yuk, 张钰
 CHIANG Hung-Chieh, 江宏杰
 CHIANG Peng-Lung, 蒋澎龙
@@ -115,7 +129,9 @@ CHOI Hyojoo, 崔孝珠
 CHOI Hyunjin, 崔贤珍
 CHOI Moonyoung, 崔文渶
 CHTCHETININE Evgueni, 叶夫根尼 齐特切蒂宁
+CHUANG Chia-Chuan, 庄家权
 CHUANG Chih-Yuan, 庄智渊
+CHUANG Chung-Yen, 庄忠谚
 CIFUENTES Horacio, 奥拉西奥 西富恩特斯
 CIHAK Marek, 马雷克 齐哈克
 CIOBANU Irina, 伊琳娜 乔巴努
@@ -123,11 +139,13 @@ CIOTI Constantin, 康斯坦丁 乔蒂
 COTON Flavien, 弗拉维安 科顿
 CREEMERS Linda, 琳达 克雷默斯
 CRISAN Adrian, 阿德里安 克里桑
+CUI Zijun, 崔梓俊
 DANG Yeseo, 唐汭序
 DAS Mouma, 穆玛 达斯
 DAS Syndrela, 辛德雷拉 达斯
 DE NODREST Leo, 莱奥 德诺德雷斯特
 DE NUTTE Sarah, 莎拉 德努特
+DENG Zhen, 邓真
 DESAI Harmeet, 哈米特 德赛
 DEVOS Laurens, 劳伦斯 德沃斯
 DEVOS Robin, 罗宾 德沃斯
@@ -136,7 +154,10 @@ DIAW Ibrahima, 易卜拉欣 迪阿夫
 DIAZ Adriana, 阿德里安娜 迪亚兹
 DIDUKH Oleksandr, 亚历山大 迪杜赫
 DING Ning, 丁宁
+DING Ruohan, 丁若涵
+DING Xiaoyu, 丁晓雨
 DING Yijie, 丁怡婕
+DING Yiyang, 丁一洋
 DODEAN Daniela, 丹妮拉 多迪安
 DOLGIKH Maria, 玛丽亚 多尔吉赫
 DOO Hoi Kem, 杜凯琹
@@ -144,6 +165,7 @@ DORR Esteban, 埃斯特班 多尔
 DRAGOMAN Andreea, 安德烈娅 德拉戈曼
 DRINKHALL Joanna, 乔安娜 德林克霍尔
 DRINKHALL Paul, 保罗 德林克霍尔
+DU Hanjing, 杜韩静
 DUDA Benedikt, 贝内迪克特 杜达
 DURAN Marc, 马克 杜兰
 DVORAK Galia, 加利娅 德沃拉克
@@ -160,6 +182,7 @@ FADEEVA Oxana, 奥克萨娜 法德耶娃
 FALCK Mattias, 马蒂亚斯 法尔克
 FAN Shuhan, 范姝涵
 FAN Siqi, 范思琦
+FAN Yi Li, 范仡力
 FAN Ying, 范瑛
 FAN Zhendong, 樊振东
 FANG Bo, 方博
@@ -172,6 +195,7 @@ FEJER-KONNERTH Zoltan, 佐尔坦 费杰科内斯
 FENG Tianwei, 冯天薇
 FENG Yalan, 冯亚兰
 FENG Yi-Hsin, 冯翊新
+FENG Yixuan, 冯怡璇
 FERTIKOWSKI Pawel, 帕维尔 费尔蒂科夫斯基
 FILI Christina, 克里斯蒂娜 菲利
 FILIMON Andrei, 安德烈 菲利蒙
@@ -189,6 +213,7 @@ GACINA Andrej, 安德烈 加奇尼
 GANINA Svetlana, 斯韦特兰娜 加尼娜
 GAO Jun, 高军
 GAO Ning, 高宁
+GAO Yuxin, 高雨欣
 GARDOS Robert, 罗伯特 加尔多斯
 GASNIER Laura, 劳拉 加斯尼尔
 GATINSKA Katalina, 卡塔琳娜 加京斯卡
@@ -257,16 +282,21 @@ HSU Hsien-Chia, 徐弦家
 HU Limei, 胡丽梅
 HU Melek, 侯美玲
 HU Yi, 胡一
+HUANG Cheong Leng, 黄章凌
 HUANG Ching-Chia, 黄净嘉
 HUANG Hsin, 黄歆
+HUANG Pei-You, 黄培祐
 HUANG Sheng-Sheng, 黄圣盛
+HUANG Sze Ching, 黄诗程
 HUANG Xunan, 黄旭男
 HUANG Yan-Cheng, 黄彦诚
+HUANG Yi Ching, 黄翊晴
 HUANG Yi-Hua, 黄怡桦
 HUANG Youzheng, 黄友政
 HUANG Yu-Chiao, 黄禹乔
 HUANG Yu-Jie, 黄愉偼
 HUANG Yu-Wen, 黄郁雯
+HUANG Yun-Hsieh, 黄韫缬
 HUNG Che-Yen, 洪哲砚
 HUNG Jing-Kai, 洪敬恺
 HURSEY Anna, 安娜 赫西
@@ -303,6 +333,7 @@ JEOUNG Youngsik, 郑荣植
 JEVTOVIC Marko, 马尔科 耶夫托维奇
 JHA Kanak, 卡纳克 贾哈
 JI Eunchae, 智恩彩
+JI Lunxi, 季伦熙
 JIANG Huajun, 姜华珺
 JIANG Tianyi, 江天一
 JIANG Yiyi, 姜依依
@@ -322,6 +353,7 @@ KANAMITSU Koyo, 金光宏畅
 KANAZAWA Saki, 金泽咲希
 KANEYOSHI Yuka, 兼吉优花
 KANG Dongsoo, 姜东秀
+KANG Youde, 康有德
 KAO Cheng-Jui, 高承睿
 KARAKASEVIC Aleksandar, 亚历山大 卡拉卡谢维奇
 KARLSSON Kristian, 克里斯坦 卡尔松
@@ -370,6 +402,7 @@ KOLAREK Tomislav, 托米斯拉夫 科拉雷克
 KOMWONG Nanthana, 高王
 KONECNY Tomas, 托马斯 科涅茨尼
 KONG Linghui, 孔令辉
+KONG Tsz Lam, 江芷林
 KONISHI An, 小西杏
 KORBEL Petr, 彼得 科贝尔
 KOSIBA Daniel, 达尼埃尔 科希鲍
@@ -394,6 +427,9 @@ KUTUMBALE Anusha, 阿努莎 库通巴莱
 KUZMIN Fedor, 费奥多尔 库兹明
 KUZMINA Elena, 叶莲娜 库兹米娜
 KWON Hyuk, 权赫
+LAI Hongrui, 赖泓睿
+LAI Yong Han, 赖勇翰
+LAI Yong Ren, 赖勇仁
 LAKATOS Tamas, 陶马什 拉卡托什
 LAKEEV Vasily, 瓦西里 拉凯耶夫
 LAM Nathan, 纳唐 拉姆
@@ -427,10 +463,13 @@ LEUNG Chu Yan, 梁柱恩
 LEVAJAC Dimitrije, 迪米特里耶 莱瓦亚茨
 LEVENKO Andreas, 安德莱斯 勒文科
 LI Ahmet, 李良夫
+LI Cheuk Tung, 李卓潼
 LI Ching Wan, 李清韵
 LI Ching, 李静
+LI Chunli, 李春丽
 LI Fen, 李芬
 LI Hechen, 李和宸
+LI Hon Ming, 李汉铭
 LI Hu, 李虎
 LI Jiao, 李佼
 LI Jiawei, 李佳薇
@@ -439,17 +478,25 @@ LI Jie, 李洁
 LI Ju, 李菊
 LI Karen, 李瑨丽
 LI Ki Ho, 黎骐豪
+LI Lutong, 李陆同
 LI Ping, 李平
 LI Qian, 李倩
 LI Qiangbing, 李嫱冰
+LI Shangjun, 李尚峻
+LI Tianyang, 李天阳
 LI Xiaodan, 李晓丹
 LI Xiaoxia, 李晓霞
 LI Xue, 李雪
 LI Yake, 李雅可
+LI Yihui, 李益惠
 LI Yu-Jhun, 李昱谆
+LI Zhuorui, 李卓睿
 LIANG Jingkun, 梁靖崑
+LIANG Jishan, 梁吉善
+LIANG Wenjie, 梁文杰
 LIANG Yanning, 梁俨苧
 LIAO Cheng-Ting, 廖振珽
+LIAO Yixuan, 廖颐暄
 LIM Jaehyun, 林载贤
 LIM Jonghoon, 林钟勋
 LIN Chia-Hui, 林佳慧
@@ -457,27 +504,35 @@ LIN Gaoyuan, 林高远
 LIN Ju, 林聚
 LIN Ling, 林菱
 LIN Shidong, 林诗栋
+LIN Ting Xue, 林廷学
+LIN Wan-Rong, 林琬容
 LIN Ye, 林叶
 LIN Yen-Chun, 林彦均
 LIN Yun-Ju, 林昀儒
 LIND Anders, 安德斯 林德
+LIU Chih Tung, 刘智同
 LIU Dingshuo, 刘丁硕
 LIU Fei, 刘斐
 LIU Gaoyang, 刘高阳
 LIU Guozheng, 刘国正
 LIU Hsing-Yin, 刘馨尹
 LIU Jia, 刘佳
+LIU Mengxiang, 刘孟想
 LIU Shiwen, 刘诗雯
 LIU Song, 刘松
 LIU Weishan, 刘炜珊
 LIU Yangzi, 刘杨子
 LIU Yebo, 刘夜泊
 LIU Yuan, 刘媛
+LIU Zihang, 刘子航
 LIU Ziling, 刘子菱
+LIU Zitong, 刘梓童
 LIVENTSOV Alexey, 阿列克谢 利文佐夫
 LOEUILLETTE Stephanie, 史蒂芬妮 洛伊莱
 LOVAS Petra, 佩特拉 洛瓦斯
 LOY Ming Ying, 黎明映
+LU Shih-Yuan, 卢识渊
+LU Yu-En, 吕瑀恩
 LU Yun-Feng, 陆云凤
 LUM Nicholas, 林文政
 LUNDQVIST Jens, 詹斯 伦德奎斯特
@@ -517,10 +572,12 @@ MAZE Michael, 米凯尔 梅兹
 MEI-ROSU Bianca, 比安卡 梅罗苏
 MENDE Rin, 面手凛
 MENG Fanbo, 孟凡博
+MENG Zihao, 孟子浩
 MENGEL Steffen, 斯蒂芬 门格尔
 MESHREF Dina, 蒂娜 梅谢芙
 MIAO Miao, 苗苗
 MIKHAILOVA Polina, 波琳娜 米哈伊洛娃
+MIN Ming, 闵鸣
 MINO Alberto, 阿尔贝托 米诺
 MISIKONYTE Lina, 利娜 米西科尼特
 MITTELHAM Nina, 妮娜 米特兰姆
@@ -557,6 +614,8 @@ NG Sock Khim, 黄淑琴
 NG Wing Lam, 吴咏琳
 NG Wing Nam, 吴颖岚
 NI Xia Lian, 倪夏莲
+NIE Chulong, 聂楚龙
+NIE Jiayi, 聂嘉仪
 NIU Guankai, 牛冠凯
 NIU Jianfeng, 牛剑锋
 NIWA Koki, 丹羽孝希
@@ -611,6 +670,7 @@ PAVLOVICH Viktoria, 维多利亚 帕夫洛维奇
 PAZSY Ferenc, 费伦茨 帕西
 PENG Luyang, 彭陆洋
 PENG Wang-Wei, 彭王维
+PENG Yen Rong, 彭砚蓉
 PENG Yu-Han, 彭郁涵
 PENKAVOVA Katerina, 卡特琳娜 佩卡沃娃
 PEREIRA Andy, 安迪 佩雷拉
@@ -658,6 +718,7 @@ RASSENFOSSE Adrien, 阿德里安 拉森福斯
 REDZIMSKI Milosz, 米洛什 雷德齐姆斯基
 REED Daniel, 丹尼尔 里德
 REMBERT Bastien, 巴斯蒂安 伦贝尔
+REN Jiayi, 任嘉懿
 RI Chol Guk, 李哲国
 RI Jong Sik, 李正植
 RI Mi Gyong, 李美京
@@ -741,6 +802,7 @@ SUH Hyo Won, 徐孝元
 SUN Beibei, 孙蓓蓓
 SUN Mingyang, 孙铭阳
 SUN Wen, 孙闻
+SUN Xiaowei, 孙笑薇
 SUN Yang, 孙杨
 SUN Yingsha, 孙颖莎
 SUN Zheng, 孙正
@@ -764,6 +826,7 @@ TAN Wenling, 谭文玲
 TAN Zhao Yun, 陈昭澐
 TANAKA Yuta, 田中佑汰
 TANG Peng, 唐鹏
+TANG Yiren, 唐乙仁
 TASEI Mikie, 田势美贵江
 TASHIRO Saki, 田代早纪
 TEODORO Guilherme, 吉列尔梅 特奥多罗
@@ -805,22 +868,29 @@ WAN Yuan, 万远
 WANG Amy, 王艾米
 WANG Chen Ce, 王晨策
 WANG Chen, 王晨
+WANG Chun, 王骏
 WANG Chuqin, 王楚钦
 WANG Eugene, 王臻
 WANG Hao, 王皓
+WANG Jixuan, 王吉轩
 WANG Liqin, 王励勤
 WANG Manyu, 王曼昱
 WANG Nan, 王楠
 WANG Tianyi, 王添艺
 WANG Xiaotong, 王晓彤
+WANG Xinya, 王馨雅
 WANG Yang, 汪洋
 WANG Yidi, 王艺迪
+WANG Yu-Jie, 王毓洁
+WANG Yu-Tai, 王育泰
 WANG Yuegu, 王越古
 WANG Zengyi, 王增羿
+WANG Zining, 王梓宁
 WANI Sayali, 萨娅莉 瓦尼
 WATANABE Yuko, 渡边裕子
 WEGRZYN Anna, 安娜 韦格任
 WEGRZYN Katarzyna, 卡塔日娜 文格任
+WEI Jingming, 魏璟茗
 WEN Jia, 文佳
 WEN Ruibo, 温瑞博
 WIELGOS Zuzanna, 苏珊娜 维尔戈斯
@@ -834,12 +904,18 @@ WU Chih-Chi, 吴志祺
 WU Jia-En, 巫嘉恩
 WU Jiaduo, 吴佳多
 WU Jiaji, 吴家骥
+WU Jianhui, 吴建辉
 WU Xue, 吴雪
 WU Yang, 武杨
 WU Yangchen, 吴洋晨
+WU Yifei, 伍毅菲
+WU Ying Syuan, 吴映萱
+WU Yuan-Kai, 吴沅锴
 WU Yue, 吴玥
 XIAN Yifang, 羡宜芳
+XIANG Junlin, 向俊霖
 XIANG Peng, 向鹏
+XIAO Baixin, 肖柏鑫
 XIAO Maria, 肖瑶茜
 XU Chenhao, 徐晨皓
 XU Haidong, 徐海东
@@ -858,8 +934,11 @@ YANG Hao-Jen, 杨皓任
 YANG Huijing, 杨蕙菁
 YANG Huize, 杨惠泽
 YANG Min, 杨敏
+YANG Mingkun, 杨明坤
 YANG Xiaoxin, 杨晓欣
 YANG Yiyun, 杨屹韵
+YANG Yuhan, 杨禹涵
+YANG Ze Yi, 杨泽一
 YANG Zi, 杨子
 YAO Ruixuan, 姚睿轩
 YAO Yan, 姚彦
@@ -883,6 +962,8 @@ YU Fu, 傅玉
 YU Haiyang, 于海洋
 YU Kwok See, 于国诗
 YU Mengyu, 于梦雨
+YU Yi-Cing, 余奕庆
+YU Yiyang, 于溢洋
 YU Ziyang, 于子洋
 YUAN Jia Nan, 袁嘉楠
 YUAN Licen, 袁励岑
@@ -891,32 +972,44 @@ ZALEWSKI Mateusz, 马特乌什 扎莱夫斯基
 ZARIF Audrey, 奥黛丽 扎里夫
 ZENG Beixun, 曾蓓勋
 ZENG Jian, 曾尖
+ZENG Zhiying, 曾志英
+ZHAI Jiale, 翟家乐
 ZHAI Yujia, 翟羽佳
 ZHANG Chao, 张超
+ZHANG Heliang, 张贺梁
+ZHANG Jia Yu, 张嘉钰
 ZHANG Jike, 张继科
 ZHANG Lily, 张安
 ZHANG Mo, 张墨
 ZHANG Qiang, 张蔷
 ZHANG Rui, 张瑞
 ZHANG Sofia-Xuan, 张璇
+ZHANG Xiangjing, 张向晶
 ZHANG Xiangyu, 张翔宇
 ZHANG Yining, 张怡宁
+ZHANG Yulu, 张予露
 ZHAO Wangqi, 赵王琪
 ZHAO Zihao, 赵子豪
+ZHENG Hong Wai, 郑孔崴
 ZHENG Jiaqi, 郑佳奇
 ZHENG Peifeng, 郑培峰
+ZHENG Yiran, 郑怡然
 ZHMUDENKO Yaroslav, 雅罗斯拉夫 扎穆登科
 ZHOU Guanhong, 周冠宏
+ZHOU Jinquan, 周锦泉
 ZHOU Kai, 周恺
+ZHOU Kaien, 周凯恩
 ZHOU Qihao, 周启豪
 ZHOU Yihan, 周一涵
 ZHOU Yu, 周雨
+ZHOU Yufei, 周昱妃
 ZHU Chengzhu, 朱成竹
 ZHU Fang, 朱芳
 ZHU Linfeng, 朱霖峰
 ZHU Qihui, 祝启慧
 ZHU Sibing, 朱思冰
 ZHU Yuling, 朱雨玲
+ZHU Yurui, 祝语蕊
 ZHU Ziyu, 朱梓予
 ZONG Geman, 纵歌曼
 ZWICKL Daniel, 丹尼尔 茨维克尔

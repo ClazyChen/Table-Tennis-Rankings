@@ -232,7 +232,7 @@
       [170], [#name("艾卡特里尼 托利乌")], [#age(30)], [#assoc("GRE")], [#right], [#shakehand], [#defense], [*2366*], [#delta(-2)],
       [171], [#name("CHANG Li Sian Alice")], [#age(25)], [#assoc("MAS")], [#right], [#shakehand], [#defense], [*2365*], [#delta(-2)],
       [172], [#name("卡琳 格罗福娃")], [#age(31)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2364*], [#delta(-2)],
-      [173], [#name("WU Ying Syuan")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2360*], [#delta(20)],
+      [173], [#name("吴映萱")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2360*], [#delta(20)],
       [174], [#name("黄歆")], [#age(30)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2357*], [#delta(-3)],
       [175], [#name("赵王琪")], [#age(15)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2353*], [#delta(-2)],
     )

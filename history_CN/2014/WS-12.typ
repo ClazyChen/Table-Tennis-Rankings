@@ -193,7 +193,7 @@
       [140], [#name("亚历山德拉 普里瓦洛娃")], [#age(27)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2368*], [#delta(-21)],
       [141], [#name("范思琦")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2365*], [#delta(-3)],
       [142], [#name("CHO Hala")], [#age(26)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2364*], [#delta(-3)],
-      [143], [#name("LI Chunli")], [#age(52)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2363*], [#delta(-3)],
+      [143], [#name("李春丽")], [#age(52)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2363*], [#delta(-3)],
       [144], [#name("田原")], [#age(39)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2363*], [#delta(-12)],
       [145], [#name("萨拉 拉米雷斯")], [#age(27)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2362*], [#delta(-4)],
       [146], [#name("张墨")], [#age(25)], [#assoc("CAN")], [#right], [#shakehand], [#attack], [*2357*], [#delta(-1)],

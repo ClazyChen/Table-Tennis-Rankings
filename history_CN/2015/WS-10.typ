@@ -250,7 +250,7 @@
       [179], [#name("ABE Airi")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2334*], [#delta(-3)],
       [180], [#name("JONG Un Ju")], [#age(20)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2334*], [#delta(-3)],
       [181], [#name("玛丽亚 泰拉科娃")], [#age(14)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2333*], [#delta(-2)],
-      [182], [#name("LI Chunli")], [#age(53)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(-2)],
+      [182], [#name("李春丽")], [#age(53)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(-2)],
       [183], [#name("铃木李茄")], [#age(21)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2332*], [#delta(-2)],
       [184], [#name("萨拉 拉米雷斯")], [#age(28)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2330*], [#delta(-6)],
       [185], [#name("田代早纪")], [#age(24)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2324*], [#delta(-27)],

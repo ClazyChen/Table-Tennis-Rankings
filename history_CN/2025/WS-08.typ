@@ -180,7 +180,7 @@
       [127], [#name("UESAWA Anne")], [#age(18)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2454*], [#delta(-4)],
       [128], [#name("郭铮")], [#age(15)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2448*], [#delta(-3)],
       [129], [#name("素塔西尼 萨维塔布特")], [#age(31)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2447*], [#delta(-34)],
-      [130], [#name("WU Ying Syuan")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2443*], [#delta(-2)],
+      [130], [#name("吴映萱")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2443*], [#delta(-2)],
       [131], [#name("彭郁涵")], [#age(17)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2442*], [#delta(-1)],
       [132], [#name("郑先知")], [#age(32)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2441*], [#delta(-3)],
       [133], [#name("卡塔日娜 文格任")], [#age(24)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2438*], [#delta(-14)],

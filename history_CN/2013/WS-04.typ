@@ -162,7 +162,7 @@
       [118], [#name("安娜玛丽亚 埃尔德利")], [#age(28)], [#assoc("SRB")], [#right], [#shakehand], [#defense], [*2370*], [#delta(0)],
       [119], [#name("吴雪")], [#age(33)], [#assoc("DOM")], [?], [?], [?], [*2370*], [#delta(2)],
       [120], [#name("卡塔日娜 格日博夫斯卡-弗朗茨")], [#age(24)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2370*], [#delta(20)],
-      [121], [#name("LI Chunli")], [#age(51)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2366*], [#delta(-2)],
+      [121], [#name("李春丽")], [#age(51)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2366*], [#delta(-2)],
       [122], [#name("波琳娜 米哈伊洛娃")], [#age(27)], [#assoc("RUS")], [#right], [#shakehand], [#defense], [*2363*], [#delta(-2)],
       [123], [#name("田代早纪")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2362*], [#delta(-1)],
       [124], [#name("加藤美优")], [#age(14)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2361*], [#delta(-1)],

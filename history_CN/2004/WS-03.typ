@@ -146,7 +146,7 @@
       [102], [#name("阿尼萨拉 穆昂苏克")], [#age(28)], [#assoc("THA")], [?], [?], [?], [*2060*], [#delta(-3)],
       [103], [#name("常晨晨")], [#age(18)], [#assoc("CHN")], [?], [?], [?], [*2051*], [#delta(-3)],
       [104], [#name("PLAVSIC Gordana")], [#age(28)], [#assoc("SRB")], [?], [?], [?], [*2045*], [#delta(-3)],
-      [105], [#name("LI Chunli")], [#age(42)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2043*], [#delta(-2)],
+      [105], [#name("李春丽")], [#age(42)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2043*], [#delta(-2)],
       [106], [#name("HARABASZOVA Lenka")], [#age(19)], [#assoc("CZE")], [?], [?], [?], [*2042*], [#delta(-2)],
       [107], [#name("安娜玛丽亚 埃尔德利")], [#age(19)], [#assoc("SRB")], [#right], [#shakehand], [#defense], [*2038*], [#delta(-2)],
       [108], [#name("PALINA Irina")], [#age(34)], [#assoc("RUS")], [?], [?], [?], [*2038*], [#delta(-2)],

@@ -232,7 +232,7 @@
       [170], [#name("CHANG Li Sian Alice")], [#age(23)], [#assoc("MAS")], [#right], [#shakehand], [#defense], [*2302*], [#delta(2)],
       [171], [#name("MISCHEK Karoline")], [#age(25)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2296*], [#delta(2)],
       [172], [#name("卡塔日娜 文格任")], [#age(22)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2295*], [#delta(2)],
-      [173], [#name("XIANG Junlin")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(45)],
+      [173], [#name("向俊霖")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(45)],
       [174], [#name("奥菲昂 埃德姆")], [#age(37)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2292*], [#delta(1)],
       [175], [#name("伯纳德特 巴林特")], [#age(27)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2291*], [#delta(1)],
     )

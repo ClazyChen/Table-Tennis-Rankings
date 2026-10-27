@@ -267,7 +267,7 @@
       [196], [#name("阿卜杜勒-卡德尔 萨利富")], [#age(37)], [#assoc("BEN")], [#right], [#shakehand], [#attack], [*2446*], [#delta(-4)],
       [197], [#name("周冠宏")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2445*], [#delta(-4)],
       [198], [#name("纳唐 拉姆")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2444*], [#delta(-7)],
-      [199], [#name("LI Tianyang")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2444*], [#delta(139)],
+      [199], [#name("李天阳")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2444*], [#delta(139)],
       [200], [#name("KIM Byunghyeon")], [#age(26)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2443*], [#delta(-6)],
     )
   )

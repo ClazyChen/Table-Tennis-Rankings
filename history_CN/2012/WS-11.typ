@@ -152,7 +152,7 @@
       [108], [#name("HWANG Jina")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2372*], [#delta(0)],
       [109], [#name("林佳慧")], [#age(25)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2371*], [#delta(0)],
       [110], [#name("前田美优")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2369*], [#delta(1)],
-      [111], [#name("LI Chunli")], [#age(50)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2366*], [#delta(2)],
+      [111], [#name("李春丽")], [#age(50)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2366*], [#delta(2)],
       [112], [#name("吴雪")], [#age(32)], [#assoc("DOM")], [?], [?], [?], [*2362*], [#delta(2)],
       [113], [#name("汉娜 马特洛娃")], [#age(22)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2361*], [#delta(40)],
       [114], [#name("叶莲娜 库兹米娜")], [#age(23)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2358*], [#delta(17)],

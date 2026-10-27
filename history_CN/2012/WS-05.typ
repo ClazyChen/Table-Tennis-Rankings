@@ -179,7 +179,7 @@
       [126], [#name("加布里埃拉 费赫尔")], [#age(24)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2345*], [#delta(-25)],
       [127], [#name("NONAKA Yuki")], [#age(27)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2341*], [#delta(-17)],
       [128], [#name("张蔷")], [#age(18)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2341*], [#delta(-5)],
-      [129], [#name("LI Chunli")], [#age(50)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2339*], [#delta(-20)],
+      [129], [#name("李春丽")], [#age(50)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2339*], [#delta(-20)],
       [130], [#name("萨拉 拉米雷斯")], [#age(25)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2334*], [#delta(-5)],
       [131], [#name("韩杏")], [#age(23)], [#assoc("CGO")], [?], [?], [?], [*2334*], [#delta(9)],
       [132], [#name("李美京")], [#age(22)], [#assoc("PRK")], [#left], [#shakehand], [#attack], [*2326*], [#delta(142)],

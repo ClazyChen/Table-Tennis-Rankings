@@ -233,7 +233,7 @@
       [171], [#name("卡塔日娜 文格任")], [#age(25)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2419*], [#delta(-21)],
       [172], [#name("斯维斯蒂卡 戈什")], [#age(23)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2419*], [#delta(-13)],
       [173], [#name("陈琦媗")], [#age(21)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2417*], [#delta(-5)],
-      [174], [#name("WU Ying Syuan")], [#age(17)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2417*], [#delta(-22)],
+      [174], [#name("吴映萱")], [#age(17)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2417*], [#delta(-22)],
       [175], [#name("乔治娜 波塔")], [#age(41)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2415*], [#delta(-5)],
     )
   )
@@ -262,7 +262,7 @@
       [191], [#name("艾卡特里尼 托利乌")], [#age(31)], [#assoc("GRE")], [#right], [#shakehand], [#defense], [*2386*], [#delta(-4)],
       [192], [#name("萨娅莉 瓦尼")], [#age(20)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2384*], [#delta(7)],
       [193], [#name("ITAGAKI Koharu")], [#age(16)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2384*], [#delta(5)],
-      [194], [#name("LIN Wan-Rong")], [#age(16)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2383*], [#delta(36)],
+      [194], [#name("林琬容")], [#age(16)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2383*], [#delta(36)],
       [195], [#name("哈娜 阿拉波维奇")], [#age(22)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2383*], [#delta(-60)],
       [196], [#name("马泰娅 耶格尔")], [#age(31)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2383*], [#delta(-7)],
       [197], [#name("徐慧尧")], [#age(19)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2380*], [#delta(-6)],

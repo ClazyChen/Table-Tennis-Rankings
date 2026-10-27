@@ -246,7 +246,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [176], [#name("乔 赛弗里德")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2447*], [#delta(-9)],
       [177], [#name("托马斯 波兰斯基")], [#age(25)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2446*], [#delta(-20)],
-      [178], [#name("LI Hon Ming")], [#age(27)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2444*], [#delta(63)],
+      [178], [#name("李汉铭")], [#age(27)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2444*], [#delta(63)],
       [179], [#name("弗拉内 科伊奇")], [#age(31)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2439*], [#delta(-18)],
       [180], [#name("横谷晟")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2439*], [#delta(-5)],
       [181], [#name("迈赫迪 布洛斯")], [#age(28)], [#assoc("ALG")], [#right], [#shakehand], [#attack], [*2438*], [#delta(-27)],

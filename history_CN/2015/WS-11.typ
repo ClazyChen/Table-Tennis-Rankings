@@ -261,7 +261,7 @@
       [190], [#name("ABE Airi")], [#age(19)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2334*], [#delta(-11)],
       [191], [#name("奥拉万 帕拉南")], [#age(18)], [#assoc("THA")], [#left], [#shakehand], [#attack], [*2334*], [#delta(17)],
       [192], [#name("JONG Un Ju")], [#age(20)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2334*], [#delta(-12)],
-      [193], [#name("LI Chunli")], [#age(53)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(-11)],
+      [193], [#name("李春丽")], [#age(53)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(-11)],
       [194], [#name("铃木李茄")], [#age(21)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2332*], [#delta(-11)],
       [195], [#name("朱成竹")], [#age(18)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2331*], [#delta(2)],
       [196], [#name("田原")], [#age(40)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2330*], [#delta(-37)],

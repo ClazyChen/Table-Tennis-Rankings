@@ -257,7 +257,7 @@
       [186], [#name("SABITOVA Valentina")], [#age(26)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2334*], [#delta(-10)],
       [187], [#name("奥拉万 帕拉南")], [#age(19)], [#assoc("THA")], [#left], [#shakehand], [#attack], [*2334*], [#delta(1)],
       [188], [#name("JONG Un Ju")], [#age(21)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2334*], [#delta(2)],
-      [189], [#name("LI Chunli")], [#age(54)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(2)],
+      [189], [#name("李春丽")], [#age(54)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(2)],
       [190], [#name("玛丽亚 泰拉科娃")], [#age(15)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2330*], [#delta(-23)],
       [191], [#name("奥黛丽 扎里夫")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2330*], [#delta(-34)],
       [192], [#name("田原")], [#age(41)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2330*], [#delta(1)],

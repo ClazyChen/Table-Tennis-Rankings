@@ -265,7 +265,7 @@
       [194], [#name("KLEE Sophia")], [#age(21)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2300*], [#delta(-1)],
       [195], [#name("MEN Shuohan")], [#age(24)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2298*], [#delta(0)],
       [196], [#name("朱梓予")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2293*], [#delta(0)],
-      [197], [#name("XIANG Junlin")], [#age(17)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(0)],
+      [197], [#name("向俊霖")], [#age(17)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(0)],
       [198], [#name("WANG Yi-Ju")], [#age(30)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2292*], [#delta(0)],
       [199], [#name("李多恩")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2292*], [#delta(0)],
       [200], [#name("UESAWA Anne")], [#age(17)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2289*], [#delta(1)],

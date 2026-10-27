@@ -163,7 +163,7 @@
       [119], [#name("ZHU Chaohui")], [#age(18)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2399*], [#delta(-6)],
       [120], [#name("陈幸同")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2397*], [#delta(-5)],
       [121], [#name("韩杏")], [#age(25)], [#assoc("CGO")], [?], [?], [?], [*2393*], [#delta(30)],
-      [122], [#name("LI Chunli")], [#age(52)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2390*], [#delta(73)],
+      [122], [#name("李春丽")], [#age(52)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2390*], [#delta(73)],
       [123], [#name("亚迪拉 席尔瓦")], [#age(29)], [#assoc("MEX")], [#right], [#shakehand], [#attack], [*2388*], [#delta(126)],
       [124], [#name("洪剑芳")], [#age(41)], [#assoc("AUS")], [#right], [#penhold], [#attack], [*2387*], [#delta(-24)],
       [125], [#name("卡塔日娜 格日博夫斯卡-弗朗茨")], [#age(25)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2387*], [#delta(-31)],

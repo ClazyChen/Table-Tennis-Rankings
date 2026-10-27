@@ -211,7 +211,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [151], [#name("CHO Hala")], [#age(27)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2364*], [#delta(-3)],
-      [152], [#name("LI Chunli")], [#age(53)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2363*], [#delta(-3)],
+      [152], [#name("李春丽")], [#age(53)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2363*], [#delta(-3)],
       [153], [#name("娜塔莉亚 巴约尔")], [#age(18)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2363*], [#delta(-42)],
       [154], [#name("LI Isabelle Siyun")], [#age(21)], [#assoc("SGP")], [#right], [#shakehand], [#defense], [*2363*], [#delta(-29)],
       [155], [#name("尚塔尔 曼茨")], [#age(19)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2361*], [#delta(-2)],

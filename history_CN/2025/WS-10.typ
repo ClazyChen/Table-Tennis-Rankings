@@ -223,7 +223,7 @@
       [161], [#name("朱成竹")], [#age(28)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2406*], [#delta(-6)],
       [162], [#name("LYNE Karen")], [#age(23)], [#assoc("MAS")], [#left], [#shakehand], [#attack], [*2405*], [#delta(4)],
       [163], [#name("波琳 沙斯兰")], [#age(28)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2402*], [#delta(-5)],
-      [164], [#name("WU Ying Syuan")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2401*], [#delta(-5)],
+      [164], [#name("吴映萱")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2401*], [#delta(-5)],
       [165], [#name("苏珊娜 维尔戈斯")], [#age(20)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2397*], [#delta(-3)],
       [166], [#name("刘媛")], [#age(40)], [#assoc("AUT")], [#right], [#penhold], [#attack], [*2396*], [#delta(-3)],
       [167], [#name("莱娜 霍查特")], [#age(17)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2394*], [#delta(-22)],

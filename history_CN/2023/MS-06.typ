@@ -233,7 +233,7 @@
       [171], [#name("全开源")], [#age(22)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2450*], [#delta(2)],
       [172], [#name("达里乌斯 莫维莱亚努")], [#age(18)], [#assoc("ROU")], [#left], [#shakehand], [#attack], [*2450*], [#delta(-16)],
       [173], [#name("乔 赛弗里德")], [#age(25)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2447*], [#delta(3)],
-      [174], [#name("LI Hon Ming")], [#age(27)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2444*], [#delta(4)],
+      [174], [#name("李汉铭")], [#age(27)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2444*], [#delta(4)],
       [175], [#name("哈米特 德赛")], [#age(30)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2440*], [#delta(-25)],
     )
   )

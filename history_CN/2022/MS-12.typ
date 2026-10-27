@@ -263,7 +263,7 @@
       [192], [#name("安德烈亚 朗德里厄")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2401*], [#delta(2)],
       [193], [#name("佐尔特 佩托")], [#age(35)], [#assoc("SRB")], [#left], [#shakehand], [#attack], [*2401*], [#delta(3)],
       [194], [#name("AHMADIAN Amin")], [#age(21)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2400*], [#delta(3)],
-      [195], [#name("LIANG Jishan")], [#age(31)], [#assoc("USA")], [#left], [#shakehand], [#attack], [*2399*], [#delta(-2)],
+      [195], [#name("梁吉善")], [#age(31)], [#assoc("USA")], [#left], [#shakehand], [#attack], [*2399*], [#delta(-2)],
       [196], [#name("GRELA Artur")], [#age(22)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2398*], [#delta(57)],
       [197], [#name("埃里克 朱蒂")], [#age(28)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2396*], [#delta(-18)],
       [198], [#name("BURGOS Nicolas")], [#age(21)], [#assoc("CHI")], [#right], [#shakehand], [#attack], [*2395*], [#delta(-17)],

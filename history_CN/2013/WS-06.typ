@@ -160,7 +160,7 @@
       [116], [#name("汉娜 马特洛娃")], [#age(23)], [#assoc("CZE")], [#right], [#shakehand], [#attack], [*2371*], [#delta(24)],
       [117], [#name("田代早纪")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2368*], [#delta(2)],
       [118], [#name("杜凯琹")], [#age(17)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2368*], [#delta(4)],
-      [119], [#name("LI Chunli")], [#age(51)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2366*], [#delta(1)],
+      [119], [#name("李春丽")], [#age(51)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2366*], [#delta(1)],
       [120], [#name("萨拉 拉米雷斯")], [#age(26)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2360*], [#delta(-48)],
       [121], [#name("藤井优子")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2356*], [#delta(2)],
       [122], [#name("布里特 伊尔兰德")], [#age(19)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2352*], [#delta(2)],

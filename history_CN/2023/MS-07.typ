@@ -234,7 +234,7 @@
       [172], [#name("易卜拉欣 迪阿夫")], [#age(31)], [#assoc("SEN")], [#right], [#shakehand], [#attack], [*2449*], [#delta(9)],
       [173], [#name("达里乌斯 莫维莱亚努")], [#age(18)], [#assoc("ROU")], [#left], [#shakehand], [#attack], [*2448*], [#delta(-1)],
       [174], [#name("陈颢桦")], [#age(19)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2447*], [#delta(12)],
-      [175], [#name("LI Hon Ming")], [#age(27)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2444*], [#delta(-1)],
+      [175], [#name("李汉铭")], [#age(27)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2444*], [#delta(-1)],
     )
   )
 #pagebreak()

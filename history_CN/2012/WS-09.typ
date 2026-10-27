@@ -144,7 +144,7 @@
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [101], [#name("萨拉 拉米雷斯")], [#age(25)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2389*], [#delta(-22)],
       [102], [#name("特蒂亚娜 比连科")], [#age(29)], [#assoc("UKR")], [#right], [#shakehand], [#defense], [*2387*], [#delta(44)],
-      [103], [#name("LI Chunli")], [#age(50)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2387*], [#delta(7)],
+      [103], [#name("李春丽")], [#age(50)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2387*], [#delta(7)],
       [104], [#name("鲁塔 帕斯考斯基涅")], [#age(35)], [#assoc("LTU")], [#right], [#shakehand], [#attack], [*2385*], [#delta(8)],
       [105], [#name("金慧星")], [#age(19)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2383*], [#delta(8)],
       [106], [#name("朴晟惠")], [#age(26)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2383*], [#delta(8)],

@@ -157,7 +157,7 @@
       [113], [#name("杜凯琹")], [#age(17)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2381*], [#delta(-1)],
       [114], [#name("藤井优子")], [#age(23)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2373*], [#delta(-1)],
       [115], [#name("HWANG Jina")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2372*], [#delta(-1)],
-      [116], [#name("LI Chunli")], [#age(51)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2366*], [#delta(-1)],
+      [116], [#name("李春丽")], [#age(51)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2366*], [#delta(-1)],
       [117], [#name("叶莲娜 库兹米娜")], [#age(24)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2365*], [#delta(-1)],
       [118], [#name("吴雪")], [#age(33)], [#assoc("DOM")], [?], [?], [?], [*2362*], [#delta(-1)],
       [119], [#name("布里特 伊尔兰德")], [#age(19)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2356*], [#delta(37)],

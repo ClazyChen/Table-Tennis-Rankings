@@ -263,7 +263,7 @@
       [192], [#name("萨娅莉 瓦尼")], [#age(18)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2328*], [#delta(0)],
       [193], [#name("李多恩")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2328*], [#delta(1)],
       [194], [#name("CHOI Nahyun")], [#age(16)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2328*], [#delta(26)],
-      [195], [#name("WU Ying Syuan")], [#age(15)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2326*], [#delta(14)],
+      [195], [#name("吴映萱")], [#age(15)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2326*], [#delta(14)],
       [196], [#name("KLEE Sophia")], [#age(21)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2324*], [#delta(-19)],
       [197], [#name("达蒙万 克宽")], [#age(27)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2323*], [#delta(1)],
       [198], [#name("FONSECA Daniela")], [#age(22)], [#assoc("CUB")], [#left], [#shakehand], [#attack], [*2322*], [#delta(-3)],

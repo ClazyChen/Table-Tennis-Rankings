@@ -160,7 +160,7 @@
       [116], [#name("伯纳黛特 斯佐科斯")], [#age(18)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2373*], [#delta(-19)],
       [117], [#name("HWANG Jina")], [#age(22)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2372*], [#delta(-2)],
       [118], [#name("安娜玛丽亚 埃尔德利")], [#age(28)], [#assoc("SRB")], [#right], [#shakehand], [#defense], [*2370*], [#delta(3)],
-      [119], [#name("LI Chunli")], [#age(51)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2366*], [#delta(-3)],
+      [119], [#name("李春丽")], [#age(51)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2366*], [#delta(-3)],
       [120], [#name("波琳娜 米哈伊洛娃")], [#age(27)], [#assoc("RUS")], [#right], [#shakehand], [#defense], [*2363*], [#delta(2)],
       [121], [#name("吴雪")], [#age(33)], [#assoc("DOM")], [?], [?], [?], [*2362*], [#delta(-3)],
       [122], [#name("田代早纪")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2362*], [#delta(8)],

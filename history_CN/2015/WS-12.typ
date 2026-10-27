@@ -259,7 +259,7 @@
       [188], [#name("奥拉万 帕拉南")], [#age(18)], [#assoc("THA")], [#left], [#shakehand], [#attack], [*2334*], [#delta(3)],
       [189], [#name("万远")], [#age(18)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2334*], [#delta(8)],
       [190], [#name("JONG Un Ju")], [#age(20)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2334*], [#delta(2)],
-      [191], [#name("LI Chunli")], [#age(53)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(2)],
+      [191], [#name("李春丽")], [#age(53)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(2)],
       [192], [#name("铃木李茄")], [#age(21)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2332*], [#delta(2)],
       [193], [#name("田原")], [#age(40)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2330*], [#delta(3)],
       [194], [#name("AMBRUS Krisztina")], [#age(23)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2324*], [#delta(4)],

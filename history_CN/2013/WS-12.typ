@@ -267,7 +267,7 @@
       [196], [#name("SHIGEMOTO Sachie")], [#age(28)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2259*], [#delta(6)],
       [197], [#name("金星宁")], [#age(18)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2254*], [#delta(-38)],
       [198], [#name("娜塔莉亚 巴约尔")], [#age(16)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2254*], [#delta(0)],
-      [199], [#name("LI Chunli")], [#age(51)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2251*], [#delta(6)],
+      [199], [#name("李春丽")], [#age(51)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2251*], [#delta(6)],
       [200], [#name("KUSINSKA Klaudia")], [#age(20)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2249*], [#delta(0)],
     )
   )

@@ -165,7 +165,7 @@
       [121], [#name("ZHENG Shichang")], [#age(22)], [#assoc("CHN")], [?], [?], [?], [*2400*], [#delta(-1)],
       [122], [#name("韩杏")], [#age(25)], [#assoc("CGO")], [?], [?], [?], [*2399*], [#delta(0)],
       [123], [#name("ZHU Chaohui")], [#age(18)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2399*], [#delta(0)],
-      [124], [#name("LI Chunli")], [#age(52)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2390*], [#delta(0)],
+      [124], [#name("李春丽")], [#age(52)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2390*], [#delta(0)],
       [125], [#name("亚迪拉 席尔瓦")], [#age(29)], [#assoc("MEX")], [#right], [#shakehand], [#attack], [*2388*], [#delta(1)],
     )
   )

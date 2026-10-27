@@ -250,7 +250,7 @@
       [179], [#name("ALHODABY Mariam")], [#age(23)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2298*], [#delta(53)],
       [180], [#name("MEN Shuohan")], [#age(23)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2293*], [#delta(4)],
       [181], [#name("朱梓予")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2293*], [#delta(210)],
-      [182], [#name("XIANG Junlin")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(3)],
+      [182], [#name("向俊霖")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(3)],
       [183], [#name("青木咲智")], [#age(16)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2291*], [#delta(4)],
       [184], [#name("COK Isa")], [#age(21)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2290*], [#delta(5)],
       [185], [#name("马泰娅 耶格尔")], [#age(28)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2290*], [#delta(3)],

@@ -157,7 +157,7 @@
       [113], [#name("伊娃 奥多罗娃")], [#age(25)], [#assoc("SVK")], [#right], [#shakehand], [#attack], [*2062*], [#delta(-73)],
       [114], [#name("阿尼萨拉 穆昂苏克")], [#age(28)], [#assoc("THA")], [?], [?], [?], [*2060*], [#delta(-12)],
       [115], [#name("常晨晨")], [#age(18)], [#assoc("CHN")], [?], [?], [?], [*2051*], [#delta(-12)],
-      [116], [#name("LI Chunli")], [#age(42)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2043*], [#delta(-11)],
+      [116], [#name("李春丽")], [#age(42)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2043*], [#delta(-11)],
       [117], [#name("HARABASZOVA Lenka")], [#age(19)], [#assoc("CZE")], [?], [?], [?], [*2042*], [#delta(-11)],
       [118], [#name("FUJITA Yuki")], [#age(27)], [#assoc("JPN")], [?], [?], [?], [*2029*], [#delta(-9)],
       [119], [#name("MAKHMUDOVA Saida")], [#age(20)], [#assoc("UZB")], [?], [?], [?], [*2027*], [#delta(6)],

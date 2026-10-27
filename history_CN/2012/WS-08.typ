@@ -151,7 +151,7 @@
       [107], [#name("田代早纪")], [#age(21)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2392*], [#delta(1)],
       [108], [#name("LIU Na")], [#age(29)], [#assoc("IRL")], [?], [?], [?], [*2392*], [#delta(1)],
       [109], [#name("韦罗妮卡 帕夫洛维奇")], [#age(34)], [#assoc("BLR")], [?], [?], [?], [*2390*], [#delta(1)],
-      [110], [#name("LI Chunli")], [#age(50)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2387*], [#delta(1)],
+      [110], [#name("李春丽")], [#age(50)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2387*], [#delta(1)],
       [111], [#name("HUANG MENDES Lei")], [#age(30)], [#assoc("POR")], [?], [?], [?], [*2386*], [#delta(1)],
       [112], [#name("鲁塔 帕斯考斯基涅")], [#age(35)], [#assoc("LTU")], [#right], [#shakehand], [#attack], [*2385*], [#delta(1)],
       [113], [#name("金慧星")], [#age(19)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2383*], [#delta(1)],

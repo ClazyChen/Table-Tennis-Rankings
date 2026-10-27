@@ -265,7 +265,7 @@
       [194], [#name("MATIUNINA Veronika")], [#age(17)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2301*], [#delta(-4)],
       [195], [#name("MEN Shuohan")], [#age(23)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2298*], [#delta(-2)],
       [196], [#name("朱梓予")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2293*], [#delta(1)],
-      [197], [#name("XIANG Junlin")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(1)],
+      [197], [#name("向俊霖")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(1)],
       [198], [#name("DE STOPPELEIRE Clea")], [#age(17)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2291*], [#delta(10)],
       [199], [#name("UESAWA Anne")], [#age(16)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2289*], [#delta(0)],
       [200], [#name("ZHOU Jingyi")], [#age(18)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2289*], [#delta(-6)],

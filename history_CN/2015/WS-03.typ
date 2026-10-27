@@ -199,7 +199,7 @@
       [146], [#name("尤利娅 内库拉")], [#age(29)], [#assoc("ROU")], [#right], [#shakehand], [#attack], [*2367*], [#delta(46)],
       [147], [#name("范思琦")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2365*], [#delta(-6)],
       [148], [#name("CHO Hala")], [#age(27)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2364*], [#delta(-6)],
-      [149], [#name("LI Chunli")], [#age(53)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2363*], [#delta(-6)],
+      [149], [#name("李春丽")], [#age(53)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2363*], [#delta(-6)],
       [150], [#name("田原")], [#age(40)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2363*], [#delta(-6)],
     )
   )

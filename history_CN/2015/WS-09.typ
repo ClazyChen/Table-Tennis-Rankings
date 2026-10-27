@@ -248,7 +248,7 @@
       [177], [#name("JONG Un Ju")], [#age(20)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2334*], [#delta(190)],
       [178], [#name("萨拉 拉米雷斯")], [#age(28)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2334*], [#delta(63)],
       [179], [#name("玛丽亚 泰拉科娃")], [#age(14)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2333*], [#delta(-4)],
-      [180], [#name("LI Chunli")], [#age(53)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(-4)],
+      [180], [#name("李春丽")], [#age(53)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(-4)],
       [181], [#name("铃木李茄")], [#age(21)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2332*], [#delta(-4)],
       [182], [#name("亚历山德拉 普里瓦洛娃")], [#age(28)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2332*], [#delta(-4)],
       [183], [#name("FAJMUT Manca")], [#age(25)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2330*], [#delta(6)],

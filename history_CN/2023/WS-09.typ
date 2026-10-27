@@ -257,7 +257,7 @@
       [186], [#name("ALHODABY Mariam")], [#age(23)], [#assoc("EGY")], [#right], [#shakehand], [#attack], [*2298*], [#delta(1)],
       [187], [#name("SAINI Suhana")], [#age(17)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2297*], [#delta(1)],
       [188], [#name("朱梓予")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2293*], [#delta(2)],
-      [189], [#name("XIANG Junlin")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(2)],
+      [189], [#name("向俊霖")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(2)],
       [190], [#name("陈佳宜")], [#age(17)], [#assoc("TPE")], [#right], [#shakehand], [#defense], [*2293*], [#delta(134)],
       [191], [#name("安德里亚 托多罗维奇")], [#age(31)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2291*], [#delta(4)],
       [192], [#name("陈琦媗")], [#age(18)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2289*], [#delta(4)],

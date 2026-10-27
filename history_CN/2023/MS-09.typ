@@ -255,7 +255,7 @@
       [184], [#name("弗拉内 科伊奇")], [#age(31)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2430*], [#delta(-1)],
       [185], [#name("马尔科 耶夫托维奇")], [#age(36)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2429*], [#delta(-1)],
       [186], [#name("CHOI Inhyeok")], [#age(23)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2426*], [#delta(0)],
-      [187], [#name("LI Hon Ming")], [#age(27)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2424*], [#delta(0)],
+      [187], [#name("李汉铭")], [#age(27)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2424*], [#delta(0)],
       [188], [#name("达里乌斯 莫维莱亚努")], [#age(18)], [#assoc("ROU")], [#left], [#shakehand], [#attack], [*2422*], [#delta(-8)],
       [189], [#name("HAUG Borgar")], [#age(21)], [#assoc("NOR")], [#left], [#shakehand], [#attack], [*2419*], [#delta(-1)],
       [190], [#name("LORENZO Santiago")], [#age(22)], [#assoc("ARG")], [#right], [#shakehand], [#attack], [*2418*], [#delta(-21)],

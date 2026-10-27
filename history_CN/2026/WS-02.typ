@@ -198,7 +198,7 @@
       [145], [#name("乔治娜 波塔")], [#age(41)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2435*], [#delta(-1)],
       [146], [#name("闫禹橦")], [#age(18)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2434*], [#delta(-59)],
       [147], [#name("哈娜 阿拉波维奇")], [#age(22)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2433*], [#delta(-9)],
-      [148], [#name("WU Ying Syuan")], [#age(17)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2432*], [#delta(32)],
+      [148], [#name("吴映萱")], [#age(17)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2432*], [#delta(32)],
       [149], [#name("黎明映")], [#age(16)], [#assoc("SGP")], [#right], [#shakehand], [#attack], [*2430*], [#delta(36)],
       [150], [#name("陈佳宜")], [#age(20)], [#assoc("TPE")], [#right], [#shakehand], [#defense], [*2430*], [#delta(-4)],
     )

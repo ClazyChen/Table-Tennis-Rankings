@@ -263,7 +263,7 @@
       [192], [#name("TRIGOLOS Daria")], [#age(17)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2335*], [#delta(88)],
       [193], [#name("ABE Airi")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2334*], [#delta(-9)],
       [194], [#name("JONG Un Ju")], [#age(21)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2334*], [#delta(-9)],
-      [195], [#name("LI Chunli")], [#age(54)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(-9)],
+      [195], [#name("李春丽")], [#age(54)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(-9)],
       [196], [#name("布鲁娜 高桥")], [#age(16)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2332*], [#delta(-24)],
       [197], [#name("奥黛丽 扎里夫")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2330*], [#delta(38)],
       [198], [#name("金星宁")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2326*], [#delta(-6)],

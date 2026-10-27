@@ -268,6 +268,6 @@
       [197], [#name("CHOI Jiwook")], [#age(19)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2449*], [#delta(101)],
       [198], [#name("安德烈 普屯蒂卡")], [#age(27)], [#assoc("MDA")], [#left], [#shakehand], [#attack], [*2447*], [#delta(-34)],
       [199], [#name("BETELU Remi")], [#age(27)], [#assoc("FRA")], [#right], [#shakehand], [#defense], [*2445*], [#delta(-1)],
-      [200], [#name("LI Tianyang")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2444*], [#delta(-1)],
+      [200], [#name("李天阳")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2444*], [#delta(-1)],
     )
   )

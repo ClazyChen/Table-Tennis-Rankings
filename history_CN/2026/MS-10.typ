@@ -47,7 +47,7 @@
       [30], [#name("冯翊新")], [#age(23)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2693*], [#delta(27)],
       [31], [#name("川上流星")], [#age(17)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2693*], [#delta(12)],
       [32], [#name("托米斯拉夫 普卡")], [#age(30)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2689*], [#delta(3)],
-      [33], [#name("LI Tianyang")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2689*], [#delta(167)],
+      [33], [#name("李天阳")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2689*], [#delta(167)],
       [34], [#name("木造勇人")], [#age(27)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2683*], [#delta(-3)],
       [35], [#name("吉村真晴")], [#age(33)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2683*], [#delta(1)],
       [36], [#name("西蒙 高兹")], [#age(32)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2682*], [#delta(8)],

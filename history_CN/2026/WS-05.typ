@@ -200,7 +200,7 @@
       [147], [#name("莱娜 霍查特")], [#age(18)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2428*], [#delta(7)],
       [148], [#name("苏珊娜 维尔戈斯")], [#age(21)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2428*], [#delta(-7)],
       [149], [#name("黄禹乔")], [#age(30)], [#assoc("TPE")], [#left], [#shakehand], [#attack], [*2426*], [#delta(6)],
-      [150], [#name("WU Ying Syuan")], [#age(17)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2426*], [#delta(6)],
+      [150], [#name("吴映萱")], [#age(17)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2426*], [#delta(6)],
     )
   )
 #pagebreak()
@@ -259,8 +259,8 @@
       [188], [#name("徐慧尧")], [#age(19)], [#assoc("CHN")], [#right], [#penhold], [#attack], [*2380*], [#delta(39)],
       [189], [#name("李时温")], [#age(30)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2380*], [#delta(-3)],
       [190], [#name("艾卡特里尼 托利乌")], [#age(31)], [#assoc("GRE")], [#right], [#shakehand], [#defense], [*2376*], [#delta(-2)],
-      [191], [#name("WEI Jingming")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2375*], [#delta(-14)],
-      [192], [#name("XIANG Junlin")], [#age(19)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2374*], [#delta(52)],
+      [191], [#name("魏璟茗")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2375*], [#delta(-14)],
+      [192], [#name("向俊霖")], [#age(19)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2374*], [#delta(52)],
       [193], [#name("萨娅莉 瓦尼")], [#age(20)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2372*], [#delta(-1)],
       [194], [#name("LEE Hoi Man")], [#age(23)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2372*], [#delta(13)],
       [195], [#name("妮可 阿利亚")], [#age(21)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2372*], [#delta(34)],

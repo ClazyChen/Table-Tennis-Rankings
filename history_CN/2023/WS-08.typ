@@ -259,7 +259,7 @@
       [188], [#name("SAINI Suhana")], [#age(17)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2297*], [#delta(-1)],
       [189], [#name("TAKAHASHI Giulia")], [#age(18)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2295*], [#delta(15)],
       [190], [#name("朱梓予")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2293*], [#delta(-6)],
-      [191], [#name("XIANG Junlin")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(-6)],
+      [191], [#name("向俊霖")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(-6)],
       [192], [#name("叶伊恬")], [#age(16)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2292*], [#delta(-25)],
       [193], [#name("马泰娅 耶格尔")], [#age(28)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2292*], [#delta(13)],
       [194], [#name("西贝尔 阿尔滕卡亚")], [#age(30)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2292*], [#delta(-4)],

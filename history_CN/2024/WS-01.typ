@@ -267,7 +267,7 @@
       [196], [#name("安娜 布日斯卡")], [#age(19)], [#assoc("POL")], [#right], [#shakehand], [#attack], [*2298*], [#delta(-8)],
       [197], [#name("MATIUNINA Veronika")], [#age(18)], [#assoc("UKR")], [#right], [#shakehand], [#attack], [*2293*], [#delta(2)],
       [198], [#name("朱梓予")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2293*], [#delta(2)],
-      [199], [#name("XIANG Junlin")], [#age(17)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(2)],
+      [199], [#name("向俊霖")], [#age(17)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(2)],
       [200], [#name("埃杰 哈拉奇")], [#age(22)], [#assoc("TUR")], [#right], [#shakehand], [#attack], [*2292*], [#delta(67)],
     )
   )

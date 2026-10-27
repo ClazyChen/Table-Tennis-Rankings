@@ -150,7 +150,7 @@
       [106], [#name("韦罗妮卡 帕夫洛维奇")], [#age(34)], [#assoc("BLR")], [?], [?], [?], [*2370*], [#delta(-4)],
       [107], [#name("李嫱冰")], [#age(27)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2364*], [#delta(-3)],
       [108], [#name("吴雪")], [#age(32)], [#assoc("DOM")], [?], [?], [?], [*2362*], [#delta(-2)],
-      [109], [#name("LI Chunli")], [#age(50)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2357*], [NEW],
+      [109], [#name("李春丽")], [#age(50)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2357*], [NEW],
       [110], [#name("NONAKA Yuki")], [#age(27)], [#assoc("JPN")], [#right], [#shakehand], [#defense], [*2356*], [#delta(-3)],
       [111], [#name("塔玛拉 鲍罗斯")], [#age(35)], [#assoc("CRO")], [#right], [#shakehand], [#attack], [*2354*], [#delta(-3)],
       [112], [#name("索菲亚 波尔卡诺娃")], [#age(18)], [#assoc("AUT")], [#left], [#shakehand], [#attack], [*2354*], [#delta(-3)],

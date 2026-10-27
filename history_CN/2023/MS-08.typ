@@ -255,7 +255,7 @@
       [184], [#name("马尔科 耶夫托维奇")], [#age(36)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2429*], [#delta(3)],
       [185], [#name("禹衡圭")], [#age(21)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2429*], [#delta(3)],
       [186], [#name("CHOI Inhyeok")], [#age(23)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2426*], [#delta(4)],
-      [187], [#name("LI Hon Ming")], [#age(27)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2424*], [#delta(-12)],
+      [187], [#name("李汉铭")], [#age(27)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2424*], [#delta(-12)],
       [188], [#name("HAUG Borgar")], [#age(21)], [#assoc("NOR")], [#left], [#shakehand], [#attack], [*2420*], [#delta(64)],
       [189], [#name("伊沃 本")], [#age(20)], [#assoc("CRO")], [#left], [#shakehand], [#attack], [*2417*], [#delta(15)],
       [190], [#name("CHANDRA Jeet")], [#age(23)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2416*], [#delta(6)],

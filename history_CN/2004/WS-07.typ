@@ -163,7 +163,7 @@
       [119], [#name("常晨晨")], [#age(18)], [#assoc("CHN")], [?], [?], [?], [*2051*], [#delta(-4)],
       [120], [#name("MIROU Maria")], [#age(27)], [#assoc("GRE")], [?], [?], [?], [*2050*], [#delta(-4)],
       [121], [#name("田势美贵江")], [#age(24)], [#assoc("JPN")], [?], [?], [?], [*2048*], [#delta(-4)],
-      [122], [#name("LI Chunli")], [#age(42)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2043*], [#delta(-4)],
+      [122], [#name("李春丽")], [#age(42)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2043*], [#delta(-4)],
       [123], [#name("HARABASZOVA Lenka")], [#age(19)], [#assoc("CZE")], [?], [?], [?], [*2042*], [#delta(-4)],
       [124], [#name("FUJITA Yuki")], [#age(27)], [#assoc("JPN")], [?], [?], [?], [*2029*], [#delta(-2)],
       [125], [#name("克里斯汀 朗")], [#age(19)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2028*], [#delta(-29)],

@@ -254,7 +254,7 @@
       [183], [#name("多拉 马达拉斯")], [#age(23)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2335*], [#delta(-2)],
       [184], [#name("ABE Airi")], [#age(20)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2334*], [#delta(-2)],
       [185], [#name("JONG Un Ju")], [#age(21)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2334*], [#delta(-2)],
-      [186], [#name("LI Chunli")], [#age(54)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(-2)],
+      [186], [#name("李春丽")], [#age(54)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(-2)],
       [187], [#name("雷切尔 莫雷特")], [#age(27)], [#assoc("SUI")], [#left], [#shakehand], [#attack], [*2332*], [#delta(18)],
       [188], [#name("GALIC Alex")], [#age(22)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2331*], [#delta(-3)],
       [189], [#name("波琳 沙斯兰")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2330*], [#delta(-3)],

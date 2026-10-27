@@ -245,7 +245,7 @@
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
       [176], [#name("MEN Shuohan")], [#age(23)], [#assoc("NED")], [#right], [#shakehand], [#attack], [*2293*], [#delta(1)],
-      [177], [#name("XIANG Junlin")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(1)],
+      [177], [#name("向俊霖")], [#age(16)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2293*], [#delta(1)],
       [178], [#name("奥菲昂 埃德姆")], [#age(37)], [#assoc("NGR")], [#right], [#shakehand], [#attack], [*2292*], [#delta(1)],
       [179], [#name("伊莎贝拉 卢普列斯库")], [#age(24)], [#assoc("SRB")], [#right], [#shakehand], [#attack], [*2291*], [#delta(-8)],
       [180], [#name("青木咲智")], [#age(16)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2291*], [#delta(0)],

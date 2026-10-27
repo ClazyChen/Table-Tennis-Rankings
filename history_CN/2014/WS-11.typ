@@ -190,7 +190,7 @@
       [137], [#name("黄怡桦")], [#age(30)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2367*], [#delta(25)],
       [138], [#name("范思琦")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2365*], [#delta(2)],
       [139], [#name("CHO Hala")], [#age(26)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2364*], [#delta(2)],
-      [140], [#name("LI Chunli")], [#age(52)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2363*], [#delta(2)],
+      [140], [#name("李春丽")], [#age(52)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2363*], [#delta(2)],
       [141], [#name("萨拉 拉米雷斯")], [#age(27)], [#assoc("ESP")], [#right], [#shakehand], [#attack], [*2362*], [#delta(2)],
       [142], [#name("劳拉 加斯尼尔")], [#age(21)], [#assoc("FRA")], [#left], [#shakehand], [#attack], [*2362*], [#delta(2)],
       [143], [#name("CHOI Jeongmin")], [#age(20)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2360*], [#delta(2)],

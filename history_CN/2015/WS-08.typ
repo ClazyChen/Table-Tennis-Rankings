@@ -244,7 +244,7 @@
     table(
       columns: 9,
       [\#], [运动员],[年龄], [协会],  [手], [握拍], [削球], [积分], [$Delta$],
-      [176], [#name("LI Chunli")], [#age(53)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(-5)],
+      [176], [#name("李春丽")], [#age(53)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2332*], [#delta(-5)],
       [177], [#name("铃木李茄")], [#age(21)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2332*], [#delta(0)],
       [178], [#name("亚历山德拉 普里瓦洛娃")], [#age(28)], [#assoc("BLR")], [#right], [#shakehand], [#attack], [*2332*], [#delta(-6)],
       [179], [#name("LI Jiayuan")], [#age(18)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2332*], [#delta(-6)],

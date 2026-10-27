@@ -165,7 +165,7 @@
       [121], [#name("达蒙万 克宽")], [#age(17)], [#assoc("THA")], [#right], [#shakehand], [#attack], [*2399*], [#delta(-26)],
       [122], [#name("韩杏")], [#age(25)], [#assoc("CGO")], [?], [?], [?], [*2399*], [#delta(-1)],
       [123], [#name("ZHU Chaohui")], [#age(18)], [#assoc("CHN")], [#left], [#shakehand], [#attack], [*2399*], [#delta(-4)],
-      [124], [#name("LI Chunli")], [#age(52)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2390*], [#delta(-2)],
+      [124], [#name("李春丽")], [#age(52)], [#assoc("NZL")], [#right], [#penhold], [#attack], [*2390*], [#delta(-2)],
       [125], [#name("张安")], [#age(18)], [#assoc("USA")], [#right], [#shakehand], [#attack], [*2389*], [#delta(-45)],
     )
   )
