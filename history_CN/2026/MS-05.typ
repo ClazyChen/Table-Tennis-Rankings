@@ -226,7 +226,7 @@
       [164], [#name("姚钧涛")], [#age(22)], [#assoc("HKG")], [#right], [#shakehand], [#attack], [*2474*], [#delta(-45)],
       [165], [#name("MUTTI Matteo")], [#age(26)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2474*], [#delta(0)],
       [166], [#name("尼亚戈尔 斯托亚诺夫")], [#age(39)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2474*], [#delta(1)],
-      [167], [#name("罗曼 布拉尔")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2473*], [#delta(233)],
+      [167], [#name("罗曼 布拉尔")], [#age(23)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2473*], [#delta(234)],
       [168], [#name("SUZUKI Hayate")], [#age(22)], [#assoc("JPN")], [#right], [#shakehand], [#attack], [*2472*], [#delta(-19)],
       [169], [#name("迈赫迪 布洛斯")], [#age(31)], [#assoc("ALG")], [#right], [#shakehand], [#attack], [*2472*], [#delta(-30)],
       [170], [#name("斯特凡 乌瓦切")], [#age(33)], [#assoc("ALG")], [#left], [#shakehand], [#attack], [*2472*], [#delta(-22)],
@@ -266,7 +266,7 @@
       [195], [#name("GIOVANNETTI Tommaso")], [#age(23)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2432*], [#delta(3)],
       [196], [#name("BURGOS Nicolas")], [#age(25)], [#assoc("CHI")], [#right], [#shakehand], [#attack], [*2432*], [#delta(3)],
       [197], [#name("吴家骥")], [#age(31)], [#assoc("DOM")], [#right], [#penhold], [#attack], [*2431*], [#delta(3)],
-      [198], [#name("李承洙")], [#age(15)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2431*], [#delta(63)],
+      [198], [#name("李承洙")], [#age(15)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2431*], [#delta(64)],
       [199], [#name("亚历克斯 瑙米")], [#age(25)], [#assoc("FIN")], [#left], [#shakehand], [#attack], [*2430*], [#delta(3)],
       [200], [#name("SURAVAJJULA Snehit")], [#age(26)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2430*], [#delta(-36)],
     )

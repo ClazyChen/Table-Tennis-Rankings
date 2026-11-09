@@ -233,7 +233,7 @@
       [171], [#name("吉列尔梅 特奥多罗")], [#age(24)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2459*], [#delta(-1)],
       [172], [#name("德尼 科祖尔")], [#age(28)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2454*], [#delta(-1)],
       [173], [#name("PRADHIVADHI Abhinandh")], [#age(17)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2454*], [#delta(12)],
-      [174], [#name("叶夫根尼 吉洪诺夫")], [#age(20)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2454*], [#delta(80)],
+      [174], [#name("叶夫根尼 吉洪诺夫")], [#age(20)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2454*], [#delta(81)],
       [175], [#name("阿米尔雷扎 阿巴西")], [#age(25)], [#assoc("MLT")], [#right], [#shakehand], [#defense], [*2453*], [#delta(-33)],
     )
   )
@@ -261,13 +261,13 @@
       [190], [#name("BETELU Remi")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#defense], [*2434*], [#delta(-11)],
       [191], [#name("林彦均")], [#age(22)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2433*], [#delta(-3)],
       [192], [#name("吴家骥")], [#age(30)], [#assoc("DOM")], [#right], [#penhold], [#attack], [*2431*], [#delta(-3)],
-      [193], [#name("KOBAYASHI Hiromu")], [#age(23)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2429*], [#delta(123)],
+      [193], [#name("KOBAYASHI Hiromu")], [#age(23)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2429*], [#delta(124)],
       [194], [#name("孙杨")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2426*], [#delta(-25)],
       [195], [#name("安德烈 普屯蒂卡")], [#age(26)], [#assoc("MDA")], [#left], [#shakehand], [#attack], [*2425*], [#delta(-5)],
       [196], [#name("LIM Yunoh")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2425*], [#delta(-5)],
       [197], [#name("蒂亚戈 阿比奥顿")], [#age(17)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2424*], [#delta(35)],
       [198], [#name("阿马拉杰 安东尼")], [#age(39)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2422*], [#delta(-2)],
-      [199], [#name("KOLODZIEJCZYK Maciej")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2421*], [#delta(41)],
+      [199], [#name("KOLODZIEJCZYK Maciej")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2421*], [#delta(42)],
       [200], [#name("咸柔成")], [#age(26)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2417*], [#delta(1)],
     )
   )

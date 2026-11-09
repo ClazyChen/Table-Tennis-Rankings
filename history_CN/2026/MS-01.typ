@@ -249,7 +249,7 @@
       [178], [#name("弗洛朗 兰比特")], [#age(31)], [#assoc("BEL")], [#right], [#shakehand], [#attack], [*2451*], [#delta(0)],
       [179], [#name("MEISSNER Cedric")], [#age(26)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2451*], [#delta(30)],
       [180], [#name("迈赫迪 布洛斯")], [#age(31)], [#assoc("ALG")], [#right], [#shakehand], [#attack], [*2450*], [#delta(7)],
-      [181], [#name("GIOVANNETTI Tommaso")], [#age(23)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2446*], [#delta(134)],
+      [181], [#name("GIOVANNETTI Tommaso")], [#age(23)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2446*], [#delta(135)],
       [182], [#name("KIM Byunghyeon")], [#age(26)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2443*], [#delta(-1)],
       [183], [#name("汪洋")], [#age(32)], [#assoc("SVK")], [#right], [#shakehand], [#defense], [*2441*], [#delta(0)],
       [184], [#name("亚当 苏迪")], [#age(30)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2440*], [#delta(0)],

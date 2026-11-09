@@ -233,7 +233,7 @@
       [171], [#name("TEODORO Guilherme")], [#age(24)], [#assoc("BRA")], [#right], [#shakehand], [#attack], [*2459*], [#delta(-1)],
       [172], [#name("KOZUL Deni")], [#age(28)], [#assoc("SLO")], [#right], [#shakehand], [#attack], [*2454*], [#delta(-1)],
       [173], [#name("PRADHIVADHI Abhinandh")], [#age(17)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2454*], [#delta(12)],
-      [174], [#name("TIKHONOV Evgeny")], [#age(20)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2454*], [#delta(80)],
+      [174], [#name("TIKHONOV Evgeny")], [#age(20)], [#assoc("RUS")], [#right], [#shakehand], [#attack], [*2454*], [#delta(81)],
       [175], [#name("ABBASI Amirreza")], [#age(25)], [#assoc("MLT")], [#right], [#shakehand], [#defense], [*2453*], [#delta(-33)],
     )
   )
@@ -261,13 +261,13 @@
       [190], [#name("BETELU Remi")], [#age(26)], [#assoc("FRA")], [#right], [#shakehand], [#defense], [*2434*], [#delta(-11)],
       [191], [#name("LIN Yen-Chun")], [#age(22)], [#assoc("TPE")], [#right], [#shakehand], [#attack], [*2433*], [#delta(-3)],
       [192], [#name("WU Jiaji")], [#age(30)], [#assoc("DOM")], [#right], [#penhold], [#attack], [*2431*], [#delta(-3)],
-      [193], [#name("KOBAYASHI Hiromu")], [#age(23)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2429*], [#delta(123)],
+      [193], [#name("KOBAYASHI Hiromu")], [#age(23)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2429*], [#delta(124)],
       [194], [#name("SUN Yang")], [#age(17)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2426*], [#delta(-25)],
       [195], [#name("PUTUNTICA Andrei")], [#age(26)], [#assoc("MDA")], [#left], [#shakehand], [#attack], [*2425*], [#delta(-5)],
       [196], [#name("LIM Yunoh")], [#age(21)], [#assoc("KOR")], [#left], [#shakehand], [#attack], [*2425*], [#delta(-5)],
       [197], [#name("ABIODUN Tiago")], [#age(17)], [#assoc("POR")], [#left], [#shakehand], [#attack], [*2424*], [#delta(35)],
       [198], [#name("ANTHONY Amalraj")], [#age(39)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2422*], [#delta(-2)],
-      [199], [#name("KOLODZIEJCZYK Maciej")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2421*], [#delta(41)],
+      [199], [#name("KOLODZIEJCZYK Maciej")], [#age(24)], [#assoc("AUT")], [#right], [#shakehand], [#attack], [*2421*], [#delta(42)],
       [200], [#name("HAM Yu Song")], [#age(26)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2417*], [#delta(1)],
     )
   )

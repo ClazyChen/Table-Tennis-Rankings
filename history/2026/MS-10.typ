@@ -248,7 +248,7 @@
       [177], [#name("STOYANOV Niagol")], [#age(39)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2464*], [#delta(-34)],
       [178], [#name("LI Ki Ho")], [#age(16)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2464*], [#delta(4)],
       [179], [#name("SZUDI Adam")], [#age(30)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2464*], [#delta(4)],
-      [180], [#name("VINOGRADOV Dmitrii")], [#age(21)], [#assoc("RUS")], [?], [?], [?], [*2464*], [#delta(177)],
+      [180], [#name("VINOGRADOV Dmitrii")], [#age(21)], [#assoc("RUS")], [?], [?], [?], [*2464*], [#delta(178)],
       [181], [#name("HODAEI Amir Hossein")], [#age(28)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2463*], [#delta(3)],
       [182], [#name("DESAI Harmeet")], [#age(33)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2463*], [#delta(-26)],
       [183], [#name("MEISSNER Cedric")], [#age(26)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2463*], [#delta(-24)],

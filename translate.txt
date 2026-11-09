@@ -185,6 +185,7 @@ FAN Siqi, 范思琦
 FAN Yi Li, 范仡力
 FAN Ying, 范瑛
 FAN Zhendong, 樊振东
+FANG Bing Wei, 方炳崴
 FANG Bo, 方博
 FARAJI Benyamin, 本雅明 法拉吉
 FASO Danilo, 达尼洛 法索
@@ -192,6 +193,7 @@ FAZEKAS Peter, 彼得 法泽卡斯
 FEGERL Stefan, 斯特凡 菲格尔
 FEHER Gabriela, 加布里埃拉 费赫尔
 FEJER-KONNERTH Zoltan, 佐尔坦 费杰科内斯
+FENG Shuo, 冯蒴
 FENG Tianwei, 冯天薇
 FENG Yalan, 冯亚兰
 FENG Yi-Hsin, 冯翊新
@@ -496,11 +498,14 @@ LIANG Jishan, 梁吉善
 LIANG Wenjie, 梁文杰
 LIANG Yanning, 梁俨苧
 LIAO Cheng-Ting, 廖振珽
+LIAO Xiaoqing, 廖晓晴
 LIAO Yixuan, 廖颐暄
 LIM Jaehyun, 林载贤
 LIM Jonghoon, 林钟勋
 LIN Chia-Hui, 林佳慧
+LIN Chin-Ting, 林晋霆
 LIN Gaoyuan, 林高远
+LIN Huan Ting, 林奂諪
 LIN Ju, 林聚
 LIN Ling, 林菱
 LIN Shidong, 林诗栋
@@ -524,6 +529,7 @@ LIU Weishan, 刘炜珊
 LIU Yangzi, 刘杨子
 LIU Yebo, 刘夜泊
 LIU Yuan, 刘媛
+LIU Zhenlong, 刘振龙
 LIU Zihang, 刘子航
 LIU Ziling, 刘子菱
 LIU Zitong, 刘梓童
@@ -762,6 +768,7 @@ SHANG Kun, 尚坤
 SHAO Jieni, 邵杰妮
 SHCHERBATYKH Valeria, 瓦列里娅 谢尔巴特赫
 SHEN Yanfei, 沈燕飞
+SHI Danyang, 石丹阳
 SHI Xunyao, 石洵瑶
 SHIBAEV Alexander, 亚历山大 希巴耶夫
 SHIBATA Saki, 芝田沙季
@@ -883,6 +890,7 @@ WANG Yang, 汪洋
 WANG Yidi, 王艺迪
 WANG Yu-Jie, 王毓洁
 WANG Yu-Tai, 王育泰
+WANG Yuan, 王远
 WANG Yuegu, 王越古
 WANG Zengyi, 王增羿
 WANG Zining, 王梓宁
@@ -921,6 +929,7 @@ XU Chenhao, 徐晨皓
 XU Haidong, 徐海东
 XU Huiyao, 徐慧尧
 XU Jie, 徐洁
+XU Minghao, 顼铭浩
 XU Xin, 许昕
 XU Yi, 徐奕
 XU Yingbin, 徐瑛彬
@@ -975,6 +984,7 @@ ZENG Jian, 曾尖
 ZENG Zhiying, 曾志英
 ZHAI Jiale, 翟家乐
 ZHAI Yujia, 翟羽佳
+ZHAN Yuet Yu, 詹悦如
 ZHANG Chao, 张超
 ZHANG Heliang, 张贺梁
 ZHANG Jia Yu, 张嘉钰

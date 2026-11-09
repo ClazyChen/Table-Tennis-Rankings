@@ -248,7 +248,7 @@
       [177], [#name("尼亚戈尔 斯托亚诺夫")], [#age(39)], [#assoc("ITA")], [#right], [#shakehand], [#attack], [*2464*], [#delta(-34)],
       [178], [#name("黎骐豪")], [#age(16)], [#assoc("HKG")], [#left], [#shakehand], [#attack], [*2464*], [#delta(4)],
       [179], [#name("亚当 苏迪")], [#age(30)], [#assoc("HUN")], [#right], [#shakehand], [#attack], [*2464*], [#delta(4)],
-      [180], [#name("VINOGRADOV Dmitrii")], [#age(21)], [#assoc("RUS")], [?], [?], [?], [*2464*], [#delta(177)],
+      [180], [#name("VINOGRADOV Dmitrii")], [#age(21)], [#assoc("RUS")], [?], [?], [?], [*2464*], [#delta(178)],
       [181], [#name("阿米尔侯赛因 霍达伊")], [#age(28)], [#assoc("IRI")], [#right], [#shakehand], [#attack], [*2463*], [#delta(3)],
       [182], [#name("哈米特 德赛")], [#age(33)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2463*], [#delta(-26)],
       [183], [#name("MEISSNER Cedric")], [#age(26)], [#assoc("GER")], [#left], [#shakehand], [#attack], [*2463*], [#delta(-24)],

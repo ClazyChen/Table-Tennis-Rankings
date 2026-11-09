@@ -256,7 +256,7 @@
       [185], [#name("萨迪 伊斯梅洛夫")], [#age(30)], [#assoc("TJK")], [#left], [#shakehand], [#attack], [*2463*], [#delta(-8)],
       [186], [#name("凯 斯图姆珀")], [#age(24)], [#assoc("GER")], [#right], [#shakehand], [#attack], [*2462*], [#delta(-40)],
       [187], [#name("安迪 佩雷拉")], [#age(37)], [#assoc("CUB")], [#left], [#shakehand], [#attack], [*2457*], [#delta(-8)],
-      [188], [#name("康纳 格林")], [#age(20)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2457*], [#delta(70)],
+      [188], [#name("康纳 格林")], [#age(20)], [#assoc("ENG")], [#right], [#shakehand], [#attack], [*2457*], [#delta(71)],
       [189], [#name("OKANO Shunsuke")], [#age(22)], [#assoc("JPN")], [#left], [#shakehand], [#attack], [*2454*], [#delta(-6)],
       [190], [#name("哈米特 德赛")], [#age(33)], [#assoc("IND")], [#right], [#shakehand], [#attack], [*2454*], [#delta(-6)],
       [191], [#name("咸柔成")], [#age(27)], [#assoc("PRK")], [#right], [#shakehand], [#attack], [*2454*], [#delta(-5)],
@@ -267,7 +267,7 @@
       [196], [#name("阿卜杜勒-卡德尔 萨利富")], [#age(37)], [#assoc("BEN")], [#right], [#shakehand], [#attack], [*2446*], [#delta(-4)],
       [197], [#name("周冠宏")], [#age(16)], [#assoc("CHN")], [#right], [#shakehand], [#attack], [*2445*], [#delta(-4)],
       [198], [#name("纳唐 拉姆")], [#age(19)], [#assoc("FRA")], [#right], [#shakehand], [#attack], [*2444*], [#delta(-7)],
-      [199], [#name("李天阳")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2444*], [#delta(139)],
+      [199], [#name("李天阳")], [#age(20)], [#assoc("CHN")], [#right], [#shakehand], [#defense], [*2444*], [#delta(140)],
       [200], [#name("KIM Byunghyeon")], [#age(26)], [#assoc("KOR")], [#right], [#shakehand], [#attack], [*2443*], [#delta(-6)],
     )
   )
