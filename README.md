@@ -31,3 +31,9 @@ Around the WTT Champions Yokohama 2026, I implemented workarounds for the 429 re
 
 The crawler code lives in `src/ittf_fabrik.jl` (entry point: `crawl.jl`). It is deliberately slow and conservative: on HTTP 429 it checkpoints to `crawl_state.json` and exits instead of retrying aggressively — running it carelessly will still get your IP penalized. **Rankings are updated to the latest ITTF events.**
 
+<h1>License</h1>
+
+The project's original source code, algorithm documentation, generated rankings, rating histories, and derived aggregate statistics are available under the [MIT License](LICENSE).
+
+ITTF/WTT-derived match, tournament, and player data—including the compact match-level records in `web/data/events/`—and third-party assets such as flag images are not covered by the MIT License. See [NOTICE.md](NOTICE.md) for the licensing scope and upstream-data notice.
+
