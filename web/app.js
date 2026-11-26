@@ -3,6 +3,10 @@
  *   data/index.json            {months:["2004-01",...], generated, players}
  *   data/latest.json           {MS:[[rank,id,rating,delta,age,assoc,hand,grip,style],...], WS:[...]}
  *   data/rankings/MS-YYYY-MM.json   monthly top-200 rows (same shape)
+ *   data/annual-index.json       {years:[2004,...], generated}
+ *   data/annual/MS-YYYY.json     annual top-200 rows
+ *     [rank,id,annualScore,playedMonths,age,assoc,rawAverage,penalty]
+ *   data/annual/MS-current.json  rolling-12-month top-200 rows (same shape)
  *   data/history/shard-XX.json {id:{m:[name,cn,sex,yob,hand,grip,style,assoc,peak,final], s:[[monthIdx,rating],...]}}
  *     (series ends with the final-rating point when it differs from the last monthly snapshot)
  *   data/search.json           [[id, name, cnName], ...]
@@ -28,6 +32,9 @@ const I18N = {
     notRanked: "—",
     newMark: "NEW",
     events: "赛事", backEvents: "← 返回赛事列表", backPlayer: "← 返回球员", rankings: "排名",
+    annual: "年度分", annualCurrent: "近12个月",
+    playedMonths: "参赛月", annualScore: "年度分",
+    rawAnnual: "主排名年均分", participationAdjustment: "参赛调整",
     tierMajor: "大赛", tierHigh: "高级别", tierRegular: "常规赛", tierOther: "其他",
     allTiers: "全部级别",
     podiumSF: "四强", qualList: "资格赛 / 预赛赛果", groupList: "赛果（非单败赛制）",
@@ -53,6 +60,8 @@ const I18N = {
     notRanked: "—",
     newMark: "NEW",
     events: "Events", backEvents: "← Back to events", backPlayer: "← Back to player", rankings: "Rankings",
+    annual: "Annual score", annualCurrent: "Last 12 months", playedMonths: "Months played",
+    annualScore: "Annual score", rawAnnual: "Mean main rating", participationAdjustment: "Participation adjustment",
     tierMajor: "Majors", tierHigh: "Top tier", tierRegular: "Regular", tierOther: "Other",
     allTiers: "All tiers",
     podiumSF: "SF", qualList: "Qualification / preliminary results", groupList: "Results (non-knockout format)",
@@ -162,6 +171,8 @@ function parseRoute() {
   if (parts[0] === "player" && parts[1]) return { view: "player", id: parts[1] };
   if (parts[0] === "events") return { view: "events" };
   if (parts[0] === "event" && parts[1]) return { view: "event", id: parts[1] };
+  if (parts[0] === "annual")
+    return { view: "annual", gender: parts[1] === "WS" ? "WS" : "MS", period: parts[2] || "current" };
   if (parts[0] === "MS" || parts[0] === "WS")
     return { view: "ranking", gender: parts[0], month: parts[1] || "latest" };
   return { view: "ranking", gender: "MS", month: "latest" };
@@ -171,15 +182,20 @@ async function render() {
   closeSearch();
   BLANK_FLAGS = await blankFlags();
   const r = parseRoute();
-  // header nav: "排名" returns to the last viewed ranking context; highlight side
-  el("nav-rank").href = sessionStorage.getItem("ttr-back") || "#/";
+  // header nav: "排名" returns to the last monthly ranking context.
+  const back = sessionStorage.getItem("ttr-back") || "#/";
+  el("nav-rank").href = back.startsWith("#/annual/") ? "#/" : back;
+  el("nav-annual").href = sessionStorage.getItem("ttr-annual-back") || "#/annual/MS/current";
   const eventsSide = r.view === "events" || r.view === "event";
+  const annualSide = r.view === "annual";
   el("nav-events").classList.toggle("active", eventsSide);
-  el("nav-rank").classList.toggle("active", !eventsSide);
+  el("nav-annual").classList.toggle("active", annualSide);
+  el("nav-rank").classList.toggle("active", !eventsSide && !annualSide);
   try {
     if (r.view === "player") await renderPlayer(r.id);
     else if (r.view === "events") await renderEvents();
     else if (r.view === "event") await renderEvent(r.id);
+    else if (r.view === "annual") await renderAnnual(r.gender, r.period);
     else await renderRanking(r.gender, r.month);
   } catch (e) {
     console.error(e);
@@ -271,6 +287,62 @@ async function renderRanking(gender, month) {
   });
   if (prevTarget) el("prev-month").addEventListener("click", () => { location.hash = `#/${gender}/${prevTarget}`; });
   if (nextTarget) el("next-month").addEventListener("click", () => { location.hash = `#/${gender}/${nextTarget}`; });
+}
+
+// ---------------------------------------------------------------- annual scores
+async function renderAnnual(gender, period) {
+  const app = el("app");
+  app.innerHTML = `<div class="loading">Loading…</div>`;
+  sessionStorage.removeItem("ttr-event-back");
+
+  const idx = await fetchJSON("data/annual-index.json");
+  const selected = period === "current" || idx.years.includes(Number(period)) ? period : "current";
+  const rows = await fetchJSON(`data/annual/${gender}-${selected}.json`);
+  const nm = await nameMap();
+
+  sessionStorage.setItem("ttr-back", `#/annual/${gender}/${selected}`);
+  sessionStorage.setItem("ttr-annual-back", `#/annual/${gender}/${selected}`);
+
+  const periods = ["current", ...idx.years.slice().reverse().map(String)];
+  const periodChips = periods.map((p) =>
+    `<button class="chip${p === selected ? " active" : ""}" data-annual-p="${p}">${p === "current" ? t("annualCurrent") : p}</button>`
+  ).join("");
+
+  const tableRows = rows.map((row) => {
+    const [rank, id, score, played, age, assoc, rawAverage, penalty] = row;
+    const detail = `${t("rawAnnual")} ${Number(rawAverage).toFixed(1)} · ${t("participationAdjustment")} −${penalty}`;
+    return `<tr>
+      <td class="num">${rank}</td>
+      <td><a class="player-link" href="#/player/${id}">${esc(playerName(nm, id))}</a></td>
+      <td class="num age"${typeof age === "number" ? ` style="color:${ageColor(age)}"` : ""}>${age || "?"}</td>
+      <td>${flagImg(assoc, false)}<span class="assoc">${esc(assoc)}</span></td>
+      <td class="num rating" title="${esc(detail)}">${Number(score).toFixed(1)}</td>
+      <td class="num">${played}${penalty ? `<span class="annual-penalty">−${penalty / 20}</span>` : ""}</td>
+    </tr>`;
+  }).join("");
+
+  app.innerHTML = `
+    <div class="card toolbar">
+      <div class="tabs">
+        <button class="tab${gender === "MS" ? " active" : ""}" data-annual-g="MS">${t("men")}</button>
+        <button class="tab${gender === "WS" ? " active" : ""}" data-annual-g="WS">${t("women")}</button>
+      </div>
+      <div class="chips years annual-years">${periodChips}</div>
+    </div>
+    <div class="card table-card annual-table-card">
+      <table class="ranking annual-ranking">
+        <thead><tr>
+          <th class="num">${t("rank")}</th><th>${t("player")}</th><th class="num">${t("age")}</th>
+          <th>${t("assoc")}</th><th class="num">${t("annualScore")}</th><th class="num">${t("playedMonths")}</th>
+        </tr></thead>
+        <tbody>${tableRows}</tbody>
+      </table>
+    </div>`;
+
+  app.querySelectorAll("[data-annual-g]").forEach((b) =>
+    b.addEventListener("click", () => { location.hash = `#/annual/${b.dataset.annualG}/${selected}`; }));
+  app.querySelectorAll("[data-annual-p]").forEach((b) =>
+    b.addEventListener("click", () => { location.hash = `#/annual/${gender}/${b.dataset.annualP}`; }));
 }
 
 // ---------------------------------------------------------------- player
@@ -769,6 +841,7 @@ function applyLang() {
   document.documentElement.lang = lang === "zh" ? "zh-CN" : "en";
   el("ui-title").textContent = t("title");
   el("nav-events").textContent = t("events");
+  el("nav-annual").textContent = t("annual");
   el("nav-rank").textContent = t("rankings");
   el("lang-toggle").textContent = lang === "zh" ? "EN" : "中文";
   si.placeholder = t("searchPh");

@@ -57,6 +57,15 @@ under `src/`; its explanatory markdown now lives in `docs/algorithm.md`.
   series ends with a final-rating point (so the chart endpoint matches the player's
   current/final rating, including retired players) and its meta carries that final
   rating as the last field.
+- `src/annual_export.jl` — display-layer annual/rolling-12-month aggregation of the
+  existing monthly rating series (no changes to the main rating algorithm). Calendar
+  years use January–December month-end ratings; the rolling view uses the current
+  rating plus the previous 11 month-end ratings. Players with no match in the window
+  are omitted; 1/2 played months subtract 200/100 rating points before the linear
+  display mapping 3000 → 90 and 3200 → 100 (clamped to 0–100). Sorting uses the
+  unclamped adjusted rating. Writes `annual-index.json` and top-200
+  `annual/MS|WS-YYYY.json` for complete calendar years only, plus
+  `annual/MS|WS-current.json`. Runs before `export_web_data` in `post_crawl.jl`.
 - `src/events_export.jl` — derives the Events web data from the raw ITTF dumps:
   incrementally parses `matches/matches_*.json` into a compact MS/WS-only cache
   (`data/singles_matches_cache.json`, gitignored), reconstructs single-elimination
@@ -125,10 +134,11 @@ under `src/`; its explanatory markdown now lives in `docs/algorithm.md`.
   `bench_pipeline.jl` (pipeline read/parse benchmark). `test_login.jl` is a live-network
   smoke test for the crawler login (not part of the offline suite).
 - `web/` — the static ranking site (zero-dependency vanilla JS: `index.html`, `app.js`,
-  `style.css`; hash routing `#/MS|WS/YYYY-MM`, `#/player/<id>`, `#/events`,
-  `#/event/<tid>`; EN/CN toggle; Typst color palette for hand/grip/style/age; month
-  timeline slider + big side prev/next buttons; "back to rankings" returns to the
-  source ranking via `sessionStorage`). The Events pages show every tournament's
+  `style.css`; hash routing `#/MS|WS/YYYY-MM`, `#/annual/MS|WS/YYYY|current`,
+  `#/player/<id>`, `#/events`, `#/event/<tid>`; EN/CN toggle; annual and rolling
+  12-month top-200 tables with the separate 0–100 annual score; Typst color palette
+  for hand/grip/style/age; month timeline slider + big side prev/next buttons;
+  "back to rankings" returns to the source ranking via `sessionStorage`). The Events pages show every tournament's
   MS/WS podium, the reconstructed main-draw bracket, and qualification results;
   bracket boxes and result tables carry each player's entering-the-event rating
   (and rank when in the monthly top 200, `pr` in the event bundles);
@@ -191,9 +201,10 @@ There is no build system and no formal test suite.
   `julia post_crawl.jl` from the repo root (`--skip-ranking` to only merge data).
 - Offline tests (no network): `julia testdata/test_list68.jl`,
   `julia testdata/test_list60_player.jl`, `julia testdata/test_extract.jl`,
-  `julia testdata/test_crawl_bootstrap.jl`, `julia testdata/test_events27.jl`.
-  These are plain `@assert` scripts that parse HTML fixtures from `testdata/`
-  and `docs/reference/`; a clean exit with no assertion error means pass.
+  `julia testdata/test_crawl_bootstrap.jl`, `julia testdata/test_events27.jl`,
+  `julia testdata/test_annual_export.jl`.
+  These are plain `@assert` scripts. The crawler tests parse HTML fixtures from
+  `testdata/` and `docs/reference/`; a clean exit with no assertion error means pass.
 - Compile a ranking PDF: `typst compile MS-latest.typ` (needs the flag PNGs in `data/flags/`
   and a font setup providing Cascadia Mono / Microsoft YaHei).
 - Preview the website locally: `python -m http.server 8000 -d web` → `http://localhost:8000`.

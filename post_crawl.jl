@@ -21,6 +21,7 @@ include(joinpath(@__DIR__, "src", "ittf_convert.jl"))
 include(joinpath(@__DIR__, "src", "rating.jl"))
 include(joinpath(@__DIR__, "src", "typst_output.jl"))
 include(joinpath(@__DIR__, "src", "web_export.jl"))
+include(joinpath(@__DIR__, "src", "annual_export.jl"))
 include(joinpath(@__DIR__, "src", "events_export.jl"))
 
 function main()
@@ -87,6 +88,7 @@ function main()
     end
 
     println("\n== Web data export ==")
+    export_annual_web_data(web_collector, events, players)
     export_web_data(web_collector, players, highest)
 
     println("\n== Events web export ==")
